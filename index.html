@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Daily, weekly and monthly AI news highlights: papers, inference engines, API changelogs, labs and industry.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>">
+<title>AI News Hub</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --ground:#eef1f4; --surface:#ffffff; --ink:#14212b; --muted:#56687a; --line:#d3dae2;
+  --signal:#0b6e8a; --signal-ink:#ffffff;
+  --tc:#0a7a3d; --aw:#8a4b0b; --mit:#a31f34; --ieee:#2456a6;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0f171e; --surface:#18232d; --ink:#e6edf3; --muted:#93a5b6; --line:#2a3945;
+    --signal:#4fc3df; --signal-ink:#06222b;
+    --tc:#5fd08f; --aw:#e6a85c; --mit:#f08a99; --ieee:#86b0f2;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0f171e; --surface:#18232d; --ink:#e6edf3; --muted:#93a5b6; --line:#2a3945;
+  --signal:#4fc3df; --signal-ink:#06222b;
+  --tc:#5fd08f; --aw:#e6a85c; --mit:#f08a99; --ieee:#86b0f2;
+}
+body{background:var(--ground);color:var(--ink);font-family:"IBM Plex Sans",system-ui,sans-serif;font-size:16px;line-height:1.5;padding-inline:16px;padding-block:40px}
+.wrap{max-width:1100px;margin:0 auto;display:flex;flex-direction:column;gap:24px}
+header{display:flex;flex-direction:column;gap:8px}
+h1{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:700;font-size:clamp(2rem,5vw,2.75rem);line-height:1.05;margin:0;letter-spacing:-0.02em}
+header p{margin:0;color:var(--muted);max-width:62ch}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace}
+.stamp{font-size:.78rem;color:var(--muted)}
+.filters{display:flex;flex-wrap:wrap;gap:8px}
+.filters button{font:500 .8rem "IBM Plex Mono",ui-monospace,monospace;color:var(--ink);background:transparent;border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer}
+.filters button span{opacity:.6;margin-left:4px}
+.filters button:hover{border-color:var(--signal)}
+.filters button[aria-pressed="true"]{background:var(--signal);border-color:var(--signal);color:var(--signal-ink)}
+.filters button:focus-visible,.tabs button:focus-visible,.tile a:focus-visible,.vote:focus-visible{outline:3px solid var(--signal);outline-offset:2px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.tile{display:flex;flex-direction:column;gap:10px;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:18px;text-decoration:none;color:inherit;transition:border-color .15s,transform .15s}
+.tile:hover{border-color:var(--signal)}
+.meta{display:flex;justify-content:space-between;gap:8px;font-size:.7rem;letter-spacing:.06em;text-transform:uppercase}
+.src{font-weight:500}
+.src{color:var(--signal)} .src.tc{color:var(--tc)} .src.aw{color:var(--aw)} .src.mit{color:var(--mit)} .src.ieee{color:var(--ieee)}
+.when{color:var(--muted);white-space:nowrap}
+h2{font-family:"Bricolage Grotesque",system-ui,sans-serif;font-weight:700;font-size:1.12rem;line-height:1.22;margin:0;text-wrap:balance}
+.sum{margin:0;color:var(--muted);font-size:.92rem;flex:1}
+.read{font-size:.75rem;color:var(--signal)}
+@media (prefers-reduced-motion: reduce){.tile{transition:none}a.tile:hover{transform:none}}
+.fb{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:.85rem;color:var(--muted)}
+.fb button{display:inline-flex;align-items:center;gap:6px;font:500 .85rem "IBM Plex Mono",ui-monospace,monospace;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 14px;cursor:pointer;font-variant-numeric:tabular-nums}
+.fb button:hover:not(:disabled){border-color:var(--signal)}
+.fb button:disabled{opacity:.5;cursor:not-allowed}
+.fb button[aria-pressed="true"]{background:var(--signal);border-color:var(--signal);color:var(--signal-ink)}
+.fb button:focus-visible{outline:3px solid var(--signal);outline-offset:2px}
+.fb svg{width:15px;height:15px;fill:currentColor}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line)}
+.tabs button{font:700 1rem "Bricolage Grotesque",system-ui,sans-serif;color:var(--muted);background:transparent;border:0;border-bottom:3px solid transparent;padding:10px 16px;margin-bottom:-1px;cursor:pointer}
+.tabs button:hover{color:var(--ink)}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--signal)}
+.scope{margin:0;color:var(--muted);font-size:.9rem;max-width:70ch}
+.tile h2 a{color:inherit;text-decoration:none}
+.tile h2 a:hover{text-decoration:underline;text-decoration-color:var(--signal)}
+.foot{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:10px}
+.badges{display:flex;gap:6px;flex-wrap:wrap;font-size:.66rem;letter-spacing:.06em;text-transform:uppercase}
+.badge{border:1px solid var(--line);border-radius:3px;padding:1px 6px;color:var(--muted)}
+.badge.top{border-color:var(--signal);color:var(--signal)}
+.votes{display:flex;gap:6px;margin-left:auto}
+.vote{display:inline-flex;align-items:center;gap:5px;font:500 .75rem "IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums;color:var(--ink);background:transparent;border:1px solid var(--line);border-radius:999px;padding:3px 10px;cursor:pointer}
+.vote svg{width:13px;height:13px;fill:currentColor}
+.vote:hover:not(:disabled){border-color:var(--signal)}
+.vote:disabled{opacity:.5;cursor:not-allowed}
+.vote[aria-pressed="true"]{background:var(--signal);border-color:var(--signal);color:var(--signal-ink)}
+.empty{grid-column:1/-1;color:var(--muted);padding:24px 0}
+#net{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none}
+body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;background:radial-gradient(900px 500px at 85% -10%,color-mix(in srgb,var(--signal) 22%,transparent),transparent 70%),radial-gradient(700px 500px at -10% 100%,color-mix(in srgb,var(--ieee) 16%,transparent),transparent 70%)}
+.wrap{position:relative;z-index:1}
+h1{background:linear-gradient(90deg,var(--ink) 30%,var(--signal));-webkit-background-clip:text;background-clip:text;color:transparent}
+.tile{box-shadow:0 1px 0 color-mix(in srgb,var(--signal) 10%,transparent)}
+.tile:hover{box-shadow:0 0 0 1px var(--signal),0 8px 28px color-mix(in srgb,var(--signal) 22%,transparent)}
+</style>
+</head>
+<body>
+
+
+<canvas id="net" aria-hidden="true"></canvas>
+<div class="wrap">
+  <header>
+    <h1>AI News Hub</h1>
+    <p>AI news from the engineering level up &mdash; papers, inference-engine work and API changelogs first, then labs, models and industry. Rate any story to push it into the weekly and monthly highlights.</p>
+    <span class="stamp mono" id="stamp">Loading the latest stories…</span>
+    <div class="fb" id="fb">
+      <span>Is this hub useful?</span>
+      <button id="fb-up" aria-pressed="false" aria-label="Like"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 21h4V9H2v12zm20-11a2 2 0 0 0-2-2h-6.3l1-4.6v-.3a1.5 1.5 0 0 0-.5-1L13.2 1 6.6 7.6A2 2 0 0 0 6 9v10c0 1.1.9 2 2 2h9a2 2 0 0 0 1.8-1.2l3-7c.1-.3.2-.5.2-.8v-2z"/></svg><span id="fb-upn">0</span></button>
+      <button id="fb-down" aria-pressed="false" aria-label="Dislike"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22 3h-4v12h4V3zM2 14a2 2 0 0 0 2 2h6.3l-1 4.6v.3c0 .4.2.8.5 1l1 1.1 6.6-6.6c.4-.4.6-.9.6-1.4V5a2 2 0 0 0-2-2H8a2 2 0 0 0-1.8 1.2l-3 7c-.1.3-.2.5-.2.8v2z"/></svg><span id="fb-downn">0</span></button>
+      <span id="fb-msg" role="status"></span>
+    </div>
+  </header>
+
+  <div class="tabs" role="tablist" aria-label="Time range">
+    <button role="tab" id="tab-day" data-tab="day" aria-selected="true">Daily</button>
+    <button role="tab" id="tab-week" data-tab="week" aria-selected="false">Weekly</button>
+    <button role="tab" id="tab-month" data-tab="month" aria-selected="false">Monthly</button>
+  </div>
+  <p class="scope" id="scope"></p>
+  <div class="filters" role="group" aria-label="Filter by topic" id="filters"></div>
+
+  <main class="grid" id="grid"></main>
+</div>
+
+<script src="config.js"></script>
+<script>
+
+const TOPICS=[["all","All"],["papers","Papers"],["engines","Inference engines"],["api","API changelogs"],["anthropic","Anthropic"],["palantir","Palantir"],["gemini","Gemini & Google"],["models","New models"],["impl","Implementations"],["eff","Efficiency & hardware"],["industry","Industry & policy"]];
+const UP='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 21h4V9H2v12zm20-11a2 2 0 0 0-2-2h-6.3l1-4.6v-.3a1.5 1.5 0 0 0-.5-1L13.2 1 6.6 7.6A2 2 0 0 0 6 9v10c0 1.1.9 2 2 2h9a2 2 0 0 0 1.8-1.2l3-7c.1-.3.2-.5.2-.8v-2z"/></svg>',DN='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M22 3h-4v12h4V3zM2 14a2 2 0 0 0 2 2h6.3l-1 4.6v.3c0 .4.2.8.5 1l1 1.1 6.6-6.6c.4-.4.6-.9.6-1.4V5a2 2 0 0 0-2-2H8a2 2 0 0 0-1.8 1.2l-3 7c-.1.3-.2.5-.2.8v2z"/></svg>';
+const grid=document.getElementById("grid"),bar=document.getElementById("filters"),scope=document.getElementById("scope");
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;");
+let A=[],DAY="1970-01-01";   // DAY = newest date in news.json
+const dayMs=d=>Date.parse(d+"T00:00:00Z");
+const fmt=d=>new Date(dayMs(d)).toLocaleDateString("en-US",{month:"short",day:"numeric",timeZone:"UTC"});
+const inWeek=a=>dayMs(DAY)-dayMs(a.d)<7*864e5, inMonth=a=>a.d.slice(0,7)===DAY.slice(0,7);
+let tab="day",topic="all",tally={},mine={},canVote=true;
+try{const t=localStorage.getItem("hub-tab");if(["day","week","month"].includes(t))tab=t;}catch(e){}
+const score=a=>{const t=tally[a.id]||{u:0,d:0};return t.u-t.d;};
+function pool(){
+  if(tab==="day")return A.filter(a=>a.d===DAY);
+  const inR=tab==="week"?inWeek:inMonth,pk=tab==="week"?"wp":"mp";
+  return A.filter(a=>inR(a)&&(a[pk]||score(a)>0)).sort((x,y)=>score(y)-score(x)||(y.d>x.d?1:y.d<x.d?-1:0));
+}
+function draw(){
+  const P=pool(),keep=document.activeElement&&document.activeElement.id;
+  scope.textContent=tab==="day"?`Everything published on ${fmt(DAY)}, the day of this snapshot.`
+    :tab==="week"?`The 7 days to ${fmt(DAY)}: editor's selects plus anything readers rated up, highest rated first.`
+    :`${new Date(dayMs(DAY)).toLocaleDateString("en-US",{month:"long",year:"numeric",timeZone:"UTC"})}: the month's top stories plus anything readers rated up, highest rated first.`;
+  bar.innerHTML=TOPICS.map(t=>{const n=t[0]==="all"?P.length:P.filter(a=>a.t===t[0]).length;
+    return n||t[0]==="all"?`<button id="f-${t[0]}" data-f="${t[0]}" aria-pressed="${t[0]===topic}">${t[1]} <span>${n}</span></button>`:"";}).join("");
+  const L=P.filter(a=>topic==="all"||a.t===topic);
+  grid.innerHTML=L.length?L.map(a=>{const t=tally[a.id]||{u:0,d:0},pk=tab==="week"?a.wp:tab==="month"?a.mp:false;
+    return `<article class="tile"><div class="meta mono"><span class="src ${a.c}">${esc(a.src)}</span><span class="when">${fmt(a.d)}</span></div>
+      <h2><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></h2><p class="sum">${esc(a.sum)}</p>
+      <div class="foot"><div class="badges mono">${pk?'<span class="badge">Select</span>':""}${tab!=="day"&&score(a)>0?'<span class="badge top">Top rated</span>':""}</div>
+      <div class="votes"><button class="vote" id="u-${a.id}" data-id="${a.id}" data-v="up" aria-label="Like" aria-pressed="${mine[a.id]==="up"}" ${canVote?"":"disabled"}>${UP}${t.u}</button>
+      <button class="vote" id="d-${a.id}" data-id="${a.id}" data-v="down" aria-label="Dislike" aria-pressed="${mine[a.id]==="down"}" ${canVote?"":"disabled"}>${DN}${t.d}</button></div></div></article>`;}).join("")
+    :`<p class="empty">Nothing here yet for this topic.</p>`;
+  document.querySelectorAll(".tabs button").forEach(b=>b.setAttribute("aria-selected",b.dataset.tab===tab));
+  if(keep){const el=document.getElementById(keep);if(el)el.focus();}
+}
+document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>{tab=b.dataset.tab;topic="all";try{localStorage.setItem("hub-tab",tab);}catch(e){}draw();}));
+bar.addEventListener("click",e=>{const b=e.target.closest("button");if(b){topic=b.dataset.f;draw();}});
+
+/* ---------- votes ----------
+   With SUPABASE_URL + SUPABASE_KEY set in config.js, votes are shared by all visitors.
+   Without them, votes are kept in this browser only (so the site still works on day one). */
+const CFG=window.HUB_CONFIG||{},REMOTE=!!(CFG.SUPABASE_URL&&CFG.SUPABASE_KEY),HUB="__hub__";
+const ls={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d;}catch(e){return d;}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
+let voter=ls.get("hub-voter",null);
+if(!voter){voter=(crypto.randomUUID?crypto.randomUUID():String(Math.random()).slice(2)+Date.now());ls.set("hub-voter",voter);}
+mine=ls.get("hub-votes",{});
+const sb=(path,opt={})=>fetch(CFG.SUPABASE_URL+"/rest/v1/"+path,Object.assign({},opt,{headers:Object.assign({apikey:CFG.SUPABASE_KEY,Authorization:"Bearer "+CFG.SUPABASE_KEY,"Content-Type":"application/json"},opt.headers||{})})).then(r=>{if(!r.ok)throw new Error(r.status);return r.status===204?null:r.json().catch(()=>null);});
+const msg=document.getElementById("fb-msg");
+async function loadTally(){
+  if(REMOTE){try{const rows=await sb("vote_counts?select=item_id,up,down");tally={};rows.forEach(r=>tally[r.item_id]={u:r.up,d:r.down});}
+    catch(e){msg.textContent="Couldn't load vote counts right now.";}}
+  else{tally={};for(const k in mine)tally[k]={u:mine[k]==="up"?1:0,d:mine[k]==="down"?1:0};}
+  paintHub();draw();
+}
+function paintHub(){const t=tally[HUB]||{u:0,d:0};
+  document.getElementById("fb-upn").textContent=t.u;document.getElementById("fb-downn").textContent=t.d;
+  document.getElementById("fb-up").setAttribute("aria-pressed",mine[HUB]==="up");document.getElementById("fb-down").setAttribute("aria-pressed",mine[HUB]==="down");}
+let busy=false;
+async function vote(id,v){
+  if(busy)return;busy=true;msg.textContent="";
+  const prev=mine[id],next=prev===v?null:v,t=tally[id]||(tally[id]={u:0,d:0});
+  // show the change straight away, undo it if saving fails
+  const apply=(from,to)=>{if(from==="up")t.u--;if(from==="down")t.d--;if(to==="up")t.u++;if(to==="down")t.d++;if(to)mine[id]=to;else delete mine[id];};
+  apply(prev,next);paintHub();draw();
+  try{
+    if(REMOTE){
+      if(next)await sb("votes?on_conflict=item_id,voter_id",{method:"POST",headers:{Prefer:"resolution=merge-duplicates,return=minimal"},body:JSON.stringify({item_id:id,voter_id:voter,v:next})});
+      else await sb(`votes?item_id=eq.${encodeURIComponent(id)}&voter_id=eq.${encodeURIComponent(voter)}`,{method:"DELETE",headers:{Prefer:"return=minimal"}});
+    }
+    ls.set("hub-votes",mine);
+  }catch(e){apply(next,prev);paintHub();draw();msg.textContent="Couldn't save your vote. Try again in a moment.";}
+  busy=false;
+}
+grid.addEventListener("click",e=>{const b=e.target.closest(".vote");if(b)vote(b.dataset.id,b.dataset.v);});
+document.getElementById("fb-up").addEventListener("click",()=>vote(HUB,"up"));
+document.getElementById("fb-down").addEventListener("click",()=>vote(HUB,"down"));
+
+/* ---------- load the stories ---------- */
+fetch("news.json?"+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json();}).then(j=>{
+  A=j.items||[];DAY=A.reduce((m,a)=>a.d>m?a.d:m,"1970-01-01");
+  document.getElementById("stamp").textContent="Updated "+new Date(j.updated).toLocaleString("en-US",{weekday:"short",month:"short",day:"numeric",year:"numeric",hour:"numeric",minute:"2-digit"});
+  loadTally();
+}).catch(()=>{document.getElementById("stamp").textContent="Couldn't load news.json. Refresh the page to try again.";});
+// neural-network backdrop: drifting nodes, links between near neighbours, pulses travelling along links
+(()=>{
+  const c=document.getElementById("net"),x=c.getContext("2d");if(!x)return;
+  const still=matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let W,H,N=[],P=[],col="#0b6e8a",raf;
+  const readCol=()=>{col=getComputedStyle(document.documentElement).getPropertyValue("--signal").trim()||col;};
+  function size(){const r=Math.min(devicePixelRatio||1,2);W=innerWidth;H=innerHeight;c.width=W*r;c.height=H*r;x.setTransform(r,0,0,r,0,0);
+    const n=Math.max(24,Math.min(80,Math.round(W*H/22000)));
+    N=Array.from({length:n},()=>({x:Math.random()*W,y:Math.random()*H,vx:(Math.random()-.5)*.25,vy:(Math.random()-.5)*.25,r:1+Math.random()*1.8}));P=[];}
+  function frame(){
+    x.clearRect(0,0,W,H);const R=150;
+    for(const a of N){a.x+=a.vx;a.y+=a.vy;if(a.x<0||a.x>W)a.vx*=-1;if(a.y<0||a.y>H)a.vy*=-1;}
+    x.strokeStyle=col;x.fillStyle=col;x.lineWidth=1;
+    for(let i=0;i<N.length;i++)for(let j=i+1;j<N.length;j++){const a=N[i],b=N[j],d=Math.hypot(a.x-b.x,a.y-b.y);
+      if(d<R){x.globalAlpha=(1-d/R)*.22;x.beginPath();x.moveTo(a.x,a.y);x.lineTo(b.x,b.y);x.stroke();
+        if(!still&&P.length<14&&Math.random()<.0009)P.push({a,b,t:0});}}
+    x.globalAlpha=.45;for(const a of N){x.beginPath();x.arc(a.x,a.y,a.r,0,6.283);x.fill();}
+    x.globalAlpha=.9;P=P.filter(p=>(p.t+=.012)<1);
+    for(const p of P){x.beginPath();x.arc(p.a.x+(p.b.x-p.a.x)*p.t,p.a.y+(p.b.y-p.a.y)*p.t,2.2,0,6.283);x.fill();}
+    x.globalAlpha=1;if(!still)raf=requestAnimationFrame(frame);
+  }
+  readCol();size();frame();
+  addEventListener("resize",()=>{size();if(still)frame();});
+  document.addEventListener("visibilitychange",()=>{if(still)return;cancelAnimationFrame(raf);if(!document.hidden)raf=requestAnimationFrame(frame);});
+  const themed=()=>{readCol();if(still)frame();};
+  new MutationObserver(themed).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change",themed);
+})();
+</script>
+</body>
+</html>
