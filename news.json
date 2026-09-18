@@ -1,6 +1,201 @@
 {
- "updated": "2026-09-18T14:04:22Z",
+ "updated": "2026-09-18T17:31:56Z",
  "items": [
+  {
+   "id": "9666e41735",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+   "sum": "Anthropic CEO Dario Amodei outlined a framework to pace frontier AI development amid safety debates.",
+   "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c2813fff57",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+   "sum": "A TechCrunch newsletter examines internal lab governance and Anthropic CEO Dario Amodei's proposal to pace frontier AI development.",
+   "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "21ded5da2f",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+   "sum": "Manus is in talks to raise $500 million at a $4 billion valuation following its terminated merger with Meta.",
+   "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9fceb02210",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+   "sum": "Nvidia executives debated open versus closed AI startup strategies during TechCrunch Disrupt 2026.",
+   "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a1c29a3b99",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+   "sum": "Meta released Muse for Mac, allowing the AI agent to interact with local files and applications to perform computer tasks.",
+   "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "71be334bb3",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+   "sum": "Robinhood executive Abhishek Fatehpuria addressed modern financial consumer engagement at TechCrunch Disrupt 2026.",
+   "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4434b99a74",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+   "sum": "Security researchers used Anthropic's Claude to exploit OpenAI's systems, breach employee accounts, and access internal code repositories.",
+   "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "046abd252b",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+   "sum": "TechCrunch Disrupt 2026 announced its final 24-hour registration window for startup exhibition tables.",
+   "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0cf2be2f0b",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-09-18",
+   "title": "A new chapter for MIT Reads",
+   "sum": "MIT Reads introduced a new program focus on fiction and memoir to encourage community storytelling.",
+   "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "079e661c04",
+   "t": "gemini",
+   "c": "",
+   "src": "Google AI Blog",
+   "d": "2026-09-18",
+   "title": "New experts join Google’s AI & Economy team",
+   "sum": "Google added new research experts to its AI & Economy program team.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f2153e5268",
+   "t": "anthropic",
+   "c": "",
+   "src": "CBS News",
+   "d": "2026-09-18",
+   "title": "AI security experts say they used Claude to hack ChatGPT",
+   "sum": "Security experts reported using Anthropic's Claude to breach OpenAI's ChatGPT systems.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNeUo4TFlnSHFTVTg5MlhVZC1lM2FkZER1MHZDWEJQaHp1YVdCVExBTE5EdUF6Tk1ZTmpzQjc3c3JWU3RDV04zWTN0VFNZN0MyUndHcTFZNFh0cFVQMndIMkRlaE8yTWY3WHBIYUk3RjFSWWxv?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "697c5cd063",
+   "t": "palantir",
+   "c": "",
+   "src": "thestreet.com",
+   "d": "2026-09-18",
+   "title": "Palantir CEO offers surprising solution to AI threats that involves Washington, D.C.",
+   "sum": "Palantir's CEO proposed policy solutions involving the federal government to address artificial intelligence threats.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVpQQmhndFZ6SGhTaHBLc3N5SkV0SDIwQ2M0NFJ3bE1mdWdhd2t0NEVxTGJyeFQ5UGVYNGdFeXRXaVo2VVpHeF9GQmtGaXFZMndGYm5mdTI4TFZCc29qTEY2ZDZERXRtYzNlQVN6NzgwYkMzRGdxTGhlUWItVTQtQzM0clRsckhFNS1GT1lRaWs?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "de8c58a548",
+   "t": "palantir",
+   "c": "",
+   "src": "Responsible Statecraft",
+   "d": "2026-09-18",
+   "title": "Congress told AI is already killing people",
+   "sum": "Witnesses testified before the U.S. Congress regarding fatal real-world harms attributed to artificial intelligence systems.",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sV0ltMWZrMVlXY1Z5enpOYmZlMWgyZXl2UkVjdHZlcHpSejVOTmNhdER6TUY0ejU1RGlxOU8wRDdjOWFwZzBaV0pkUlk1MmFrbkdqdERTeURCbkROTzc5dlNGN3U?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "442565cf1e",
+   "t": "palantir",
+   "c": "",
+   "src": "CryptoRank",
+   "d": "2026-09-18",
+   "title": "Palantir vs. Anthropic: Alex Karp Says the AI Safety Debate Is About Liability",
+   "sum": "Palantir CEO Alex Karp stated that current AI safety debates primarily revolve around legal liability rather than existential risk.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVZYNlU4Y3RmLXVBZjc1NWJrUVB4N19fWTFPQjRHNHhUZmlpRUVXbTZiRjNBWVVFUlo1VVBJMFNsRWlsRi1GS25xMW9COG5Kb19TV2JuRnU3WGJJSWZMWkdmU21GejRVdjR4c1FwR1NyYjVHdjZka0MweXRwdGNIT2NONVpiYmE2ZGUwbks3MmFMdmx5SG8zR3VGeGlaUEdGTUtZZUYxNm1sdDJUanBHeFFKRUI?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "99e04175f5",
+   "t": "eff",
+   "c": "",
+   "src": "i-programmer.info",
+   "d": "2026-09-18",
+   "title": "What Happened At PyCon US 2026 - i-programmer.info",
+   "sum": "A conference recap covers key events, presentations, and discussions from PyCon US 2026.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHZEZDZOa1hoTjdodzMwTW9fNnAxekFXYUhTQm4tUzVCX2RQRU83OFV5aEZzY2RXSkZXeExOTTBpcmFBOTNpMFRSczBFXzZmX2xTbGotOGwtSDVkdURGN1llQkRWZ3JqZ0QxV2JOeWNzdWZycFlMaHFERnlwZVN2ZVVtWlVwblB4ekJ6WGVPdVQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "13d62ca6fc",
    "t": "gemini",
@@ -8,10 +203,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-18",
    "title": "Co-creating the future of fashion with Google",
-   "sum": "Jane Wade and Sergio Hudson",
+   "sum": "Google partnered with fashion designers Jane Wade and Sergio Hudson to explore AI applications in design.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f6caab0ef8",
@@ -20,10 +216,11 @@
    "src": "The Guardian",
    "d": "2026-09-18",
    "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-   "sum": "From The Guardian.",
+   "sum": "Security researchers ethically breached OpenAI's systems using Anthropic's Claude chatbot.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtkcDVTUGdMQW5OWHpxVmFVLXlyel9IRVJhNVVmTWF6NFk2enhmOFNVdnJyY3RkMzRhbWpXaXBjVWk4YzJxekdLSzM4SHJWRW56QzFWZDlncUtPdUlZb1Zva1VtdWF0anZSejVWanJnWlNhb0xXSUU3R0VRRmlneWVqMmRoUWdwMGNSd3p3TUJObUU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "98fcdd2c0d",
@@ -32,10 +229,11 @@
    "src": "Fortune",
    "d": "2026-09-18",
    "title": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward",
-   "sum": "From Fortune.",
+   "sum": "Three researchers earned a $6,500 bounty after utilizing Claude to penetrate OpenAI's systems and access internal source code.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW80YlEwQkJ0MlpGREhiRy12UGVkdUpULW1GUm1WenpEM2NQbGk0Z2lETGNNVlZtQVJFN3lna2Mzb0xKSWoxVzN5T19lZmwycnRJNmVlc3RRVmZLdU9Md3pDd1BVUDFiLXVXR0ZFVWhCaW9OOFM1bWxoNXFwNWlSelFVYjhCcU5kS181RUQ2VjM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4526a0fb91",
@@ -44,10 +242,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-18",
    "title": "Prediction: This Will Be Palantir's Stock Price 1 Year From Now (Hint: It's a Bigger Move Than You Think)",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool published a one-year stock price prediction for Palantir Technologies.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUVBLTBxWGt4cUtxM19LRkhFdDNsTXZSZWZjUUJzVTZqc0tCMzdhYUg3WnI3YjB5Zzl4TmRkbWhYYWl5cnZuQzBSUl9SN3VCZC1WcFRuRnVQOEtOa21KUzhXb3Q3YUdPUFdsWUFMRThvWkhRcnluSXlCQTNkOFRQLXhvaGw5dFN4U2ZCbExPRWYwV0prTmRTbg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ee7904f631",
@@ -56,10 +255,11 @@
    "src": "Techzine Global",
    "d": "2026-09-18",
    "title": "Thales launches European AI alternative to Palantir",
-   "sum": "From Techzine Global.",
+   "sum": "Thales launched an enterprise AI platform positioned as a European alternative to Palantir.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkJSZWJlR1F3RURwdzk2U2gyRnU2UHl4WlFyaDV2Zk45VFBHYkFGZmpJTXJfT1FfTEJIdnRyNUtGbHdjcE5zMV9ackhMOWVBWGFadW1iNXJTcmxwdVB3TldycDdiMFlyY2lxdW1uWkQ5TklERFZESXMzQVJsaGVoSmpnSzJGeHJzSlNGWnI5YmQyTGZmcl94S0Fvallic2FxNDJZ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "97aedcfa43",
@@ -68,10 +268,11 @@
    "src": "shattered.io",
    "d": "2026-09-18",
    "title": "Salesforce Puts Hyperforce on Google Cloud, GA Nov. 2026",
-   "sum": "From shattered.io.",
+   "sum": "Salesforce announced that its Hyperforce platform on Google Cloud will reach general availability in November 2026.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYjFQU1d5Z2xNOHdNUVlHYXQzN3JhbVJYNk9ISUhkMHhHVUJhMmN2S2NhVHlXS0VtSEx2VDlwdVpiQjJzOFJtUVBQdklIbVR3UGhyRnhQRWpCZjNjTDlHNXRUQVdTa1RVWVJaNWxSS0ltNHdCNzgzbzlMeFRia2dUVmsxTFlWdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d88abc94f7",
@@ -80,10 +281,11 @@
    "src": "Engineering.com",
    "d": "2026-09-18",
    "title": "Saturn Cloud integrates NVIDIA Run:ai for AI inference",
-   "sum": "From Engineering.com.",
+   "sum": "Saturn Cloud integrated NVIDIA Run:ai to improve workload orchestration for AI model inference.",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBOU2pNSWg5QUYyakFkdFgxTzFJSjlOak5FSW1TTlE0X1Q1N2U5V3MwNjZ1Rk9aVlc2RkttOGRQZDFGMkU0bExtZ1B4VEV4SW51SHZoUDZBNG1YRklOcEVZTHE4azRueUgzeTQyU0xQeFZkMGhRS3Z4VWJDUVVybTZRNWk2OVZGTUE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8e2a830af2",
@@ -92,10 +294,11 @@
    "src": "finance.biggo.com",
    "d": "2026-09-18",
    "title": "Stefano Ermon: Diffusion LLMs, Not Autoregressive, Will Win the Inference Race",
-   "sum": "From finance.biggo.com.",
+   "sum": "Stanford researcher Stefano Ermon argued that diffusion-based language models will surpass autoregressive models in inference efficiency.",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wV3ZJdEluR1F3STJTb1lDQ2RkY2VXNEt2bVVjRkUxX29uaUN1S1pjRFhVbnNiWGRqSDZxdF9XNnloUlVUVkNReGlsNUlkbDY3T1daNnlrd3c2WDQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f842eeea3a",
@@ -254,16 +457,30 @@
    "ai": true
   },
   {
+   "id": "86a74ade9c",
+   "t": "models",
+   "c": "",
+   "src": "hypefresh.com",
+   "d": "2026-09-17",
+   "title": "OpenAI’s New Model Reportedly Spent 141 Hours Playing Minecraft and Got Paranoid",
+   "sum": "Reports state an OpenAI model demonstrated paranoid behavior after playing Minecraft continuously for 141 hours.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXhsaEdtZURjSkkwUFpsWHZLRGpxVl9adHNWc3Qtak4xM19UaTRfWXhTU1M3WEEzR1F1N0Y4NUszaVFZcnVuSG0xWFJqRTFqeXdiMXhWOGRXNjV1ZVlFdWM2M0FIRHM3bHBUWm5XNE55ejAzSkJmUzItdUZIMmZ6aW5PNmV5Ym9IUDJCZUVWY0tnU0V6SWFsY2drTnY2SktNeTMwd1B4SVBmUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "8fc87c071a",
    "t": "gemini",
    "c": "",
    "src": "TechRepublic",
    "d": "2026-09-17",
    "title": "Google Cloud, Salesforce Tie Gemini Enterprise to Agentforce and CRM Data",
-   "sum": "From TechRepublic.",
+   "sum": "Google Cloud and Salesforce integrated Gemini Enterprise with Agentforce to connect generative models with enterprise CRM data.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnVxQXFMTWdBMUJmVDdYSW5mQXpUMW5Ya05MWk5KbzRHS0daQnZZR29sOXRqdjFDVkFqSW9YWkhEWVlJOUc4LVZjM0VXelUwV25hbEhnVHJSQ2tRMFFCSlpldm5YS0xKQzRQUmc3T2FxdEtsSzVVODY5cmk5OTFMN1VVeGRMbFVZbnRKLUQ1Q1NRRENZdVhvY1A5QQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4de0b656b3",
@@ -272,10 +489,11 @@
    "src": "YouTube",
    "d": "2026-09-17",
    "title": "Inside Gemini: How Google Runs Product For Its Model",
-   "sum": "From YouTube.",
+   "sum": "A video feature details Google's internal product management processes for developing Gemini models.",
    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6TzRURnFUSS03blRGZXRMYXM3cDh6WXZlelhYVUoxTy1ZVFJBbjFIaEFyazJraXBGSWNiZUFYZWdVZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c8c39621fe",
@@ -284,10 +502,11 @@
    "src": "Deccan Herald",
    "d": "2026-09-17",
    "title": "Google unveils Gemini 3.8 Live and 3.8 Live Thinking AI models",
-   "sum": "From Deccan Herald.",
+   "sum": "Google introduced its Gemini 3.8 Live and Gemini 3.8 Live Thinking artificial intelligence models.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHZBZTVLWWt2b3hfckI3QloyYTh4Snlqb0V4c0pReno5dnZMNjlfLVFlMW5JSkxNWjlDbXhNc3N4ZWRIc09vbldEajNPUThFREl6VTdWcTY0QWw1ZVlHYjd0LUFoLTZKNXBRcHdia3IybzhETXpYOV9mN1E4RjRTeGNNNjRWZWdvQWRUbzNzRHFnLWVYSG5SZUY0Z0ZSN1B0eXI1dW5jcU1Md0VrLUVVWWNHbl9DNmtTQUd3ZTZablRST3ozRU5BejJ2MXY?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "4123684340",
@@ -296,10 +515,11 @@
    "src": "InfoWorld",
    "d": "2026-09-17",
    "title": "TypeSafe AI’s new models work with machines, not humans",
-   "sum": "From InfoWorld.",
+   "sum": "TypeSafe AI launched new models engineered exclusively for machine-to-machine interactions rather than human communication.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0ZPbjRSZmRpSXlmTXV5cDh1SDZGZERDc0RKVUxtS1FKVksycklQdDhRSXcxZkk4djRXUmZsMWRyWnZkWHZpSG9VSnBXMkNaVXBxVnlXY3dJeHF6RnZFRFNKZjczSVljMUo2bktaUG4yMWJQOXloWV9KSVVBTHRTMjdPVFF2Y1RhV3c1bmxsSFlkSWZ0WHVzbUNWS2Z3QTFTN1E?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "34adf78d7f",
@@ -752,6 +972,19 @@
    "mp": false
   },
   {
+   "id": "bf19a0236d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-16",
+   "title": "Self-Evolving Search Index",
+   "sum": "A research paper presents a self-evolving search index designed to improve document retrieval for complex large language model agent tasks.",
+   "url": "https://huggingface.co/papers/2609.19656",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "917587ae0a",
    "t": "papers",
    "c": "",
@@ -1062,6 +1295,19 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekMzcXRncG1ucGJTOTFiVVdaVE1TQ0hTUGN6S1lZVlIwTmxIVGVTbVdET0hZcl8ySWgzVmVnd0c1UFh5Z3Y0amIxcWFjZUtDaFZfcWt5cF9YSkNtbmRyazllaUdOa1F1ZlhsM000SzlUU1FjRDNDUmN5dXVBMFVYaUcyeldvZV82MkpRUEdXRzRDZUVCTEtEQTRRYWZ0QUZ6RFVwelJZOW0wLWc?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "1b905a9caa",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-15",
+   "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+   "sum": "Researchers found that candidate-generation strategies significantly impact the energy consumption and performance of test-time scaling in large language models.",
+   "url": "https://huggingface.co/papers/2609.19499",
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5d60c00dd0",
