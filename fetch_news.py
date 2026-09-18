@@ -90,7 +90,7 @@ def hf_papers():
 # Model names change often: if a provider retires one, set AI_MODEL to a current id (comma-separated = tried in order).
 PROVIDERS = {
     # GitHub Models was retired on 30 July 2026, so a free key from one of these is needed:
-    "gemini":     ("https://generativelanguage.googleapis.com/v1beta/openai", "AI_API_KEY", "gemini-flash-latest,gemini-2.5-flash"),
+    "gemini":     ("https://generativelanguage.googleapis.com/v1beta/openai", "AI_API_KEY", "gemini-flash-latest,gemini-3.8-flash,gemini-3.7-flash"),
     "groq":       ("https://api.groq.com/openai/v1", "AI_API_KEY", "llama-3.3-70b-versatile"),
     "openrouter": ("https://openrouter.ai/api/v1", "AI_API_KEY", "openrouter/free,meta-llama/llama-3.3-70b-instruct:free"),
     "cerebras":   ("https://api.cerebras.ai/v1", "AI_API_KEY", "llama-3.3-70b"),
@@ -136,7 +136,7 @@ def ask_ai(prompt):
 def ai_pass(new):
     """Optional: one AI call writes summaries and chooses selects for today's new stories."""
     if not new: return False
-    new = new[:60]                                             # keeps the prompt inside free-tier size limits
+    new = new[:30]                                             # small batches keep free tiers happy
     listing = "\n".join(f'{i}. [{a["src"]}] {a["title"]} :: {a["sum"]}' for i, a in enumerate(new))
     prompt = ("You edit a technical AI news hub. For each numbered story write one plain, specific sentence (max 25 words, "
               "no hype, do not invent facts beyond the title and excerpt). Then choose selects: `week` = the ~6 most important "
@@ -179,7 +179,7 @@ def main():
         known |= {a["id"], a["title"].lower()}; new.append(a)
     # also catch up on recent stories that never got an AI summary (e.g. from runs before the key was added)
     backlog = [a for a in old if not a.get("ai") and a["d"] >= (dt.date.today() - dt.timedelta(days=7)).isoformat()]
-    if not ai_pass(new + backlog): rule_selects(new)
+    if not ai_pass(new + backlog[:max(0, 30 - len(new))]): rule_selects(new)
     for a in new:
         if not a["sum"]: a["sum"] = f'From {a["src"]}.'
     items = sorted([a for a in new + old if a["d"] >= cutoff], key=lambda a: a["d"], reverse=True)
