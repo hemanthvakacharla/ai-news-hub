@@ -1,0 +1,30 @@
+name: Update news
+on:
+  schedule:
+    - cron: "0 12 * * *"      # every day at 12:00 UTC = 7 AM Central (6 AM in winter)
+  workflow_dispatch:           # adds a "Run workflow" button for manual refreshes
+permissions:
+  contents: write
+  models: read              # lets the run use GitHub Models (free AI) with its own token
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python fetch_news.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}       # automatic, nothing to set up
+          AI_PROVIDER: ${{ vars.AI_PROVIDER }}            # empty = github; or gemini / groq / openrouter / cerebras / mistral / none
+          AI_MODEL: ${{ vars.AI_MODEL }}                  # optional override
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}           # only for providers other than github
+      - name: Commit new stories
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "Update news $(date -u +%F)"
+          git push
