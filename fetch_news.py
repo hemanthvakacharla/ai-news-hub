@@ -2,7 +2,7 @@
 """Pull the latest AI news into news.json. Run daily by .github/workflows/update.yml.
 
 An AI model on a FREE tier writes the one-line summaries and picks the weekly/monthly selects
-(default: GitHub Models, no signup). If no AI is reachable it falls back to each feed's own excerpt.
+(default: Google Gemini via a free AI Studio key). If no AI is reachable it falls back to each feed's own excerpt.
 """
 import datetime as dt, hashlib, html, json, os, re, sys, time
 import feedparser, requests
@@ -89,8 +89,7 @@ def hf_papers():
 # Free AI tiers. All speak the same "OpenAI-compatible" chat API, so switching is one setting (AI_PROVIDER).
 # Model names change often: if a provider retires one, set AI_MODEL to a current id (comma-separated = tried in order).
 PROVIDERS = {
-    # No signup: uses the token GitHub gives every workflow run (needs `models: read` in update.yml).
-    "github":     ("https://models.github.ai/inference", "GITHUB_TOKEN", "openai/gpt-4.1-mini,openai/gpt-4o-mini,meta/llama-3.3-70b-instruct"),
+    # GitHub Models was retired on 30 July 2026, so a free key from one of these is needed:
     "gemini":     ("https://generativelanguage.googleapis.com/v1beta/openai", "AI_API_KEY", "gemini-flash-latest,gemini-2.5-flash"),
     "groq":       ("https://api.groq.com/openai/v1", "AI_API_KEY", "llama-3.3-70b-versatile"),
     "openrouter": ("https://openrouter.ai/api/v1", "AI_API_KEY", "openrouter/free,meta-llama/llama-3.3-70b-instruct:free"),
@@ -100,7 +99,7 @@ PROVIDERS = {
 
 def ask_ai(prompt):
     """Return the model's text reply, or None if no provider is set up / every model failed."""
-    name = (os.environ.get("AI_PROVIDER") or "github").strip().lower()
+    name = (os.environ.get("AI_PROVIDER") or "gemini").strip().lower()
     if name == "none": return None
     if name == "anthropic":                                    # paid, kept for anyone who prefers it
         key = os.environ.get("AI_API_KEY") or os.environ.get("ANTHROPIC_API_KEY")
