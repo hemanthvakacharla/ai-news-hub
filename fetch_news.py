@@ -120,13 +120,17 @@ def ask_ai(prompt):
     if not key:
         print(f"AI: no {key_env} set, using feed excerpts", file=sys.stderr); return None
     for model in (os.environ.get("AI_MODEL") or models).split(","):
-        try:
-            r = requests.post(base.rstrip("/") + "/chat/completions", timeout=120,
-                              headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"},
-                              json={"model": model.strip(), "temperature": 0.2, "messages": [{"role": "user", "content": prompt}]})
-            r.raise_for_status()
-            print(f"AI: used {name}/{model.strip()}"); return r.json()["choices"][0]["message"]["content"]
-        except Exception as e: print(f"AI: {model} failed ({e})", file=sys.stderr)
+        for attempt in (1, 2, 3):                          # free tiers return 429/503 when busy: wait and retry
+            try:
+                r = requests.post(base.rstrip("/") + "/chat/completions", timeout=120,
+                                  headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"},
+                                  json={"model": model.strip(), "temperature": 0.2, "messages": [{"role": "user", "content": prompt}]})
+                if r.status_code in (429, 500, 502, 503, 504) and attempt < 3:
+                    print(f"AI: {model} busy ({r.status_code}), retrying in {30*attempt}s", file=sys.stderr); time.sleep(30 * attempt); continue
+                r.raise_for_status()
+                print(f"AI: used {name}/{model.strip()}"); return r.json()["choices"][0]["message"]["content"]
+            except Exception as e:
+                print(f"AI: {model} failed ({e})", file=sys.stderr); break
     return None
 
 def ai_pass(new):
