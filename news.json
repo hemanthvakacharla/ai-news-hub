@@ -1,6 +1,102 @@
 {
- "updated": "2026-09-18T07:00:12Z",
+ "updated": "2026-09-18T14:04:22Z",
  "items": [
+  {
+   "id": "13d62ca6fc",
+   "t": "gemini",
+   "c": "",
+   "src": "Google AI Blog",
+   "d": "2026-09-18",
+   "title": "Co-creating the future of fashion with Google",
+   "sum": "Jane Wade and Sergio Hudson",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f6caab0ef8",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Guardian",
+   "d": "2026-09-18",
+   "title": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+   "sum": "From The Guardian.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtkcDVTUGdMQW5OWHpxVmFVLXlyel9IRVJhNVVmTWF6NFk2enhmOFNVdnJyY3RkMzRhbWpXaXBjVWk4YzJxekdLSzM4SHJWRW56QzFWZDlncUtPdUlZb1Zva1VtdWF0anZSejVWanJnWlNhb0xXSUU3R0VRRmlneWVqMmRoUWdwMGNSd3p3TUJObUU?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "98fcdd2c0d",
+   "t": "anthropic",
+   "c": "",
+   "src": "Fortune",
+   "d": "2026-09-18",
+   "title": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward",
+   "sum": "From Fortune.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW80YlEwQkJ0MlpGREhiRy12UGVkdUpULW1GUm1WenpEM2NQbGk0Z2lETGNNVlZtQVJFN3lna2Mzb0xKSWoxVzN5T19lZmwycnRJNmVlc3RRVmZLdU9Md3pDd1BVUDFiLXVXR0ZFVWhCaW9OOFM1bWxoNXFwNWlSelFVYjhCcU5kS181RUQ2VjM?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4526a0fb91",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-09-18",
+   "title": "Prediction: This Will Be Palantir's Stock Price 1 Year From Now (Hint: It's a Bigger Move Than You Think)",
+   "sum": "From The Motley Fool.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUVBLTBxWGt4cUtxM19LRkhFdDNsTXZSZWZjUUJzVTZqc0tCMzdhYUg3WnI3YjB5Zzl4TmRkbWhYYWl5cnZuQzBSUl9SN3VCZC1WcFRuRnVQOEtOa21KUzhXb3Q3YUdPUFdsWUFMRThvWkhRcnluSXlCQTNkOFRQLXhvaGw5dFN4U2ZCbExPRWYwV0prTmRTbg?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ee7904f631",
+   "t": "palantir",
+   "c": "",
+   "src": "Techzine Global",
+   "d": "2026-09-18",
+   "title": "Thales launches European AI alternative to Palantir",
+   "sum": "From Techzine Global.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkJSZWJlR1F3RURwdzk2U2gyRnU2UHl4WlFyaDV2Zk45VFBHYkFGZmpJTXJfT1FfTEJIdnRyNUtGbHdjcE5zMV9ackhMOWVBWGFadW1iNXJTcmxwdVB3TldycDdiMFlyY2lxdW1uWkQ5TklERFZESXMzQVJsaGVoSmpnSzJGeHJzSlNGWnI5YmQyTGZmcl94S0Fvallic2FxNDJZ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "97aedcfa43",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-09-18",
+   "title": "Salesforce Puts Hyperforce on Google Cloud, GA Nov. 2026",
+   "sum": "From shattered.io.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYjFQU1d5Z2xNOHdNUVlHYXQzN3JhbVJYNk9ISUhkMHhHVUJhMmN2S2NhVHlXS0VtSEx2VDlwdVpiQjJzOFJtUVBQdklIbVR3UGhyRnhQRWpCZjNjTDlHNXRUQVdTa1RVWVJaNWxSS0ltNHdCNzgzbzlMeFRia2dUVmsxTFlWdw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "d88abc94f7",
+   "t": "eff",
+   "c": "",
+   "src": "Engineering.com",
+   "d": "2026-09-18",
+   "title": "Saturn Cloud integrates NVIDIA Run:ai for AI inference",
+   "sum": "From Engineering.com.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBOU2pNSWg5QUYyakFkdFgxTzFJSjlOak5FSW1TTlE0X1Q1N2U5V3MwNjZ1Rk9aVlc2RkttOGRQZDFGMkU0bExtZ1B4VEV4SW51SHZoUDZBNG1YRklOcEVZTHE4azRueUgzeTQyU0xQeFZkMGhRS3Z4VWJDUVVybTZRNWk2OVZGTUE?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8e2a830af2",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-09-18",
+   "title": "Stefano Ermon: Diffusion LLMs, Not Autoregressive, Will Win the Inference Race",
+   "sum": "From finance.biggo.com.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wV3ZJdEluR1F3STJTb1lDQ2RkY2VXNEt2bVVjRkUxX29uaUN1S1pjRFhVbnNiWGRqSDZxdF9XNnloUlVUVkNReGlsNUlkbDY3T1daNnlrd3c2WDQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "f842eeea3a",
    "t": "anthropic",
@@ -156,6 +252,78 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "8fc87c071a",
+   "t": "gemini",
+   "c": "",
+   "src": "TechRepublic",
+   "d": "2026-09-17",
+   "title": "Google Cloud, Salesforce Tie Gemini Enterprise to Agentforce and CRM Data",
+   "sum": "From TechRepublic.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnVxQXFMTWdBMUJmVDdYSW5mQXpUMW5Ya05MWk5KbzRHS0daQnZZR29sOXRqdjFDVkFqSW9YWkhEWVlJOUc4LVZjM0VXelUwV25hbEhnVHJSQ2tRMFFCSlpldm5YS0xKQzRQUmc3T2FxdEtsSzVVODY5cmk5OTFMN1VVeGRMbFVZbnRKLUQ1Q1NRRENZdVhvY1A5QQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4de0b656b3",
+   "t": "gemini",
+   "c": "",
+   "src": "YouTube",
+   "d": "2026-09-17",
+   "title": "Inside Gemini: How Google Runs Product For Its Model",
+   "sum": "From YouTube.",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6TzRURnFUSS03blRGZXRMYXM3cDh6WXZlelhYVUoxTy1ZVFJBbjFIaEFyazJraXBGSWNiZUFYZWdVZw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c8c39621fe",
+   "t": "gemini",
+   "c": "",
+   "src": "Deccan Herald",
+   "d": "2026-09-17",
+   "title": "Google unveils Gemini 3.8 Live and 3.8 Live Thinking AI models",
+   "sum": "From Deccan Herald.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHZBZTVLWWt2b3hfckI3QloyYTh4Snlqb0V4c0pReno5dnZMNjlfLVFlMW5JSkxNWjlDbXhNc3N4ZWRIc09vbldEajNPUThFREl6VTdWcTY0QWw1ZVlHYjd0LUFoLTZKNXBRcHdia3IybzhETXpYOV9mN1E4RjRTeGNNNjRWZWdvQWRUbzNzRHFnLWVYSG5SZUY0Z0ZSN1B0eXI1dW5jcU1Md0VrLUVVWWNHbl9DNmtTQUd3ZTZablRST3ozRU5BejJ2MXY?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4123684340",
+   "t": "models",
+   "c": "",
+   "src": "InfoWorld",
+   "d": "2026-09-17",
+   "title": "TypeSafe AI’s new models work with machines, not humans",
+   "sum": "From InfoWorld.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0ZPbjRSZmRpSXlmTXV5cDh1SDZGZERDc0RKVUxtS1FKVksycklQdDhRSXcxZkk4djRXUmZsMWRyWnZkWHZpSG9VSnBXMkNaVXBxVnlXY3dJeHF6RnZFRFNKZjczSVljMUo2bktaUG4yMWJQOXloWV9KSVVBTHRTMjdPVFF2Y1RhV3c1bmxsSFlkSWZ0WHVzbUNWS2Z3QTFTN1E?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "34adf78d7f",
+   "t": "eff",
+   "c": "",
+   "src": "IEEE Spectrum",
+   "d": "2026-09-17",
+   "title": "Why AI’s Inference Boom Is Forcing a Rethink Of Chips and Memory",
+   "sum": "From IEEE Spectrum.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sZkl4SF95TDVhWHlKWV91VWFOX01IakF4clJUWkxKNDZUel9xMnZ5bEZTZmNPRDFDU3JWSmlWdFRoaW1jcFBibWZ4eksyRXFaNDJXaXZJSkJSYUptZUxKMm1NU2tOZw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "489ba972e4",
+   "t": "eff",
+   "c": "",
+   "src": "TechNave",
+   "d": "2026-09-17",
+   "title": "OPPO Find X10 Pro Max is confirmed to launch Globally with the 2nm MediaTek Dimensity 9600 Pro",
+   "sum": "From TechNave.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzBaZ2FUZFNlTkN1dVVzWW9VQ05EYjkzdlpFRExxREZuWFMwZ2F1R21GS01ubGwwRWU2WERKTzRxb0lPbjh1X1JKTXJ2VkE4NWdDRHJzeU1tTEk0clV4Q2U2aXg5eGtDY2tpTWc5bFVvdkI2TklFMUUtUHY0QkxQdWNVNkV1QkZHWWFaZVgtd0g5TmlXVzlzb04tSDdhNlVqc05kVGt6Mi1SZ3hpa2JNN2dMTjlQaGxtT2VDR0hVQ1puWGYwX0VRMkZvelhxQQ?oc=5",
+   "wp": true,
+   "mp": false
   },
   {
    "id": "57771c0b7e",
@@ -584,6 +752,54 @@
    "mp": false
   },
   {
+   "id": "917587ae0a",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-16",
+   "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+   "sum": "Question answering has advanced rapidly with large language models, but predominantly for high-resource languages, in both text and spoken settings. Spoken question answering (SQA)…",
+   "url": "https://huggingface.co/papers/2609.19879",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b0edea4532",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-16",
+   "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+   "sum": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment…",
+   "url": "https://huggingface.co/papers/2609.20715",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "e721d4ae0d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-16",
+   "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+   "sum": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer…",
+   "url": "https://huggingface.co/papers/2609.20817",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "fea4b23eae",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-16",
+   "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+   "sum": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token…",
+   "url": "https://huggingface.co/papers/2609.20511",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "4f9c0c4802",
    "t": "papers",
    "c": "",
@@ -845,6 +1061,18 @@
    "sum": "From Telecompaper.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekMzcXRncG1ucGJTOTFiVVdaVE1TQ0hTUGN6S1lZVlIwTmxIVGVTbVdET0hZcl8ySWgzVmVnd0c1UFh5Z3Y0amIxcWFjZUtDaFZfcWt5cF9YSkNtbmRyazllaUdOa1F1ZlhsM000SzlUU1FjRDNDUmN5dXVBMFVYaUcyeldvZV82MkpRUEdXRzRDZUVCTEtEQTRRYWZ0QUZ6RFVwelJZOW0wLWc?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "5d60c00dd0",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-15",
+   "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+   "sum": "Recent Omni-Modal Generative Models (Omni-Models) have advanced content generation toward unified modeling of text, images, video, and audio. MiniMax-H3 exemplifies this transition by…",
+   "url": "https://huggingface.co/papers/2609.18323",
+   "wp": false,
    "mp": false
   },
   {
@@ -1204,6 +1432,18 @@
    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
    "sum": "From Hugging Face.",
    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "89131f764f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-03",
+   "title": "Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts",
+   "sum": "We present Srijika, a system for producing installable OpenType fonts for nine Brahmic scripts: Devanagari, Tamil, Bengali, Telugu, Kannada, Malayalam, Gujarati, Gurmukhi, and Odia. Rather…",
+   "url": "https://huggingface.co/papers/2609.05661",
    "wp": false,
    "mp": false
   },
