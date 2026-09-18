@@ -5,6 +5,9 @@ on:
   workflow_dispatch:           # adds a "Run workflow" button for manual refreshes
 permissions:
   contents: write
+concurrency:
+  group: update-news          # never let two runs overlap
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -25,4 +28,6 @@ jobs:
           git config user.email "news-bot@users.noreply.github.com"
           git add news.json
           git diff --cached --quiet || git commit -m "Update news $(date -u +%F)"
+          # if anything else was pushed while this ran, rebase on top of it (keeping this run's news.json)
+          git pull --rebase -X theirs origin main
           git push
