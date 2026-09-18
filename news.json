@@ -1,6 +1,162 @@
 {
- "updated": "2026-09-18T17:31:56Z",
+ "updated": "2026-09-18T21:23:54Z",
  "items": [
+  {
+   "id": "6ce3a720aa",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "World model companies are keeping a lot of secrets",
+   "sum": "World model AI startups and their data suppliers are keeping their underlying architectures and training sources confidential.",
+   "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b311cc8207",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+   "sum": "A former ChatGPT creator introduced Jev, a new AI model offering faster and cheaper software intelligence for developers.",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "13515f2f45",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+   "sum": "Disney appointed the former CEO of Character.AI as its first chief technology officer despite earlier copyright disputes.",
+   "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "96293117e2",
+   "t": "impl",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-18",
+   "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+   "sum": "Google refocused its CC AI agent on household tasks, including calendar coordination, task tracking, and form completion.",
+   "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2d99e5ab99",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Hill",
+   "d": "2026-09-18",
+   "title": "Anthropic: AI model Claude helping build next version of it",
+   "sum": "Anthropic announced that its Claude AI model is actively assisting engineers in developing the model's next version.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHoxemhKVmppRHBIV0dMLWJMeGlDc20wWVRNNWxDYnJ0bDVQa0dMTTF0R1lqbFc1dkZ1dW1yc1FfangzZVFYNU4tSERIREhkQlU3WDBVM3Z0dnp0TVlfaWxRcnNtWnhLMVZvZmwwZkpwWm40cDdELXRKYXAtQUNRemhZZXRGVUVSQjRmSdIBkgFBVV95cUxPcF84cVk5cjh6MmVnUG1zZm1YYkFnOTJ3b3V2SDVpbmVTOHJMTDdqY3dFOUZFRjJmVW5ld1VOUFJiUldvMFZXbF9EUjVWYjdZcVF0ZTJZNHhVaWFCbnBEaEFzc0w1RU8wSXJqZlFKZTdKMHdycVN2SUdqWTJOWG9rTG9CSGtmV1BUSnc5YnV0a0lGZw?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7e8303ca59",
+   "t": "palantir",
+   "c": "",
+   "src": "Seeking Alpha",
+   "d": "2026-09-18",
+   "title": "Nvidia, Palantir, And The $500 Billion Sovereign AI Opportunity",
+   "sum": "Seeking Alpha analyzed market opportunities for Nvidia and Palantir driven by government investments in sovereign AI infrastructure.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSldxTGc5SkZQM29JTG02MDdZSFltLVJYczgzSzk2QWdqR015Q3hMczZGbURkUnVWMmZ6R2JTVUwxNVYwdWdLTG9BNUxUaWltaUlBQ2g1M1ZMNVdkNmxpQTVmWTViTFUxY0hmd0VfaHJzR3JzbkdfcnVCaTNjMjJxd203TjRweFFxM3IxT2d1WExRQUJaQkdCYXFMSEE0UQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1f163d5e74",
+   "t": "palantir",
+   "c": "",
+   "src": "MarketWatch",
+   "d": "2026-09-18",
+   "title": "Amazon, Palantir and 12 more top tech-stock picks from UBS analysts",
+   "sum": "UBS analysts highlighted Amazon, Palantir, and twelve other technology companies as top stock selections.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpNSU8zLVQ1MHVIVW1HY2lYLTlaMDlHSHdBYTBtRzRpTjA5b3NCRW9KZE1CZk9yNFZZcUFEZ09ROTB1OXI2RU5LRFREVW9ZVEZHckJWQmJybjg5eTYwXzZ3ZG1yM0V4U3RGQkhtbW1VSGRIdmZHbWhXOGtGMzFZRnZtN3hlWURpdk5pR0FTcmxRcEM1UjRWTjZlWUNYQ0JhSDg4UnF6bDRJNnJQU1E?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "fa367e0d46",
+   "t": "gemini",
+   "c": "",
+   "src": "ALM Corp",
+   "d": "2026-09-18",
+   "title": "Google Search Live Now Runs on Gemini 3.8 Live",
+   "sum": "Google Search Live updated its underlying platform to run on the Gemini 3.8 Live model.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11OTlOS3NlVXRDeFczdllMX0lqRDh6X083LV9sdVlTbFBkOS0yZXYwc2lNTEN5SkUyNHpYWm1ta1lNYTZMMjBkTi1MWGY1NEoxV1NBQ0tnRVFXZWpwTHBHRUVNYjF4NmVwU2ZLNC1HdDFLRk05enc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "205b972aaf",
+   "t": "gemini",
+   "c": "",
+   "src": "memeburn.com",
+   "d": "2026-09-18",
+   "title": "Gemini 3.8 Live: Google Still Trails OpenAI, Anthropic",
+   "sum": "An analysis reports Google continues to trail OpenAI and Anthropic in performance following the Gemini 3.8 Live rollout.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OWjBGOGx3dktSWFVja2ZGblN4TnpvNGNucGY2TkdZQ2ZtSEx2akFxSW5MclZYeF9WRWJvamo4dHp3OEQxLTZ6QnBjODE0ZUFnQ3pkYThqSWxPUlZNNW9scXl3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f307a1b477",
+   "t": "gemini",
+   "c": "",
+   "src": "forkast.news",
+   "d": "2026-09-18",
+   "title": "Google’s Gemini 3.8 Thinks Out Loud — And That Changes How AI Earns Trust",
+   "sum": "Google's Gemini 3.8 model features audible chain-of-thought reasoning to improve transparency and user trust.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXh2bGwyVTN3T3BiVlhCUlQ0QVBRZUNpLV9STWF0d1plTFJWbHhLdHhzUllrc2JYOXg4dGYtaHBRLVEwY1JwblN0TXFWblFVcDhDVkV5ZE1hZUphaEp1VFB2cEVfZlZEcWRHWFh5RVl6bzc4aVFyQmJlZGJrelAteWtGcllrVnFSdnYzWWVlMExGa0NPdzg4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b4406b408b",
+   "t": "eff",
+   "c": "",
+   "src": "NVIDIA Developer",
+   "d": "2026-09-18",
+   "title": "Benchmarking LLM Inference at Scale with AIPerf | NVIDIA Technical Blog",
+   "sum": "NVIDIA released AIPerf, an open-source benchmarking tool designed to measure large language model inference performance at scale.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmZ6SXBWVXB5aDBPUTJMNzRxVjdxTW9zc0FELTdJQkdtMDg4YjRJbFNNdTVmTmVfX1Y2M2I5VjJLY3ZRaTVmeGZHdi1rLWp2a0NpWENqcHQwMnRVRnFCTXNxSXozeWVPUjRsbkI0dlhLWTdhQ2FVTEw2LTEyMjVXQXdvdWxFdTk4Vmc?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "09a273bb06",
+   "t": "eff",
+   "c": "",
+   "src": "Hostinger",
+   "d": "2026-09-18",
+   "title": "7 best RunPod alternatives for GPU workloads in 2026",
+   "sum": "Hostinger compiled seven cloud computing alternatives to RunPod for hosting GPU-intensive AI workloads.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VUG40eXYwQW1rZzFrQUFaTDdLN051Ylpyd3hXQnlzbllGcE55NFBxeTU1WWxEQ0I3WjhwSkowcFBfLWZ4ak5GTENMT1I1dUFqUXdtdVA1bG93U1hzMDQ5andIRHpXUGlsenNF?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "9666e41735",
    "t": "anthropic",
@@ -528,10 +684,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-17",
    "title": "Why AI’s Inference Boom Is Forcing a Rethink Of Chips and Memory",
-   "sum": "From IEEE Spectrum.",
+   "sum": "IEEE Spectrum examined how rapid growth in AI inference demands is forcing hardware engineers to redesign chips and memory architectures.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sZkl4SF95TDVhWHlKWV91VWFOX01IakF4clJUWkxKNDZUel9xMnZ5bEZTZmNPRDFDU3JWSmlWdFRoaW1jcFBibWZ4eksyRXFaNDJXaXZJSkJSYUptZUxKMm1NU2tOZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "489ba972e4",
@@ -540,10 +697,11 @@
    "src": "TechNave",
    "d": "2026-09-17",
    "title": "OPPO Find X10 Pro Max is confirmed to launch Globally with the 2nm MediaTek Dimensity 9600 Pro",
-   "sum": "From TechNave.",
+   "sum": "OPPO announced the Find X10 Pro Max smartphone featuring MediaTek's 2-nanometer Dimensity 9600 Pro processor.",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzBaZ2FUZFNlTkN1dVVzWW9VQ05EYjkzdlpFRExxREZuWFMwZ2F1R21GS01ubGwwRWU2WERKTzRxb0lPbjh1X1JKTXJ2VkE4NWdDRHJzeU1tTEk0clV4Q2U2aXg5eGtDY2tpTWc5bFVvdkI2TklFMUUtUHY0QkxQdWNVNkV1QkZHWWFaZVgtd0g5TmlXVzlzb04tSDdhNlVqc05kVGt6Mi1SZ3hpa2JNN2dMTjlQaGxtT2VDR0hVQ1puWGYwX0VRMkZvelhxQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "57771c0b7e",
@@ -786,10 +944,11 @@
    "src": "CNBC",
    "d": "2026-09-17",
    "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-   "sum": "From CNBC.",
+   "sum": "Palantir CEO Alex Karp suggested leading AI laboratories might eventually require government nationalization due to existential safety risks.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UbEplOGYxLVE1bnQ5ZER0bzdhanpNQ3dDLVREaUIzUXJTWEo1VmhINzY1Z25ZVl9BNU9MV2NHdW9lY0xtUmZna0VMT0p1Wm5Qd0pKMDZTd3IyM2hpZnczczM4dTJ3UjF2RmIzONIBckFVX3lxTE9WWHJQNk5Ua2FHSzZGcUV1M2l0amdoQWNCQl8xcElqRkhYTUhJUU9keU05dVlpblVqV1ZLMG1tVk5xUXUtZ3AyRWlRQWgtUkE4OC1PX2xMZlRKVDZlOVVTOXlfZzRzM3BmX2NOMGtvNzZzUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "231e641f32",
@@ -798,10 +957,11 @@
    "src": "Bloomberg.com",
    "d": "2026-09-17",
    "title": "Palantir CEO Says AI Firms Responsible for Their Own Actions",
-   "sum": "From Bloomberg.com.",
+   "sum": "Palantir's CEO stated that artificial intelligence developers must be held legally responsible for their own models' actions.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZmYlhJbUtHUXg4S24zMjFSVUtVZ2o0QXBleFJHaUxldGNhN1hYRm1LdV9CdGUxa1B3NHRFV2h6U0h3TTQtT0FrWE16V3prMFJ1Y2hZZ0hzSGc1emNsQXl2NXR6dmUzV3NhRnJ0NTQyX3NYakpzOHdiUlljNFY0MU1WSDVNVWVoblZxUmk4bTZsQ3o2VXVyWTNZcnNxeWk0bmV0Tmo3NFRTWWxaNEEySA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eb738735ef",
@@ -810,10 +970,11 @@
    "src": "Barron's",
    "d": "2026-09-17",
    "title": "Palantir CEO Karp Says the Quiet Part Out Loud in the AI Risk Debate",
-   "sum": "From Barron's.",
+   "sum": "Barron's reported on Palantir CEO Alex Karp's remarks concerning regulatory liabilities and corporate responsibility in artificial intelligence.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNGxkU05NVGJQZTBxVEZFWXZsb0FRQjBud0M4SmRVT3BJWjh4OHB0SmdaVC1fb1JORDQ5QXNhSUtPR2NZNGJ0a011T09vTTdMQmZ2aGRBM3hlUndCN3VXd1BuOWFpMnhxV28tYy1SNDl4Vm1DUE1CajZUZDBWempwbg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3f59f3e69d",
@@ -822,10 +983,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-17",
    "title": "'You’re Liable For Your Own Actions': Palantir CEO Alex Karp Opens a Third Front In The AI Safety Fight",
-   "sum": "From The Motley Fool.",
+   "sum": "Palantir CEO Alex Karp advocated for direct legal liability for AI developers during ongoing debates over model safety.",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOWREOGJEb2p3OUVVeTl4SjNtSlpsRUZSbG4zdnNYa0JfdHhkSDhIT3ZUc3Y2bFBkNjRhT29YVnJ0RS0xTGgyVm52UEw5and1SUo0Tk81ZGVTNGxweGlSU1VMN3FzSzJ6bWNBQVl3dW9vWFRzTFoyOXZ5WUx0VlpYMmF4T2dSdEhaSGlrbVRucFJLZFRCOEFscEhfMXNOaHJINWVJbUUwNzRFWDZQeTEya0hDRDF3YnY0ZS1oMUdodkNfb3Z0RWM4SVhiSzNodXowWkVlbjJIQmtrdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0ece8038d6",
@@ -834,10 +996,11 @@
    "src": "Seeking Alpha",
    "d": "2026-09-17",
    "title": "Palantir Stock: The AI Token Boom Is Hiding A Bigger Opportunity",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha analyzed Palantir's enterprise potential beyond short-term revenue spikes driven by AI token usage.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWUya2dvNDNlcmdrR1MxY01LLUNadFJQNER1aGRiX3RDclFMcW5mMHl1Qm9HU3hLd0FRbXFWQjVxOVNkSVAzSkFlcWNRQlVIck4zazZlN1RFVHR4S2NrREszNVlQNzRYRVdBd1EtcXE3NjZIbXFHSDliaWpnNHhqOGplc3BwMlkzcEU0Vm5qelFaVjNZem1MY0xIVQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0969060d53",
@@ -846,10 +1009,11 @@
    "src": "Business Insider",
    "d": "2026-09-17",
    "title": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
-   "sum": "From Business Insider.",
+   "sum": "Alex Karp argued that current regulatory AI safety debates are fundamentally designed to justify nationalizing private AI labs.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMUJLSDgxcFlvOGFid3lzNXVwcUlwRnRteEpGaDhEejNNNEZDN2RiWGJGR3hPN1lZdkVfelJBZWVtNlEzdDdFRzhOelJwenJnLVB2VU96QTNfYnJHNWRFb0lwU0VSRHdPbGkycW10NFpyVFcwbFJjQ1BDRjBpbVE4MHplMFJ2WVBYZzlfV2dsaXJpQWVaODRjYnkxUkQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c4510e1fd8",
@@ -858,10 +1022,11 @@
    "src": "Beth Kindig – Medium",
    "d": "2026-09-17",
    "title": "Nvidia, Palantir and the $500 Billion Sovereign AI Opportunity",
-   "sum": "From Beth Kindig – Medium.",
+   "sum": "Beth Kindig evaluated the emerging $500 billion sovereign AI market and its implications for Nvidia and Palantir.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXVNSlZmbjVISnM0dFBtNzUwZU5KVXVnak83djVfX09CNzR5VVV5Q3pNeDNsTnlfZERxX0RwSThNb21qaktCWDNtQl9CLXFPME5taHJHYjMzWGEyX2hhTTg3dnVQcTNhZWhWQTJ6VGhGQ1BFYk1DLTZ5WGRQQjZsRzh5d3lpV01jd0NSMmNkZGgtWTBpQkhTWVdOZ25CbU1CS1pr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0a61a60bc8",
@@ -870,10 +1035,11 @@
    "src": "extremetech.com",
    "d": "2026-09-17",
    "title": "Google Launches New Voice AI Models for Building Real-Time Conversational Apps",
-   "sum": "From extremetech.com.",
+   "sum": "Google introduced new voice AI models tailored for developers building real-time, low-latency conversational software.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd1hZZ01OU0ZLS3NlR3JqOWRmc1BrVl9CM2VHbkZaazdnS3R5dlVYVm1TeEVZOVJpdFFURmJnY2MzWGI5bHdZZmVMTWxKQ25lU0tueU1KVjBBZC1VTEhqMnhmUVZDb2dlMExHVEhJMC1UOFNqN19GSjFwVzFGUXJPYmNQcWhmdDQxd0toRl9MbTJYYzA0a1Q3QlEwNXNiNkdsbU83Q0YzZmdrOW90aDU0MQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c450a0bf0a",
@@ -882,10 +1048,11 @@
    "src": "mashable.com",
    "d": "2026-09-17",
    "title": "Hallelujah, there's finally a Gemini app for Windows",
-   "sum": "From mashable.com.",
+   "sum": "Google launched a dedicated Gemini desktop application for Windows operating systems.",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LUkx6WUJ6d1Q3NzNPcFNwUkJwQ0VuQ0lkb015Q2xEUTJKYVVtQkIxc2t5b0JlNEJCbm1LZWxhWDRGdlFqVmRXR1VuY0xyR0NlUWtkU0RsR2ZDc3hnSnlnZzU1aw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "243bfa85f4",
@@ -894,10 +1061,11 @@
    "src": "techrepublic.com",
    "d": "2026-09-17",
    "title": "Google Launches Gemini 3.8 Live Models That Can Reason While They Talk",
-   "sum": "From techrepublic.com.",
+   "sum": "Google launched Gemini 3.8 Live, introducing models capable of conducting complex reasoning simultaneously while speaking.",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tZDFwZWtINEZBcVc4T3VCWnNaajB2VmNldm82MENRclhhcXlIRTlaUV9Fdkk0am1qTV80UTJIYW9GR3MwazI5MDdIN3lTbTRHdzFsTUNKYmpiVWRjWjgtSm5EeWFsaG1feXN4aW5pankwSWs?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "821bd17c04",
@@ -906,10 +1074,11 @@
    "src": "Analytics Insight",
    "d": "2026-09-17",
    "title": "Google Gemini API: How to Get an API Key and Start Using it in 2026",
-   "sum": "From Analytics Insight.",
+   "sum": "Analytics Insight published a guide detailing how developers can generate API keys and integrate Google Gemini models.",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNFZrbHZWb081Q1FpTVhaUW9jc2MtWGdJQUg0OUc4ZWZkXy1aZy1oWklFY0luZUE2ZVJIMXItR2JQc3BjR0lRejVmNVN0TGhjWHZJa21LaWU5UFkwTWdkWlQ4YWJ1d3REc0FrRWJDR1ZXcXBEaWJPQUtpTWVXVGRxTG5vMk9xdVFrNXNWRXFXNmQzV2VZVGtNVVcxakJxTU5OTzFpbksxYkp1UTJNUG96MjhVanEwMjEzd3RrdWRlTWlVclZaSzhhYTQxTjVUZ9IBzgFBVV95cUxQNFZrbHZWb081Q1FpTVhaUW9jc2MtWGdJQUg0OUc4ZWZkXy1aZy1oWklFY0luZUE2ZVJIMXItR2JQc3BjR0lRejVmNVN0TGhjWHZJa21LaWU5UFkwTWdkWlQ4YWJ1d3REc0FrRWJDR1ZXcXBEaWJPQUtpTWVXVGRxTG5vMk9xdVFrNXNWRXFXNmQzV2VZVGtNVVcxakJxTU5OTzFpbksxYkp1UTJNUG96MjhVanEwMjEzd3RrdWRlTWlVclZaSzhhYTQxTjVUZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6486ab4452",
@@ -918,10 +1087,11 @@
    "src": "nokiapoweruser.com",
    "d": "2026-09-17",
    "title": "Google Teases Gemini 4 as Gemini 3.5 Pro Faces Delays: Can It Catch OpenAI and Anthropic?",
-   "sum": "From nokiapoweruser.com.",
+   "sum": "Google teased its upcoming Gemini 4 model amid reported launch delays surrounding Gemini 3.5 Pro.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTZidjlHSUFVM3RzRWhrcHRmUDk3QTNweUc2aENqdVRSNzRMd0d4T0xMcmVqbFk2TW84NGJaeWtsMFBJYV9FREVETWhXNHY1ZmtnZVJlN3NwVkU1NmdGX2U0dks0Z2FMcjJLd1BJakhtSlZSSVhLb1ZiaWZraVZVTUFJaw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "24b47bac3a",
@@ -930,10 +1100,11 @@
    "src": "Law.com",
    "d": "2026-09-17",
    "title": "OpenAI Launches Legal-Specific Configuration of GPT-6 Astra, Its Latest LLM",
-   "sum": "From Law.com.",
+   "sum": "OpenAI released a specialized legal configuration of its latest large language model, GPT-6 Astra.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVJUdm8wVUxfRkQxSmsxZGRNbHY0Y0hLOWU1blFuc1pTeGc3X2Q2OTUxTXZOZGE0YWJKa19ma1gyZldMdXdSNHVrVUpvTHVITWdDTTZ3Zmt0NEQ5ajBybHp3X0huOTAzWm1WUS1Mc1dqb0FGaXl3Z3dPZkQxY1pScVQ0UFU3YW4wV0VUUEwyRVBlWC1wMWRndmloSDl0blVEMllLSm5SY0RtQnQ2bGl2ZE9BMGszZ1lpamZfQ1NB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "31f5a4e5e6",
@@ -942,10 +1113,11 @@
    "src": "TestingCatalog AI News",
    "d": "2026-09-17",
    "title": "ICYMI: TypeSafe AI launches Jev for structured AI decisions",
-   "sum": "From TestingCatalog AI News.",
+   "sum": "TypeSafe AI launched Jev, a specialized model designed to produce structured outputs for automated decision-making.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXRxa3lRMjdUcVdIUUdjd1dueWxqSWFqMU5DbGROYjhpalpaWkJkUmhQVng4LVRGc3hCRlc2OTFBZFBtczl4V28yUnhHeldDenhqb2F3MlZ3QTBsN1Q4WHRndFM0eE45WWlYWXZERFNqdXBONGJ1RjQydXBSSnhFdmhUUks4eG03MmxYZDBRVmhQUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7392f07704",
@@ -954,10 +1126,11 @@
    "src": "Mirage News",
    "d": "2026-09-17",
    "title": "UNSW Tech Transforms Hotel Into Community Power Hub",
-   "sum": "From Mirage News.",
+   "sum": "UNSW researchers implemented energy management technology that turns a commercial hotel into a community power hub.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkhRZUNmWVBHMnh3cUhGakMwUDBDcHJDQTN2NjBQVG9DbG5qak9lYkhCZFp6WmJ4UXJqakJtc1hTZmVzSmxsYlMyeVpzX285Q0h3ZEhaeTh3OFJaTkRDYXZqS3hnc0xiWUQ5dEwyLXlqcG54cWJWUkhSQWVUODhsaE5hdEw1ZjdxM0l3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9cb8b2b49e",
@@ -1416,6 +1589,19 @@
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "1b7fca8fc4",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-14",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "sum": "A research paper evaluates methods for verifying social reasoning in LLM assistants used for daily personal advice.",
+   "url": "https://huggingface.co/papers/2609.17496",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9e82c021a2",
