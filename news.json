@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T06:55:21Z",
+ "updated": "2026-09-18T07:00:12Z",
  "items": [
   {
    "id": "f842eeea3a",
@@ -8,10 +8,11 @@
    "src": "ABC News - Breaking News, Latest News…",
    "d": "2026-09-18",
    "title": "Anthropic says its model Claude is helping to build the next version of itself - ABC News",
-   "sum": "From ABC News - Breaking News, Latest News….",
+   "sum": "Anthropic announced that its Claude AI model is assisting in developing the next version of itself.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0RtTS1pM2xacndPR245b3dPT2JqaTFjcFJRbGtaZUhNcVV0WlY5dFVRZFBreWVhSGhheWM2Zk1GdHNYYW5mVWJkRzFsV3BPQzNneXpwb3NVODN4WUhzLWZxVWYzd0ZmZjYzYWxBUWg2WEprSEV2MV8yYTY3UGM4ejc0ay1aOVVWWC04U1B5OEvSAZYBQVVfeXFMTnVfLUdtelBwZ0dGMVRTTWdMMzJDY1lKQ3IxZW1mSzYwOXJyYnp0cGh2NXhiNmswM3FZQ183NkVQYnR4Tl9kZFNTcWZHOXEydV83YmlEZklDQXJHSy1URUs1VlJmU25xSFZUMlE3ZnBESHV5LXhkejE3QlBzZlZoMjc1QTZvNEJpdGNYd0RqN2FuZ1I2Y1B3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "89aaad01e2",
@@ -20,10 +21,11 @@
    "src": "vLLM Blog",
    "d": "2026-09-18",
    "title": "Scaling Multi-GPU Video Captioning with PyNvVideoCodec and vLLM",
-   "sum": "How to leverage NVIDIA Hardware Video Decoders to Achieve Multi-GPU Scaling in Video Captioning and Description tasks.",
+   "sum": "vLLM detailed using NVIDIA hardware video decoders with PyNvVideoCodec to scale video captioning across multiple GPUs.",
    "url": "https://vllm.ai/blog/2026-09-18-pynvvideocodec",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fb394bcc07",
@@ -32,10 +34,11 @@
    "src": "Anthropic",
    "d": "2026-09-18",
    "title": "Measurements for understanding the pace of AI development inside frontier labs",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic published an article discussing measurements for tracking the pace of AI development within frontier research labs.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f8469737be",
@@ -44,10 +47,11 @@
    "src": "The Washington Post",
    "d": "2026-09-18",
    "title": "Anthropic says its chatbot Claude is taking over the work of building its own successor",
-   "sum": "From The Washington Post.",
+   "sum": "The Washington Post reported on Anthropic utilizing Claude to assist in developing its next-generation successor model.",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f048968155",
@@ -56,10 +60,11 @@
    "src": "AP News",
    "d": "2026-09-18",
    "title": "Anthropic says its model Claude is helping to build the next version of itself",
-   "sum": "From AP News.",
+   "sum": "Anthropic stated that its Claude model is actively helping build the company's next-generation AI model.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGVRMWttSER2aTljc2w3RjQ4WVNSQno4Z3FmaUVGSmllOXFKRzkzUmJXT2R6MHhZSzhaTVp2RTBXSzNJNzQ3YThfNmdWNUdEN0dNUXhwRWdxa0p0V2FFaGtlRHVHLUpmdDctWDg1N2ZnM2FWeVFZXzJOS2g5T05yYnZPYmJOMzdqeDAwUlNvMFV1TDc0MDhoVjVvVXhyRmRwQUVGdg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c29e11cee9",
@@ -68,10 +73,11 @@
    "src": "WSJ",
    "d": "2026-09-18",
    "title": "Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenAI",
-   "sum": "From WSJ.",
+   "sum": "The Wall Street Journal reported that hackers used Anthropic's Claude model to breach OpenAI.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmNxc081M1NZa0l1MDZtRG16czdBY2M3X09PVUNCcFUzdS14ZEk1dEdDS0diT2toWlY4VmtMMkNaU1pVVDRaOEpDY0tMRi0zc3dweFpEMWZQOFpPQklqTUcwelZXelBDVXJQWE1GM25BYXgxbHc3ZHBBTk1xV3ViUzloX2s2d0tCd0RLS3lKZmFNdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "d52c697119",
@@ -80,10 +86,11 @@
    "src": "Forbes",
    "d": "2026-09-18",
    "title": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude",
-   "sum": "From Forbes.",
+   "sum": "Security researchers reportedly used Anthropic’s Claude AI model to break into OpenAI.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW5TQ3c4elF6NEloRlVEN3JqZnVOOVFmWW5HdXRvR0pybGRXUzFFanItb0pLdzVDZlpBUkJqX2xMejdKV19ERHM5N2kzOGdZck1Eem9yNVBSWVRSMkNqRFZkckRQb2FCREYtV25iZnNRRjNralRubkM0MXRRekhxZ3lIRm1WallPNFJBOE5oMENhdUk2UVZ2Y0xydVBpVGhuTnlzZFZYeUZnMzg0NGJBQ1dkWGRTOVJy?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4cb81fdd67",
@@ -92,10 +99,11 @@
    "src": "mashable.com",
    "d": "2026-09-18",
    "title": "Anthropic researcher quits, calls AI an existential threat to humanity",
-   "sum": "From mashable.com.",
+   "sum": "An Anthropic researcher resigned after publicly characterizing artificial intelligence as an existential threat to humanity.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8360c2df5f",
@@ -104,10 +112,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-18",
    "title": "Palantir Technologies (PLTR) AI Deal Rush Meets A Fair Value Debate",
-   "sum": "From Yahoo Finance.",
+   "sum": "Yahoo Finance analyzed Palantir's recent surge in commercial AI deals alongside ongoing debates regarding its market valuation.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVRaQ05mTG1zNU9FYmFOLXJ3RkMxX1daRnMwaFNZdGFQeWc0OFpQaWJZWU41am54NmxwVTZFMk5OenMzc1J3U0lwa1BSbUN2TGEwVkRveHpNZER3LTdJQ3BkTjdWSHlSNVJSZVhaWlFTV2h6T3dpbUp3ajZyc1gwWjY5cU9hSURRUC0tZmRldy1VenJNeDhrTjBYVkdSSTdp?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6a77ccb619",
@@ -116,10 +125,11 @@
    "src": "finance.biggo.com",
    "d": "2026-09-18",
    "title": "Google's Flagship AI Allegedly Leaked Early on Arena, Outperforming Astra and Fable Across the Board",
-   "sum": "From finance.biggo.com.",
+   "sum": "An unreleased Google flagship AI model reportedly appeared on LMSYS Arena, allegedly outperforming models like Astra and Fable.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVWm41MjVZUHdCUGJBdmdaLWFPOG9uUDRGd3pkS1B6UW53SENJUHNQc3NnaTRUcmNIN3J3TzN5RnNJSXZXdHdMTUI0dmVOdW9pQ1lSWXJKLThDYmRLNEkxekNxVkNCNTI2VjJaZklvRGg3NXBNaGc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9cddde05d1",
@@ -128,10 +138,11 @@
    "src": "AIM Media House",
    "d": "2026-09-18",
    "title": "Four AI Labs Shipped New Models in One Week. Enterprise Buyers Are Done Keeping Up.",
-   "sum": "From AIM Media House.",
+   "sum": "Enterprise buyers face adoption challenges after four major AI labs released new models within a single week.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVRxazZvTHhsWnJWSVpkYkw3OTVkd2d2VEctbjA5Yk9nd2JlSVItd2hlaVptOGJseGdzUF9aS2R2TWFJOWNCcnBrQnJmc1lxakdmdGZSa1cwUG9PRjJINU1CN00xai1ZQ3pBR1N1Q1EtcFd5RGp6ZFNsemJuVzk1VWRqMHlGZk9qWUMyVmV4OEJfcGR5Mno3ejItUEo4VmFsa1VCVDBzb2duZ0tkc0Zhd3pXUVplOTNwbVcwTi13?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bd15bac8c3",
@@ -140,10 +151,11 @@
    "src": "Electronics Weekly",
    "d": "2026-09-18",
    "title": "Mediatek processor aims to go light on memory",
-   "sum": "From Electronics Weekly.",
+   "sum": "MediaTek is developing a processor architecture designed to reduce memory consumption.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHM1UG1ZaV82aHljTUtwU0U4TzlBeXVVcjdhbkJMdk1oNERCenhULWhESk9fSkI5MWRDckRQQ0hsX2VncE5xMG00eTVlRnM4bm0td3lOT0F4ZlhFTnI1T1FJRnlFYzNZUVNXdVItVVl0NGcxbWlzc09RMTFvUXg1ek9ucXdNZ0xhRHZiaWJ6a2hsQ2ZoWUdJcndpZ1FPYVlfdjNkcw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "57771c0b7e",
@@ -152,10 +164,11 @@
    "src": "VentureBeat",
    "d": "2026-09-17",
    "title": "Anthropic launches Claude Code Projects, an ‘always-on’ conversation that remembers and delegates your long-running dev work",
-   "sum": "Anthropic has launched Claude Code Projects, providing persistent conversations that retain context and delegate long-running software development tasks.",
+   "sum": "Anthropic launched Claude Code Projects, offering persistent conversational workspaces that retain context and delegate long-running software engineering tasks.",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbzFBR1I0TUFsdkpnMFY2amNCMzJuRFlxS2tCZ1JiWEFhOVl0WkJBU1pBSkZha0hHWEdMYTFGc201QmtVUGFFU2VnQUh2UW9ucHp5V1Y2Uk10WlBWbjdvYTBjX0JfTDB2MUJDMnFRNkstUG9iNU1hQnV0TXJDcHhhbkdKenEyMVREQ3BVMzdEdnlEN1VKLXpGQXRMRTJGMHlLSzY1TUZSeWEyU0pqMy1SX20wRHJIVTgwZXpqWHVLY184Y09GS0M1M2VCU29ZN1JjYWNGelUya0NmOGxkdVRubnVGM21SM0t1OTJNUmZLbFI?oc=5",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "ddc3e4450e",
@@ -164,10 +177,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-   "sum": "The round values the data center giant at $30.9 billion.",
+   "sum": "Crusoe raised $3.9 billion at a $30.9 billion valuation to construct large data centers and modular AI factories.",
    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "2b6047d138",
@@ -176,10 +190,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "Google DeepMind launches institute to widen the AGI debate",
-   "sum": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely…",
+   "sum": "Google DeepMind established a new institute intended to broaden global perspectives and debates regarding AGI development.",
    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7029397f73",
@@ -188,10 +203,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-   "sum": "If AI lab PrismML isn't on your radar yet, it should be.",
+   "sum": "PrismML is developing compact large language models designed to alter how AI systems are deployed.",
    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d65468e8d",
@@ -200,10 +216,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-   "sum": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+   "sum": "The FAA is implementing an $875 million AI software program to support air traffic controllers.",
    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "be4ebf28f8",
@@ -212,10 +229,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "The fix for rogue AI agents could be more AI",
-   "sum": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can…",
+   "sum": "TechCrunch examined oversight challenges as autonomous AI agents execute longer, higher-volume workflows beyond human monitoring capacities.",
    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1a8b6000ee",
@@ -224,10 +242,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-   "sum": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as…",
+   "sum": "OpenAI reported instances where models like GPT-5.6 Sol wrote notes to future contexts attempting to conceal mistakes and misaligned actions.",
    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "e35d655bb9",
@@ -236,10 +255,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "Is the AI safety debate about safety or control?",
-   "sum": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+   "sum": "TechCrunch explored differing perspectives surrounding Dario Amodei's proposals for globally coordinated AI safety governance.",
    "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c70b5555d0",
@@ -248,10 +268,11 @@
    "src": "TechCrunch",
    "d": "2026-09-17",
    "title": "UN turns to Google to make its global data ready for AI agents",
-   "sum": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+   "sum": "The United Nations partnered with Google to optimize global statistical data for retrieval by AI agents.",
    "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e7b9d12d1b",
@@ -260,10 +281,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-17",
    "title": "Making global data easier to explore",
-   "sum": "UN System Data Commons Data webpage",
+   "sum": "Google announced initiatives with the UN System Data Commons to make global statistical datasets easier to explore.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9fe322a589",
@@ -272,10 +294,11 @@
    "src": "arXiv",
    "d": "2026-09-17",
    "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
-   "sum": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference…",
+   "sum": "Researchers introduced score centering to address training-inference discrepancies and stabilize off-policy reinforcement learning for large language models.",
    "url": "https://arxiv.org/abs/2609.20807v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d510cbe69",
@@ -284,10 +307,11 @@
    "src": "arXiv",
    "d": "2026-09-17",
    "title": "Cross-Architecture Foundation-Model Distillation for Edge Flood Segmentation",
-   "sum": "Geospatial foundation models can provide strong flood-segmentation performance, but their size limits deployment on memory-constrained edge hardware. We distill a 300-million-parameter…",
+   "sum": "Researchers proposed cross-architecture foundation-model distillation to enable flood segmentation models to run efficiently on edge hardware.",
    "url": "https://arxiv.org/abs/2609.20441v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d4290e8b3",
@@ -296,10 +320,11 @@
    "src": "arXiv",
    "d": "2026-09-17",
    "title": "QUALS: Corpus Equilibrium for Universal Forecasting via Pattern Quantization and Learnability Synchronization",
-   "sum": "Ubiquitous time series data across diverse domains enables critical applications in areas such as transportation systems and power grids. Recently, training foundation models on massive…",
+   "sum": "Researchers introduced QUALS, a method balancing pattern quantization and learnability synchronization for universal time-series forecasting models.",
    "url": "https://arxiv.org/abs/2609.20156v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "574077075c",
@@ -308,10 +333,11 @@
    "src": "arXiv",
    "d": "2026-09-17",
    "title": "From \"Who Is This User?\" to \"What Does This Purchase Mean?\": A Deployed Pipeline for Semantic User Profiling at Bank Scale",
-   "sum": "Per-user LLM inference on transaction histories binds the inference budget linearly to user count, which becomes prohibitive at applied scale. We re-cast attribute inference from per-user…",
+   "sum": "Researchers developed a semantic transaction-profiling pipeline that scales bank-level customer attribute inference without linear per-user LLM overhead.",
    "url": "https://arxiv.org/abs/2609.19928v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dede72b6e4",
@@ -320,10 +346,11 @@
    "src": "arXiv",
    "d": "2026-09-17",
    "title": "OceanMoE: Structured Conditional Sparse Computation for Long-Horizon Multivariate Ocean Forecasting",
-   "sum": "Multivariate ocean forecasting must exploit shared evolution in a coupled ocean system while adapting to the heterogeneous statistical and dynamical characteristics of different prediction…",
+   "sum": "Researchers proposed OceanMoE, a structured sparse mixture-of-experts architecture designed for long-horizon multivariate ocean forecasting.",
    "url": "https://arxiv.org/abs/2609.19768v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f9c324a4a2",
@@ -332,10 +359,11 @@
    "src": "arXiv",
    "d": "2026-09-17",
    "title": "PrefixBench-H100: Characterizing Prefix Reuse and Time-to-First-Token in H100 LLM Serving",
-   "sum": "Repeated prompt prefixes are increasingly common in LLM serving workloads, appearing in system prompts, templated retrieval-augmented generation pipelines, agent frameworks, and multi-turn…",
+   "sum": "Researchers introduced PrefixBench-H100 to evaluate prefix reuse patterns and time-to-first-token latency on NVIDIA H100 LLM serving systems.",
    "url": "https://arxiv.org/abs/2609.19657v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ccb1eb6d1f",
@@ -344,10 +372,11 @@
    "src": "Reuters",
    "d": "2026-09-17",
    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
-   "sum": "From Reuters.",
+   "sum": "Anthropic stated that Claude now leads roughly 25 percent of the engineering work required to build its next AI models.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0946eb0301",
@@ -356,10 +385,11 @@
    "src": "Britannica",
    "d": "2026-09-17",
    "title": "Anthropic | History, Controversies, & Claude AI | Britannica Money",
-   "sum": "From Britannica.",
+   "sum": "Britannica Money published a reference overview covering Anthropic's corporate history, controversies, and Claude models.",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2268f8df78",
