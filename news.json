@@ -1,6 +1,18 @@
 {
- "updated": "2026-09-18T06:43:04Z",
+ "updated": "2026-09-18T06:45:52Z",
  "items": [
+  {
+   "id": "f842eeea3a",
+   "t": "anthropic",
+   "c": "",
+   "src": "ABC News - Breaking News, Latest News…",
+   "d": "2026-09-18",
+   "title": "Anthropic says its model Claude is helping to build the next version of itself - ABC News",
+   "sum": "From ABC News - Breaking News, Latest News….",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0RtTS1pM2xacndPR245b3dPT2JqaTFjcFJRbGtaZUhNcVV0WlY5dFVRZFBreWVhSGhheWM2Zk1GdHNYYW5mVWJkRzFsV3BPQzNneXpwb3NVODN4WUhzLWZxVWYzd0ZmZjYzYWxBUWg2WEprSEV2MV8yYTY3UGM4ejc0ay1aOVVWWC04U1B5OEvSAZYBQVVfeXFMTnVfLUdtelBwZ0dGMVRTTWdMMzJDY1lKQ3IxZW1mSzYwOXJyYnp0cGh2NXhiNmswM3FZQ183NkVQYnR4Tl9kZFNTcWZHOXEydV83YmlEZklDQXJHSy1URUs1VlJmU25xSFZUMlE3ZnBESHV5LXhkejE3QlBzZlZoMjc1QTZvNEJpdGNYd0RqN2FuZ1I2Y1B3?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "89aaad01e2",
    "t": "engines",
