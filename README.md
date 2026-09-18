@@ -7,7 +7,7 @@ GitHub hosts it for free and refreshes the news every day.
 |---|---|
 | `index.html` | The website. Loads stories from `news.json`. |
 | `news.json` | The stories. Rewritten daily by the workflow. |
-| `fetch_news.py` | Pulls RSS feeds, Hugging Face papers, arXiv and Google News topic searches into `news.json` (keeps 45 days), then asks a free AI tier for summaries and selects. |
+| `fetch_news.py` | Pulls RSS feeds, Hugging Face papers, arXiv and Google News topic searches into `news.json` (keeps 45 days), then asks a free AI tier (if a key is set) for summaries and selects. |
 | `.github/workflows/update.yml` | Runs `fetch_news.py` every day at 12:00 UTC and commits the result. |
 | `config.js` + `supabase.sql` | Optional shared vote counts. |
 
@@ -45,24 +45,23 @@ browser data. That is normal for a login-free thumbs up/down.
 ## 4. AI-written summaries (free)
 
 Each daily run makes **one** AI request to write the one-line summaries and pick the weekly/monthly selects.
-That is far inside every free tier below. If the AI can't be reached, the run still succeeds and tiles show the
-feed's own excerpt.
+Without a key the run still succeeds: tiles show the feed's own excerpt and selects follow a simple rule
+(newest story per source).
 
-**Default: GitHub Models. Nothing to set up.** The workflow uses the token GitHub gives every run
-(`models: read` in `update.yml`). No account, key or card.
-
-To use another free tier instead: repository **Settings → Secrets and variables → Actions**, add a *variable*
-`AI_PROVIDER` and a *secret* `AI_API_KEY`:
+To turn AI summaries on, get a free key from any provider below (no credit card), then in the repository go to
+**Settings → Secrets and variables → Actions** and add a *secret* named `AI_API_KEY` with the key. If you pick a
+provider other than Gemini, also add a *variable* `AI_PROVIDER` with its name.
 
 | `AI_PROVIDER` | Get a free key at | Notes |
 |---|---|---|
-| `github` (default) | not needed | Lowest effort. |
-| `gemini` | aistudio.google.com → Get API key | Generous free tier; free-tier prompts may be used by Google to improve products. |
+| `gemini` (default) | aistudio.google.com → Get API key | Generous free tier; free-tier prompts may be used by Google to improve products. |
 | `groq` | console.groq.com | Very fast, open models. |
 | `openrouter` | openrouter.ai/keys | Rotating free models, about 50 requests/day. |
 | `cerebras` | cloud.cerebras.ai | Fast, open models. |
 | `mistral` | console.mistral.ai | "Experiment" plan. |
 | `none` | | Turn AI off. |
+
+(GitHub's own free "GitHub Models" service was retired in July 2026, so it can't be used here.)
 
 Free model names change a few times a year. If the Actions log shows `AI: <model> failed`, set a variable
 `AI_MODEL` to a current model id from that provider's model list (comma-separated ids are tried in order).
