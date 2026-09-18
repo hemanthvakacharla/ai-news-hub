@@ -8,7 +8,7 @@ GitHub hosts it for free and refreshes the news every day.
 | `index.html` | The website. Loads stories from `news.json`. |
 | `news.json` | The stories. Rewritten daily by the workflow. |
 | `fetch_news.py` | Pulls RSS feeds, Hugging Face papers, arXiv and Google News topic searches into `news.json` (keeps 45 days), then asks a free AI tier (if a key is set) for summaries and selects. |
-| `.github/workflows/update.yml` | Runs `fetch_news.py` every day at 12:00 UTC and commits the result. |
+| `.github/workflows/update.yml` | Runs `fetch_news.py` four times a day (6 AM, 10 AM, 3 PM and 8 PM Eastern) and commits the result. |
 | `config.js` + `supabase.sql` | Optional shared vote counts. |
 
 ## 1. Put it on GitHub (10 minutes)
