@@ -147,6 +147,7 @@ def ai_pass(new):
         print(f"AI: reply was not valid JSON, using feed excerpts ({e})", file=sys.stderr); return False
     for k, v in data.get("sum", {}).items():
         if k.isdigit() and int(k) < len(new) and isinstance(v, str): new[int(k)]["sum"] = clean(v, 220)
+    for a in new: a["ai"] = True                               # remember these were summarized
     for i in data.get("week", []):
         if isinstance(i, int) and 0 <= i < len(new): new[i]["wp"] = True
     for i in data.get("month", []):
@@ -172,7 +173,9 @@ def main():
     for a in found:
         if a["id"] in known or a["title"].lower() in known or a["d"] < cutoff: continue
         known |= {a["id"], a["title"].lower()}; new.append(a)
-    if not ai_pass(new): rule_selects(new)
+    # also catch up on recent stories that never got an AI summary (e.g. from runs before the key was added)
+    backlog = [a for a in old if not a.get("ai") and a["d"] >= (dt.date.today() - dt.timedelta(days=7)).isoformat()]
+    if not ai_pass(new + backlog): rule_selects(new)
     for a in new:
         if not a["sum"]: a["sum"] = f'From {a["src"]}.'
     items = sorted([a for a in new + old if a["d"] >= cutoff], key=lambda a: a["d"], reverse=True)
