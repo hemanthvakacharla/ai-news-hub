@@ -5,7 +5,6 @@ on:
   workflow_dispatch:           # adds a "Run workflow" button for manual refreshes
 permissions:
   contents: write
-  models: read              # lets the run use GitHub Models (free AI) with its own token
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -17,10 +16,9 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python fetch_news.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}       # automatic, nothing to set up
-          AI_PROVIDER: ${{ vars.AI_PROVIDER }}            # empty = github; or gemini / groq / openrouter / cerebras / mistral / none
+          AI_PROVIDER: ${{ vars.AI_PROVIDER }}            # empty = gemini; or groq / openrouter / cerebras / mistral / none
           AI_MODEL: ${{ vars.AI_MODEL }}                  # optional override
-          AI_API_KEY: ${{ secrets.AI_API_KEY }}           # only for providers other than github
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}           # free key from the provider (see README step 4)
       - name: Commit new stories
         run: |
           git config user.name "news-bot"
