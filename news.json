@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T06:15:50Z",
+ "updated": "2026-09-18T06:43:04Z",
  "items": [
   {
    "id": "89aaad01e2",
@@ -132,6 +132,18 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHM1UG1ZaV82aHljTUtwU0U4TzlBeXVVcjdhbkJMdk1oNERCenhULWhESk9fSkI5MWRDckRQQ0hsX2VncE5xMG00eTVlRnM4bm0td3lOT0F4ZlhFTnI1T1FJRnlFYzNZUVNXdVItVVl0NGcxbWlzc09RMTFvUXg1ek9ucXdNZ0xhRHZiaWJ6a2hsQ2ZoWUdJcndpZ1FPYVlfdjNkcw?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "57771c0b7e",
+   "t": "anthropic",
+   "c": "",
+   "src": "VentureBeat",
+   "d": "2026-09-17",
+   "title": "Anthropic launches Claude Code Projects, an ‘always-on’ conversation that remembers and delegates your long-running dev work",
+   "sum": "Anthropic has launched Claude Code Projects, providing persistent conversations that retain context and delegate long-running software development tasks.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbzFBR1I0TUFsdkpnMFY2amNCMzJuRFlxS2tCZ1JiWEFhOVl0WkJBU1pBSkZha0hHWEdMYTFGc201QmtVUGFFU2VnQUh2UW9ucHp5V1Y2Uk10WlBWbjdvYTBjX0JfTDB2MUJDMnFRNkstUG9iNU1hQnV0TXJDcHhhbkdKenEyMVREQ3BVMzdEdnlEN1VKLXpGQXRMRTJGMHlLSzY1TUZSeWEyU0pqMy1SX20wRHJIVTgwZXpqWHVLY184Y09GS0M1M2VCU29ZN1JjYWNGelUya0NmOGxkdVRubnVGM21SM0t1OTJNUmZLbFI?oc=5",
+   "wp": true,
+   "mp": true
   },
   {
    "id": "ddc3e4450e",
