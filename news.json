@@ -1,6 +1,19 @@
 {
- "updated": "2026-09-19T02:12:01Z",
+ "updated": "2026-09-19T13:38:52Z",
  "items": [
+  {
+   "id": "17c3769d36",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-19",
+   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+   "sum": "Andreessen Horowitz-backed startup Vals AI aims to establish a neutral and trustworthy AI benchmarking resource.",
+   "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "a193c15e98",
    "t": "industry",
@@ -1542,10 +1555,11 @@
    "src": "HF Papers",
    "d": "2026-09-16",
    "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
-   "sum": "Multi-modal image generation, particularly subject-driven customization, has garnered growing attention in recent years. Despite the rapid advancement of generative models, their…",
+   "sum": "Researchers introduced UFO, a chain-of-evaluation method designed for omni-condition alignment in subject-driven multi-modal image generation.",
    "url": "https://huggingface.co/papers/2609.12397",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3a5713cd1d",
@@ -1554,10 +1568,11 @@
    "src": "MIT News",
    "d": "2026-09-16",
    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-   "sum": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+   "sum": "MIT researchers developed xvr, a patient-specific AI method using X-rays for surgical navigation in orthopedics and neurosurgery.",
    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "fce5c94662",
@@ -1566,10 +1581,11 @@
    "src": "MIT News",
    "d": "2026-09-16",
    "title": "Measure by measure, studying society accurately",
-   "sum": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
+   "sum": "Political methodology researcher Naoki Egami is refining analytical tools to help scholars achieve durable results in social studies.",
    "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6922588318",
@@ -1578,10 +1594,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-16",
    "title": "Rethinking Robot Safety in the Age of AI",
-   "sum": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine…",
+   "sum": "An IEEE Spectrum article explores safety challenges in physical AI beyond traditional machine safety paradigms.",
    "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "12ca34c6db",
@@ -1590,10 +1607,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-16",
    "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
-   "sum": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches. Download this free…",
+   "sum": "A report details how single-phase direct liquid cooling manages heat in ultra-dense compute environments for AI and high-performance computing.",
    "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "00b7101eea",
@@ -1602,10 +1620,11 @@
    "src": "arXiv",
    "d": "2026-09-16",
    "title": "Higher-order pruning of experts in mixture-of-experts language models",
-   "sum": "Mixture-of-Experts (MoE) language models suffer from large parameter counts, which create a significant memory bottleneck. Expert pruning is the most direct approach for reducing this…",
+   "sum": "A research paper investigates higher-order expert pruning to mitigate memory bottlenecks in mixture-of-experts language models.",
    "url": "https://arxiv.org/abs/2609.18916v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7f23f8e33b",
@@ -1614,10 +1633,11 @@
    "src": "arXiv",
    "d": "2026-09-16",
    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-   "sum": "The scaling laws hold that a language model grows more capable with more parameters and more training data, and Mixture-of-Experts (MoE) architectures have ridden these laws to remarkable…",
+   "sum": "Researchers propose an infinite-parameter LLM approach that generates and adapts model weights directly from live data.",
    "url": "https://arxiv.org/abs/2609.18842v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3a31ab54c0",
@@ -1626,10 +1646,11 @@
    "src": "Techzine Global",
    "d": "2026-09-16",
    "title": "Google focuses on fast, smart speech with Gemini 3.8 Live",
-   "sum": "From Techzine Global.",
+   "sum": "Google is focusing on fast and smart speech capabilities with Gemini 3.8 Live.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWpBNzR5cUxZM1AxUnRBNXNvb19GaGhpT0hZLVAwTUpTVEhyaWQxdzRtS1lOSUJMUkU1d2xGaklvajBOWVNtSXpXVjhYeW1ydThoVFZ2S19IcHVKWEFMUVExM0dYeDZldzZxRlI3c1F6dHlWV0dxaUtxMFhobWVIem1qelBFTUVxZFF2ZWJHaWlfX21KQ1liVkV1Y2QzZ2dVNFJYakthdWl2UQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9891060673",
@@ -1638,10 +1659,11 @@
    "src": "tech-insider.org",
    "d": "2026-09-16",
    "title": "How Google’s Gemini 3.8 Flash Cyber Is Changing the Cybersecurity Game - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "Google introduced Gemini 3.8 Flash Cyber to address cybersecurity use cases.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZjFQVHNxUFZnSHJ6eVY5R0lDckZhUFZiLS04RkhrZmhqMjdRbnhVaFV2X0tma2JQV0ZIVHFCdHR2Mm8tbHdFOG4ybUpuN2ZzNUNiYmV4dy1nZDRTLVpoaVBnSmtoZl8ydm0wRXB2SXl2NEFUR2c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9819ec70a1",
@@ -1650,10 +1672,11 @@
    "src": "developer.nvidia.com",
    "d": "2026-09-16",
    "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
-   "sum": "From developer.nvidia.com.",
+   "sum": "TensorRT Edge-LLM completed the MLPerf Edge Agentic benchmark 6.4 times faster on Nvidia Jetson AGX Thor.",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHI0WHhmMlRfRGN5ZGNSclJiUlJjUFBCbTFxeHQ2SFBubDhLUEZnaW4tNFBIVlZYeElrYWZVVW9tS1RhY0hTWTlvcHY0ajAzREJRMjZDVFNYNzhxZXdMZ3JvUzNYNmlOMV92Z3hRZGlfbHh0UVNPNDhtaUFvNldPcWQxanNoR2h1VWZvMk9KVDg4RmtEQzZ0dFpWMVZibmdHSWFfMmFianliSG1RcW54Zlg5RTFmMURjNVdHVlA4VG9uMU9helE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "cc88811872",
@@ -1662,10 +1685,11 @@
    "src": "Computer Weekly",
    "d": "2026-09-16",
    "title": "Why Thomson Reuters developed its own proprietary AI model",
-   "sum": "From Computer Weekly.",
+   "sum": "Computer Weekly covers why Thomson Reuters developed its own proprietary AI model.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWczS2R0eUpmVEVZUDVka0h6VUZlN0VOYXZqLVlPM0FGbDVoR18zb3ZYNDdHNHpMQjhvS2M5eVlxRVJ3S0VGaHdsc09nc1B4d0RuY3BDQm9nMkM4VnZLclZVLXFaTmZtd3BqU1JZU3BwWVdNZTdXaUpSM3RZUm8zYUdBMElrZVdqTzh1X1FEM0x0UWxlSE1meG8ydEx0QzJ5ZjJFVFVGMA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "71d1755131",
@@ -1674,10 +1698,11 @@
    "src": "tech-insider.org",
    "d": "2026-09-16",
    "title": "Together AI Fine-Tuning: 12 Steps, 70% Cost Cut [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "Together AI outlined a 12-step fine-tuning process claiming a 70 percent cost reduction.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BOXN1QU5zbUNkTFp6ZHdkemZzdTRZUE9xTjNndzVsX1Z2Umk0RWlVNTRzVkNXaHd1YW45aXdCNkU0WVVINVdXSGU2LXR1Nlo1bGZ0bFpPc1ZrRTY1TmU2T0FCU0NZNHBFZlFGYQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bd558eacb4",
@@ -1686,10 +1711,11 @@
    "src": "Lawyers Weekly",
    "d": "2026-09-16",
    "title": "If Every Firm Uses the Same LLM, Where Is Your Edge?",
-   "sum": "From Lawyers Weekly.",
+   "sum": "Lawyers Weekly explores competitive differentiation when law firms use the same underlying large language models.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmJuUzBib0FPYzB0YkwwVi1UTS03REdCc2ZYT3NJWFZ4ZDdBeTBDd2FiQ1R6RzRqU0FOcUVrWHZWZ1g0NUp1NWtsVGdtSDRNSzBKMlVQN09RUE5kbjM4cGdlS2RFcnFzYjRnT2xOUTlpdTZzdk43T2oxd2FqSjlabzRYNllYZ1B2aldud0VkVmpCX3YwaUxMTUo1YVk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9f034b4443",
@@ -1698,10 +1724,11 @@
    "src": "shattered.io",
    "d": "2026-09-16",
    "title": "Intel Core Ultra X9 Ships as ARM Hits Record 15.3% [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Intel has begun shipping the Core Ultra X9 as ARM reaches a 15.3 percent market share.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53NVBLYVFDeDdIdkJPdm15VFNVdVBwZ3dsYk9NLUZOZDk4OG5lUEtjLVp5X0k4SEhPT0dKV0FlcHdYU0RTSndUUmpoQ3VtTncteUl0a1Iwb3d1azRJMGNUcDVnZVkyMGZSNHRhOHBMWG4?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "274e6da7ea",
@@ -1710,10 +1737,11 @@
    "src": "The Tech Buzz",
    "d": "2026-09-16",
    "title": "NVIDIA Vera Rubin NVL72 Dominates MLPerf Inference v6.1",
-   "sum": "From The Tech Buzz.",
+   "sum": "NVIDIA's Vera Rubin NVL72 platform demonstrated leading performance in the MLPerf Inference v6.1 benchmarks.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFA4ZVMwaVJNOXp4TGg1T18zNS1sMTdMTDZOcmsyTTZ2ZGJ5MVRRNF8wbTNkZS1IenBvanpERXF0UDJxM2tLUXl1Yzh1OTFuQ3V5VktDUnAyNDVxVXNvN3Z3UmlFeE9IYVREZVVjUFAwb2hBczdmOV80THc4QklsNjhaeXIzbFJEV1EyZ2xHUWhCUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "250823a8f9",
@@ -1722,10 +1750,11 @@
    "src": "Bitcoin Foundation",
    "d": "2026-09-16",
    "title": "AI Crypto Has a Data Problem: How Much of the Sector Is Actually Decentralized?",
-   "sum": "From Bitcoin Foundation.",
+   "sum": "The Bitcoin Foundation analyzes data centralization concerns within the AI cryptocurrency sector.",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEJobmhGbFFzaXJnWGJuMF9XQkh2cnpCUHRXcFRySTI2V2FnMF82QldZTDF4Nl9aNFJoUDctSGFVWk5yWXBJajM5aHNpaWxuNl9aWjByNUpDemRaQXdUSnhqZW45Z2JlVHBOYnlmeXhLQ2hsNzExMXY0WnJnOFF2X1lmdHUxQ3JpTEdTd3hYZ1ltT2t0NUZhQ2luWDVWYnpyS1lCTlREMHdOb2FmOE5FY3dsSTFwOVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7820b7d94f",
@@ -1734,10 +1763,11 @@
    "src": "Telecompaper",
    "d": "2026-09-16",
    "title": "MediaTek to debut flagship Dimensity 9600 Pro chip on Oppo phone",
-   "sum": "From Telecompaper.",
+   "sum": "MediaTek plans to debut its flagship Dimensity 9600 Pro processor in an upcoming Oppo smartphone.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekMzcXRncG1ucGJTOTFiVVdaVE1TQ0hTUGN6S1lZVlIwTmxIVGVTbVdET0hZcl8ySWgzVmVnd0c1UFh5Z3Y0amIxcWFjZUtDaFZfcWt5cF9YSkNtbmRyazllaUdOa1F1ZlhsM000SzlUU1FjRDNDUmN5dXVBMFVYaUcyeldvZV82MkpRUEdXRzRDZUVCTEtEQTRRYWZ0QUZ6RFVwelJZOW0wLWc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1b905a9caa",
@@ -1759,10 +1789,11 @@
    "src": "HF Papers",
    "d": "2026-09-15",
    "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
-   "sum": "Recent Omni-Modal Generative Models (Omni-Models) have advanced content generation toward unified modeling of text, images, video, and audio. MiniMax-H3 exemplifies this transition by…",
+   "sum": "Researchers evaluated whether the MiniMax-H3 omni-modal generative model can effectively reason about the physical world.",
    "url": "https://huggingface.co/papers/2609.18323",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c924b55f59",
@@ -1771,10 +1802,11 @@
    "src": "HF Papers",
    "d": "2026-09-15",
    "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
-   "sum": "As corporate AI adoption continues to grow, enterprise-grade LLM agents are being deployed into sensitive contexts such as hiring, healthcare, and finance. In these contexts, compliance…",
+   "sum": "The PACT paper evaluates the compliance and reliability of enterprise LLM agents deployed in high-pressure, sensitive domains.",
    "url": "https://huggingface.co/papers/2609.18605",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "18592959ad",
@@ -1783,10 +1815,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-15",
    "title": "AI for Societal Impact",
-   "sum": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+   "sum": "Google published a collection highlighting how experts and local leaders use AI breakthroughs for societal impact.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b86d9a766f",
@@ -1795,10 +1828,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-15",
    "title": "Building AI to accelerate science and improve lives",
-   "sum": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+   "sum": "Google released material on using AI to accelerate scientific discovery and everyday applications.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a243976a4a",
@@ -1807,10 +1841,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-15",
    "title": "AI for everyone in every language",
-   "sum": "Animation of several words in different languages slowly zooming past",
+   "sum": "Google highlighted initiatives to expand AI accessibility across multiple languages.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "00e29a681a",
@@ -1819,10 +1854,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-15",
    "title": "New insights from Google’s AI & Economy ATLAS",
-   "sum": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+   "sum": "Google introduced insights from its AI and Economy Atlas v1.0 report.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "58b5234ee6",
@@ -1831,10 +1867,11 @@
    "src": "vLLM Blog",
    "d": "2026-09-15",
    "title": "How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72",
-   "sum": "How Speculators and Mooncake enabled multi-node DSpark training for Kimi K3.",
+   "sum": "vLLM detailed multi-node DSpark training for Kimi-K3 using Speculators, Mooncake, and GB300 NVL72 systems.",
    "url": "https://vllm.ai/blog/2026-09-15-kimi-k3-dspark",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3106e80619",
@@ -1843,10 +1880,11 @@
    "src": "vLLM Blog",
    "d": "2026-09-15",
    "title": "vLLM x Novita AI: Chord, Faster INT4 MoE for Kimi K2.x. Up to 1.3x on H200, 2.15x on Untuned B300",
-   "sum": "Novita AI has open-sourced Chord, a high-performance W4A16 MoE CUDA kernel for Kimi K2.x serving shapes, with a Humming-compatible indexed path and grouped SM90 operators.",
+   "sum": "Novita AI open-sourced Chord, an INT4 W4A16 MoE CUDA kernel accelerating Kimi K2.x serving on modern GPUs.",
    "url": "https://vllm.ai/blog/2026-09-15-novita-chord-w4a16-moe",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "16a7b27ed0",
@@ -1855,10 +1893,11 @@
    "src": "Hugging Face",
    "d": "2026-09-15",
    "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face examines the consistency and repeatability of AI agent performance across tasks.",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1b7fca8fc4",
@@ -1880,10 +1919,11 @@
    "src": "HF Papers",
    "d": "2026-09-14",
    "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
-   "sum": "GUI agents execute long-horizon tasks on dynamic graphical user interfaces, where pop-ups, delayed loads, and relocated widgets routinely invalidate plans fixed before execution. Recent…",
+   "sum": "A paper presents a training-free skill evolution method allowing GUI agents to dynamically adapt to interface changes.",
    "url": "https://huggingface.co/papers/2609.17653",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1ccfa6a4e9",
@@ -1892,10 +1932,11 @@
    "src": "MIT News",
    "d": "2026-09-14",
    "title": "New method enables AI for safety-critical situations",
-   "sum": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+   "sum": "MIT researchers created HardFlow, an algorithm that enforces strict constraint adherence in generative AI for safety-critical applications.",
    "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "66754acdaa",
@@ -1904,10 +1945,11 @@
    "src": "MIT News",
    "d": "2026-09-14",
    "title": "MIT spinout turns plastic waste into resilient building materials",
-   "sum": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
+   "sum": "MIT spinout Atlas Building Composites is commercializing technology that converts plastic waste into structural building materials.",
    "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9fe82e237d",
