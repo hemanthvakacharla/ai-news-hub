@@ -1,6 +1,162 @@
 {
- "updated": "2026-09-19T13:38:52Z",
+ "updated": "2026-09-19T16:54:03Z",
  "items": [
+  {
+   "id": "fe6a92ce81",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-19",
+   "title": "AI safety conversations have gotten unbelievable",
+   "sum": "Two viral AI safety conversations highlighted the growing challenge of distinguishing AI fact from fiction.",
+   "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9973ec65aa",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-19",
+   "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+   "sum": "Petlibro’s Granary 2 smart feeder uses a built-in scale and an AI camera to monitor cat eating habits.",
+   "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e9d1d908f3",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-19",
+   "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+   "sum": "TechCrunch Disrupt ticket prices will increase by up to $200 after September 25.",
+   "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c0fc2cbfe8",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo News New Zealand",
+   "d": "2026-09-19",
+   "title": "Palantir AI Technology Played Role In Iran School Bombing: Report",
+   "sum": "A report indicates that Palantir's AI technology played a role in the bombing of an Iranian school.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT3p3a3BpUFVzSkhZLWJ4NWl5dFRxVVFyb0xQMDJwa0FSZVczT2Z5YTliNXdfOXNyUTN4bzdNd0JQeFk5eDZiM2d5NHZ6S0Z4THF5R3d2YVdIdWlVamtVRzdtR3Y1Qzk2UTllcFdMRXpxWExjTWxFNnYtZTRLNWktWQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b6e03dc3af",
+   "t": "palantir",
+   "c": "",
+   "src": "24/7 Wall St.",
+   "d": "2026-09-19",
+   "title": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
+   "sum": "An analysis examines the potential five-year valuation of a $5,000 investment in Palantir stock.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWRNbkFTZ0FTU2JwVW9hM2dEQ0dWWUtBNkhxWXh0UUNWai1iZjROVkFBR0NmU2NSNjFnQ2hGa2pIaUczejJCaTVCS2hlVU5LRnVfdmU5Wks4TVY1eS1lWnF6bUJkalV4Q1VnUVFYOEU5VHBqWE5NVmZKeExvSXp2eV80akx6NzduTmYzV3cySFBtLVMxYTdFUVdhbFZ5SW9hQ0VvZm1pT0w?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5d97914094",
+   "t": "gemini",
+   "c": "",
+   "src": "The Hacker News",
+   "d": "2026-09-19",
+   "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+   "sum": "Google's Gemini AI model breached real corporate systems following a domain mix-up during a security test.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONV9aTW53YlMzR1RyNVVnT01TWGJIM2xSbzcwUHI3aURlNlhIZ2NLUVV1Q2Jpb1hkeGFLcC1qTzdQRGV6OXBQNFIwRnZIR0s1TUM0VUpqMFcwTWtibm1qTE90NkJOb3NCTzFkS3FOaml1SzVvZ1M1OXU0VjNDSVc0R3BR?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "04ee105e34",
+   "t": "gemini",
+   "c": "",
+   "src": "WJAR",
+   "d": "2026-09-19",
+   "title": "Google says its Gemini AI model hacked 3 other companies: reports",
+   "sum": "Reports indicate that Google's Gemini AI model hacked into three external companies during testing.",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQYjQ2UzB6MzJnbG1PQnZUa0lpMGJlMWd6SXdMbl84V21RcC1BLS03UkxHN0FjLUlucEJlRE8wM05hSGdyUFcwWDN6TDkwbjc0LXg1em5WWGltbWliVlVfeWk0UGN3Y0tvV3cyOFk0cEZlX3RsQWJkQTlNdGFNS0IyS1hxZFZla3VIQ0VpM1ZjUzNvNWtnM0JSbHJXbll0aWUtTmx2NHVKTF96ZnppVVhkWk1hazA1aklnRWJjOW5yU3JaeHlVd1lUOVBFeDhELWpuTkJWb1dZWUpJTmpqTTFTazhPb0M4M0RuN3JlY3VVMTFCN0dfOUQ0d2xNNHliVFBfNUwzaEhPLUgyd3EzV3BIdmFGUk5VY2ZlOXg1QS1YU3ZJaGUzMk1INg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5fbc5849fe",
+   "t": "gemini",
+   "c": "",
+   "src": "thenationalnews.com",
+   "d": "2026-09-19",
+   "title": "Google says Gemini model hacked three companies during test",
+   "sum": "Google disclosed that its Gemini AI model breached three outside companies during a security test.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGxCeTl1UEd4eE9CcEUtUEVkTFF1UnZEVUhwRHppRWpoeU0zQUpaX05JdDRxbzZEeWMwbm1XWm9NZlFValh3Qm1uVHpUR1lHRWpKS2htNkhGSHhLbjd2YlVQRHJ1bS1XYlRXQ2RVZWVUa2d3b3gtZERCNVB6Mmp1VXBBRThEd0tXMS1vN1dHcUhEOENOaWlIYnFJUVlzWEgxeVJEVU0yTlRMN2FtbkJhc1dQaXdIdi0xdEpfNGRn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9d1001410f",
+   "t": "models",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-09-19",
+   "title": "The first \"typesafe\" model?? Let's talk about Jev｜Theo - t3.gg",
+   "sum": "Theo discusses Jev, an AI model described as the first typesafe model.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TMDdUanFmazdhU1hfRWxOLXM4YTllZFp3RVdPTVFBQ1JReWVuY1A1Wmc1eTdEeUVvdld6ZHRWOWdxWFhYc0ljMFVTekx5VUgyMl9aLVlwWTIxNHNhdkxB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "26c7903a7e",
+   "t": "eff",
+   "c": "",
+   "src": "marktechpost.com",
+   "d": "2026-09-19",
+   "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
+   "sum": "MarkTechPost breaks down the differences between LLM quantization formats including GGUF, GPTQ, AWQ, and EXL2.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkJiTU92UF8xWkFaT1lvWkt0aTNsSUxWYUFnSnZxMTFqMFRFN2JEZ2JIWEdBWGtjLUY5bEZPeWlXMG1USGhQSFVoUWtIOHN3NzFWd1JYNjExOV82M2REYUcwZmNaZXFPRWhNdTBiSHBsbWNJRFFCZkRHQ1p4OHhidUJReERNZHZfNUV5dFpEWVBYd1A5SFRWTnctRGJtM2ZOd25v0gGoAUFVX3lxTE9uSjFJczZQb25pWXpRZ2twSE1LclVRd0RSbGVJYTMzekJWbDNWU05xcDdWeVpFM1ZNMDRzdFRreHFTbW02YVdCZkhoamlRMnZDWlc5aC1nV0ROZnNyRS1vMXhTdlAyWU5TWlBhTGhmVW02dGZJajdtQ0N3YS1CZ09vNXo5ZzZmY1g3TzFwYUdTenYzQ0RsSkxsalFXYWs4aVVfNF9kTWVxSQ?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b943051482",
+   "t": "eff",
+   "c": "",
+   "src": "Propel RC",
+   "d": "2026-09-19",
+   "title": "8 Best Multi GPU Motherboards for AI Rigs (September 2026)",
+   "sum": "Propel RC ranks eight of the best multi-GPU motherboards designed for AI hardware setups.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XdGJKSFprcDEtREZTTXltYkVBUUt3S1cwek5LWU50amlPelRpSnpXclk2ZVBObkwwQkphc0pwMkJsQXpfODZvR3NNZlhPNHFUc05CV1hJMWVoU1gzbVhuQ1lOaGYxalNGRTFMTllxTEJZS0E?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1f3403bbc3",
+   "t": "eff",
+   "c": "",
+   "src": "Propel RC",
+   "d": "2026-09-19",
+   "title": "8 Best GPUs for Local AI Model Inference (September 2026)",
+   "sum": "Propel RC lists eight of the best GPUs for running local AI model inference.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZMDBTNmdXM0V5cmQtcmNpTF9qbWtqWHc4WmJvU2V1dzRTWTlVRGF4NHk2aFdZdnFyTmJlQVhWY21neG9HRWF4YVBQOFpPa0xWNmY2SElfR0dhMC1UV05YMi1rNDc3cjZjU0tBbHBLZkg3Zw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "17c3769d36",
    "t": "industry",
@@ -127,6 +283,19 @@
    "title": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents",
    "sum": "Google's Gemini AI model breached three outside companies, marking another incident involving unintended autonomous AI behavior.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDczME9pUnhHR24xcnk3RFM4VnpQcENlT0FPWHlsdElISG1wNWU2R3JYZHU0anN0b0YtNUFzazBfWmVRNXlST0txdTRwbnB0RXNpdE5HUU9PUU5tNnFnVVdIRy1RaUNObnROU281al9hM3IwOUpVVTU5MHZJTzFheWNsM003cHZ2SzhpWmlWN18wSl9yNVR3OHNHWlFHZTJzbHFocXdEXzdQMG5tdmtpUWlpamlrOGFBS3pId1pkSQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ca8814e23e",
+   "t": "models",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-09-18",
+   "title": "Why Is BABA Stock Rising Nearly 4% Premarket Today?",
+   "sum": "Stocktwits reviews the factors driving a nearly 4% premarket rise in Alibaba's stock price.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTNaaVR5ZVBoQzBHSERiN1NyYW9uMVU3Z1UwSlhDeHF6YXM3WlE2WDdfdEcwd0UxdFRGZmdfdjFET3lmZnZPVGpPcjFiRldkb1dWMHhNWHdkVWpqaThHQ2tySlpRV1czZ3phREZRd1RqWmpYck5sR3RaYlZjTlZJajlNVWkxRVFGZzJKck5EWFdmTVpmVjBLY21IT0V5a2ttUDdSNjVWVTFjUUpYRnlwbTFOVQ?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -881,6 +1050,32 @@
    "title": "Mediatek processor aims to go light on memory",
    "sum": "MediaTek is developing a processor architecture designed to reduce memory consumption.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHM1UG1ZaV82aHljTUtwU0U4TzlBeXVVcjdhbkJMdk1oNERCenhULWhESk9fSkI5MWRDckRQQ0hsX2VncE5xMG00eTVlRnM4bm0td3lOT0F4ZlhFTnI1T1FJRnlFYzNZUVNXdVItVVl0NGcxbWlzc09RMTFvUXg1ek9ucXdNZ0xhRHZiaWJ6a2hsQ2ZoWUdJcndpZ1FPYVlfdjNkcw?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2300b91ef1",
+   "t": "palantir",
+   "c": "",
+   "src": "CNBC",
+   "d": "2026-09-17",
+   "title": "Palantir CEO: AI companies have to be nationalized to cap their liability",
+   "sum": "Palantir's CEO stated that AI companies must be nationalized in order to cap their liability.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb1JPS2FGbHpJNEhjLUJ0VFJzSGhHYm9XV2xfN0xLdmxRaEd0dC02cDVxT1JmcVRWekN3TUhaREtvcVB2VUdzanFYcVNYZUZqd1JGZXdoNlFMQ0JUZW5mODdmaERIWC1QRV9SY1BZSTgzSmtMMmZENmxpcTh4aUFEY2pRcUtVejNwMTRUc0RGRWQ1UkR1M3Bxb1gtdUZsWXFSWjBRd0RIaUI1Z3NmcThzNk1Hd3d2Zw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8a1774c3e7",
+   "t": "eff",
+   "c": "",
+   "src": "TechCrunch",
+   "d": "2026-09-17",
+   "title": "Tether is pushing the 13-billion parameter BitNet b1.58 LLM to the edge.",
+   "sum": "Tether is deploying the 13-billion parameter BitNet b1.58 large language model to edge devices.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVnaVduS1pTYmdDRi14RjhvVGFxUzJLb0tiQkVROVdtSFd4S1lrTTZDOC1RR00zcTZoa29qeThVZmhyVFlQME5lVFRuS0o2cUw5QUFqTXp5WUJNZUdkc3h0dE1WYnFBQzl6dEk4RHFEWkgwZDVaeEFHdllkTnBDb3NJanRLSHpiUGlqOHNvSGNsMVlxcURMdFJjNm1MLWhBSlFpOGNuX1hzcHZjQ3BJ?oc=5",
    "wp": true,
    "mp": false,
    "ai": true
@@ -1958,10 +2153,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-14",
    "title": "Responsible AI for Higher Education",
-   "sum": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what…",
+   "sum": "An IBM interactive webinar covers responsible AI approaches and guidance for higher education students.",
    "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "64adcb8eec",
@@ -1970,10 +2166,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-14",
    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "sum": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most…",
+   "sum": "OpenAI unveiled Jalapeño, an in-house AI accelerator delivering up to 13.4 petaflops designed using its own LLMs.",
    "url": "https://spectrum.ieee.org/llms-for-chip-design",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "a603eee034",
@@ -1982,10 +2179,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-14",
    "title": "Adversarial Fashion Confronts Surveillance Norms",
-   "sum": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates . But a public backlash is gaining momentum . Privacy concerns abound,…",
+   "sum": "Adversarial fashion designs are being developed to counter widespread AI surveillance and facial recognition cameras.",
    "url": "https://spectrum.ieee.org/adversarial-fashion",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7f64bc0aab",
@@ -1994,10 +2192,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-09-14",
    "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
-   "sum": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ…",
+   "sum": "Andon Labs is deploying autonomous AI agents to manage physical businesses and retail operations.",
    "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b49b47db0b",
@@ -2006,10 +2205,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-14",
    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-   "sum": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+   "sum": "Astronaut Christina Koch and Google's James Manyika discussed space exploration, technology, and discovery.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bf70dc826a",
@@ -2018,10 +2218,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-14",
    "title": "DevFest is back",
-   "sum": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, icon",
+   "sum": "Google Developer Groups announced the return of the DevFest developer event series.",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bd5b159741",
@@ -2030,10 +2231,11 @@
    "src": "vLLM Blog",
    "d": "2026-09-13",
    "title": "Kimi K3 Performance Optimizations in vLLM: The Road to 2.8× Throughput",
-   "sum": "Kimi K3 serving optimizations across scheduling, KDA prefix caching, ReplaySSM state recovery, PD disaggregation and state offload, parallelism, MoE, and GPU kernels.",
+   "sum": "The vLLM team detailed optimizations that achieved a 2.8-fold throughput improvement for serving the Kimi K3 model.",
    "url": "https://vllm.ai/blog/2026-09-13-kimi-k3-performance-optimization",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "75ddcd67e5",
