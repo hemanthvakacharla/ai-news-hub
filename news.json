@@ -1,6 +1,71 @@
 {
- "updated": "2026-09-19T21:11:13Z",
+ "updated": "2026-09-20T02:20:00Z",
  "items": [
+  {
+   "id": "d253ae95f0",
+   "t": "eff",
+   "c": "",
+   "src": "Intelligent Living",
+   "d": "2026-09-20",
+   "title": "Neuromorphic AI Inference: How China Mobile Cloud Cut Power Use by 40%",
+   "sum": "China Mobile Cloud lowered AI inference power consumption by 40% through the use of neuromorphic computing.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pWkRkN1JQRHRhN1hZU09PYXB3aW5nWDJwa1NYVW9ob2hwNUV4R2hwMjRfQTFnYndLMEl1MUZHdHFvaHc3MzlCaWlJaEtESldycGVkZnhPVFphZ0VZMGNrTlZaaDZJSjhlcXZhcmJKZC1xV3Y4SDJ5QkhsbVU?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "e3fd47e1e0",
+   "t": "palantir",
+   "c": "",
+   "src": "simplywall.st",
+   "d": "2026-09-19",
+   "title": "Palantir (PLTR) Stock Looks Near Fair Value On Future Cash Flow",
+   "sum": "A discounted cash flow analysis suggests Palantir's stock is currently trading near its estimated fair value.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUEk5YzBKeGR0ektVRmZ3OTJoSEhrVXhzQnIwbEtWTUExc0NVUWVIdTZScXN5SWVwTERzOXhnc0t6MlhzUTU5TUpMT21Vc2xsa3BjcUpPN01QWHhIcS14UXlhWi1lNVpweS1WcnlCQ3NMMDZUTWZhRkdTX2ZValBrZ2ZJZkl1LXZMR0tWZGhpc0VxMzZRX3gyVC1kaGVkZ1NhNkhrSUd0cGxLdWdoU2VsNk1qVlRTUzJwWVdUQ0ZPQjFXVzNhdjFwUmpfTFktWW9wWnVPbEQ4azNGdjVO0gHcAUFVX3lxTE9QSTljMEp4ZHR6S1VGZnc5MmhISGtVeHNCcjBsS1ZNQTFzQ1VRZUh1NlJxc3lJZXBMRHM5eGdzS3oyWHNRNTlNSkxPbVVzbGxrcGNxSk83TVBYeEhxLXhReWFaLWU1WnB5LVZyeUJDc0wwNlRNZmFGR1NfZlVqUGtnZklmSXUtdkxHS1ZkaGlzRXEzNlFfeDJULWRoZWRnU2E2SGtJR3RwbEt1Z2hTZWw2TWpWVFNTMnBZV1RDRk9CMVdXM2F2MXBSal9MWS1Zb3BadU9sRDhrM0Z2NU4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5707aef8f6",
+   "t": "palantir",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-09-19",
+   "title": "Dan Ives Reignites Palantir’s $1 Trillion Thesis – But Retail Sentiment Remains Bearish",
+   "sum": "Analyst Dan Ives reiterated a bullish long-term thesis for Palantir despite lingering bearish sentiment among retail investors.",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLUxtem5MM2RvMGw1SkNCaDIzS2hfM0ZKbFFSZk40MFF0MXhRQXJhWkFST3BnckxuZjlmTDZfUTYzUG5wTmlSVGJXN1VnaVh2dFZnUDZlRDh2Rmg1U09VVml0WlFxUWg4cElJdEpKNzNrTXZUSUdYbE1aNnJicXVYVGR1T2JfTlF3SVluR1g2bzBDQzNQSDJtZEpleEJsdnM5bzY0dE9MZ2FBcnAxbmxES2VVZllGVThOUXJTUzRHeXBralpNZ1NIZkpWMjVUN3gwZGZyV2Z4enlaZVZHZ3pleF93?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9787291116",
+   "t": "models",
+   "c": "",
+   "src": "Medium",
+   "d": "2026-09-19",
+   "title": "What Is Jev? The Model That Answers in Probabilities",
+   "sum": "An overview details Jev, an artificial intelligence model designed to generate outputs expressed in probabilities.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUg3MnFUNnRBUUMtN1JfWHZKZzR4dF9QS0xUOV9yaV91bk9Kd1VZRVdPZEpDQklkeVBVVkVyNkR2R0xkd2NjSzVzOUNVenRpcFpUcDEwMVJaNGdoOFF6TnhFbm90U1dwZEdKRjRmU2pyZjA0bnNRRlJqV3BCa0xzWHZ3cG5HY0oybVRtMDB3THZfN3lJUkdfQmQxQkE2Mm84aC1iMW5YZVlwTEk?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "fcf394fccd",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-09-19",
+   "title": "What's New in Inference Engineering — Philip Kiely, Baseten｜AI Engineer",
+   "sum": "Baseten engineer Philip Kiely outlines recent developments and emerging trends in AI inference engineering.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iRENkT2RJSE9nMGJhZVlwOEEwWDNHLVpFdzdTOTB5NDVXMTNHZFhjOHBnWFRMeWNBWnZRNDhUU1E3MHRWUmRmZGo1R3pjMGpYd2VxT2YzNW95NTJGUWdr?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
   {
    "id": "2c088408c2",
    "t": "industry",
