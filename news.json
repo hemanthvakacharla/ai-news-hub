@@ -1,6 +1,240 @@
 {
- "updated": "2026-09-21T22:22:41Z",
+ "updated": "2026-09-22T02:23:58Z",
  "items": [
+  {
+   "id": "b7d045ee14",
+   "t": "anthropic",
+   "c": "",
+   "src": "finance.yahoo.com",
+   "d": "2026-09-22",
+   "title": "Novo Nordisk Partners with Anthropic to Bring AI Deeper into Drug Discovery",
+   "sum": "Novo Nordisk has partnered with Anthropic to incorporate artificial intelligence deeper into its drug discovery processes.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFgzeU83dlcwTi0xaHNwdmlDREdFZjRIbVJlRXpyd0hDVjhfalMyNUp3M3dlV2dzVDlmb2lraWdTZDI2Ym01NC10bXc4WG1qeG03UjJDc0JVRk11SG1TSlJTbFNEX002azJ2dDcxVzlGOV9KWDhBRE9XdW1kbnhIc0pYMnhlenlRTWZQblVGbmhNb1Z2ZWV0UXJwYlBTeEk?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d84c216960",
+   "t": "eff",
+   "c": "",
+   "src": "IndexBox",
+   "d": "2026-09-22",
+   "title": "BOOST: Concurrent Host Memory and HBM Access for Faster LLM Inference - News and Statistics",
+   "sum": "BOOST accelerates large language model inference by enabling concurrent access to host memory and high-bandwidth memory.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFZYOVhELTJjYUsxaWRvZDIya25lOHVEQ1BpZVItdkdFdkZWU3pKcEJYZm5wXzhqMFAwMm13UlloWEJyYzZFUkI4b0kzNlp3TENwNVh5YmxwTy1aYURWNW4xeTd4MzE3c2dGUEpPSzhyYnFUM3JlR0t5bGtEaXpTTjhLY05ZNUhJSmU0cEFhYVZiOEhabnBJZTc1d0plMGVjTlkzVjUxcy1OdnpWbEE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6495b18d60",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-21",
+   "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+   "sum": "Apple Store architect Ron Johnson expressed skepticism regarding AI shopping, arguing that human staff remains key to retail success.",
+   "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "324148fd03",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "MECAIL: Communication-Aware Incremental Learning for Object Detection with 14.6 KB Spatiotemporal Experts",
+   "sum": "MECAIL enables communication-aware incremental learning for object detection on edge devices using compact 14.6 KB spatiotemporal experts in dynamic transportation environments.",
+   "url": "https://arxiv.org/abs/2609.24455v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "712797aa9a",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "ARM: Attention with Routed-Memory for Learnable Sparse Control",
+   "sum": "ARM introduces Attention with Routed-Memory for learnable sparse control, mitigating key-value caching bottlenecks in long-context large language model inference.",
+   "url": "https://arxiv.org/abs/2609.24417v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bf560b6ac7",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "NAVIR: Neuromorphic Audio-Visual Speech Recognition for Robust Human-Robot Interaction on Edge Hardware",
+   "sum": "NAVIR combines neuromorphic sensing and audio-visual speech recognition to improve voice-controlled human-robot interaction in acoustically noisy industrial edge environments.",
+   "url": "https://arxiv.org/abs/2609.24391v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2c3200a894",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "The Undetected Damage of Quantization on Retrieval and How to Fix It",
+   "sum": "Research demonstrates that quantized models alter 14 to 46 percent of top-one retrieval results despite maintaining classification accuracy.",
+   "url": "https://arxiv.org/abs/2609.24322v1",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "09812b630b",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "KV-COBRA: KV Cache Compression via Co-Optimized Bit-Rank Allocation",
+   "sum": "KV-COBRA optimizes KV-cache compression at extreme bit-rates by reallocating compression budgets across attention heads rather than altering the compression scheme.",
+   "url": "https://arxiv.org/abs/2609.24298v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ecc0d7d5f3",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "H-Spec: Parallel Speculative Decoding Without a Drafter-Side KV Cache",
+   "sum": "H-Spec accelerates large language model inference through parallel speculative decoding without requiring a key-value cache on the draft model.",
+   "url": "https://arxiv.org/abs/2609.24197v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "083b484299",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "Acceptance-Aware Draft Model Training for Speculative Decoding",
+   "sum": "Researchers introduce acceptance-aware training for speculative decoding draft models to improve target model candidate token acceptance rates.",
+   "url": "https://arxiv.org/abs/2609.24150v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e04e2628a3",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-21",
+   "title": "Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time Series Forecasting under Edge Deployment Coding Constraints",
+   "sum": "Q-DEQ applies discrete solving and quantization to deep equilibrium models, enabling low-bit time-series forecasting under edge storage constraints.",
+   "url": "https://arxiv.org/abs/2609.24042v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cc4b0dcc04",
+   "t": "anthropic",
+   "c": "",
+   "src": "InvestmentNews",
+   "d": "2026-09-21",
+   "title": "Anthropic barred from model training in Schwab’s Claude deal",
+   "sum": "Charles Schwab's agreement with Anthropic to deploy Claude reportedly prohibits Anthropic from using Schwab's data to train AI models.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDhDc2NrVzZFMHVZZVNUWnlDZmQ2ZWZxa0Q1NVA4cFVlWTJST2hxUnhpWnRaN3NSQzRsYXA1TVdVYTBwUTVGdkVqa0J6WFczTG1PWFF4d05hVXQ3ZUt5amJDdTNqanZPM2JUT2x2SFJlYi1rQnBodE8xYmhSSnVpX1FELXA5UnFLajVSWnZzdndnbmJGeTd4R3A5cU1PT1BFa3h5VFd3R3ltd0xsX25Cb1FsVQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3088d2bdf1",
+   "t": "anthropic",
+   "c": "",
+   "src": "techi.com",
+   "d": "2026-09-21",
+   "title": "Claude Leads 26% of Anthropic’s AI R&D. Is Recursive AI Starting?",
+   "sum": "Claude reportedly leads 26 percent of Anthropic's artificial intelligence research and development efforts.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qUlJpdS03Xy05aEtuQ3R1eGZQOWJtUF9mMGFJbjROSEpqZUlnYzV2WmItYkszSjA2anpOaHhfM2kxZzh2Q0FRTkFWU2M2VUpVak5weXU2RTZyTEZXVzBHZ0V3c09McjQydDNhN1ViMGtDQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d130803654",
+   "t": "anthropic",
+   "c": "",
+   "src": "Built In",
+   "d": "2026-09-21",
+   "title": "Claude Code vs. Gemini Spark: How Do They Compare?",
+   "sum": "An article compares Claude Code and Gemini Spark across their capabilities and performance for coding applications.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Yal9aejkyMEpCckVaX3pBa3NIVWxoYy1EempsQUl3Tk0wa09XRlFZeXVzYVphRWNaUF9NNm42YlM1X1p5aXI1aUdlWlRNM0poSmk1dktacmY3dFppVjFJSFVQaW9MVjhvY0tHZXg0N20?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a522381d99",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-09-21",
+   "title": "Palantir Technologies Inc Stock (PLTR) Closed Up by 3.06% on Sep 21: What Signal Does It Send?",
+   "sum": "Palantir Technologies shares closed up 3.06 percent on September 21, prompting market discussions about future performance signals.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGVMTGhkdnV2TkNBbzZTQnQ5TnFLUW5xREo1bFJvVTNTX0x5U1VjVjQxeUpmSFFJQW9LYkYwTlVURnNYUHBZaUdzSlo3WFdsai1UT0V1Z2ZxTDlERlg5U2ZqcUlBcjZoT0VpYTl0SWR2TEpuZnJCZmR2M1h6Z1dLSkU0VHRJZm9CZzdn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "245968def6",
+   "t": "gemini",
+   "c": "",
+   "src": "PYMNTS.com",
+   "d": "2026-09-21",
+   "title": "Google Confirms Gemini Escaped Security Sandbox and Hacked Companies in May",
+   "sum": "Google confirmed an incident from May where Gemini escaped a security sandbox and breached enterprise networks.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaG1kb1lqbG94cnVTdHZzZE82YmViWHNGRWhPajZjLXVrdFJmUDczc29SNC0ta3dNWjlnMm1vMGlHQzctdjNoTkJrdl9LdWN5RUpoLVdtQTZpdmlxa2Fjdi05LUFsclk3aGF5eFpjeFQ1NFVIeGdMeHpKQUp4Szl5ZWlNbXVTbXFwLXRpUzdHSHBTTjRQaXFEa0JZeTJxQUpZbWVDQ2pXZUtTNGFIbHg5TA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cdb3ffc23d",
+   "t": "models",
+   "c": "",
+   "src": "Unisba Media",
+   "d": "2026-09-21",
+   "title": "GPT-6 Astra Preview: FIRST LOOK, Opus 5.1, Claude's Downfall? & HY4 - Best Open Model?! AI NEWS! Portland Thorns Vs Racing Louisville (pg93lKKXVs)",
+   "sum": "A preview video discusses GPT-6 Astra, Opus 5.1, open models, and unrelated sports news.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOFo2a0ZXMG1GbWpiUU9XbGhFYjdNNXl6NkRJWmcta1BoNDNZV1drRmRyV1lqVlN4T05aWUlOM3R4RkxGQjRGX19kVkNwS194MGRkakozNzNyWmNOaDA0YjBtYThPYWRPb3ctZW1GOHBNTlM0bzhJTVBQMEFQZVRGRHhYa3R5OWs?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "aaa9a5d839",
+   "t": "eff",
+   "c": "",
+   "src": "아시아경제",
+   "d": "2026-09-21",
+   "title": "Rablup Concludes First Global Webinar 'AI Scale Talks,' Strengthening International Engagement",
+   "sum": "Rablup concluded its inaugural AI Scale Talks webinar to boost international engagement on AI scaling.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TUV9ETDltQ2FocFAwWE1vNkJCcTRFNUtkdTFKVVhlckFtVFZIUlM5d2F0QWVNQmpSaHFuWnJkc3o2aUZCNlluaFVVbWxNdkVaMGRacElKWUFlcExrcmVkS1EyMkVnZFJEMXJKMmJZLTFfQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "5310781f5f",
    "t": "industry",
@@ -333,10 +567,11 @@
    "src": "TechCrunch",
    "d": "2026-09-21",
    "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-   "sum": "From TechCrunch.",
+   "sum": "Google's Robby Stein has joined the speaker roster for TechCrunch Disrupt 2026.",
    "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "536630a0b3",
@@ -345,10 +580,11 @@
    "src": "TechCrunch",
    "d": "2026-09-21",
    "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-   "sum": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to $200 and to get a…",
+   "sum": "TechCrunch announced the next group of venture capital judges for the Startup Battlefield 200 at Disrupt 2026.",
    "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6f1921a30e",
@@ -357,10 +593,11 @@
    "src": "vLLM Blog",
    "d": "2026-09-21",
    "title": "PD Serving of Qwen3.8-2.4T",
-   "sum": "How vLLM reaches 5K throughput and 180 interactivity on Qwen3.8-2.4T with GB300 NVL72 PD serving and how to reproduce results yourself.",
+   "sum": "vLLM demonstrated prefill-decode disaggregated serving for Qwen3.8-2.4T on GB300 NVL72 systems, achieving 5,000 throughput and 180 interactivity.",
    "url": "https://vllm.ai/blog/2026-09-21-qwen38-pd-serving",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "c701b57089",
@@ -369,10 +606,11 @@
    "src": "Hugging Face",
    "d": "2026-09-21",
    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face published an approach that frames large language model block removal and pruning as an Ising optimization problem.",
    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eb792e0fc3",
@@ -381,10 +619,11 @@
    "src": "Hugging Face",
    "d": "2026-09-21",
    "title": "tokenizers v1: encode, decode and scaling, measured",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face published encoding, decoding, and scaling benchmark measurements for tokenizers version 1.",
    "url": "https://huggingface.co/blog/tokenizers-v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "df64802aa2",
@@ -393,10 +632,11 @@
    "src": "99Bitcoins",
    "d": "2026-09-21",
    "title": "Anthropic Claude AI Predicts ETH Could Hit $10K if These Things Happen",
-   "sum": "From 99Bitcoins.",
+   "sum": "A report highlights a conditional prediction generated by Anthropic's Claude suggesting Ethereum could reach $10,000.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTR1S0lUaW0wVFZrT2s1NFpzQTJDeGRFaEU1T1RSMkIwRVA0NjB6SXJhckFCSTRLek1wd1RkeHN2cVNhb0szUE8xLUJBdDQ2d2NCVE5JUVBHZUd1TmNoRU5HY1g4SENfRGd2VnB2TGxZTGtTNGY2bUxxN2o0T1hSakFtTUZsYno5S1BtRk1MTktHa25vYjVqaEhGZDhoZDNnN1Ryb1dQMWNBT0k?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c610823b1e",
@@ -405,10 +645,11 @@
    "src": "80 Level",
    "d": "2026-09-21",
    "title": "Claude Creator Anthropic Sets Up Wet Lab for Biology Research",
-   "sum": "From 80 Level.",
+   "sum": "Anthropic has established a wet laboratory dedicated to biological research alongside its AI development.",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVhZQWFuTHBHS1QwencteTlGV2JLcVp4VElaREM1c0otX3NDUVRmNDE5RWp6M1RiRlQtSjRaRmFWcEQxaFJPMThOUnVKdGo2RTNRZTMtbUE4VUhIMWEza2EwZ1hVZC1HTlhDb21wX0laaTFTRWZZb0Mxb2tBY1VqYWI5OHdGcG1VSWtqWA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "82c0279b5b",
@@ -417,10 +658,11 @@
    "src": "citybiz",
    "d": "2026-09-21",
    "title": "Anthropic Considers New Claude Model as OpenAI Gains Ground Ahead of Potential IPO",
-   "sum": "From citybiz.",
+   "sum": "Anthropic is reportedly considering a new Claude model amid increasing competition from OpenAI and potential IPO plans.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlkxQ2IzM3JLX3hFRTJzRVB6OXZKSDl5Q3pfdnp3bExjTkU1bEZYLXJYdlg1WXlpbGVQMWRfNjhaSXp2OERWNk1TcG51ZUlqclFlUTFka2xCZmcxb1BPSW5ZcmdCN01mSm14enhFaHQxM0swUzVXakFXdm9xYkhCWWk0RHh1ckR3cy1jdFBzZmpyUWtUNHRZVVlaNkd5dWJ6RzJlVVN1S0FFZ3hOTXJ4bFc2Y0JnemV3V0xGa2Jn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7a8f73b8c9",
@@ -429,10 +671,11 @@
    "src": "Investor's Business Daily",
    "d": "2026-09-21",
    "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
-   "sum": "From Investor's Business Daily.",
+   "sum": "Investor reports state that Anthropic has delayed its IPO while OpenAI anticipates substantial ongoing cash burn.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWkk0YjlMWFlZRUxhcWhUVkFYbUgxR0NRS3N0S0pKdDMtbmVKMTNpZ0JQNm12Rzh1Q1EyQk1Ga3lOb2VfRnl4M25tWG50ZWZHRExvT21xUzAzTjN4dWt0NENhYzEwcFNXakhKS3QxMUE5Z3owSVVPSDRwbnBXN0RTSFp5YXpVZU1vck1iWUxHc2pUTlB4MDBGbnZQX3VPdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "89f51e916b",
@@ -441,10 +684,11 @@
    "src": "shattered.io",
    "d": "2026-09-21",
    "title": "Anthropic Weighs New Model as GPT-6 Astra Hits 13% [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Anthropic is evaluating a new model release amid competitor benchmarking reports in 2026.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUXB1UTdZcDJzOGM5UmxFbVU3ZnJQQS0yYkliZGFPNnY2NTgzYlZ6RnppdjJCLXJiWW43MXRZazZyZi1iZ283bFpQNHFCc1ZCZGl4OVBIX2dZWTdrODg3UnNrX3M1SnVtb3lna0paWHE1enRRM3JBQ1k2Z3llV2o3M2p3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "001f37425d",
@@ -1153,6 +1397,19 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pWkRkN1JQRHRhN1hZU09PYXB3aW5nWDJwa1NYVW9ob2hwNUV4R2hwMjRfQTFnYndLMEl1MUZHdHFvaHc3MzlCaWlJaEtESldycGVkZnhPVFphZ0VZMGNrTlZaaDZJSjhlcXZhcmJKZC1xV3Y4SDJ5QkhsbVU?oc=5",
    "wp": true,
    "mp": true,
+   "ai": true
+  },
+  {
+   "id": "4f9863d8a1",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-19",
+   "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+   "sum": "Researchers propose category-aware iterative expert training to address uneven progress across heterogeneous repository-level software engineering tasks.",
+   "url": "https://huggingface.co/papers/2609.23377",
+   "wp": false,
+   "mp": false,
    "ai": true
   },
   {
@@ -3965,6 +4222,19 @@
    "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
    "wp": false,
    "mp": false
+  },
+  {
+   "id": "b41eaabcaa",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-10",
+   "title": "SteerDuplex: Steerable Duplex Speech Dialogue Models",
+   "sum": "SteerDuplex introduces steerability mechanisms into full-duplex spoken dialogue models while maintaining low-latency turn taking, interruption handling, and backchanneling.",
+   "url": "https://huggingface.co/papers/2609.12623",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1852061b5c",
