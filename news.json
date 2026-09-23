@@ -1,6 +1,126 @@
 {
- "updated": "2026-09-22T21:48:55Z",
+ "updated": "2026-09-23T02:27:58Z",
  "items": [
+  {
+   "id": "d93240d4c3",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-22",
+   "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+   "sum": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much…",
+   "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "7e5d39ad04",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-22",
+   "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+   "sum": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+   "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "413bc7d9c8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning",
+   "sum": "Quantization-aware distillation (QAD) restores much of the short-form question-answering performance lost to sub-3-bit quantization, yet leaves mathematical and code reasoning…",
+   "url": "https://arxiv.org/abs/2609.26708v1",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8788203218",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "Unlocking Cross-Scenario Physical Layer Security: A Mixture-of-Experts Framework with Generative Diffusion Models",
+   "sum": "The future 6G networks are expected to incorporate a proliferation of wireless services in diverse environments, which presents a significant challenge for information security.…",
+   "url": "https://arxiv.org/abs/2609.26598v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "3da5d3dcad",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "PP-Net: A Hybrid Physical-Prior Neural Network for Scattered Light Removal in Biomedical Images on Embedded Devices",
+   "sum": "Scattered light is common in biomedical images, yet its removal remains challenging. The difficulty arises from three aspects: first, aligned scattered-light-free biomedical ground truth…",
+   "url": "https://arxiv.org/abs/2609.26474v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "1d1adcedba",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "Geometry-Aware Hyperbolic Residual Quantization",
+   "sum": "Residual Vector Quantization turns continuous representations into discrete, multi-level token sequences. Yet most methods operate in Euclidean space, despite the coarse-to-fine structure…",
+   "url": "https://arxiv.org/abs/2609.26342v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f321174eaa",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "Disaggregated Quantization: Specializing LLM Prefill and Decode",
+   "sum": "Prefill and decode reward different approaches to quantization: low-precision arithmetic accelerates prompt processing, while compact weights reduce memory traffic during generation. We…",
+   "url": "https://arxiv.org/abs/2609.26333v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "2222178e6a",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "CompKV: Compensation-Aware KV Selection for Long-Context LLM Inference",
+   "sum": "Despite their strong performance, large language models (LLMs) are bottlenecked by KV cache memory traffic during long-context inference. Sparse attention is widely used to accelerate LLM…",
+   "url": "https://arxiv.org/abs/2609.26300v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "78c3faee5c",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "Beyond Scalar Sensitivity: Activation-Aware Mixed-Precision LLM Quantization with Cross-Layer Refinement",
+   "sum": "Mixed-precision weight quantization is commonly formulated as a Multiple-Choice Knapsack Problem (MCKP), yet existing solvers rely on scalar sensitivity proxies that collapse each weight…",
+   "url": "https://arxiv.org/abs/2609.25916v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "2f5bd2b90a",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-22",
+   "title": "You Only Need 2/3 of the Chosen Experts: An Empirical Study of Dynamic Expert Pruning in Fine-Grained MoE LLMs",
+   "sum": "Fine-grained mixture-of-experts (MoE) architectures have become a mainstream design for open-weight LLMs, with hundreds of experts and increasingly many selected per token. This shift…",
+   "url": "https://arxiv.org/abs/2609.25809v1",
+   "wp": false,
+   "mp": false
+  },
   {
    "id": "948ab460c8",
    "t": "eff",
@@ -674,6 +794,30 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "923e973a8e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-21",
+   "title": "Recursive self-improvement of AI research agents",
+   "sum": "AI agents are beginning to automate research and development across the AI stack, from improving training efficiency to optimizing inference. A natural next step is to improve the research…",
+   "url": "https://huggingface.co/papers/2609.26457",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c188af5349",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-21",
+   "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+   "sum": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical…",
+   "url": "https://huggingface.co/papers/2609.26796",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "5a518a3e56",
@@ -1639,6 +1783,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "907a8295df",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-20",
+   "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
+   "sum": "Generating Scalable Vector Graphics (SVG) code from natural-language instructions is an open-ended task without absolute visual ground truth, leaving both evaluation and policy…",
+   "url": "https://huggingface.co/papers/2609.25270",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "94c4052c2e",
@@ -5145,6 +5301,18 @@
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
    "sum": "From Hugging Face.",
    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "d95ed66aa2",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-09",
+   "title": "The information geometry of large language models is shared, learned, and controllable",
+   "sum": "Large language models learn similar behaviours, yet it remains unclear what structure they share or how to change one behaviour without disturbing others. The Fisher-Rao geometry of…",
+   "url": "https://huggingface.co/papers/2609.11063",
    "wp": false,
    "mp": false
   },
