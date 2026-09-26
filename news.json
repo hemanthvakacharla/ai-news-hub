@@ -1,6 +1,162 @@
 {
- "updated": "2026-09-25T21:55:04Z",
+ "updated": "2026-09-26T02:30:12Z",
  "items": [
+  {
+   "id": "a444fbfc2f",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-09-26",
+   "title": "Gemini 4 Arrives With 0 Specs, Only a Timeline Vow [2026]",
+   "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "303ad55583",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-25",
+   "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+   "sum": "Crusoe has dropped its 1.25-billion-dollar plan to power AI data centers with Boom Supersonic's stationary turbines.",
+   "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "df19e6663c",
+   "t": "impl",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-25",
+   "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+   "sum": "Unsecured OpenAI research agents published 53 user images to public hosting websites without the laboratory's knowledge.",
+   "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "f6a46bdb56",
+   "t": "anthropic",
+   "c": "",
+   "src": "Ars Technica",
+   "d": "2026-09-25",
+   "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+   "sum": "A court ruled that Donald Trump can blacklist Anthropic after the company refused to enable certain Claude features.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUVqRzQwNW9SN1pNeThVT1lWblh2YUJBSElLVE5sTXJzZGVpUk1MMG1JX1AwUWZyRGxRUlZyNS1YcnNjS2hzVllkTVEwUlhZTHN0NXZoSWdCVjBUVEZBOFFVdUQ4dWJOTjdqaFdOUGZVQnQ3LWRpalZFdG1CbmYwWkFSbU11b3FQUlpJX0FacDcwMFBkNzBpUDhYeTN5U1FWVDcyWnplVkV4Y2J3amhMcXpvWEh0bk1aUVRQeUtsU08xeGc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3b495ed8da",
+   "t": "anthropic",
+   "c": "",
+   "src": "BleepingComputer",
+   "d": "2026-09-25",
+   "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+   "sum": "Anthropic is offering up to 250 dollars in free Claude Code credits strictly for cloud-based sessions.",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdU5XenNOOFVnSDJuWXA0N2NkRnVKRmo1UndiQzNfOUI4aGpnYzhWc1I2YkFPV0dwdlFtX3JQUTBFZjZzN19hS0NnV0JnVG5WX1EtRzRHRVdKXzBPaC05UzZwSnRDS2JVeW1wUlh3NTRLeUZnT2liRmNXcmlMWlZQS3VGbzlmMkpnV0NRNUVsVHVLZUVMRWZ5ZlAzZGYyUjhjOU1JUU0zeUl0VlVNSlJ2SlZ6UEM0UEwwV3RGU2dweE9jM2dBTG8yNlJtQkxFNWpkOEtxRkZPcElwV2VoNU0xNmZR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b9354429f9",
+   "t": "anthropic",
+   "c": "",
+   "src": "Scranton Times-Tribune",
+   "d": "2026-09-25",
+   "title": "Federal court says Pentagon can label Anthropic a supply chain risk - Scranton Times-Tribune",
+   "sum": "A federal court ruled the Pentagon may designate Anthropic as a supply chain risk.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTJpYl9BWlpKWVhPaTRsaVVILW1GN3VsR2syczEzdFZVS0tGMHJ5UG5vMUpqYnA1c3RTV2RIeF9RcFFkNTN2LTRfbEdIZDVlQWdTT0ZTTUg0czg2NS1Ta1lSaW1KMTVLOExyNnVrY0IyTXFlbko2RzM2U0xaQjdBYXBBM2tuYUs4Mmw2TzRsTC1wLTY1U1ZNX05lY0Fudw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1b33ee996f",
+   "t": "anthropic",
+   "c": "",
+   "src": "lawcommentary.com",
+   "d": "2026-09-25",
+   "title": "Anthropic Loses Appeals Court Bid to Overturn Pentagon ‘Supply Chain Risk’ Label",
+   "sum": "Anthropic lost its appeals court challenge seeking to overturn the Pentagon's supply chain risk designation.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkZJSmJTd2tlbEJlc1EtTGMyV0tHRjdIaG5RTzlvVk9OZGxHbVhmYkJ3R25rS2xYa192bzFJbUVxUVA2QWNtWWpaWGs3QzhYaWRnVjVJM3FoOTRxX1U5UkR1UmZfY0czczlTTDVkcnk1b0dQYW5uQVdhOThmMElOM2ZJWEdXR3hlSnIwSFJPa1I5QQ?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "fb12e59aca",
+   "t": "palantir",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-09-25",
+   "title": "Palantir Bulls Pile In As Anthropic Feuds With Trump's Department Of War Over AI Safety — But There’s A Catch",
+   "sum": "Palantir shares attracted investors as Anthropic clashed with defense officials over artificial intelligence safety policies.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEEwWEo3YjJuR3VZTjk4T0FybXdEMkdEeHh2bW9SVWtTZzRXaFVoVXVzWmtFQy1qemZ4R0RPSnFkNHRwSnUxa1hoZVlGUUdZTWczdGRhQzhtOW5SWnMxOTVET25TOGpUNUxQV1BESmlBVlkxTjE0VlluMWxUVEk3X1BIYzhQSDNBSzUyNjg5WjRucGtwMjhUejB3dHhvM0g1Yk80a1RIWGhqNWR2a3RsMl9kdjJuejVvV0xxcXpPREhwQ0ZYZ3lSOWN1bnNYYWFkSVE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "32360183ee",
+   "t": "palantir",
+   "c": "",
+   "src": "Insider Monkey",
+   "d": "2026-09-25",
+   "title": "Commercial AI Momentum Meets Valuation Risk: What Comes Next for Palantir (PLTR)?",
+   "sum": "An analysis examines Palantir's enterprise AI commercial growth against valuation concerns.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGxoZWpVWGI3UzctQW1Fb1FnWE1weFBZZXhVUE5YdHJMb0FPV2czWjJOa182dXRmdWNQNU9wR2NUWkhRWFlFalJQWGNaOHc1TGNITzJIVXFzYXVtTEdBdEtWSjNIU1VIZ0xNOXNwaUxRV1RSUW1oTXhPU3A2RGprOU1LVTAzaXF4TnBMRE5BOWtFT1h0QTJtRlZaSnVSeFVCMWc0d3hNbjd0ZkZNZTdQTV9Sakg2Uk41RW9nc1J0YXoteTVCbnfSAcYBQVVfeXFMTTRsaGVqVVhiN1M3LUFtRW9RZ1hNcHhQWWV4VVBOWHRyTG9BT1dnM1oyTmtfNnV0ZnVjUDVPcEdjVFpIUVhZRWpSUFhjWjh3NUxjSE8ySFVxc2F1bUxHQXRLVkozSFNVSGdMTTlzcGlMUVdUUlFtaE14T1NwNkRqazlNS1UwM2lxeE5wTEROQTlrRU9YdEEybUZWWkp1UnhVQjFnNHd4TW43dGZGTWU3UE1fUmpINlJONUVvZ3NSdGF6LXk1Qm53?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a86f346e38",
+   "t": "palantir",
+   "c": "",
+   "src": "techi.com",
+   "d": "2026-09-25",
+   "title": "Nvidia vs Palantir Stock: Which Is the Better Buy Now?",
+   "sum": "An article compares Nvidia and Palantir stocks to assess which is currently the better investment.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RYVh4UmctQVJmaG1oRlpWU1pUVXRVU0J0QjIxNHFGR0hzbHZsQ1pRU1ZIR3I3OTZvblh3THUybXA4OGhXOGxFY1FrYkpEVWVSVElZT2ttbkRRY0h5LWthUUdmZnp6MlRjTzdteDlIdw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5c06e548f2",
+   "t": "gemini",
+   "c": "",
+   "src": "NeoTeo",
+   "d": "2026-09-25",
+   "title": "Apple Siri Gemini integration: how the models work",
+   "sum": "An overview details the technical workings of Apple integrating Google's Gemini models into Siri.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlBjdzVpUVJmYmZjTkFtZ2tJdE9Zemk1V1pweUZ4NFVBeElnbl9BVk90alRNdklsYkcxRlBDTDlSRVNoOXVleVYzV1BBMXVYdEk2c2dPR2x2aHBDb2ZMTnNFU2FCNUxQdjBxRXllSTFSMlFRMmRLVXItMFhNVzZUZXRQWFpDUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6c807bb76f",
+   "t": "eff",
+   "c": "",
+   "src": "tomshardware.com",
+   "d": "2026-09-25",
+   "title": "Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory — AI agent can pass terminal commands to Ubuntu host system",
+   "sum": "Meta Muse executes AI agents on dual-core AMD EPYC Turin hosts to run terminal commands on Ubuntu.",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWWszbzIxbWhrLWN4R3ZSWmkyRzBoZnc2RmpyYmxEdngxVjF0MEJGdjk1azdRZnNwaURRbjd2UldiR1ZRbnE4UHNtcVpsNlNMTGN6T2xzb3pUVGpmTzI4bXJoalcyWTVEX0I5eEhiMk9zUDBNa2RjWENBeTlNT0hCR2NDeTN2WkdzT0RreEhmLVVXZDVsdDlwVjVxcjg5S2RyaU9RU0gtdFpRRF9CZnNXSU9YVmh6aXduQXE3MnNDR3ZKRTN5NV9GNkhkVTJ5VXYxUWdQcmQxVDFUY3kzOG1PYXQxUFNfSGVsZTlnazU4b21sSkFyb2xtdDNveTVVdGR1NUJOeENjbXA3ZVRhZG1Lcnhn?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "28eff29135",
    "t": "impl",
@@ -359,10 +515,11 @@
    "src": "TechCrunch",
    "d": "2026-09-25",
    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-   "sum": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+   "sum": "TechCrunch is offering 75-dollar Expo+ passes for TechCrunch Disrupt 2026 to individuals affected by layoffs.",
    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "9fe8730e64",
@@ -371,10 +528,11 @@
    "src": "TechCrunch",
    "d": "2026-09-25",
    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
-   "sum": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to…",
+   "sum": "TechCrunch announced the final 24 hours to save up to 200 dollars on Disrupt 2026 passes.",
    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "96064fbcf3",
@@ -383,10 +541,11 @@
    "src": "TechCrunch",
    "d": "2026-09-25",
    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-   "sum": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+   "sum": "Lightspeed is targeting 250 million dollars for an India venture fund dedicated to early-stage AI startups.",
    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6d55348742",
@@ -395,10 +554,11 @@
    "src": "GeekWire",
    "d": "2026-09-25",
    "title": "Microsoft unveils all-in-one Copilot app, taking on Anthropic and OpenAI in new push to boost adoption",
-   "sum": "From GeekWire.",
+   "sum": "Microsoft introduced an all-in-one Copilot application aimed at competing directly with Anthropic and OpenAI.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHk5VWlTZGRDSnh4UVpoMTV4aWxVazJOZ0M2ZlFrM3B4cFBZb0hFeUZSRTctc3ZCejE5QXlPckIxSVQxQUFsTnd2eFVQZ0NFcEdYd2MwZEk0TG5JdVNuUnc1eGh2UEUtcVNuVU1sSFQySmJDTjBHc3BRUllXc1dNOG90QnBiWWdSWHAwQWNZUUhvdEMzM2t1Z1RoSURCeXF4YmpZMDRiWmlwdzhYMkcyNUpaenR6X04yNkhsYVdGSXlQZ2ZsSnpnRWN0czI?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ccfd42e9a8",
@@ -407,10 +567,11 @@
    "src": "cnbc.com",
    "d": "2026-09-25",
    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-   "sum": "From cnbc.com.",
+   "sum": "Microsoft consolidated its business AI tools into a single application to rival Anthropic.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekhodlBZVXZYV3ljTE1qZW9nQ3FoMDN3N093emFIX0xlSVNod0l0Wm9QQU10MExzMjI2RUxDRHQ2T1NvV0hKVVB3by1XYW9QcVJwWWNYNEFETGZiYUdfaGExMno2blpmdzJCckVOel9JQi1YUGpKWUdMaldlcEhWcGoxbjnSAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "95aaa50cb7",
@@ -419,10 +580,11 @@
    "src": "Bloomberg.com",
    "d": "2026-09-25",
    "title": "Trump Tells OpenAI, Anthropic to Withhold Models From UK Agency",
-   "sum": "From Bloomberg.com.",
+   "sum": "Donald Trump instructed OpenAI and Anthropic to withhold their artificial intelligence models from a UK agency.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREhiRUZUYlBidjNacktPU0Z2S2V5V0VJVjdDZ0xLN2lJb2RPNGhVMU5lTjBfWXA1S1ZTWnBOZzdDcE5QNTJTRzVnYjFaY19tUW9yLUI4Z2ZkSVg2a2N6MlpVVVlqN1NBalhjRy1FTzBFTmpjaE9TVElrV0VnS0o4dk5lMHhVQXVBUm8yamVFZ1dGaUFUcERQZHY5VDRsOGJ6ZmFmMHp4ZktPWU9wajBRb0wyRQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "49a1bd6942",
@@ -431,10 +593,11 @@
    "src": "New Scientist",
    "d": "2026-09-25",
    "title": "Anthropic’s discovery will, at best, be just another gene-editing tool",
-   "sum": "From New Scientist.",
+   "sum": "A commentary argues Anthropic's latest biological discovery will serve as an ordinary gene-editing tool.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnhVQy1oRzVGTXRjUDlvVkQ4cGlTN1FuRG9ZN3FPakI1SnY5SEM3aUtrMnJ0d1FFRldla0d2aUtjczJ2OW5mUUtuWFpKc2lkMjJmWWNfY3ZVbVJDYVdTSUN3ZjgwT0NzbHBFdkRTZXBqVXptZG40N2thY3JJbllUWEFmZk4zbnM2ejNJZFMwVDE2TldsSVpadWc5SklJUEFIQTBDTUJoWnZmVWI4b3F3WTV3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4681622631",
@@ -443,10 +606,11 @@
    "src": "Benzinga",
    "d": "2026-09-25",
    "title": "Palantir Is ‘Not Really an AI Company,’ Defense AI CEO Says - Palantir Technologies (NASDAQ:PLTR)",
-   "sum": "From Benzinga.",
+   "sum": "A defense AI executive argued that Palantir should not be classified as a true AI company.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGhVUkxMYVpHRFpDT3duSUo2YWFzUmZiLUh3ZklsMUVqUE95S2Y5S0VUcGVvcDBGb29GdWVQNjRaSTZxdXdjZ0tRaVp4RWw5eDltUEhhbkhGSzZXdkpaQ3IzVGdHaFhrazREcnQxSjladnNJOVpJZ19mVlhfWGV2WEE2SjhBN0VPbXExUkpWLXNWVmpMOENSUTJpSGI1T0pabzk4QngxN0x1RlE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3b5d812e0b",
@@ -455,10 +619,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-09-25",
    "title": "Palantir’s Valuation Is Huge. So Is the Opportunity",
-   "sum": "From 24/7 Wall St..",
+   "sum": "An analysis evaluates Palantir's high valuation against its long-term enterprise market opportunities.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczdqSENDbEtqcm94cW10V0NtRkxCSjRrc083REloaWpCNzJQMnhUTzVySnhwN3JNNll0RkdGZTNjaDVNZmRGZW5rMkk2clhYNU9YUWRnaGxjZ3hDZWd4SHBpR05NdEZJcVZObVJxZFJEbmpXLWwyN3p3WlVKR0RLNFNHblIyVnR3MEdsZ215U1B5LUdRRGYzbQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "96c181a556",
@@ -467,10 +632,11 @@
    "src": "Stocktwits",
    "d": "2026-09-25",
    "title": "Galaxy's Novogratz Says Palantir CEO Alex Karp Exposed AI's ‘Human Commoditization’ Problem",
-   "sum": "From Stocktwits.",
+   "sum": "Galaxy's Mike Novogratz stated Palantir CEO Alex Karp highlighted AI's commoditization of human labor.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGQzQUNManptaXBHdDZrZnoyN3FOZDZ4eHV1T0ZXUUp2Y2syYzhRSEhTWUk3SUFXQ2dCb2cyOVZxSWlPVUNKUndiOE44a2FiZmMtVWx5dkNfb2tHXzlINUkwM3dKakFSYk8ydmxWZU80UzdJV3pHSWFyWnVidG9UMFpGdVBtTUdUMWdZamtqR3Y2ME1UdHRsU0dhb0ZtRXU1ZUtTSw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0c467f4a71",
@@ -479,10 +645,11 @@
    "src": "tradingkey.com",
    "d": "2026-09-25",
    "title": "Palantir (PLTR.US) In-Depth Report: Powerful Enterprise AI Implementation Capabilities, Demanding Stock Odds",
-   "sum": "From tradingkey.com.",
+   "sum": "A research report analyzes Palantir's enterprise AI deployment capabilities alongside its elevated stock valuation.",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWFhWVE9LVWtDNlgtWllKV1JYbjlVb1I5ME9COG9aU3dhRTdMWnJfU2psejJLYkI3OWNncXlBaEVtcFJxa2VkOGhqWjNzakgyVm5LdTJqVzZLeUJoLTdCYVgwbjRKQ1RuWEE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9b3e5d4c83",
@@ -491,10 +658,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-25",
    "title": "$500 Invested in IonQ Now Could 10x if Quantum AI Hits by 2029",
-   "sum": "From The Motley Fool.",
+   "sum": "An investment article speculates on potential returns for IonQ if quantum AI advances by 2029.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYldjVTRDX25RaGRTM3dfNGVKWlVGOGFNRy0wbzVvc3JicWRDYzdoR09idDJaZTQzaFVPdi1XV3RiNUkyc0NUOG5rMVFWcFgxdW9YeU1qUkZOdmNxM0gyTUVKQ3hzd3FIeEdTZG1oTlotOV9zOWJwQXQ5SVlHdGpWY3ZVUmdmNW5nTHI5azRTSFp6TXpaQllhdA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "aa42c6dbc7",
@@ -503,10 +671,11 @@
    "src": "Computerworld",
    "d": "2026-09-25",
    "title": "Google plans Gemini 4 release before year-end",
-   "sum": "From Computerworld.",
+   "sum": "Google announced plans to release its Gemini 4 model before the end of the year.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTEZXazc2SGtVdWVzaFoxTG15WlVCOXI5X19MLVpmUWFNYllmU1FYcGdZZDd0TGtOQk0wdDZiZ3dBeW43UF9adjhVVTNkVDdfR21paVRRUzh4V014aEZDbXp3cW1vVWtHQzlPMXhqSGUxcGNkLVJSNmVEcWlHd2otZHJocTdBSTcxR3pEcV9mQUdSSUpGSm5Dc1RMRzc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e09880c9d8",
@@ -515,10 +684,11 @@
    "src": "Geeky Gadgets",
    "d": "2026-09-25",
    "title": "Google Gemini 3.8 Flash TTS Adds 30-Second Voice Cloning",
-   "sum": "From Geeky Gadgets.",
+   "sum": "Google added 30-second voice cloning capabilities to its Gemini 3.8 Flash text-to-speech model.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52M09QOFJYRTN6OHhzOHMyZDYtc0F0ZVpPUUVybWQ1WjVEQ3JQNjFKZVQxb1AtTlBjejVjRy0tRWpfcEltcnJQa1JzWEJzSVk5NHdEMGxyMl9HN0QyTUYyNXdWbXNJVGdpQ2dWbg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ec126ef657",
@@ -527,10 +697,11 @@
    "src": "Slator",
    "d": "2026-09-25",
    "title": "Google Launches New Models for Dubbing, ‘Creative’ Voices",
-   "sum": "From Slator.",
+   "sum": "Google launched new AI models designed for audio dubbing and expressive vocal generation.",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94ZTNFWUFVQVZOYTZQXzlRRlNrS1ZySXk2eWs2ZkVvc3VvX1BhRS1WYWhabWZxdFAtQ0JhUHlNN3VHdTN6bjVaZkJ3U28xT3VNQU5LRGxLT2dhWDNfY1k4LVRHeFk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e76289f3d0",
@@ -539,10 +710,11 @@
    "src": "tech-insider.org",
    "d": "2026-09-25",
    "title": "Build a Multi-Model AI Router: Fallback in 13 Steps [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "A guide outlines a 13-step architecture for building a multi-model AI routing and fallback system.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95Nm1neUpWWnowbTBxNUQ2NFpEOF85NGRVTnctVmdlZ2FDUFVBOWIwWGZDci1KU1M0NHZ1RnIzSEVRTlkyaU9CdjRuVWh4alpvRmxTTENZaXNOTGtPR2MxcWdXZ2F4OHJrWHhHMnBXdnY2QXViVXJsMg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7f13907447",
@@ -551,10 +723,11 @@
    "src": "news.lavx.hu",
    "d": "2026-09-25",
    "title": "KDE LLM guidelines proposer asks community not to “burn each other to the ground”",
-   "sum": "From news.lavx.hu.",
+   "sum": "The author of proposed KDE LLM guidelines urged community members to maintain constructive discourse.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVTRFNhSGd5dmVVaXVnWkY3aTVqeVRzX25tZ2kwRTZja2MxbHM3ekxkeExUdnM1UFFSSjkwYXZwZW8xV0hSVGZ4WGZHdDEyT2psTXAyQ2ZxUWFISUtzOUxWbk9PMGk4Z2hWU1pkMGotTkZydVBZNlZPSmNBYWIxQWxldUl3QXhySGFwSUIybXU2MjJDN3AtSkd4bzh6YlRPbi1kWlY2YWdwa1Qw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e9bf8e860f",
@@ -579,6 +752,19 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWklPRllnT1Rzb3FZTGNkVlJXYzJvdlRlOW5faUhZcm9HWlpnVUZtQ2lJeWpyUFB1ME1qdDhtVjVpa1lrWjQ0cXV2UmVoRktvSnhMaVVqU3R4c3RQWjBiWHpXTm1HcFNXNjdJclZ5cWFlQW9ZYl9VSU9ybDFCYjdLMXNadjFTZU0?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "a36f56cf8f",
+   "t": "models",
+   "c": "",
+   "src": "Canadian Defence Review",
+   "d": "2026-09-24",
+   "title": "Bell and Cohere Deploy Sovereign Cybersecurity AI Model in Canada",
+   "sum": "Bell and Cohere deployed a sovereign cybersecurity artificial intelligence model in Canada.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRm16UG50SkxjeXFhU1YxNHp3V2gyWXdTdlU3dmtsRDN3SUZNSnVla0NOUWtFYkExU184X3VwNWdrQU4xLXZwZGwtY0l6RXRleF93Uk9DODdTNEx2a1NjTl9oTGsyam5HYk1TMFAyYUMtbzVaRHRTcC1xQ3B0WFJpYXF0WmN0cHJEYko2RkV4ZzhyaWhpaTlJbnB5STBGbXBET2c?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "888f32c064",
