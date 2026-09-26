@@ -1,6 +1,97 @@
 {
- "updated": "2026-09-26T02:30:12Z",
+ "updated": "2026-09-26T13:57:23Z",
  "items": [
+  {
+   "id": "1fe1b6ab72",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-26",
+   "title": "At Meta Connect, the company’s smart glasses were everywhere",
+   "sum": "Meta highlighted its smart glasses line as a central hardware focus during Meta Connect.",
+   "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "23d70ff179",
+   "t": "anthropic",
+   "c": "",
+   "src": "abcnews.com",
+   "d": "2026-09-26",
+   "title": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic 'supply chain risk' designation",
+   "sum": "A federal judge expressed skepticism regarding Pentagon arguments supporting its supply chain risk designation for Anthropic.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e9f92d12df",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Cryptonomist",
+   "d": "2026-09-26",
+   "title": "Court upholds Pentagon’s supply-chain risk label on Anthropic’s Claude AI",
+   "sum": "A court upheld the Pentagon's classification of Anthropic's Claude AI as a supply-chain risk.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EMmJiaW9ySmdmaDJlRXF0M0dRQU5UNnc4T3J4NGVTQ2hyVDFpajJ0eGozcVF3SExhNi1rTnBod1RwM1hqRnVhRTdIQUVqdzRYR1hhUE9ZQWtHejl2VjFuZ3JBd2hPNUU2bnlibHJFcVBYaWpaWGFHVzd3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e0da5bfc8a",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-09-26",
+   "title": "The Biggest Risk to Palantir Stock Has Nothing to Do With Its Valuation",
+   "sum": "An analysis argues that Palantir's primary risks stem from business factors rather than its market valuation.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXZJSGYxWEtYYWllQlkxX1Y5ODZMd2xEREhneDZhcVhoMjUza0lvSDk5bVU1Sng4a1d0a2laVUZaa1dNTVMzOTd5cHM1V3g5WkdKeWNnWE5qOXlpZTBKWTVDT1lMc29WanE2VWJ6cWpWN2N0NFlkUE0xakFjaTZLRDJZUTBibkcwamt1eExXVUg0RFZQNlQ4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3e32bb0ebc",
+   "t": "palantir",
+   "c": "",
+   "src": "simplywall.st",
+   "d": "2026-09-26",
+   "title": "What Is Palantir Technologies (PLTR) Signaling Through AI Expansion And Accountability?",
+   "sum": "An analysis examines Palantir's recent AI expansion plans and related corporate accountability efforts.",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeWNwSHoybDQ3NmkweXl2dngweHA4QTVQSi1OaG54eXFuWVRmZzlqUkdkbnR3MzNQeDBiLUlvNG0zRnd5QnBRQm95WlZqaWthRGc2d01PSmlJX0lGNHJUWWx6UU5UZkpmWVplTzk0VTFTUUdUeHpCWVNETUpidVhwUE1GdGp5WG45aF9SMkVVR1RTUUhJelBwMlRkUXVDRlNVcXZFZjdEcWt5R203UWprc3ZxdERpV0lidVpZbWZoTWlINVdRTlNlT0Yzc2lVbGpIWDRpOTBvWdIB3AFBVV95cUxNbEE0eWZFNzdNUjU5aHFnUGxPSGxpeWpQZ0ppMzNfSU1UcS11QnB5RXFYWkJsRTNkLU41c2xiNm50OXI0TTlqTlpEdGZNRzF2S2dZb0hLamtnTjhlZzdDWGM0SG9lQmNOX1U4SUFjbWQ2MW00ZlZYU0ZhWW1KWV94UWMzWWEtaVFXMlUzZkNmSVFtbWRVeGtvOHcxNzczbENRTE5wV2VudExNeG5mSUVLd0dRU3A4Zk1ISFBYMkFWXzlYeW1uX285TXF3c1VURXlJSU5VZ3JtUHNnZk84?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d90e1997d2",
+   "t": "gemini",
+   "c": "",
+   "src": "trendingtopics.eu",
+   "d": "2026-09-26",
+   "title": "Gemini 4: Leaks, Release Date and Why Google Must Catch Up",
+   "sum": "Reports and leaks outline expected features, release schedules, and competitive pressures surrounding Google's unreleased Gemini 4.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81ZGsxTlZtUEFXMDBSWFl0ZFo0VkEydnNlUjloWVBVYnBUUGZ3cmtLQnZ2dE8wa2lCbnhaRTFGc0pwUGRYVy0xMlFfYm9MZWx4cDlua3Z3VjZrd3duY18taElaWQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e55c229112",
+   "t": "eff",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-09-26",
+   "title": "Vera Rubin NVL72 MLPerf Results: 3.7x Over GB300",
+   "sum": "Published MLPerf benchmarks report that Vera Rubin NVL72 achieved 3.7 times the performance of GB300 systems.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aOTRKQUNQMjYyNTlqUndPc2dPVjVKOGRoTzN1MGdzdXQ0OFJxaWNzZGpNNWZtYWQyaW1HYVp5bnppSEVqNElGcGlPR0V0SVRQNGtXYjIxZ1lfRHJKcERZZzVxcmJfczRSeDQ0ZEdZQW5YS2M?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "a444fbfc2f",
    "t": "gemini",
@@ -11,6 +102,45 @@
    "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e2d98f3077",
+   "t": "anthropic",
+   "c": "",
+   "src": "CNN",
+   "d": "2026-09-25",
+   "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
+   "sum": "A federal appeals court ruled that the Pentagon acted legally when blacklisting AI developer Anthropic.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RajNPU0VTeE5CeTZlZEtEY2Z0SEw4TmNPdG81bjRpYmVOMnQ1UWhjTHBtOG1jVEc0UFdwaHl0N2d4T0x5cWpPQ3pfS3VsMDB4a3ptSGlXUV82QUJXbEdBdC1jdUx5d3RZQk5iaVF3RGpSbWI5WjhwczdfOVctd2s?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "0203b2c5b6",
+   "t": "palantir",
+   "c": "",
+   "src": "CryptoRank",
+   "d": "2026-09-25",
+   "title": "Palantir 联合创始人：AI 政策极其危险",
+   "sum": "A Palantir co-founder warned that current AI policy approaches pose extreme dangers.",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oOU5vY1Y3NUZSdFhGeElxVjY0RXNMb2hMU3duZ05KR1R1dGR3c3NEcmMtWEhIXzhhTHEwX3dkRE9lWU1VbEtyRm1JYzNJQkIwYUhwdHpIcXM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2f7c1ce702",
+   "t": "eff",
+   "c": "",
+   "src": "Nature",
+   "d": "2026-09-25",
+   "title": "Bit-sliced quantization for robust memristor-based compute-in-memory",
+   "sum": "Researchers presented a bit-sliced quantization technique to improve the robustness of memristor-based compute-in-memory architectures.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hRWJSLUZVV1p5bWFMMDVUTGxLTXZqTl9TZmhYVXdYTU5vdlRremg5UHNpRUZBMU1IV2hxc1dzcFBsc19TNGJRQnpZQ2dRanlyVDBWZ096YWljYWxubndZ?oc=5",
+   "wp": true,
    "mp": false,
    "ai": true
   },
@@ -736,10 +866,11 @@
    "src": "AI News",
    "d": "2026-09-25",
    "title": "The GPU Shortage Inside Your Own Infrastructure: Why AI Workloads Queue While Capacity Sits Idle",
-   "sum": "From AI News.",
+   "sum": "An analysis explores internal scheduling bottlenecks that cause AI jobs to queue while data center GPUs sit idle.",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeHRDanh4SmVubXhFMGlGdFBaSmxZWFBMMm9kZlZkRkpPdTdUd0RheFdGS21wbGJNYkdBVENFX05kSUFnSExCeFNOVG5BTWxIX3FZbVRTTlNiUkJUODFWZzNrZzN4Z095eDFraF90enFMV3M4WGdaMkYxRF9DYkdLSUFndW1aTG1OLXJXS1JSY0R1SkVkUjROSGMzTE44U1ZfZ3FtZkQ1VkloalVvRGxFRDVyY3lVLU04QzVxVi1MMkVScHg3Nk5rNWNJY196YVdQRmxjT2dkYkNKYnd3X2c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9711da1193",
@@ -748,10 +879,24 @@
    "src": "intellectia.ai",
    "d": "2026-09-25",
    "title": "Can Palantir Sustain Growth and Meet Valuation Goals?",
-   "sum": "From intellectia.ai.",
+   "sum": "An equity report evaluates whether Palantir can maintain revenue growth rates required to support its valuation.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWklPRllnT1Rzb3FZTGNkVlJXYzJvdlRlOW5faUhZcm9HWlpnVUZtQ2lJeWpyUFB1ME1qdDhtVjVpa1lrWjQ0cXV2UmVoRktvSnhMaVVqU3R4c3RQWjBiWHpXTm1HcFNXNjdJclZ5cWFlQW9ZYl9VSU9ybDFCYjdLMXNadjFTZU0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "58bc1eda9d",
+   "t": "gemini",
+   "c": "",
+   "src": "Seeking Alpha",
+   "d": "2026-09-24",
+   "title": "Google unveils new Gemini 3.8 Live with Live Avatar model (GOOG:NASDAQ)",
+   "sum": "Google unveiled Gemini 3.8 Live alongside a new Live Avatar model.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGJKYUxfbTFJSWpWR0ZCaTE0ZEZ2YmlGV0RKaS1abkFMNzJ6TmZtUVpCTkVQbHFNanQ0MkRjcUNrWnlwbm5ReklCSDk4VjZJVFZKd2JkVGN5ODdFRE56UlZvVl9ueVpZQV9vYmplVTFJLXRMU1d5S3o1V0xUNkhSbmNNSUpxRW1FRllQYXNpdFZZSkRMcUVBajNfRQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a36f56cf8f",
@@ -786,10 +931,11 @@
    "src": "amd.com",
    "d": "2026-09-24",
    "title": "Beyond TOPS: AMD Ryzen™ AI Embedded X100 at the Edge",
-   "sum": "From amd.com.",
+   "sum": "AMD detailed the edge processing capabilities of its Ryzen AI Embedded X100 processor family.",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWk5IN0NCNVlGNHRCSTRMa21pZEUyV0NpSFFIUVAyTzlLWGZLMDUtRG50aXlWQVpGWWlzRkhLSEZmMkpaUDZ2TVJubWszc2kxQVloVTEydVA3Vml5X3FfVXd4TzlQclRHRFpHODBNQ3ZnRlBpVkNZQWlyNHB2QkN1YXhyUlVqWXBBY21TbGlLQ2hER2FSZjZnTDZRRVdKdHNLMDVRMkRXc0wxOEVXMzl3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bc3c7ac4e9",
@@ -798,10 +944,11 @@
    "src": "mbiz.heraldcorp.com",
    "d": "2026-09-24",
    "title": "Samsung, SK hynix to unveil next-generation memory-computing chips at global semiconductor conference next month",
-   "sum": "From mbiz.heraldcorp.com.",
+   "sum": "Samsung and SK Hynix plan to introduce next-generation memory-computing chips at an upcoming semiconductor conference.",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TbEZ1UEJ5dWhTU2FHVjIxRGRKVm1ZRERleGJqSlFzSFQ0ZHNuXzJKZmxrbHRCOVlua0tpejRKZ0RSTFFMNThYMW9BNUJwQm1KUFF4UUNYQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8251d29636",
@@ -810,10 +957,11 @@
    "src": "Nasscom",
    "d": "2026-09-24",
    "title": "Why GPU-Powered AI Data Centers Need Liquid Cooling to Scale Efficiently?",
-   "sum": "From Nasscom.",
+   "sum": "Nasscom published an overview on why liquid cooling is critical for scaling GPU-powered AI data centers.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWndtR3plTFcya2lJbzc1VHoycEVuTUttd0gyMU5BOVFwaXp3bjh1SkZNTElWemhPY0dybm5UdnNPbVhIXzE4X3cxMWJzY05TeUlKY3o3VktfTGFKZkNZeW9wUVhRU3luNGR2TU9ORDBiaWxtMS11OFpIZHRFdk5yUUZiMHVHTGNMVEkwTXdGaU1LZEUzWjUzNF9ZaklzNkVaTUtlb0xzX2FOOFlBRzhfanA1djFISm5UZ242cy1tbw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f10cf2c9ed",
@@ -822,10 +970,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "AERIAL: Adversarial Evaluation of Robustness in Accuracy-Preserving Low-Precision EEG Decoders",
-   "sum": "Deployment-oriented compression is attractive for resource-constrained brain--computer interfaces (BCIs), but whether it changes adversarial vulnerability remains unclear. On BCI…",
+   "sum": "Researchers introduced AERIAL to assess the adversarial robustness of low-precision neural decoders in brain-computer interfaces.",
    "url": "https://arxiv.org/abs/2609.30037v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3e28341fa9",
@@ -834,10 +983,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "Canopy: Exploiting Piecewise Smooth Tree Priors for Multi-Fidelity Bandits",
-   "sum": "Many LLM inference problems, including model routing, prefix-cache management, prompt trimming, and test-time search, can be viewed as optimization over a tree. This structure arises…",
+   "sum": "A research paper presents Canopy, using tree priors to optimize multi-fidelity bandit algorithms for LLM inference tasks.",
    "url": "https://arxiv.org/abs/2609.30017v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6e490e7760",
@@ -846,10 +996,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS",
-   "sum": "Post-training quantization of vision--language models (VLMs) is typically assessed through aggregate task accuracy and memory savings, but preserving a headline score does not guarantee…",
+   "sum": "Researchers introduced GHOST-Q to evaluate grounding hallucinations that remain hidden beneath stable aggregate accuracy scores in quantized VLMs.",
    "url": "https://arxiv.org/abs/2609.29999v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "15d0eaa124",
@@ -858,10 +1009,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "Does per-frame early exit pay? A compute-matched study of dynamic depth for on-device speech enhancement",
-   "sum": "Deep learning-based speech enhancement is increasingly deployed on-device in hearing aids, headsets, and earbuds. Most of these devices, however, can only accelerate static int8 graphs, so…",
+   "sum": "A study evaluated whether frame-level early exits improve efficiency in on-device speech enhancement networks under compute-matched constraints.",
    "url": "https://arxiv.org/abs/2609.29867v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4d41e089db",
@@ -870,10 +1022,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "Beyond Model Size: Redesigning LiSenNet for embedded speech enhancement",
-   "sum": "Deploying real-time speech enhancement on resource-constrained devices requires meeting strict latency, memory, and energy constraints. Microcontroller NPUs can accelerate neural inference…",
+   "sum": "Researchers redesigned LiSenNet to reduce latency and memory consumption for speech enhancement on microcontroller NPUs.",
    "url": "https://arxiv.org/abs/2609.29866v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ad881960d3",
@@ -882,10 +1035,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates",
-   "sum": "Looped Transformers have attracted substantial attention as a parameter-efficient approach to increasing computational depth through repeated application of shared Transformer blocks.…",
+   "sum": "FlashLoop introduces lazy updates to improve execution speed and memory efficiency in looped Transformer architectures.",
    "url": "https://arxiv.org/abs/2609.29812v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ad4251e02d",
@@ -894,10 +1048,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs",
-   "sum": "Flow-matching Vision-Language-Action (VLA) models have emerged as a potential solution for generalist robot control, designed by combining a pretrained Vision-Language Model (VLM) backbone…",
+   "sum": "Researchers proposed decoupled early exits to dynamically allocate compute in flow-matching Vision-Language-Action robotics models.",
    "url": "https://arxiv.org/abs/2609.29382v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9d777ceda3",
@@ -906,10 +1061,11 @@
    "src": "arXiv",
    "d": "2026-09-24",
    "title": "A Rapid Pipeline for Training and Deploying ML Models on WeBe Band",
-   "sum": "Developing optimized machine-learning algorithms for edge devices with limited computational and memory resources is challenging, time-consuming, and highly dependent on device-specific…",
+   "sum": "Researchers detailed a pipeline for training and deploying lightweight machine learning models onto the WeBe Band wearable.",
    "url": "https://arxiv.org/abs/2609.29084v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "451fcf020c",
@@ -918,10 +1074,11 @@
    "src": "Bloomberg",
    "d": "2026-09-24",
    "title": "Anthropic's Gene Editing Discovery Isn't Yet a Breakthrough, Scientists Say",
-   "sum": "From Bloomberg.",
+   "sum": "Scientists reported that Anthropic's recent gene editing research does not yet constitute a major scientific breakthrough.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTRSV2YxNXFUVDJ3TmlXaE9SQThzdXE1ZXJrWXFKb1VBNjItc3c3OXVIdlVUbGI1ZTlZeGp0YjBHcEtkS3FNZHQzVmlvNWZqZWwwRkNCX1d0LXItMTlHeXdDMEU5OGlYeEs5RG5memNTbVJKdUUxYTE1SjVxMzVLX0pBZEw3X2tZWlJmSWh2TUN4dm5WV1BDT3RFc25FNDNFdTFXanhTNUNybU1nXzVZZVVtWlh4dw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b336fc5ef0",
@@ -930,10 +1087,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-24",
    "title": "Could Palantir (PLTR)’s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?",
-   "sum": "From Yahoo Finance.",
+   "sum": "A report assesses the potential impact of Palantir's partnership with Nebius Group on its AI infrastructure growth.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkZzajV2bzJacjQyZTJxdk9BdHVkOEZwQVBtcktEN3FiT21hTTM2cWptdEMtN3BRWDR6RWxJLVhyV1ZLVlQxTEtZY0ZTM3RwQVdTRkpxZlJNOEVBUWI5bW13Z2dIQ3NjekF4NkQ3dnc1eVRNbjBNV0Z2a0VWZFNMMktHeS1EOGd5djZhcnZyWmtsZVdDZk4zNVY0Y0h1SUhuUmNJbw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ee0b175cd5",
@@ -942,10 +1100,11 @@
    "src": "theregister.com",
    "d": "2026-09-24",
    "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
-   "sum": "From theregister.com.",
+   "sum": "Google added the ability for Gemini to generate cartoon or lifelike lip-synced avatars for speech output.",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUt6Nko2ZUFvN0w4SmEtY0d4N3JFNXFBSG9HRXhtakpoLVpfVE56MTB3Y1pqWk9xd0ktWlNTSmpocENjeGE3V1EzQW0xenpjbDh3UHJ3S2VjLVdyMmZFS002WVNkOWNRRFpSVVN3aTBkWVFzN3pzTDk1STVFWHpZWjlwaVFXRzRral9INUVTQTRCTlNhbVkwMFNXbjFvMDVRYVR5NmpqclVyZUNValBaS3AzRE9IaERqNFJwa0lDa2NuaEg1NkVLamdNMlhEdHQ0RTZUTExRRGQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b5f88521e8",
@@ -954,10 +1113,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-   "sum": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+   "sum": "TechCrunch announced a buy-one-get-one half-off registration deal for TechCrunch Disrupt 2026 passes.",
    "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "9ef4a7c3c6",
@@ -966,10 +1126,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-   "sum": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+   "sum": "PrismML ported its compact, open-weight language models to run on-device using Qualcomm-powered smart glasses.",
    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "57d9461ca6",
@@ -978,10 +1139,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-   "sum": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+   "sum": "Oracle filed a force majeure notice that could defer payments if its New Mexico Stargate data center misses a 2028 deadline.",
    "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "6374a69076",
