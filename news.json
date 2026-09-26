@@ -1,6 +1,45 @@
 {
- "updated": "2026-09-26T13:57:23Z",
+ "updated": "2026-09-26T17:37:04Z",
  "items": [
+  {
+   "id": "c6fb97f618",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-26",
+   "title": "I created an interactive digital avatar of myself — and you can talk to it",
+   "sum": "A TechCrunch writer built an interactive digital avatar of himself trained to discuss venture fraud, reflecting on the implications of AI clones.",
+   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "41952f3c4a",
+   "t": "anthropic",
+   "c": "",
+   "src": "telesurenglish.net",
+   "d": "2026-09-26",
+   "title": "Anthropic Pentagon AI Ban: 5 Critical Risks in the Court’s Security Ruling",
+   "sum": "A court security ruling regarding a Pentagon AI ban involving Anthropic outlined five critical risks.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wZ1d0VUszaWtQZThqWTV6MVBhQnJUc3FGWVhQeU9IS09VaUhLV2JwUnJsOWxqNHdMLW9GVG1TV0M1d0taV0RjMlV5NlZXOUVhY1lrcGM3Q3BnekpnZU5ia3k1azA3SlRw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2295d95342",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-09-26",
+   "title": "Why Palantir (PLTR) Is Up 6.8% After Expanding AIP Deals And Announcing Nebius AI Partnership",
+   "sum": "Palantir shares rose 6.8% following an expansion of AIP deals and a newly announced partnership with Nebius AI.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNC1oR1I1X3NuaGxKb0FURi03RmtkVTc2T3R2N0FINXZtZWwzajdjOGFWNXZmSEg2QVYyLUVjQlBid2VFTjhibU93TkFvazFvTVZDT1RNdTZVS29fVnhUSlJwWnRZY1RvVkhyRFZaUS12UDZzM3d3cGJZU0EtWU13bGt6aVdnU3VnS3BQUUZn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "1fe1b6ab72",
    "t": "industry",
@@ -101,6 +140,19 @@
    "title": "Gemini 4 Arrives With 0 Specs, Only a Timeline Vow [2026]",
    "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a3f5c0d7c1",
+   "t": "eff",
+   "c": "",
+   "src": "Big News Network.com",
+   "d": "2026-09-25",
+   "title": "Hostphase Servers Explained: Instant, Custom and GPU Options Compared",
+   "sum": "Hostphase outlined and compared its instant, custom, and GPU-based server hosting configurations.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0otamZfc0tQTzFqVm9KeC12TXhTa256TWc4LW9GWGxoaFNDTGpQeERHbm1VV09yVUw3UnNjQVRvZHJKUWdKQTZudXpEcVhwR2c3ZnBGZ25YUHZ2YnU1bEZqdVJveEVQbVhsYVBqMExKbkdRWERybHdNOWtqcVVwWDhRT0ZxNGEzSzVBUzd4eWNBMFBFS3FJSURBTDZfOHF5N3F1M1A3WEpwR0xHLVNwQkhzUQ?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -886,6 +938,19 @@
    "ai": true
   },
   {
+   "id": "c3fca7f78a",
+   "t": "gemini",
+   "c": "",
+   "src": "The Verge",
+   "d": "2026-09-24",
+   "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+   "sum": "Google introduced Gemini 3.8 Live with Live Avatar, providing an interactive animated face for its conversational AI.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52cFhVWm8zb1IteG1tOUhib0VlN05Yd3RrVWI2eFJQcUtUMVRvQ2lhSzNKS0JDSnc2ejVkd2JCMUVOOTJiUVFiZ3dCU0NRV3RxZG03SWpIZXlLemhPbm84YlZOU25VenZrX0M1WDM4YmkzSWhMVmZFTDZCaw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "58bc1eda9d",
    "t": "gemini",
    "c": "",
@@ -1152,10 +1217,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-   "sum": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion…",
+   "sum": "Meta introduced Muse Charm, a Tamagotchi-like wearable AI gadget designed as a fashion accessory.",
    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "03ce780af8",
@@ -1164,10 +1230,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-   "sum": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+   "sum": "Google Photos launched an AI-powered virtual closet feature on Android and iOS that builds digital wardrobes from user photos.",
    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "06d8bd23c9",
@@ -1176,10 +1243,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "sum": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on…",
+   "sum": "TechCrunch announced event details and registration information for the Founder Summit 2026 conference in Boston.",
    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5fbe01394f",
@@ -1188,10 +1256,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-   "sum": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a…",
+   "sum": "ElevenLabs' CEO discussed company margins, IPO timing, and the necessity of disclosing AI-generated voices in customer service calls.",
    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d3921d846",
@@ -1200,10 +1269,11 @@
    "src": "MIT News",
    "d": "2026-09-24",
    "title": "Estimating suicide risk from text",
-   "sum": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+   "sum": "MIT researchers developed a natural language processing tool designed to estimate suicide risk and identify high-risk individuals from text.",
    "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "e787ff7250",
@@ -1212,10 +1282,11 @@
    "src": "vLLM Blog",
    "d": "2026-09-24",
    "title": "Watermarking in vLLM",
-   "sum": "How vLLM implements distribution-preserving Gumbel-max text watermarking with efficient GPU kernels, statistical detection, speculative decoding, and repeated-context safeguards.",
+   "sum": "vLLM implemented distribution-preserving Gumbel-max text watermarking supported by optimized GPU kernels, speculative decoding, and statistical detection.",
    "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1f507b6aeb",
@@ -1224,10 +1295,11 @@
    "src": "TechRepublic",
    "d": "2026-09-24",
    "title": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output",
-   "sum": "From TechRepublic.",
+   "sum": "Anthropic released Claude Opus 5.5, offering increased inference speeds and reduced pricing.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1JLV3pVQmtwWEkzUGhJWl9MbTZ3WE9OU1NJZUpfeGxqREJVZHVnTHZzeDlrN2NDbWxUMFhEOG05NmtVcnVRN09oaVpzblBIdzBJWmlCd2RCUlBqYVgzdTlsdncxbVBhOS1vM1RmMDVEdXJqR3pWeEZoVlJUSld4NnotN0dSSy03TGJfMkk0M0VFdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "1e2e5e5ba8",
@@ -1236,10 +1308,11 @@
    "src": "Gizmodo",
    "d": "2026-09-24",
    "title": "Claude Found a Mysterious CRISPR-Like System—but Anthropic Can't Say What It’s Capable of",
-   "sum": "From Gizmodo.",
+   "sum": "Anthropic researchers used Claude to detect an uncharacterized CRISPR-like biological system with unknown capabilities.",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObUtoWEd4VFl1SkZYUTc5enEyZHhicXBEZ2J0Q1BDckJjbndiR0ZoUzBtQW9WWWgtV3EtUWxKUmQ1UERuWWRkMUFwd19GZnBXakhTRG5ZUXVoSHdpamxFT1pMb1NMb3BrWFVVc014dlpnV3R4bE0zcU5QSzdoVk9wS2JyMW92VFMtNk1RUmhzTm55Y2ExYVpyTWJ4YU5jNEJVTWVMS0k1ZEhqd0pJS093ejM4cEFOclBvekE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "827f015674",
@@ -1248,10 +1321,11 @@
    "src": "GenomeWeb",
    "d": "2026-09-24",
    "title": "Anthropic Group Uses Claude to Discover New Reverse Transcriptase, DNA Repeat Array System",
-   "sum": "From GenomeWeb.",
+   "sum": "Anthropic researchers utilized Claude to discover a novel biological system combining reverse transcriptase and DNA repeat arrays.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLXh4NndzTUxOd0tqb2Z4aC1DSGh6OTZMNWVNNjl6d1ZqWFN5YzZJN0t6emlOU05aSmprNVMzUVdZaktvOGJtcFpFcXFGUXo1ejFWQ2k0eUt5VFpOdE54NjhWbm0zTzcwRWZyY2k5eE9jenV4MDB2d243VXBzaG1NYUlqVER4NGYxQVYzM0ZISGE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "4eabbfa129",
@@ -1260,10 +1334,11 @@
    "src": "Stocktwits",
    "d": "2026-09-24",
    "title": "Anthropic Releases ‘Mythos-Class’ Claude 5, Triggering Tech Race Across Amazon AWS and Microsoft Foundry",
-   "sum": "From Stocktwits.",
+   "sum": "Anthropic released Claude 5, triggering competitive AI infrastructure initiatives across Amazon AWS and Microsoft.",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNW94ZHRlLU1EWXdCTUh4a2MzNEJvcE5vX29EMlpITTNOR2NkNGJITzktb2xEZW1WdXhNOWZOZXhNUGlOQmFERC1KbFZpckF2dVI1dm1SQlFLaU5sMEVzTnBwMVdTSTRERllmR0VxX2JTbVZqZ0JUdk15M011NmYwSWZBVjhzc1lUcUZVRHdlajdidWloTUwwajhvdjJuUzMtZUJQRHQ1M3U3NlVRVmVNbmRUb2FoVElraWVnYXFOQk1GcGFpRXFnYlctMUtOaXFpcEhZNWNhRUtsRFpE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "54c29c29ac",
@@ -1272,10 +1347,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-24",
    "title": "Palantir Technologies (PLTR) Ties Aviation AI Push To Fresh Short Seller Pressure",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir linked its aviation artificial intelligence initiatives to fresh market pressure from short sellers.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzZiM21BN2xmWUtnZWdtemItM3pSZmxBVW5rVjgtQU1pTlM5U0p1MUZNQ1JsbkR1djNIaS05Z25aWjhveVVjdTdSZ2stLXplaUxfQ0F6MjZDelV4LVdTdGZzYzFKWG9nVjhvREJBVnc3SEd0UFc1YTd4UUJwNEVKMFBLem1ZcDlFRG1vaFlRbTUtVjRYYV9WYW1FYTJiMUNvZnpGVmotYw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "93ab51c49b",
@@ -1284,10 +1360,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-24",
    "title": "Inside the $600 Billion Sovereign AI Gold Rush -- and Why Palantir Is Positioned to Win",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool analyzed Palantir's strategic market position within the expanding sovereign AI sector.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcWRLVGpuTjJBTXFVeVA4dF9CNnlfd0FIbmdYbVpyaE5rdDJybVlnemRBLXhOWFVqVlNaRThrQTFfVnlJbVpha0ZOWW93RmFDUjk4eVZNM0JSTWE5emg4RzJRYlBVSzhLU3p3MTlna1BEM3B3Z1pXc3VoSkR0aXFHcGRZOVgyakdRZk0tODk1ZzRIalpjczZr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "445a09695c",
@@ -1296,10 +1373,11 @@
    "src": "Seeking Alpha",
    "d": "2026-09-24",
    "title": "Palantir clocks 7.67% weekly gain: AI bull case, $250 target, valuation risk",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha reviewed Palantir's weekly market gains, valuation concerns, and a $250 price target.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXk5dmVnU2dsX2V0Wldvb1p2anBhczlpSkVTY1BGb3pXbG5mVVFHZVZGWHVVWEE2VjRVdUVpWG1vUXNWSGVfdXZVWmRmMDdSaEtPSjBaNjhMZmw1VnJXNF9fdDhjMExTalNwcC1rbWpLaFBpR0swRVAtenNzRWJDQnVyVmJNR0tvTFNDUGlQVEc2SHFyWjlaUHdMNldsUWZubXk4X2ZXXy0xQTUz?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "160806038a",
@@ -1308,10 +1386,11 @@
    "src": "Insider Monkey",
    "d": "2026-09-24",
    "title": "Does Palantir (PLTR) Have a Moat Strong Enough to Protect Its AI Dominance?",
-   "sum": "From Insider Monkey.",
+   "sum": "Insider Monkey examined whether Palantir's enterprise software suite provides a durable competitive moat in artificial intelligence.",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzZqUXktSy1uVlZTellsMUhjNGo0YkJETWpyZEZ5Z0ZpRzB5TEFybkhOTk8wN2xfTk5lVWJEZzcxTlBpZXFJWHJZeld2OFA5QU5MOVYyajJ4bFFXRHlLSF9ldGVFUDZXaks5RndZb3o1MWJqaHVNWlRnaldkeDdBYWRMeTFfdmF1NEVLTHVyNUtDUXlGV2M2bllYbVUtWE9QRUR0Z3Q5SFdybkNiS1hJOGpUN24zT0nSAb8BQVVfeXFMUGMyQi0tN0hXbFRrbDlJUnhqZHc3WnZfbDNqdWFjYW16elQ1eWZwX0pSWG1raGVsRUVENlg2eEdkOWduQ2RNak53c0xsZnRUZEhyQWpKRDFDWUpaaEVOenlrU3ppNXVZRDFVVlhwbFBuYzBVNE8xdUQyUEhpcl9jQzNXaVJPWlBqeGZISzJLc2VrVm93RDlySnNzNFMtZ21OdUFXUnBrUTI4RENraDVsN21MQm4yMjhTcnFFZXNaTVk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "69fe2bcc4f",
@@ -1320,10 +1399,11 @@
    "src": "AOL.com",
    "d": "2026-09-24",
    "title": "Prediction: This Will Be Palantir Technologies’ Stock Price by the End of 2028",
-   "sum": "From AOL.com.",
+   "sum": "AOL published analyst predictions estimating Palantir Technologies' stock price through the end of 2028.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkM0WDNiSmd3UFNkMVZnVTlQcWM0a1R1X0JKQ1dfSTZNTmZzYzVWdEVIczJMbnFYUjJfNWRGRnNKdnNSLTk0NzlrOF9Vb1JMSWVEcC1ndnNSamZocXp6VG01WVUyNlV3cm1vOHhqc1JvLUdsTVd2MDJwLUR1ejVLMy14YmRWc1JDcGpBekxEUHhrQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "08c06f84d8",
@@ -1332,10 +1412,11 @@
    "src": "TradingView",
    "d": "2026-09-24",
    "title": "Rosenblatt Has Message For Palantir Stock Investors",
-   "sum": "From TradingView.",
+   "sum": "Rosenblatt Securities issued updated investment analysis and guidance regarding Palantir stock.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXk0ckg0LW9pSUtsLTZjOEUxYnk2T3hoR0hjNFJnN0dicUw1dVpJQnAtRzlKdmNRak5KTnhwVGlOclJCNlVNaVNjZ0lSZkFMNFVybjl1cmlCUHdyMGhPc3Q0dmtPX1lfd2UxTjZxLWxLR2hlbDh3ODlBbU5UVC16eTZoQ3htWkdoZEFJRmdycWt5NUItdktKOWJEUUZ4WDF1VHBlZVgzdDV5T2U1aERjQg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d2edb29aa6",
@@ -1344,10 +1425,11 @@
    "src": "blog.google",
    "d": "2026-09-24",
    "title": "Introducing Gemini 3.8 Live with Live Avatar",
-   "sum": "From blog.google.",
+   "sum": "Google officially introduced Gemini 3.8 Live with Live Avatar, integrating real-time animated avatars into its model.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVR6bVg0OGpENG9SaWNDa3FnQWVxV2xwSjAxOXRXN09GcWxvbURoaTZVNkl0THIzX01rNnpEWkFuMGtpV2JPZXlJTmpLekZLeUF5Um5qWnlpaVYwNUZfOWdMcFlVd1dkeU1XVTItOEZ5eXRQRDJhWnlZMlVYbjFIV09kdTFEQUtTMU1HMFMxTVdENU5CajZqeTZwblBqd1JJc3Z2bi15amE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9d4abd6890",
@@ -1356,10 +1438,11 @@
    "src": "9to5Google",
    "d": "2026-09-24",
    "title": "Google says Gemini 4 release is coming ‘as soon as possible’",
-   "sum": "From 9to5Google.",
+   "sum": "Google stated that its upcoming Gemini 4 model will be released as soon as possible.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN21yak1oLTF0cEVnZVY3RDZZZGVwdHFnS3RPMV9vOExBQ1ozeG02VFhETFo0N0xIN1F2RVRPTjJ2MnVsZkpDdFg0c3MtdnF0Y3l3Sm5tbTNob0Y2NkNTakszdHBKdldoblE5Vm1iX3YzTlFpUnRaZW1KWVB2U09CVTdlU1ItSTFLSW5VRktaX2RiUy1jcU9Naw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "37d22f4d8d",
@@ -1368,10 +1451,11 @@
    "src": "AzerNews",
    "d": "2026-09-24",
    "title": "Google to unveil new Gemini AI model",
-   "sum": "From AzerNews.",
+   "sum": "AzerNews reported that Google is preparing to unveil a new version of its Gemini AI model.",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0X0UwWDJteVE2M21hS1lkMFVhRXVTRXhkR3ZRVEtVZ2RWTnEzYVpzZHBnZDN4aHF4R1M2N3lpTVY5Z1c5TEcwMThKQ2VvNjU1RGM1OA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "14975892cd",
@@ -1380,10 +1464,11 @@
    "src": "AI News",
    "d": "2026-09-24",
    "title": "Google launches Gemini 3.8 Flash TTS voice models",
-   "sum": "From AI News.",
+   "sum": "Google launched Gemini 3.8 Flash TTS, introducing dedicated text-to-speech voice generation models.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d8e4c166be",
@@ -1392,10 +1477,11 @@
    "src": "GPTZero",
    "d": "2026-09-24",
    "title": "Introducing GPTZero 4o",
-   "sum": "From GPTZero.",
+   "sum": "GPTZero released GPTZero 4o, an updated system for detecting AI-generated text.",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Eb0Z5S2hTa1F5WXkyenY1SERMUU8wUk5nODdDVnVjRnFhWGFHTWd3MGJBd1g5RDUzZWdCdkdVNUZVUm8xMG11UzhmeHdwOGJoZGFERnNCcE1lREE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "91b72e3bc7",
@@ -1404,10 +1490,11 @@
    "src": "nebius.com",
    "d": "2026-09-24",
    "title": "Nebius and WEKA benchmark shared KV cache for agentic inference on NVIDIA HGX B300",
-   "sum": "From nebius.com.",
+   "sum": "Nebius and WEKA benchmarked a shared KV cache architecture for agentic inference workloads on NVIDIA HGX B300 systems.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1Z0cHJYOXhIdHgwcVhWZW9WckFNMUEtSVJGTVZhSnhVR1JQbGJTcmUtUjZFZm93SzBsc3VfZkFzcDRVdHYzczlvSVc5cGIySzNsV3p4WUNNM292emtaWmM3UHU4MWo5Y1FjS2t2LXNJSWpBWF9fc2xHQ3dMOHAtSm9B?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c1d8ae6f48",
@@ -1416,10 +1503,11 @@
    "src": "Gagadget.com",
    "d": "2026-09-24",
    "title": "WiCi One: a $2,600 wireless eGPU that ditches cables for Wi-Fi 7",
-   "sum": "From Gagadget.com.",
+   "sum": "Gagadget reported on the WiCi One, a $2,600 external GPU utilizing Wi-Fi 7 rather than physical data cables.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc1lUd09menRaN0FUVDJGTk9vT2NwbU80ZF9Hd1JCMVBXaUpFMGVDdDlxdmRaNmhLVnRFZGNKQmMtT0VweXJHX1NBMUVlenB1TUpZZHVmNHB0dGZndC1JMlFqRDhWNTVQbkVSVXp6ZTEyN25fM0ZzWHZGTG8wamxZQWVFcUlCSExWa0JtTDdFWFZUWkxzYVBuQdIBngFBVV95cUxQVS1XYlZZMTk4NDdxSjNPWjZtaVZNS0htV2pHaGhPMGFOY0RNdTh4N2hwc2NuZU1ValNpa2E1WVJZakJSQzJ1RzJEMTlhakhPVWhYZTUxanZzZ3JGeWlzVExZUjRvWU51eGJXTXRzWlc0WTBmVUtLU05lODJVTzJPN1o4VUg1dHhSZ09WQ1E1NEltT28yTmxOV2tXS3VzZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eb48c34977",
@@ -1428,10 +1516,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-   "sum": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
+   "sum": "TechCrunch announced Cal AI founder Zach Yadegari as a speaker for TechCrunch Disrupt 2026.",
    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "9091e5e67e",
@@ -1440,10 +1529,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-   "sum": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second…",
+   "sum": "TechCrunch published promotional ticket discount deadlines for its upcoming Disrupt 2026 conference.",
    "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eb461d26ec",
