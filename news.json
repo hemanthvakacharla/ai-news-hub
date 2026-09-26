@@ -1,6 +1,84 @@
 {
- "updated": "2026-09-26T17:37:04Z",
+ "updated": "2026-09-26T21:45:01Z",
  "items": [
+  {
+   "id": "d70ce2b78b",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-26",
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "sum": "Blue Cross Blue Shield reported that hospital AI tool adoption contributed to an extra $942 million in healthcare spending over two years.",
+   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cab610f161",
+   "t": "anthropic",
+   "c": "",
+   "src": "WION",
+   "d": "2026-09-26",
+   "title": "Anthropic says Claude found a new gene-editing enzyme but science isn't confirmed",
+   "sum": "Anthropic stated that Claude discovered a new gene-editing enzyme, though the scientific finding remains unconfirmed.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZjBjRVJMNDhuVFBpYUhWaXEtVmZxQmhJbTBpcWplUnBIYTQxR01zWVJMNXpLdzVHMFJHc0U4bE1sRUNQT2xVMGtydXBpOEpnRzFTY0QycXNsMjkta2VleGx1WlBwOWJGbTliU1g4Mm4xZnlWWHJtLTlhTXVlcUJrNF8zUkdVb0FSU3g5RG1iSVZjQ05PRjUxV2pOcnpycERSYUNBT29RNFZTSnVjZldSazFRVWVRX056cC1PMTJLUFFVZGvSAcgBQVVfeXFMTWR0b2FzQXhZWU0zQXVUa09iVmVjVUJFb1p0U2NxX29zOE0xVUNwRUQ1NkhEejhGaFdqNnE5VWR2dmFsc29abnpyYU5ONFp6aU5FSDVCNHg2ak1MT1MtNTVxcnFlV1ltZlRORUNqZEdGTXNoS1I2RzZJUjJ6aFluQmpvbEpSSU5GdWtjOGtVVU9UR0xhVXpHcExrZEl3Q1E5SEppeDdxMW03WUhfLW9kUzBVWWdySVFLa2Y2TXVkMUNvMkdfMEpVdlM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0a6fd733e8",
+   "t": "palantir",
+   "c": "",
+   "src": "Mother Jones",
+   "d": "2026-09-26",
+   "title": "Palantir’s co-founder thinks we should be less judgmental about that deadly Iran school strike",
+   "sum": "Palantir's co-founder argued against harsh judgment regarding a deadly strike on an Iranian school.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUi1MMzlISkZuUnBkOEhxLXJRLUVZUzJOSlhaWllhSXhjeEk3ZklISm13LUlXR1VaLVpQR01mek5uYjRoeGZ1dENNc1lCbWdUbXdtSmd6cDY0OFpHY050dGVqUEJWZk0xdWoweEk2alMtTUg2SktBcUgyYVZwOElBZm9tRlpwYmw5Ymc2Zjd2UkhYSnRwZ1NPSTJtSTFoLXFXTTdEdXFaMzVUczBxSVVXMWQzdmZLMkVYVVItNmM0OG00Z2ItNDB3cjdfM0hyaTUzSmV2cDJR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e39b2b5191",
+   "t": "palantir",
+   "c": "",
+   "src": "Anadolu Ajansı",
+   "d": "2026-09-26",
+   "title": "UK Labour members push to cancel Palantir health data contract",
+   "sum": "UK Labour Party members are pushing to cancel the government's health data contract with Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQV9QWlJCRjE0SzRaVXBSQWFVdkJpVkxHWGhpWDVYOWhudjI0dDU3SkJsbmhJSGdBb2FodUxHcE1rYWZzb0VUb0xyVDhacnYtdzloZDlOTGsxa3hsOUFYQjZyT2hyZWY3aVQzVmZLOHVWUkNfcmFraFNfcjZlbmxwLUpkY0JhOFZUWGF1NG12QWQ1dzNYWldVeFNNVko1Zw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1c5e4d2834",
+   "t": "gemini",
+   "c": "",
+   "src": "Yellow.com",
+   "d": "2026-09-26",
+   "title": "Google DeepMind Loses Four Founding-Era Leaders In A Single Day",
+   "sum": "Four founding-era leaders departed Google DeepMind on a single day.",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rSTlQeFNUM2lsbjRlWnNNejhsV0NQWE14R0c4dXJqWkxvOWVxQ1djVHpsM2UwNWJtTHlvVFJ5MXIwSll0U2hRLUJuSVNfUzQyQlVYVVJEMS02cFpfTFlySFBzLTg1ZUVT?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c5b2ffa0c1",
+   "t": "eff",
+   "c": "",
+   "src": "The Globe and Mail",
+   "d": "2026-09-26",
+   "title": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+   "sum": "The Globe and Mail provided buy and sell ratings for agentic AI chip equities.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUkx0c2ZvZ1A5ZnZXT0NvMi1JYktVYW43NG51N3VmejBweGlUUTVDcG9JNHhydGRmMDRfV2pYZmIzSnZqaHlENFAzUURsTmJqTTZHWW1zc2tZNjloUjh5V1pQNl9JNFoyN0JjTlBuSHVDWkxkRnBQSVBFak1OMG5iZlJla0xOelR4OFlWUjZwXzRHdHE4eElaUFM0QWVGQXRKei1BbjBvUk1xSjJjNnVjYWstV25VSjVNcUFVYmVkUkY?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "c6fb97f618",
    "t": "industry",
@@ -1542,10 +1620,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-   "sum": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+   "sum": "Australia is investigating whether an OpenAI breach of a government health website violated federal law.",
    "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f6fad453b0",
@@ -1554,10 +1633,11 @@
    "src": "MIT News",
    "d": "2026-09-24",
    "title": "The promise and peril of using visual AI to study cities",
-   "sum": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+   "sum": "MIT Senseable City Lab researchers published a book examining the use of visual AI to study urban life.",
    "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "c2a53f2332",
@@ -1566,10 +1646,11 @@
    "src": "Hugging Face",
    "d": "2026-09-24",
    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face shared an approach for accelerating vision-language models using LFM2.5-VL-DSpark.",
    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4cb5d55516",
@@ -1578,10 +1659,11 @@
    "src": "Al Jazeera",
    "d": "2026-09-24",
    "title": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
-   "sum": "From Al Jazeera.",
+   "sum": "Anthropic announced that its Claude AI model discovered a novel CRISPR-like enzyme system.",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMENUOHhWSmdxQTlHcUtqOTVmSVhWOS01ZGg1NHY4ajVaUk03ZXJPcVVIaDk2SFl5UzBsYXZVZzVFMERsNlUwdlk1ZlVrbnFEVEJLdkNweVpaZFdfY0V5SjZUZXVPS2JlQ3dPcmp0d1UxNWcyYTI5enNvT3lJQ3BOSkRfLTgzeVRmcHVWNXlTLVZ3WEVLdkJpeTAyV0FfOE80bHV0emgwUFJsajB5X3Y00gG0AUFVX3lxTE5JcnNCQ0IxUUMxdndVQmZobFd0V1czbUQ4bEk5ekVGZGJ2ejdzQlBDVTRzT3R1QVFjXzZXS0pfSTcwMnZSZjdHd3NkSVMxUW1iOC03V2tJVDdVM0RmTXRkZDJhUmlEWnlnVjlLT0VHeVE1TllRM1p0UWR1d2JFekkwdHVHWjNOREotQlZYNnNUWkxITTFCN3lRd0NMQVZUT2dtYVhMQlAtRUoyUGRhTzVsbzNvZQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "5fbf2b9758",
@@ -1590,10 +1672,11 @@
    "src": "qz.com",
    "d": "2026-09-24",
    "title": "Anthropic's Claude AI discovers CRISPR-like enzyme system",
-   "sum": "From qz.com.",
+   "sum": "Anthropic reported that its Claude AI model identified a CRISPR-like enzyme system.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlcwOGVmQi1xT3NwWDE3amNoZ0E5X0R2SURjSDl1M0g2SURhYkF2WklDNFJkSHNnR0QyWXViVEVrdUc5SGJ6V1FTbGVDaDcwMW1EVTFvdlI4UU9MWUlUVHZTRmJwRkg3WWlONGE0aE9NcGVKb3czTW1IVVF4UmlGc2FGZVY?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "650a1033ce",
@@ -1602,10 +1685,11 @@
    "src": "Mashable",
    "d": "2026-09-24",
    "title": "Microsoft AI boss calls out Anthropic for chasing AI consciousness, reigniting old debate",
-   "sum": "From Mashable.",
+   "sum": "Microsoft's AI leader criticized Anthropic for discussing AI consciousness, reigniting ongoing industry debate.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTdvZ3ZjQVR2bVg4ZmpfYU9Rc2MtYXZLQVM1Z2xRWWI2SUdFYldlNTdfTndxeFRIOXgyRnVadG12RGJFV09iLV9peGVRRFVRLXkwQUhsckdhcFNIbDRaZGxmS3dJWUVpSXkxd1BidDdWQTBFQmxTaERoNmZLWm12SnpMZENlRjkzQmFkMzln?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "22594b7f2d",
@@ -1614,10 +1698,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-24",
    "title": "UBS Says This Bargain Stock Is the \"Best AI Enabler in the Market\" and Sees Shares Surging 30%+",
-   "sum": "From The Motley Fool.",
+   "sum": "UBS named a top AI enabler stock and projected share gains of more than 30%.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTZXdlFzbnR1WUpvclN3ektvdGd4OHU0RV8xV3dqUzE1R05nQnpfV1lNOXlOY040Y1U3Q1lMQVpla2k5MWV4UGIwdXBoT0QwVkFBYjRsSllTZTA4RWJScjdEemJ4bkFCOGFtNWdNUXlVcmdfYVg4WjFQSU03ZnZ6NDFKRnRpUHdzbjNCYklWYlcxSHNwai1vNQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a31a72736e",
@@ -1626,10 +1711,11 @@
    "src": "Barchart.com",
    "d": "2026-09-24",
    "title": "Palantir vs. Salesforce: One Trades at 144x Earnings. Only One Pays You to Own It.",
-   "sum": "From Barchart.com.",
+   "sum": "Barchart compared valuation metrics and dividends between Palantir and Salesforce.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFkycXVJU1Z2ME5tcXlWeW9MYnVMeTdaaUVTU0poeXMxaHdoSEliQlg0QmJXQklkeWo5ZWVWZlV2N0JlVzFyM1lmdk5WTU9oM0t5bWs0Vl9PekhxQkR0MEhBY0FkMm42U0hNMk9xZjlTVTB3S3B0Z0EtUEdRUEpNWERNcVZCVWhRNUEtazhob0hkZlh0a0lRTTRYREdIZ3Z3MWpmSExLM3lYT3JOcTlJOVhPYnRNS25nR1d4UVlNQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6f646dfc54",
@@ -1638,10 +1724,11 @@
    "src": "Stocktwits",
    "d": "2026-09-24",
    "title": "PLTR Stock Gains 2% — Japan Weighs Palantir AI Defense System For Military Command Network, Says Report",
-   "sum": "From Stocktwits.",
+   "sum": "Japan is reportedly evaluating Palantir's AI defense system for its military command network.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDByZE01TjFLdVZGbW1BUFFvcFFaa3RmVUQxdWE0YWlmX0ZqUGpnZUhBX1pVTnZaMDBnR3R0QnRYNGJxa2N1c0QzRnVVWW1zQVd5Q2s3MW91cTZxV3VzMGF6Z1RELVpEc25nS0V2UjlkeEpsOXlxME1udEdTZ0RvSXdpUy1JVzhLZHNqODg0cFUxcFZRbG1CWmExdWZmelh5TDl1MlFSdmtJMEh3blZndkJBS2pxcWhlUGxxZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0962322b0f",
@@ -1650,10 +1737,11 @@
    "src": "TradingView",
    "d": "2026-09-24",
    "title": "Palantir Just Hit a One-Year High. Here's What's Driving It",
-   "sum": "From TradingView.",
+   "sum": "TradingView analyzed the market drivers behind Palantir reaching a one-year stock high.",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWlCeDVQaVNhaElsanlXX29PSHlnUnAzTHVaekpYTjhoWHlLVEtSeVEyb3dlWU5faGlIZkV0TVZkNzJTa2JRZjhCNFY0V3djcjlSdDFHVWVmaTJnRmhRck5oQlJOY1lGTVV3aUZDVWpPaEI1cms1emlSSGI4alVNcDBONkJkVF9sYlJZTVRsX3ItQndjQkRYbzVQaGFlc1I4QVlGdC1nLUZJa2JKbFItbnYyRVZwbXk2ZGc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "71b4f6446b",
@@ -1662,10 +1750,11 @@
    "src": "simplywall.st",
    "d": "2026-09-24",
    "title": "Does Commercial AI Adoption Change The Bull Case For Palantir (PLTR)?",
-   "sum": "From simplywall.st.",
+   "sum": "Simply Wall St analyzed how enterprise AI adoption affects Palantir's long-term stock outlook.",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ1hGTmllendPYUFUTjlLazdiY0FnOEN6aUJKSGxMX042T0xfZnFySEZUZ1dCdHVIMG96cHFlLUFKaXlScGxiTVNnY1V0cTlPTE5IOEZueGFvM2lscGVjN1FXZTFQX0oxZWFJb2NkRWRjd0ZlYUdWUnltTlk3REQ5c2FJYTRrZ2hpSnE0S19QWHQ5N0duTWlDVi1JajgxbWRDc1FrOWVEZjFzdG1MWklUeGFHSDJ2cWNnSzEteXFabHYzVXp3UWRCWVZLbnJROWY5eHdndzNqRU54bXdo0gHcAUFVX3lxTFBnWEZOaWV6d09hQVROOUtrN2JjQWc4Q3ppQkpIbExfTjZPTF9mcXJIRlRnV0J0dUgwb3pwcWUtQUppeVJwbGJNU2djVXRxOU9MTkg4Rm54YW8zaWxwZWM3UVdlMVBfSjFlYUlvY2RFZGN3RmVhR1ZSeW1OWTdERDlzYUlhNGtnaGlKcTRLX1BYdDk3R25NaUNWLUlqODFtZENzUWs5ZURmMXN0bUxaSVR4YUdIMnZxY2dLMS15cVpsdjNVendRZEJZVktuclE5Zjl4d2d3M2pFTnhtd2g?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "598dea90df",
@@ -1674,10 +1763,11 @@
    "src": "The Information",
    "d": "2026-09-24",
    "title": "Google Nears Release of Flagship Gemini 4 AI Model",
-   "sum": "From The Information.",
+   "sum": "Google is nearing the official release of its flagship Gemini 4 AI model.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "0ee72e6645",
@@ -1686,10 +1776,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-24",
    "title": "Google's Gemini 4 Just Sent a New Signal to AI Investors",
-   "sum": "From Yahoo Finance.",
+   "sum": "Yahoo Finance analyzed market implications surrounding the upcoming release of Google's Gemini 4 model.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlJCUmx0THJuWGRIOFhOb280ck1sQXlPcDVwVDFibnVJU2ItODFiTXpJMGJQQnNOT3NJYUNhRnl3anVLcFZNMXY0dFZnMmxpRURfRmx2MTBIclZyYjJBalNQZjJhM0M1emFRWGxqUHdjNko0d21yWmdHeVB1NU5zRml1T2xpTkwzLTVXVTlGN2ZuRXk2?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e5e8c0a6cb",
@@ -1698,10 +1789,11 @@
    "src": "The Verge",
    "d": "2026-09-24",
    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-   "sum": "From The Verge.",
+   "sum": "Google DeepMind's new chief indicated that the flagship Gemini 4 model is nearly ready for launch.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjBvcU5MVHoyMUJ4OUYyWkpUdFJMNm1nV0JvbjBQNTJMbFQyUk1QWTdGSVNob1VJdk4tbUNzdmhHVDduQXNubkFYYnBDaFBSanAzN2RzaFdVMmNRUU5aQzdHLU9Ub3JvREFjaXhMcFZPUy1XYVpELXgyVlQyek5nNjhEUEotNVR6ai1DcXZhdy0yZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b6673a9b5d",
@@ -1710,10 +1802,11 @@
    "src": "Stocktwits",
    "d": "2026-09-24",
    "title": "Google Unveils Three New Gemini Models – A Look At Some Key Highlights",
-   "sum": "From Stocktwits.",
+   "sum": "Google introduced three new additions to its Gemini model family.",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQczhDN2hyUUw5R1F6Zi1GSDBnZm9pZTJWSHlid3g1alJRYkw1RVRTQWxzMjF1emR6b0RGVWZwZDhuZThrNDJjSElORDBjUE83T3NaalNvM3ZlZkotME0yR3N0c3ZFX1JuTGU1N0lUTEowNUFPdFBOQVBtX0xtazlmLUZ1cGhtQmdwWHlvUDFuSnZESkFsc2dBbnljOFpuTHh4TnJxZmkxVnZOVzMwOEh6bVc3OE9lM0xhQ3UyNkl1eGxMRTYzNkxKY0dLSQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "28c18385de",
@@ -1722,10 +1815,11 @@
    "src": "Northeast Times",
    "d": "2026-09-24",
    "title": "Google DeepMind’s New Chief Signals Gemini 4 Launch Is Close",
-   "sum": "From Northeast Times.",
+   "sum": "DeepMind leadership indicated that the release of Google's Gemini 4 model is imminent.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGtIc1BvVnNvejNEcDlpcGFBUmtZRjdtQ1JXcjVSTkItaHBSRnNuQnFvY0x4X0NQbU11X05yV2d5VkcyNDRvV2dqb3JVbmFxM0pYcVlSQVlaME5uU3c5RXhZcHZTcGg4WFFKaFozRVVyQUVjTmFiaW9zekJuTWVjQUtrMzltaHlJcXdmNy12UFpxWVdScjEyVEJ0WUFEUE5s?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "98e830a202",
@@ -1734,10 +1828,11 @@
    "src": "forkast.news",
    "d": "2026-09-24",
    "title": "Google’s Gemini 4 Enters Post-Training — and the Three-Way Frontier Race Just Compressed",
-   "sum": "From forkast.news.",
+   "sum": "Google moved Gemini 4 into post-training as the race among frontier AI developers tightens.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlA4SjNhX1NWc3ZobUhwOEMzZ0YwemIzVjRaRVNFWWZSSHdvYUxJNDF4ZjBlR1lVdGFYcVNfNUN6SndabWVsTTRwcXhxdjZ1MVlQVXVtVTQyLUVYZW1WaVlldk1vTTc0UmdjbDVKZzRxOEk5MGVMdnRsR2M1eGFkYU5ia0VhQ0pjbkZ5QUllc3R4ZG83QnJ0cEs3MTJGRjNiaU5YQl8wejU1MXc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "891ca2eed3",
@@ -1746,10 +1841,11 @@
    "src": "tech-insider.org",
    "d": "2026-09-24",
    "title": "How to Use MiMo-V2.6: 12 Steps, 90 Min [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "Tech Insider published a tutorial on implementing and using the MiMo-V2.6 model.",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DbDlzR1JXTTdYVEdPMWw3Vlg1RXQwNWRvSGU4WUVwM01WRHkxYlhRdm1Id19Ca2lxanRINFpDRG9VeTVxVE5KWjJ0SHRJanVRVzRvbktfUnhLNmhDTnhlbUdlUlM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7b84cda9b7",
@@ -1758,10 +1854,11 @@
    "src": "eu.36kr.com",
    "d": "2026-09-24",
    "title": "MiMo-V2.6 Officially Released: Xiaomi’s Luo Fuli Unveils New MiMo-V3 Architecture Powered by Multiple DeepSeek Technical Achievements",
-   "sum": "From eu.36kr.com.",
+   "sum": "Xiaomi released MiMo-V2.6 and introduced its MiMo-V3 architecture incorporating several DeepSeek technical methods.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96RnpDT3dVWEVOR1hPajRBRF8yLVNHSDZGU2hrWWNBbzZ5MzFTUDdNNFFYUFNTaWloYzA4Zk4wUXRFN3Q2SmhSR0doXzZfY0EzS3pr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "449cdc3784",
@@ -1770,10 +1867,11 @@
    "src": "TechBullion",
    "d": "2026-09-24",
    "title": "Top Low-Latency, Low-Cost LLM API Inference Platforms for Open-Source Models and Dedicated Endpoints",
-   "sum": "From TechBullion.",
+   "sum": "TechBullion compiled a list of low-latency, cost-effective LLM inference platforms for open-source models.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmlOcEYzUDN6REJET2c4UlFUZEM5clZqUm1aTkg5V3FYVE9hMGt6eEdTUThNQXRMVmY0RmJBRGxQNXdIWUdqUWZIckxGNGRmem1KNVdhdERWak9kUlhoc1Q3WTRYLUJ1V0J6U3ZSZXBzbDB4eWZlZDQyV1VKMFpjbkpsZngyX3VVNk1zNnZJUmdEYzkzbWlJLU5kQWVqeWJGdDV3TjItemZJdXlCYXc3RFRhNG9ta2RaUDNlZUpFRk5kQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "763ee39a31",
@@ -1782,10 +1880,11 @@
    "src": "retrohandhelds.gg",
    "d": "2026-09-24",
    "title": "AceMagic FOCUX F2A Review: A Flagship MiniPC – But It’ll Cost Ya",
-   "sum": "From retrohandhelds.gg.",
+   "sum": "Retro Handhelds published a hardware review of the AceMagic FOCUX F2A mini PC.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81MERROWtwWEJaUldxZDVlTE1fRkNreVUtWUNkcDJBcDh3SHUzamNzd2g0WUtLWWllMWRNNkFZWUdBVzFDSHlnUEdYbjlYUDFYUGlmVFNCanJwMzRGQml0UHpB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "787dfad2f6",
@@ -1794,10 +1893,11 @@
    "src": "Electronics Media",
    "d": "2026-09-24",
    "title": "MXM AI Accelerator Module: Aetina Launches NVIDIA Blackwell-Powered Edge AI Solution",
-   "sum": "From Electronics Media.",
+   "sum": "Aetina launched an MXM-format edge AI accelerator module powered by Nvidia's Blackwell architecture.",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbjFMbGl2blpaS1hVZ3E2ZjlINUVGX0RicUw5eTJGOGliN0tIeEk0cmdZLXo5T2Y4S0c0S3YzRlFMSGhPcEdsd3lERXNJQlhxdUE5VEVYUG03dVNNNDFxTTJJcHNmZ2F6RFlaV2txM3RQTDBCbExlWlQ4WQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5f9b2dff77",
@@ -1806,10 +1906,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Everything new coming to Meta’s AI agent Muse",
-   "sum": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to…",
+   "sum": "Meta unveiled new features and broader deployment plans for its Muse AI agent at Connect.",
    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "b030755198",
@@ -1818,10 +1919,11 @@
    "src": "TechCrunch",
    "d": "2026-09-24",
    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "sum": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+   "sum": "Meta developed a compact, Tamagotchi-inspired wearable device to host its Muse AI agent.",
    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9a2a65a812",
