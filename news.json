@@ -1,6 +1,149 @@
 {
- "updated": "2026-09-27T14:56:03Z",
+ "updated": "2026-09-27T21:44:26Z",
  "items": [
+  {
+   "id": "79b213b759",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-27",
+   "title": "Anthropic’s CEO is about to have dinner with President Trump",
+   "sum": "Anthropic CEO Dario Amodei is scheduled to hold his first one-on-one dinner meeting with President Donald Trump.",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "eaa520eb58",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-27",
+   "title": "Can Muse overcome Meta’s trust issues?",
+   "sum": "TechCrunch's Equity podcast discussed Meta's latest AI announcement and whether the company can overcome trust issues relative to OpenAI and Anthropic.",
+   "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8884274c1b",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-27",
+   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+   "sum": "Anthropic CEO Dario Amodei was spoofed on Saturday Night Live in a sketch parodying AI creators.",
+   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4a9742f819",
+   "t": "anthropic",
+   "c": "",
+   "src": "BleepingComputer",
+   "d": "2026-09-27",
+   "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+   "sum": "Anthropic launched an AI marketplace for Claude featuring more than 2,000 plugins and connectors.",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnRqLTRpNnpkWHRHSUNSUW02UktpWjNRVXc2UVN6V2FjX2Q1cVBSMl9UUmFla3BYcVNOTS1vS2ItTVJUcjRYRFlEQTI3a1Q4T2hxY1J0bkhLWk9HcG9BaFo1cFF3WWRQWGp0aDZMVk9wcUJoUXlJM1RjYkdPVFY3YXU2SW1pbUJkTVpzR0xWUWZVUTdyV1BVZ1NmcGNlUVZaeHdWZGtuY3F2ZEQxakRmUzh4U1M0dmtSd19NLV9TYUFkYV9GdHAzVkRTN3p1OWJzMGc2emQ2Tzh4UUhxSkZWRtIB5gFBVV95cUxOU0FncnRFblBBNFktbE1CeHR4Y1lNYndMaTlKZFdnWmxMaW8yMDIzYWFZZVZYSURVeXhxZHB1TER3NXdBQ1lVb2Y0NmF0cGtjUmwyLUx4dkhXd1VQY2FyS3g4RGkzcGpRUU1XVmEzVFkxRm85TXdWRlVmRlFlbXhLdzBlNDl3WTBsOVVITVFId1JQcWVVRHZyb1Z6WHVLVzdncHI3ZS15NDdidFc5bERTclRWeTVRbnY2dEdQUFpweks1c3dGUkZMMUpLR0tQWU9mYV9JZ1MzcHhrRkdIbjlrb1NlTG1nZw?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "a2e53e0474",
+   "t": "anthropic",
+   "c": "",
+   "src": "ghacks.net",
+   "d": "2026-09-27",
+   "title": "Anthropic Launches Claude Marketplace With More Than 2,000 Connectors and Plugins",
+   "sum": "Anthropic introduced a marketplace for Claude offering over 2,000 connectors and plugins.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREhld3dVT09MRzRiR3pseXl2d1JNOW5yWlBUVzhtVlRHZUFzZGswY29IbGlSU1d3aU1XWF9ZLTBJZ3dCeDdDQy11b1dJTTJfVW5jWC1ta2d1bmd0dWtXZVZGTWFuRFp3QUYxU1djd3BXVVFIVVdYQ1BnOFlrWFpySXJLVUEzLTE1czAwLWdmU1B3c0NiWWh3TGFlLURxWHpPdVQ4Y2tyNlNuOVB1VDlpWjRpRXFLZw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "833108bece",
+   "t": "anthropic",
+   "c": "",
+   "src": "Pasquale Pillitteri",
+   "d": "2026-09-27",
+   "title": "Claude Code Stops Cutting You Off Mid-Task at the 5-Hour Limit",
+   "sum": "Claude Code has been updated to stop disconnecting users mid-task when reaching the five-hour threshold.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHltOFhmSEgzelNmdDJzVUprYWVWRTlDN0x4NFdCUmxvMWluMW5rRndyYUxzb0xDUzJoYVV4VTN4TGxYUWJKUnNSMzJGLUFidHpIcGlaek9zelVNQ2ZTek91MW5DdUpyNzNOSUJQbXBXVDdNWEJubmZ1ZG9TWG5yMDVXU1ZDcC1fWWc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "532282aadb",
+   "t": "palantir",
+   "c": "",
+   "src": "The Globe and Mail",
+   "d": "2026-09-27",
+   "title": "What It Would Take for Palantir Stock to Reach $500",
+   "sum": "The Globe and Mail examined the financial conditions necessary for Palantir's stock to hit $500.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGplTHJZZmlzOF9BbmJFd3VYNlNQVWVQSEJJczV2eV84Wm1uMF9IYkpXM0czQzNNd0x1M0RPTlVkMUxrdW5KcEcwMFpKbkpRREstQ2xKdWFhVGt3eVlKQkxlNktCVk5lR0k3clNvNGwzbzBuTUZXLTN6bk90dFZOMUpfMW5pN2pSY2Vrc1JxaFB1NmZ1UEtqYWFMMGh0QjNib0xIVDk2V1hpZWowMTlUU0dDRVR1dE5pRmhjMGVRTUlwaV9kMEwwUDh5VjZCZnNH?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4165e90695",
+   "t": "palantir",
+   "c": "",
+   "src": "telegraph.co.uk",
+   "d": "2026-09-27",
+   "title": "Louise Haigh hints at NHS ban on Palantir",
+   "sum": "British politician Louise Haigh hinted at a potential ban preventing Palantir from working with the National Health Service.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHN2NjFfSXNvaVJXRWFfZFRncjRoOTFSM3N4UlVvWjVsd2NpSkkzYzBGYlFBVWFzajBaUnFsLXZXV2lZeE50MmMwcDdGNG1zRk5rSVdyLWprbVNsczlxazNYbjI3T3pYRnZ1YkRCbzl6dzRmWTM4WHZsTWE0YVdvSk9oa3BGUm9BVHl2dDQ0TlpTakN0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a4cc293e80",
+   "t": "gemini",
+   "c": "",
+   "src": "Pasquale Pillitteri",
+   "d": "2026-09-27",
+   "title": "BNP Paribas signs 5-year Google Cloud and Gemini deal, keeps sensitive data off public cloud",
+   "sum": "BNP Paribas signed a five-year deal for Google Cloud and Gemini that keeps its sensitive data off the public cloud.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRW94dDdfbHVZN1RmMlE2aVBUbjkySkdyVk14VTFodGxvODN3NFplNTBCd0pNWHA0Tjhjb1BUTzRrQ3JDR200OUhoU1VVZkNkZFJFTjM5Mk5zNmEwUllrS2tRWFZFOG5kUmhLUjMzYV9ESUdkcVJtMzNFQ2dxZWx5aTJMT3k4SHM?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "12500e9af7",
+   "t": "eff",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-09-27",
+   "title": "A free 42x speedup for llama.cpp reveals the real 2026 AI cost lever",
+   "sum": "A reported 42x performance speedup for llama.cpp highlights emerging methods to reduce AI inference costs.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZC1tOWlPeUVhREdPZ3lCTnVuV25ycGlZQkxPVkV0LUZzTl8wV01DWnctdWZwMnpqWmxMc2lHN1BfZjFOQ0MtTTdrUDNfeWREUDBYSTBDUk9uMGJuOFdfdmZlNmxzVkhVQ2VJRVJHOWl5MzhkYXUtSHhPY1NwVnJTcE9KMk5mY281ek15NllPZDA1X1RtWTRka2hKaw?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bbee5d3322",
+   "t": "eff",
+   "c": "",
+   "src": "defence.newsd.in",
+   "d": "2026-09-27",
+   "title": "Türkiye Launches National AI Platform EVREN To Strengthen Defence Industry",
+   "sum": "Türkiye introduced EVREN, a national artificial intelligence platform aimed at supporting its defense sector.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZHc2ejNab2x0dXpBRUpCenlQTHQ5d1lYeXBVUnpLS0NfN2FXNEVSTFVDZ2U2NnJSSllWeVNDdlZNTzBvdGtaVGZSR0h2aTRxV2ItY1NyVTV4WG92WGZiRUNZNWw1YnBHUkJrVl91V2tuUjNiZGpyVFhrc1BoZzNwWVlrdmZqamdpdjFfalRSVXBQU2VGMURiUkNaNnFLbnZYV0owVndnaExrN21RTlM0RA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "3471671368",
    "t": "anthropic",
@@ -2725,10 +2868,11 @@
    "src": "Benzinga",
    "d": "2026-09-23",
    "title": "Palantir Stock Rises 3% Despite Losing $875 Million FAA AI Deal: Here’s Why",
-   "sum": "From Benzinga.",
+   "sum": "Palantir shares rose 3% despite the company losing an $875 million contract with the FAA.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNekdNMnRBLWhrb2RCX0tZWm9xbndKVThaekxDdDBjaHNkNElCRXRXeDhSZEhDTFBJcmx0SkZQN2E1STJNbFRGem00RW9qamFQcTJSN2RYbGZqanBNWVl1RmhCT1NRS3ZiLTUtdmlNY0JrWTN2RE0zVWFqTF9vUjhiYXRLY1kxYXNMYzBQUWhna0lpRFVTa1FvS3BjLUJqUGJK?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "43860e1588",
@@ -2737,10 +2881,11 @@
    "src": "MarketWatch",
    "d": "2026-09-23",
    "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
-   "sum": "From MarketWatch.",
+   "sum": "Palantir's stock achieved its highest closing price of the year, completing a major price rebound.",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2ZIWm9ZSDlHX1Vsa1MyRjliWi14am1ZbkV0SkdaUU8yellIR3VHTzl2N2k5Z1l4dHpsZ2ExRkktYWU5aGNSbWVQSTBMb3pUYzFMdnhDT2xVYzIwS2NRTE1IZWdnWDlpbnF3QVRrTTEzVXBCcVd6MlEwSXpPdUFta2swS1BKbUdhTDFBVTdFMkcxSV9NWXA2ZlVydWpYUk1JYjBCc0EtUUlOSEMwMUI0N2stQVAycExBNzY4c1BNUmVyS0dQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f6f351d50b",
@@ -2749,10 +2894,11 @@
    "src": "AOL.com",
    "d": "2026-09-23",
    "title": "Palantir Boldly Raises the Stakes for AI Investors",
-   "sum": "From AOL.com.",
+   "sum": "AOL analyzed Palantir's market strategy and the implications for artificial intelligence investors.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYU1CWloxeGVpZk9zYkVaUVp4ME01MWNmRjl1YWMtNHItUWFWQkxMeHBOUzFXMWw3cjFEZDVWcEdQZVYwVzBLekc3WlBXdl8xZXg4aGVobVNUQzAwSlUtRTh0YTBwUE10NnZMUk9PZTllam1YNExlSFZWZHh6ZVFzRC1B?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fe98f80277",
@@ -2761,10 +2907,11 @@
    "src": "Diya TV",
    "d": "2026-09-23",
    "title": "Palantir CEO questions OpenAI IPO over AI risks",
-   "sum": "From Diya TV.",
+   "sum": "Palantir's CEO raised concerns regarding a potential OpenAI initial public offering due to AI safety risks.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzTzRlX2hFVUI3cFhQbV9pX0hFLVFES25ZSnQzM1o1RzhSbWhSdnBtSDhyM0JqOGhrUVJobTNNSFV2NVExTkFaREIyTGpIMXhYVGpWdHBsRzBrV1ljTkY3a01ZSnFzREVBSUJKcS1oR0ZvVDR2bFN4ODN3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "12840f633e",
@@ -2773,10 +2920,11 @@
    "src": "thestreet.com",
    "d": "2026-09-23",
    "title": "Palantir’s CEO just sent a message Silicon Valley won’t ignore",
-   "sum": "From thestreet.com.",
+   "sum": "Palantir's CEO issued public warnings and commentary directed at the broader Silicon Valley tech sector.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2xrdHU1NjNOZmxFbjUyUE1DajlEUm9weEIxcHdGNm5sc0xyRFNJNGdEdDZDSEkzWDRtRUduSUNINTFTWDJkeUdiM1lTcjZDZXpENlp0LWdCWlhLSWNEYUFpYUJDSkg0OGFMOWpuQkNLQ1EzYlp5M1pMU05QbTVJX3NLZHhhV3BjQzVYYjNVVVNmeTdQYzNuNDdxbnI?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9fb78ebdb2",
@@ -2785,10 +2933,11 @@
    "src": "blog.google",
    "d": "2026-09-23",
    "title": "Gemini 3.8 text-to-speech says hello",
-   "sum": "From blog.google.",
+   "sum": "Google announced the launch of its Gemini 3.8 text-to-speech models.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5f42f97dff",
@@ -2797,10 +2946,11 @@
    "src": "GovTech",
    "d": "2026-09-23",
    "title": "How many companies did Google Gemini models accidentally hack?",
-   "sum": "From GovTech.",
+   "sum": "GovTech reported on the security implications of Google Gemini models accidentally hacking enterprise systems.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZHVJejhNZVh1bzZMVzh4VkZ0Z3JiNkM1UzI2WmpKOE11RVFYdnY4V3ZMeU5NeHZMdjc3bldTUWdMRUF2X1dScS1Ja3MyUXhGVXI0TmVrM1BYclU4SC1FU2cxUmh0SmFwOHdmdzlHNHVGRVp4X0Yyc2xBNEZaSEtqb2pFMGpGdXZzVlFaVmZ2U3hxbkJzdmJ2ME1GZlFEeTdWWkh5NEVqV0s?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "545ea5534c",
@@ -2809,10 +2959,11 @@
    "src": "Unite.AI",
    "d": "2026-09-23",
    "title": "Google Rolls Out Gemini 3.8 Speech Models In API And AI Studio",
-   "sum": "From Unite.AI.",
+   "sum": "Google launched its Gemini 3.8 speech models within Google AI Studio and its developer API.",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9LS1RmS1h0ejVOekphVlRtbGxCb3VXUXdpaEhSS3JjbHhYM1l4OTBpb01EX2VSSF9PM0x5Q2g3ZUt5WVBmRlJtSFdQMTFFSVFkLXFXeU1feFRlekZSZEpEQVA4dnF0UkxKbHlWamtoWUpZc21pUE0wNEpzN0lqd0NPc1lSTUtOQ3dxSg?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f48e80fd68",
@@ -2821,10 +2972,11 @@
    "src": "MediaPost",
    "d": "2026-09-23",
    "title": "Google Adds AI Max Features, New Gemini Models 09/23/2026",
-   "sum": "From MediaPost.",
+   "sum": "Google announced the addition of AI Max features alongside new Gemini models.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOE5SWVNDeEs0SDFtZUNZUUhfNkNuRVBWVnVFNm5aSzdvSlN3VGRsSDdLZmxIS1N1SF8yZVZQLXpWU1A0NW5BNXpwQTZVTTU1bnZYcFAzVmZ0T0NUNmZRNDVFRkVyTk96czlPR3hPdUxNT2Y1cVYwOGh5cGI0bnNYYlNkdmJzX1llRDduLUFqT1J2WFhKRU8tUXZYeEhwa0g0eW9QTGhNMmF4MHFoUUp3RkxNX3N5LWtOM3pv?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ce7647cd32",
@@ -2833,10 +2985,11 @@
    "src": "Small Business Trends",
    "d": "2026-09-23",
    "title": "Google Gemini Unveils Two AI Models for Smarter Voice Interactions",
-   "sum": "From Small Business Trends.",
+   "sum": "Google Gemini introduced two speech models aimed at improving conversational AI voice interactions.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlZsMnRwUW55ZTVKaGhxYUEyU2lfOVZCS0thdEQyU1ZBLUxBTFF0dkVXaGF0em1OSWpFeFppLXZqMlJhR2FzdUVnS0t2YTREOHVuNkczVEZLWW5JMS1fWGwxOUtmVjJjZEQ2cWhOc3VoSDctNmI1X0w3NlJ2WjJsNUJlRDJCQjEwbmZHM1BNeGhHSkUybE8wdG93?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ef97219516",
@@ -2845,10 +2998,11 @@
    "src": "Seeking Alpha",
    "d": "2026-09-23",
    "title": "Google unveils new Gemini 3.8 Flash TTS, Gemini 3.8 Flash-Lite TTS AI models (GOOG:NASDAQ)",
-   "sum": "From Seeking Alpha.",
+   "sum": "Google unveiled Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS models.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHRISG1vU0F4SF9zM255VjA4RkM5X2hEb21FUFZvVVdnMVh0QVQ4OGZOZThPajJaSTRQNHJkRWFQd013XzdBUnNvNTZwcEFIMjVWTFR4czhwUVh6eTJMSkhuMG5HU05KWGROZlFjNG93NWxXVmJ5UTJTb05ZTXpWckk3MS1FVVBZMTZoZVBac3RNeU9fdElHUG5lekp2cWNyWFJ6Q3FUbHhMY2xqWVFkWGwtYw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1a2575eaae",
@@ -2857,10 +3011,11 @@
    "src": "Yahoo Tech",
    "d": "2026-09-23",
    "title": "Google Adds AI Max Features, New Gemini Models",
-   "sum": "From Yahoo Tech.",
+   "sum": "Yahoo Tech covered Google's release of new Gemini models and AI Max capabilities.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnRtN2dYcjFzMFZzQW1NTUNTNC1YQmV6MkxiV2JIdnZjUklHSlVGNWlWNnpKd2c5aERjTzRSV1hWQjdvVEl4eWNWRU96ZnZhSjJwV3JISEEwcGtYc2lYMGdTamptY1FTWGJmZG9EQ1p4VnpOLXZjU2ZUMzRqM3JJX0FTaDZQS2JOTGFMZXJ3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "120455ddb6",
@@ -2869,10 +3024,11 @@
    "src": "marktechpost.com",
    "d": "2026-09-23",
    "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
-   "sum": "From marktechpost.com.",
+   "sum": "Google launched Gemini 3.8 Flash TTS and Flash-Lite TTS, enabling voice generation driven by natural language prompts.",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWdaM19nci0wb0hYZkMyazNqYzctaHRERjFGOHJqSzJxcnN1c0dUMEplM0NOb1ZQMFpUNG5WUjBFOElCQTVQQTNtR0hXcTBXZjhOTk5TalQ5UGppSWpxTjBTZFZDaS14SDJ4bEZ6YTJnZ3FPYXFsLXN2SURhUzVwZDF1UGFvMG9DZ2NUS1BWZEJQVms1RFFNdUpEa3NxYVY2R3VNOUU5dWhaYTFVNDQ0bmxpT3BLcVduajJTNDFsci0wUFA5Z1HSAcsBQVVfeXFMTk1FdFVpX3dPTjBMSC1yOVhERFNSZEhIQnFCbDZEX3BQb0tuenBsak5tbnNlYWNGUEJaelNsbDhYeU1pYy1uMDREb2pZcHo3X281aG4wWWlEQm1qMlN6T19WdGxzR1dEWW1GRjVlTS1OWTZackRGX29BN2lDdXpmMmFXTENvMDVnWk12SzdKR2Z1WkRzVG1HTE1vMWh6WXVOOTRXUjhaUk13X3prNHFjOXBLYkM1bUphUGJ0NXg0S2xBaTJQMU5QNDdIWkk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "9d70854ff2",
@@ -2881,10 +3037,11 @@
    "src": "Towards Data Science",
    "d": "2026-09-23",
    "title": "GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-   "sum": "From Towards Data Science.",
+   "sum": "Towards Data Science published an engineering guide outlining six advanced architectural patterns for GraphRAG implementations.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmFEc3FXYUJTUGltSUFoUTAzem92SHhZU18xRVVROXFEX3FKX1UzRUgySHlyTXVzZkd2ME9XUDE3cVVPaG9FTm95cDl6R00yQnliUnhXdUpvYmhKY291YlFudXA4NEIyZWtvdkdDNmZVN3k3Qm9JWnlsb0FWbFlPandQQzVDblBaTFQ3WVIydTdtTTZYaUZTWmxHLVkyQVA4?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9d92c5ab3f",
@@ -2893,10 +3050,11 @@
    "src": "AZoOptics",
    "d": "2026-09-23",
    "title": "Breaking the Dimensional Barrier: From 2D to 3D Co-Packaged Optics",
-   "sum": "From AZoOptics.",
+   "sum": "AZoOptics reviewed technological advancements in transitioning from 2D to 3D co-packaged optics.",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93NXZsQzQ4aVJpc2FHRnVNMWV4ZjgxVFVtOE1UeTZGN0dWbUUxVnJTOTBJS3ZUclFTb00xUE9pcEtRRUpjR0pEUEJyV0liTG5pNmlhb1h4b09NT21F?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "33d4153d93",
@@ -2905,10 +3063,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "YouTube releases new AI features for creators within its Studio app",
-   "sum": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+   "sum": "YouTube Studio added AI tools to assist creators with content ideation and thumbnail performance tracking.",
    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "ec5172ddcc",
@@ -2917,10 +3076,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "YouTube will let you build your own algorithm with AI",
-   "sum": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+   "sum": "YouTube is introducing Gemini-powered custom feeds that allow users to generate personalized recommendations through natural language descriptions.",
    "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bed8eeca80",
@@ -2929,10 +3089,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-   "sum": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m.…",
+   "sum": "TechCrunch announced a registration discount deadline for its upcoming Disrupt 2026 conference.",
    "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9fb22034ac",
@@ -2941,10 +3102,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-   "sum": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+   "sum": "Spotify rolled out Taste Profile to U.S. Premium users, allowing them to adjust recommendation algorithms using natural language.",
    "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "343438d8e5",
