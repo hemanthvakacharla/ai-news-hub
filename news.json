@@ -1,6 +1,71 @@
 {
- "updated": "2026-09-26T21:45:01Z",
+ "updated": "2026-09-27T02:29:31Z",
  "items": [
+  {
+   "id": "b09c672e44",
+   "t": "gemini",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-27",
+   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "sum": "Google is testing e-commerce integration with Flipkart through Gemini and AI Mode for select users in India.",
+   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ecb896bf78",
+   "t": "anthropic",
+   "c": "",
+   "src": "MIXED Reality News",
+   "d": "2026-09-27",
+   "title": "Anthropic now bills for refused Claude API requests, in three of five categories",
+   "sum": "Anthropic has begun billing customers for Claude API requests that are refused across three out of five categories.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTBQdVhFMDNLc2dqZWVvdEpMTlNrYzhXc1BrVXNmQ0FZZm8wNkwwUFFuUlFlZnFhWG1pUjhCaXNpeFhBNk5EQlBhZlRYajl1SkFHd0lXaDFZTTA2a0ZNQlR6S0F5Y2FLMXAyZHBuUFFiUFh5c3pVdm40NjhucHhBZlRaTmxHcDl2SmlFMFNCM1M?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d36ef04e00",
+   "t": "anthropic",
+   "c": "",
+   "src": "gHacks",
+   "d": "2026-09-26",
+   "title": "Anthropic Offers Up to $250 in Free Claude Code Cloud Credits to Pro and Max Subscribers",
+   "sum": "Anthropic is offering up to $250 in free Claude Code cloud credits to Pro and Max tier subscribers.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjl4WGw3RGpBenhGOFh4dDZ3ajFJeThrNmtfUWhJZ21TUG1yWGx0TWZGYkdrRW8tVHREWTlEM2pCZ1dWUTFwb3VESURaTTRzUElUemR0dDd2TnhwcDVpOHp0b3FKQTlPYnlnUS1XWHlobTdadEVOamN3X3MyWTJsMi1VQ2Q1UHd1MlJIUlVQZ09UeExJUDd2ZkZlUWl2UEpRRG5JSUVSWXVuSW93WWVPQmFsMnlvcDlnRk94aWwxQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "31f6c68cf1",
+   "t": "palantir",
+   "c": "",
+   "src": "simplywall.st",
+   "d": "2026-09-26",
+   "title": "Top 3 AI Stocks To Watch In September 2026",
+   "sum": "Simply Wall St listed three artificial intelligence stocks to monitor for September 2026.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTk8tdjdZczNJd2Z5T1pmclVGUVNvdWJxckVTZlloemVGSVhCdDNhMTREYU5jU3FNZVZROEpNbGFudDlqUG5OamlubnpQUGJmcGpnMDhrVGRNemcyZHQ3Y2RqaVZncl9aNmRXZ3NSSDh2Z25nVWxYTC1rMU5SNWhkTlVRREdRWlZVWGNleDZ4RnBQSXd5TGJfVVY1V05jRFc3VGVRRVQ3NFl0WExHdnVkSzZoS2FFalhOX1JORlp30gG-AUFVX3lxTFBOTy12N1lzM0l3ZnlPWmZyVUZRU291YnFyRVNmWWh6ZUZJWEJ0M2ExNERhTmNTcU1lVlE4Sk1sYW50OWpQbk5qaW5uelBQYmZwamcwOGtUZE16ZzJkdDdjZGppVmdyX1o2ZFdnc1JIOHZnbmdVbFhMLWsxTlI1aGROVVFER1FaVlVYY2V4NnhGcFBJd3lMYl9VVjVXTmNEVzdUZVFFVDc0WXRYTEd2dWRLNmhLYUVqWE5fUk5GWnc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "381865578b",
+   "t": "models",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-09-26",
+   "title": "Tim Sweeney: Agent Eval Suites Are the New CI — How Weights & Biases Gates AI Models on a 73% vs 72% Score",
+   "sum": "Tim Sweeney discussed using agent evaluation suites as continuous integration to gate AI models based on small score differentials.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdWl1TUNYNGlvd20tY1lQa0U0TjVvak5YaTJfc01jUE9MN0RqMXNOQ0VRNmxBZENPU0o4akViMnptRFM1WlpMSXRwcmZhU1ZlSXFMYTdzaTQ1cEU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "d70ce2b78b",
    "t": "industry",
@@ -1945,10 +2010,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
-   "sum": "Recent years have witnessed major progress in joint audio-video generation. Existing models still suffer from limited per-modality fidelity, insufficient text-modality alignment and weak…",
+   "sum": "Researchers introduced AV-GRPO, a diffusion reinforcement learning method designed to improve joint audio-video generation fidelity and alignment.",
    "url": "https://huggingface.co/papers/2609.29816",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c39d3732b8",
@@ -1957,10 +2023,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
-   "sum": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are…",
+   "sum": "A paper presents evidence that transformers exhibit linear superposition when processing inputs from distinct text streams simultaneously.",
    "url": "https://huggingface.co/papers/2609.29845",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "11e75bcfca",
@@ -1969,10 +2036,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
-   "sum": "Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers…",
+   "sum": "Researchers developed Just Ask Jev, a calibrated reinforcement learning detector designed to catch AI alignment failures zero-shot.",
    "url": "https://huggingface.co/papers/2609.29429",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9c8dbe8903",
@@ -1981,10 +2049,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
-   "sum": "Sparse AutoEncoders (SAEs) offer a promising way to inspect language model representations, but it is still unclear what kind of linguistic structure their latents expose. We use…",
+   "sum": "A new study shows that sparse autoencoder latent spaces naturally develop representations corresponding to linguistic parts of speech.",
    "url": "https://huggingface.co/papers/2609.29362",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4127a84ec7",
@@ -1993,10 +2062,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
-   "sum": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and…",
+   "sum": "Researchers introduced coding agents to solve generalized task and motion planning problems with coupled discrete and continuous constraints.",
    "url": "https://huggingface.co/papers/2609.30233",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "92e245d705",
@@ -2005,10 +2075,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Rufus-Air: An Open LLM Post-Training Recipe",
-   "sum": "Rufus-Air is an open and reproducible post-training recipe on GLM-4.5-Air-Base (106B-A12B), organized as a serial pipeline of eight stages: SFT, Reasoning RL, Coding RL,…",
+   "sum": "Researchers released Rufus-Air, an open and reproducible eight-stage post-training pipeline based on GLM-4.5-Air-Base.",
    "url": "https://huggingface.co/papers/2609.29421",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7db316efc7",
@@ -2017,10 +2088,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates",
-   "sum": "Block-based video codecs select coding parameters based on the input by optimizing a rate-distortion trade-off. The conventional distortion choice, the sum of squared errors (SSE),…",
+   "sum": "A paper proposes stochastic Hessian estimates to optimize rate-distortion trade-offs for full-reference image quality metrics in video codecs.",
    "url": "https://huggingface.co/papers/2609.30077",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "00117a8e35",
@@ -2029,10 +2101,11 @@
    "src": "HF Papers",
    "d": "2026-09-23",
    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
-   "sum": "The rapid progression of large language models is extending AI from passive content generation into the active workflows of engineering and scientific discovery. This shift raises a…",
+   "sum": "Researchers presented Qwen-Planner-Agent, a closed-loop framework enabling mobile LLM agents to plan engineering and scientific tasks.",
    "url": "https://huggingface.co/papers/2609.29892",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bc382fd1eb",
@@ -2041,10 +2114,11 @@
    "src": "Investing.com",
    "d": "2026-09-23",
    "title": "Anthropic’s Claude finds new enzyme system",
-   "sum": "From Investing.com.",
+   "sum": "Anthropic announced that its Claude AI model helped researchers discover a novel enzyme system.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTy1TSDBoeVpLcUhpRHF4Z1VJM01VMFZxRmdsMTA4bWV2c01PUTAwTFpGZVVHZWZ1MzhRUzcxYUpKcl8wYWRqU19RbVBhUkZFYjJXUlF6TVZvdGtQOHdxb3djUGNQZ2g0dGh0M3RhSlJ4TU96ZnlrLU14LTdNVERyRFRvbnVzVmJEdkVUWlNzMmRNdkljcDd2WHZ2OVRZZkU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "10072b080a",
@@ -2053,10 +2127,11 @@
    "src": "Quantum Zeitgeist",
    "d": "2026-09-23",
    "title": "NVIDIA Chips Now Encrypt AI Work To Keep Data Private During Inference",
-   "sum": "From Quantum Zeitgeist.",
+   "sum": "Nvidia has enabled hardware-level encryption on its chips to preserve data privacy during AI inference workloads.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2YXJTdzlBeW5sVnlUQjFhOFNiUW05QTN3VkI4bU13OUdYLUJmMkxXZV9KSzR3WGFueUJaMVRsYWtrY09nQVgyLUU0SlZwNFE0Nk5YaE84Tk0tX05pUnBXVFAtOTBJOTk2U0FmMA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "b8569e46aa",
@@ -2065,10 +2140,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "Meta introduces camera-free AI glasses",
-   "sum": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+   "sum": "Meta unveiled lighter camera-free AI glasses that offer up to 12 hours of battery life.",
    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "72bffe5e66",
@@ -2077,10 +2153,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "Anthropic says its biology lab has already found something big",
-   "sum": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+   "sum": "Anthropic reported that human researchers in its biology lab, assisted by Claude, made a significant biological discovery.",
    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1227d42bd1",
@@ -2089,10 +2166,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "Memory Attention",
-   "sum": "Language models typically construct attention values from contextual hidden states, even when some of their content may be reusable across contexts. We investigate whether token-indexed…",
+   "sum": "Researchers proposed Memory Attention to reuse token-indexed attention values across contexts rather than constantly recalculating them.",
    "url": "https://arxiv.org/abs/2609.28399v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fba87773b9",
@@ -2101,10 +2179,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "Predicting Quantization Price for Selecting PTQ Configurations Before Deployment",
-   "sum": "Weight-space post-training quantization (PTQ) must choose finite formats, granularities, quantizer families, transformations, and bits before the completed quantized model reveals its…",
+   "sum": "A paper introduces a method to predict post-training quantization costs and accuracy tradeoffs before deploying quantized models.",
    "url": "https://arxiv.org/abs/2609.28270v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d6ef3afb35",
@@ -2113,10 +2192,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "Resource-Adaptive Stochastic Gradient Descent for Online Linear Programming without Re-solving",
-   "sum": "The growth of large language model (LLM) inference and search services increases the scale of online linear programming problems, motivating computationally efficient algorithms. We…",
+   "sum": "Researchers designed a resource-adaptive stochastic gradient descent algorithm for large-scale online linear programming without model re-solving.",
    "url": "https://arxiv.org/abs/2609.28263v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2f4f37edfc",
@@ -2125,10 +2205,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "RAMP: Robust Adaptive Mixed-Precision Quantization for Edge CPU Vision Models",
-   "sum": "Deploying deep learning models on edge CPUs is bottlenecked by computational and memory constraints. Mixed-precision quantization promises to reduce inference latency while preserving…",
+   "sum": "RAMP introduces robust adaptive mixed-precision quantization to reduce vision model inference latency on resource-constrained edge CPUs.",
    "url": "https://arxiv.org/abs/2609.28262v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ef492d1c0b",
@@ -2137,10 +2218,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "hyperbolix: Hyperbolic Deep Learning in JAX",
-   "sum": "We present hyperbolix, an open-source library for hyperbolic deep learning in JAX, built on Flax NNX. To our knowledge, it is the first comprehensive, general-purpose hyperbolic deep…",
+   "sum": "Hyperbolix is an open-source JAX and Flax NNX library designed for hyperbolic deep learning.",
    "url": "https://arxiv.org/abs/2609.28248v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5eecf4dd1f",
@@ -2149,10 +2231,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "Exact Quantile Balancing and Load-Error Injection for Mixture-of-Experts",
-   "sum": "Mixture-of-Experts (MoE) training requires global load balance to prevent expert under-utilization and local balance for efficient expert-parallel execution. Existing distributed Quantile…",
+   "sum": "Researchers introduced exact quantile balancing and load-error injection to improve expert parallel execution in Mixture-of-Experts models.",
    "url": "https://arxiv.org/abs/2609.28053v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dce4a2a854",
@@ -2161,10 +2244,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "Tensor Decomposition of Transformer Key-Value Caches: Spectral Structure and Format Comparison",
-   "sum": "The key-value (KV) cache of autoregressive transformers can be viewed as a fourth-order tensor spanning attention heads, tokens, features, and grouped layers. We measure the singular-value…",
+   "sum": "A study examines tensor decomposition of transformer key-value caches to analyze spectral structure and compress memory footprints.",
    "url": "https://arxiv.org/abs/2609.28029v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "724b29d8d4",
@@ -2173,10 +2257,11 @@
    "src": "arXiv",
    "d": "2026-09-23",
    "title": "Risk-Controlled KV-Cache Eviction: From Memory Budgets to Risk Targets",
-   "sum": "KV-cache eviction is typically evaluated through average quality-memory trade-offs, yet a small average loss can hide requests whose utility degrades materially. We reformulate eviction as…",
+   "sum": "Researchers formulated KV-cache eviction as a risk-controlled optimization problem to prevent individual request quality degradation under memory constraints.",
    "url": "https://arxiv.org/abs/2609.27981v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b44fa76da7",
@@ -2185,10 +2270,11 @@
    "src": "Reuters",
    "d": "2026-09-23",
    "title": "Anthropic says Claude AI helped discover novel enzyme system",
-   "sum": "From Reuters.",
+   "sum": "Anthropic reported that Claude AI assisted scientists in discovering a novel enzyme system.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSy1hZUZTdFRxVmt6XzZubm9GeGFET0hMaVBkaUh1aEpJVWRnbVgzdGlPZE5KQXFHOFdiRHZEQ2JZTmtaeTgzY25rY3Z6VFpMYVdkekp5SG81bEJ6Q2RRaF9VMUcwem1NS2N5dE5wcmI5ZkNoeE9TaGdNWFVtekFPVUN6eWRUeXluUFQwNVp0N18xanFEU0xwNVhiNUxnMF9xZHVMLVRwYU9LSWJmWERKSlBtdktoZ2RXbm8yY3BuRk1sSmYtX0xTSEY1M00?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "04c2d42e03",
@@ -2197,10 +2283,11 @@
    "src": "Investor's Business Daily",
    "d": "2026-09-23",
    "title": "Stock Of The Day: Palantir Is New Buy Amid Earnings, AI Momentum",
-   "sum": "From Investor's Business Daily.",
+   "sum": "Investor's Business Daily highlighted Palantir as a buy candidate following earnings reports and AI market momentum.",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhblFrS0pCMS1JRXdEYjM3eGtfWkdySEdINmk3UXRCNGtLTWJNbkl2X0N5aFg3akY4UXIzeGJMLWt1Mzh6T3ROUjRsWTRVTHhQaTdmRlcwRmxuVk5pSl9GQklSTzdsX0VkSmhPd3YtVGVVREhsWG9rUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9f1c239346",
@@ -2209,10 +2296,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-09-23",
    "title": "Google Says Gemini Hacked 3 Companies on Its Own. Now Google Is Sending Mixed Signals About AI",
-   "sum": "From 24/7 Wall St..",
+   "sum": "24/7 Wall St reported on claims regarding Google Gemini and enterprise security incidents.",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSl9oek13ZkZzUncxWFN2ZFMwQlZNNXo5ck5VVzhSRzFSR3BoSURTZjZ5dmZ6bWhnRGJMZDRDTzB5bXlEZmxUa0hOazJpODhEVnhuY2pfNGxhZ1dCZy10RVNYWG5jMUl2Vi1LLTQ1c0liaVU5XzdaYmxBWGc1eTFqSTVtZ0hIRzFXeGh3REdocFpZU1BKNW9FUmtWd0VyWXdkaUV5ZDNaZWs5eFJQX3hyWi1zY1VDZG03MzdpZXp6THVaUk1PSjVrUHF0TVQ4MFVlUjZQQWcyRzk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2105b3f7bb",
@@ -2221,10 +2309,11 @@
    "src": "Medium",
    "d": "2026-09-23",
    "title": "Claude Opus 5.5 vs GPT-6 Sol and Luna: Which New Model Should You Use?",
-   "sum": "From Medium.",
+   "sum": "A Medium post compares speculative future models Claude Opus 5.5 and GPT-6.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTJObHJ6NUpJcEJSVllfNTFaZ0pRXzV6R0EwRk1RQjZxU2RPazI1ZHBmbGVacVdUcVVhVXZOWVg3azRqYUNPSlFoVG5oN1FBOTF5OWEtRHIyMDJOQTR6ZnRHZnFfUFFzTjNCblVQdkVqbnVuUHo5anpNSmEwc1FMckxtVkZBVnI4Rl9iQUV1NUw0Z2Rld1c4a0tYUmZIVUFMdTE0eEczMjlCV1lYN2JiNnZncmQyVkly?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "959741d066",
@@ -2233,10 +2322,11 @@
    "src": "Kings Research",
    "d": "2026-09-23",
    "title": "AI Server: What Comes After More Powerful GPUs?",
-   "sum": "From Kings Research.",
+   "sum": "Kings Research analyzed hardware infrastructure trends and potential computing alternatives following current GPU architectures.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5TFl1MllPLUxJbVp3TXpka1RMY3ROTmpTalJxTXFvUkhQYlJlNWVGRWVSQ1Z1UkdUNk10OWhrbVlRaGFTSHNzYS14NXBhbk5wTzB2ZmpaRGx0T0Z3b2ZBS2VsNjNxd29MMS1HejlmT1pHQ2Zy?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d6b54cabcf",
