@@ -1,6 +1,188 @@
 {
- "updated": "2026-09-27T02:29:31Z",
+ "updated": "2026-09-27T14:56:03Z",
  "items": [
+  {
+   "id": "3471671368",
+   "t": "anthropic",
+   "c": "",
+   "src": "ABC News - Breaking News, Latest News…",
+   "d": "2026-09-27",
+   "title": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic 'supply chain risk' designation - ABC News",
+   "sum": "A judge expressed skepticism regarding Pentagon arguments defending its designation of Anthropic as a supply chain risk.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl30gG3AUFVX3lxTE1rdlpUT192RDFETTA4cThDWVljVHl0QUpfNEN2OFpOSk9nTXVfWkQ0N2JtT2RialZOU3B2ZWxNUkt1NVl4SWY0VHRMeHRPaWI1SU9Zc1RtWkphSXVfT0ZNa28zSTE4clFRVEI1ZlJadGJwcW1ZOTVNa1hXSG91REpZaElCbW5fdTkzbTdOSFFDa2k4X1dDUVEybTN3dWhYMXJZTHV4d2ZmaV8xUWlJVHN0TGxUMmJncw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a924ee2b82",
+   "t": "anthropic",
+   "c": "",
+   "src": "thestreet.com",
+   "d": "2026-09-27",
+   "title": "Microsoft just sent a strong message to Anthropic",
+   "sum": "TheStreet reports Microsoft sent a strong message to AI developer Anthropic.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT0V6WFFZbm1LYmdPUW1ZWjZxcjdUV255X3pnUlRCQmNLRzRjVVVpX1FLR3Q2YklvaExLQ0pJcHdCdzN3WlcySXZXLVgzbG1MejdQbDVpN3Z1RHlfczQ0X3JraC1TNWJjbVRRb0xfVUdpREdYZVJhWFBpLUlnMVFUWERQbEpRZVp0cGVTUGlHR1VZRjduWXdUbG9VaXJfU0xNVHVfSnZiLW5vT0N2eHpCc1FzVktzbkFJbno4Ug?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e04ff4b386",
+   "t": "anthropic",
+   "c": "",
+   "src": "tradingkey.com",
+   "d": "2026-09-27",
+   "title": "What you Need to Know AboutClaude's Maker, Anthropic IPO",
+   "sum": "TradingKey outlines background and considerations surrounding a potential initial public offering by Claude maker Anthropic.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa28tTl93WVB4VlNSanNWbTJpaFFyVzFqV1poNkFtRkc2cG93ZDVmaTZkdDhNSTcxdzNTZml3NW9NLXNuc3ViZlZPTkZTc0tGZmFCRGkwOXpYb0g0aG1zVzRuRVJFYTFDWmROQm5LSmlfd0Zrd19kblFBczMySkJ3RFNNekRicWlDcXNZc1NvcVZvOFZ1Tk93clhBYVF4dw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4359d4bf31",
+   "t": "palantir",
+   "c": "",
+   "src": "Currently.com",
+   "d": "2026-09-27",
+   "title": "Is Palantir a Millionaire-Maker Stock After Its Rally?",
+   "sum": "Currently.com analyzes whether Palantir stock represents a millionaire-maker opportunity following its recent rally.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjNiUU8wdk9JYVhYTUsxZzZhOXVkTVpXZ1ExY09RWFlPZHRfT3NkdHZxTms0ZUtiU0kxRzNkWFlTMWw1YWROYVdaMDRGZHpuTzZ1YU95NklLMTVlM1JGZjRVYTUySWM2dkxVeUJUT0N2b3RjQ3lWTXFESFI5VXdHazk0cnZYREl6RzlYd0FCamo1UkU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "87ca6c121a",
+   "t": "palantir",
+   "c": "",
+   "src": "foreignpolicyjournal.com",
+   "d": "2026-09-27",
+   "title": "Figma (NYSE: FIG) vs. Palantir Technologies (NASDAQ: PLTR): Profitability Gap Makes The Winner Clear",
+   "sum": "An analysis compares Figma and Palantir Technologies based on their respective profitability metrics.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2xocnBoenRnVHEyaUMtUmh0bzFUWEJONEpwdzlWNGI0bGxhN3d0QXpwZU5laTJERi1LVGRLQVZjWnNyczAxRjVzdW9NTy1NeDVYN1BUSWtlQUlmZ3FiWGdMNHZkY3RBaTVLa0RiaVlBUGxNRXp5TWpNTmNYaVlQN2VjWEw3emZQWEhTdFdpR2tMSDJyc2pvcDRsbjlnbnc3aWFkT2lHUmdXVlZsbW5QOVcyTFFaX3RJTFFrcE9mUmhiNUQ5RUhwX3B5TnNQeS1QY2RpbWxyWGU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "550b25972e",
+   "t": "palantir",
+   "c": "",
+   "src": "Fast Company Middle East",
+   "d": "2026-09-27",
+   "title": "Nvidia and Palantir want to speed up the AI buildout. Nvidia is first in line",
+   "sum": "Nvidia and Palantir are collaborating to accelerate enterprise artificial intelligence infrastructure deployments.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUxqN2tDNlg5VENQZG9LdVI2Yk90RlRHTkxWZHJyMGRDWUgyYnpJUjZ4NGE0N1lCdUE1MW92OFBWaVhBM1dyQy1xQlBaSGhmNnk5Q2dDMmJ1ZVhEVkpVQmwzSHVDRm9VU2ljVTNOcXlRc0VWSXVxVl9GWC1HSGdBaDF6aHMwTGY4YkpQeU1xajFfSzA4X1BhdGhFZjc0UXVTbkREUTJVZmwxcE16cTFTS1pRcU0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "057092fa8d",
+   "t": "palantir",
+   "c": "",
+   "src": "NDTV",
+   "d": "2026-09-27",
+   "title": "\"View Was To Go With Palantir\": Top Defence Official On \"AI Spine\" For Forces",
+   "sum": "A senior defense official stated the military decided to use Palantir as an artificial intelligence foundation for armed forces.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQmFqRjZ2UUNlNjZmWnZJU1E5OXdCeGtNeU0xUEVDSFRlcW5nNmdYTUdSRmdmT0tBakRJWHdVQnllempLQmxMbzdwbmZaYzZZT1h1eDZVUlBELXBacjVEYXo5dXBheVF5cWpBZUhsT0lRMnRudGpHcU9pV0VMcWYzZHAxaGxybUM3dHEwYTJWX3dWQTV1TnFPRE13TmFPNlJvc1dLaHdGZFB2QVlDdHllRlNocEs4djNXdVFZRkZYVFLSAcgBQVVfeXFMT0d2RlR1UnpNSkNSc2ttQkVPMmdmN0UyOVpTdlBfaF9KRFRuVVNUZ1hDeFFYTTlqcXZoU3ZyenJmVFVYOGlfZ3lOTEJsaHU4blFHMFVhRW5hSkZycEJyQm5OYmhkZjB3Y2J4TGR3VWVVNGgtT1loQkdER094a3ZSbjNscXE5Q2lPd2d5b3pPeW9yM1ZRNXVLSWZxNm9Wcml4SzZ0aFJXeVBZZHd3Z1pIRjdNeURMZTYyOVhVQnFUNkM0YzV4bTRfaEQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b69c7eb1f3",
+   "t": "palantir",
+   "c": "",
+   "src": "tradingkey.com",
+   "d": "2026-09-27",
+   "title": "August Kicks Off: Palantir, AMD, SanDisk Earnings and NFP Jobs Report - 5 Stocks and 3 Macro Events to Watch",
+   "sum": "TradingKey previews upcoming earnings from Palantir, AMD, and SanDisk alongside major macroeconomic events.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZzZJdXFEWWtqRHRXMDRrd1ZLNTdwY3YtMUk5TzYyUGx2NW1oT3lYc2xkcFZkMVFEMkYzTjZKeWhnY1l5RlcxaTlmSmZFczQ3RkplRk5XZmN6UzdqeDJxc3ZiaDIzWTdwb01OaG5mMzktRG1tNnBxTG5uWnFFZl9wVjhubTFQSHVTOTJhUnpZX3FONUdqOXB5X1N0X2FHZm9rWHl3bXlVcFJSMEg4RFRVcFRtNjJSSHRmYXp6bzlVU1dpdXpwZ3d4ZURxamZHLVQzYWJYQU84cVl5Zw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7e936e41f5",
+   "t": "gemini",
+   "c": "",
+   "src": "Geeky Gadgets",
+   "d": "2026-09-27",
+   "title": "Google Confirms Gemini 4 Replaces Gemini 3.5 Pro Entirely",
+   "sum": "Google confirmed that Gemini 4 will entirely replace Gemini 3.5 Pro.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZVldXdGJvU3puYzJSMlZ3NDkzanJYbjlfd0ptTjBGWDd3QmhzM3hoR0VBQ2R3aDI0Y2VfV3VkdU84b0dVV3dfaGNNb00xZWZZX0tMeFk0VEJHcHk4eFR6aE9LU0o5THpZOTlr?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a89000997d",
+   "t": "gemini",
+   "c": "",
+   "src": "tokenpost.com",
+   "d": "2026-09-27",
+   "title": "Google Targets Gemini 4 Release Well Before 2026 Year-End",
+   "sum": "Google is reportedly targeting a release for Gemini 4 well before the end of 2026.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1taDZpS2Y2YnJuMXdXS2tnS0dtWElHcFFrOFpwRHgyZE82MnlRRVdFbFdDMVEyMFhDMnpxWTk0YW0xdHhKY1J4RFVqeUxfVHFkWHVmUGNiYVAtUTg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ff8f85baff",
+   "t": "gemini",
+   "c": "",
+   "src": "voiceoverherald.com",
+   "d": "2026-09-27",
+   "title": "Google Can Copy a Voice From 30 Seconds of Audio. First, the Owner Has to Say Yes Out Loud",
+   "sum": "Google developed technology to clone voices from 30 seconds of audio, requiring spoken verbal consent from the owner first.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdTRNVUZFVnNIbmpiMTVneFNmM3h0NTF6VTFtTkpEYkdUZzRuQ3ZiZEZIcXd1bkdrTUotSzJoaFR5b3ZoQlNuS0h0cTViLUNfNm83OTNMOVZvYVJ5dDRQcUxEWUdVR2psNW4wdzBiall0M2dycFdXM2ZYVHU4NW1JTm1sbVppVjg?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0901c05adb",
+   "t": "gemini",
+   "c": "",
+   "src": "36Kr",
+   "d": "2026-09-27",
+   "title": "Brand-New Gemini 4 Pro Full Unveil: Real-World Test Performance Outperforms Opus 5.5",
+   "sum": "36Kr reports the newly unveiled Gemini 4 Pro outperformed Opus 5.5 in real-world benchmark evaluations.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IaWdHNVNneW9UVnB6S2RERS1aUlNOd0tyQjZyeURrWllid01Nc2hsb2dGTk5pZlNTTzlWVFhSaGVIOXpnSUxmMDdFR09oRUU1T0dj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "25215b4970",
+   "t": "gemini",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-09-27",
+   "title": "Googlebook Cheat Sheet: Price, Models, Gemini AI [2026] - tech-insider.org",
+   "sum": "Tech-insider published an overview outlining expected pricing, models, and Gemini AI integration for the Googlebook.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNS1wc2hsSUVMMmNpNG1aV0k1d3RXMGpwZUF3d1lPSkhNWmtHbk42SVo0MzFxMjQweVVaZ0FGX0dTelU3VnQ2MldFZld0YlZmQmdUOHBwellydms5UFpSNDlTNDlKVDJ6bnkxb3JVUFc5NFVsZU92bXBBaFNBbDFFeFVSVlNEVG5NVHc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cade070941",
+   "t": "eff",
+   "c": "",
+   "src": "Daily Sabah",
+   "d": "2026-09-27",
+   "title": "Türkiye launches defense-focused AI platform EVREN | Daily Sabah",
+   "sum": "Türkiye launched EVREN, an artificial intelligence platform developed specifically for defense applications.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFQzQU8yaUhEZGk2V1MwYnd4em12Uy1XTGd6cWFtRjF6WjdJcm45bExqMVpHeVhwcUx4cXBLNHloRkxfV29kaE9qLXpBMTNaX3J2dU96emlCTzFuQXVVd0ozQTU1djdEZzJpa2x5TUw4eHM1S29hNTBYLW01WW5XYm54dklCRU4yQW9IMkxOdm5EaXd4dkhJYVVmbFBwUU3SAZ8BQVVfeXFMTnBUM0FPMmlIRGRpNldTMGJ3eHptdlMtV0xnenFhbUYxelo3SXJuOWxMajFaR3lYcHFMeHFwSzR5aEZMX1dvZGhPai16QTEzWl9ydnVPenppQk8xbkF1VXdKM0E1NXY3RGcyaWtseU1MOHhzNUtvYTUwWC1tNVluV2JueHZJQkVOMkFvSDJMTnZuRGl3eHZISWFVZmxQcFFN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "b09c672e44",
    "t": "gemini",
@@ -24,6 +206,19 @@
    "sum": "Anthropic has begun billing customers for Claude API requests that are refused across three out of five categories.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTBQdVhFMDNLc2dqZWVvdEpMTlNrYzhXc1BrVXNmQ0FZZm8wNkwwUFFuUlFlZnFhWG1pUjhCaXNpeFhBNk5EQlBhZlRYajl1SkFHd0lXaDFZTTA2a0ZNQlR6S0F5Y2FLMXAyZHBuUFFiUFh5c3pVdm40NjhucHhBZlRaTmxHcDl2SmlFMFNCM1M?oc=5",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "746e24fa42",
+   "t": "anthropic",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-09-26",
+   "title": "Anthropic Unveils Claude Opus 5 — At Half The Cost Of Fable 5",
+   "sum": "Stocktwits reports Anthropic unveiled Claude Opus 5 at half the cost of Fable 5.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzYyMkx0NFhLdTdIZW5vaVI5bnJXODl4LXRFd1VXNkJJeklVX1VsNllfOVNzSERKSlRfU2lyZ3o4enY4dWFSYWNRc2xnVmVpU0tkMHBkTmVFTHRWR0oxOWpzQ0ROM3pGcW95MzFKTE85Yjd4Z0tvNmdvV3R1XzUzUGlVOUFQOG5FT0NYZ3NDejRkQmd6TTlibmcwbnJYMVBGZC0xbjNQTndLQWFVY21sTXJ5N3c4VFo2NnhHazRQdWk?oc=5",
+   "wp": false,
    "mp": false,
    "ai": true
   },
@@ -2335,10 +2530,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-   "sum": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+   "sum": "Biotech startup Enveda raised $311 million at a $2 billion valuation to advance nature-derived, AI-developed drug candidates into clinical trials.",
    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "d9a1b51f35",
@@ -2347,10 +2543,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "ChatGPT mobile app gets voice-based agentic features",
-   "sum": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+   "sum": "OpenAI added voice-based agentic features to the ChatGPT mobile app, enabling Pro and Plus users to execute automated tasks.",
    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "40adb5958e",
@@ -2359,10 +2556,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "Even Americans who use AI every day are worried about it",
-   "sum": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+   "sum": "A report indicates Americans who use AI daily still harbor concerns about the technology and broadly support regulation.",
    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8138d300d9",
@@ -2371,10 +2569,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "YouTube Music gets more conversational with new AI features",
-   "sum": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+   "sum": "YouTube Music rolled out Ask Music, an AI feature letting users generate playlists and find songs using natural language prompts.",
    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3fbc62c6d1",
@@ -2383,10 +2582,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-   "sum": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59…",
+   "sum": "StrictlyVC will host sessions at TechCrunch Disrupt examining how artificial intelligence is altering venture capital investing.",
    "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "931c28839e",
@@ -2395,10 +2595,11 @@
    "src": "MIT News",
    "d": "2026-09-23",
    "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-   "sum": "Computer scientist, entrepreneur, and philanthropist will collaborate with the MIT Schwarzman College of Computing to advance AI and scientific discovery.",
+   "sum": "MIT appointed computer scientist David Siegel as Innovation Fellow to collaborate with the Schwarzman College of Computing.",
    "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "8a86c97089",
@@ -2407,10 +2608,11 @@
    "src": "Google AI Blog",
    "d": "2026-09-23",
    "title": "Google Beam expands with new regions, partners, and customers",
-   "sum": "Google Beam promotional animation",
+   "sum": "Google announced geographic expansions, new partners, and new customers for its Google Beam platform.",
    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a70f8ac64e",
@@ -2419,10 +2621,11 @@
    "src": "Hugging Face",
    "d": "2026-09-23",
    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face published a guide on using NVIDIA Warp and MjWarp to accelerate robotics simulation and machine learning workflows.",
    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8c1036a653",
@@ -2431,10 +2634,11 @@
    "src": "Anthropic",
    "d": "2026-09-23",
    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic reported that its Claude model discovered a novel biological enzyme system containing CRISPR-like repeats.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "8f44a2af6a",
@@ -2443,10 +2647,11 @@
    "src": "The Verge",
    "d": "2026-09-23",
    "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-   "sum": "From The Verge.",
+   "sum": "Anthropic's biology lab announced the discovery of a novel enzyme system structurally comparable to CRISPR.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT2loeHU3b3JGVFhMUEhJb0Qyd2RBaGpmbHFPdW1xVVNfRmF6TWxiNjhkR1NPMGJTT3Z2NW9tblY1YnJrRWtlSFF6c25JMjRQS1RwN1I0QTFKRl9ybDNZaFpZdjlTbTctdkpmVkM4TTRaa2h1OUc1U2NibENyZ2I5MXlEbG15WDdfTDFoUVBwdVhpNXc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dee9d521a9",
@@ -2455,10 +2660,11 @@
    "src": "The Next Web",
    "d": "2026-09-23",
    "title": "Claude found a CRISPR-like enzyme system, and its job is still unknown",
-   "sum": "From The Next Web.",
+   "sum": "Claude identified a novel enzyme system with CRISPR-like repeats whose biological function remains unknown.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzZleVVzZUd6bmVYQ196MF9aQjY5VXRYTHI2T1ZidmpHd2FRS2FsbTJZZlU3QjlfbGtHa2Vtcmh2ZFV1M2VRY0NfOUpkUzJHS2l5bjRxSkJSN3EwTDNQNnhkUkhGcFBpU1ZSZDNPa3A0SDNINTVnTEh5OWRxQkRyTEFYYnI?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3fc3cbd74a",
@@ -2467,10 +2673,11 @@
    "src": "mobihealthnews.com",
    "d": "2026-09-23",
    "title": "Anthropic launches Claude Opus 5.5 with expanded biology capabilities",
-   "sum": "From mobihealthnews.com.",
+   "sum": "Anthropic released Claude Opus 5.5, adding expanded capabilities tailored for biological research.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkZ3WlVySXByWW1fX1hNaXZYZnMzazZqZ1htQ1lGRWhmQWpFRzY4NUVqMzlUaEJxVDhiTDk1SjRzWXJ5YmlJUnppVWRiMjk4UHBXTXcxMWo0UVZzdjg3bUVCX08xakI3NXJUdlozdUJFZkR6WkZoMzR5OUpERXB6YVdiU0ZJWm0xVnRaMGtEdGUxWHhpS1JCZmp1V0IwejV4?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6f677c2f7e",
@@ -2479,10 +2686,11 @@
    "src": "Unite.AI",
    "d": "2026-09-23",
    "title": "Anthropic Says Claude Discovered a New Enzyme System Resembling CRISPR",
-   "sum": "From Unite.AI.",
+   "sum": "Unite.AI covered Anthropic's announcement that Claude discovered a novel enzyme system resembling CRISPR.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjhLSUZSQUg1cVRtVl9ZTW9Vdnl2Sk9TZDQ0cXFqUlZDSFRSLWE3dVFZRjYtUjNKVDFqaERETmV4QUtieGdDR0xSd1AwV1lTSFQ5MHdTTkQ3OTJ6bUR3aE9iZDdOWjdsQ1Iwa2R6ckpaTzBFaWJTUjZSVmc3MThoMl8zTVVKeDFDSEtYSjIzaDNscG1uTnFJ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2e9aca990f",
@@ -2491,10 +2699,11 @@
    "src": "Investor's Business Daily",
    "d": "2026-09-23",
    "title": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
-   "sum": "From Investor's Business Daily.",
+   "sum": "Investor's Business Daily highlighted Palantir as its stock of the day amid strong earnings and artificial intelligence momentum.",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYXJyMmxuejZESG1mZWVZd3d2MHVYSldkRUh6dHQ2MThMaVNnU19zUFJlWGM1Rk0weVRVWFVlaW10WF9KZzd6N2hRZHFrYzhVTnZtUTIxTnJWTDdhZEZGcmtXejExaEJRRlN3cXFWeDd6SEU3eS1qZWdBYUdLT0ZRZGVmUjhONlRHNTk2bHJNa3NuNHNMenhGYmZFSm9vNDBpUnZFZVZn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5d43c17da7",
@@ -2503,10 +2712,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-23",
    "title": "Palantir Jumps Over 4% as Karp Makes AI Liability the Product Test",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir shares rose over 4% after CEO Alex Karp discussed AI liability as a defining product evaluation standard.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWXdRUmp0aEpRUzZWSWFKMFdnZTFEYWlpc1lfOVN5MEc4Uk1sVWt6OF95SlRhNU1IQk13NmtTdlV3NVhzbWR6eVVQRkN6SFVMeW90RmtOUl9CdjA3WVlRNFlEX1czSG5WTGhCWFhIcVozN0FwVjA5Rnd2OTZtWWVmbVkyMnc0cXc4d0thWU1CRnpZQ0Mw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5cb0ae4ed3",
