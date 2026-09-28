@@ -1,6 +1,71 @@
 {
- "updated": "2026-09-27T21:44:26Z",
+ "updated": "2026-09-28T02:31:21Z",
  "items": [
+  {
+   "id": "ce49522d79",
+   "t": "anthropic",
+   "c": "",
+   "src": "MyNorthwest.com",
+   "d": "2026-09-28",
+   "title": "Trump said he would dine with Anthropic CEO amid mounting AI debate",
+   "sum": "Donald Trump stated he plans to dine with Anthropic's chief executive amid expanding discussions over artificial intelligence policy.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFNPd0x2SmJoRWtiM2ZjeU16UTZTLWFCWWM2cG9tNVdvU3UtMk1CYlFUUFRFaUo3UFZNdmk2em41c29waDRqOUFMSmFEb29fMjhZQmE0ODZEQlF4RExXa01jOXN6YklrclFvRnYtVWZzWVlOckJHaEZzU0NQYnRCc2V2NHRYV3JFY2JWLTBzTVBkNmlhclRDcG9GRTZnT0pkSHdweTVlZC1RSmlG?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1396fd25f7",
+   "t": "palantir",
+   "c": "",
+   "src": "AD HOC NEWS",
+   "d": "2026-09-28",
+   "title": "Palantir's Pentagon Pipeline Holds Firm as FAA Loss and AI Liability Debate Test the Stock",
+   "sum": "Palantir maintains defense contracts despite an FAA contract loss and ongoing debates surrounding corporate AI liability.",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUG16bHBoOHNJb1ljS3lFYkx2b0IzUkZicTRyZUN1bGVSSTFFdm9MNzN1LXBxWWc1RTRyVDhfeFhhR3RXb3VlM2YzaGJCWHNlMTVPSkxJSzdiZFdNNDlnRVdHQ1RvelpqTExVY2JmS3VKSGl3VHZUcVZIOW5aenFqR2NrN2RRRElCWV9uMjJraWdjRFJOdk1ueGFFSFVxUGxxUEhneW9hQkZjZUhVTDVkWWhvUWhjekh3X0d2TGxMdGpPMkpsYjJ1VU5IME9ZeHJ0aHpUUHBBSQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "76e38455c5",
+   "t": "anthropic",
+   "c": "",
+   "src": "TestingCatalog AI News",
+   "d": "2026-09-27",
+   "title": "Anthropic may release Claude Sonnet 5.5 within days",
+   "sum": "Industry reports suggest Anthropic may soon release Claude Sonnet 5.5.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzNJRkZUdEJ2S1AzSEQ2NlVCT2JwNl9ZLU5reFVZT19CVEIxa1JLY3Fud2NaVEg4b3RYbnFJd2VIdmhGamxUSzd5WHFMTUlaVDV5VURvbUxHVDFSa215U1ZlYjRIYkdiUXpxQjNkdHNNQWhyeG12RXZzQm9ySnczYWdpdGo?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ff5ac7a3f8",
+   "t": "gemini",
+   "c": "",
+   "src": "ppc.land",
+   "d": "2026-09-27",
+   "title": "Explaining Google-Extended",
+   "sum": "An explainer reviews Google-Extended, a standalone web-crawling control mechanism that lets publishers manage AI model training permissions.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4OW13TnBUdUFjb2ZUV25ET1VUM1VKbWotVVUtNDVXWjZjTjN2ZW02MXVNTEN0UGNlRFh3MkpNdjVtS0NZcEhBTA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0edf8819f4",
+   "t": "eff",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-09-27",
+   "title": "Self-Host Qwen-Image-2.1 Locally: Full Setup Guide - tech-insider.org",
+   "sum": "A technical guide outlines the setup steps required to self-host the Qwen-Image-2.1 model locally.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wanZkSXJTVUFoQXJDR1RTOFNNMkZNVlVESlUtWXRQRWRnbzQ5REVxeExyZF9sRmk5MHJjdDFnLVRqMVFqS29pNlU2YnlQZV9Mc2VQc2h0ZE9HNFZGQkMzN1poWHZ4RWkzY1BzbzVRRG44Z0lvdW9PVA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "79b213b759",
    "t": "anthropic",
@@ -621,6 +686,110 @@
    "title": "Gemini 4 Arrives With 0 Specs, Only a Timeline Vow [2026]",
    "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "76d602e3f2",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Generalization behavior of OPTQ and the role of regularization",
+   "sum": "Researchers examine the generalization behavior of the OPTQ neural network weight quantization algorithm and analyze the role of regularization.",
+   "url": "https://arxiv.org/abs/2609.31560v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "723bad1550",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models",
+   "sum": "EAServe introduces encode-aware disaggregated serving for multimodal large language models to balance workloads across encoding, prefill, and decoding stages.",
+   "url": "https://arxiv.org/abs/2609.31551v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c8ec3009b7",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Evaluating the accuracy of KV cache reuse techniques",
+   "sum": "A study evaluates position-independent KV cache reuse in retrieval-augmented generation and highlights inaccuracies in current evaluation methods.",
+   "url": "https://arxiv.org/abs/2609.31415v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "307dcf530a",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness",
+   "sum": "An empirical study assesses how model architectures, deployment settings, and adaptation strategies impact LLM performance in log anomaly detection.",
+   "url": "https://arxiv.org/abs/2609.31371v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6ddd7e67b6",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Softmax Reparameterization for Output-Head Quantization",
+   "sum": "Softmax reparameterization provides a post-training method to quantize output heads and lower inference costs in small language models.",
+   "url": "https://arxiv.org/abs/2609.31291v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3f259e30a3",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Accounting for Bias Enables Sustainable LLM Evaluation",
+   "sum": "A new framework models and corrects systematic bias in LLM-as-a-judge benchmarks to reduce the number of required evaluation comparisons.",
+   "url": "https://arxiv.org/abs/2609.31184v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bad87bf27c",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Aurora-X: Built for Extreme Time Series Forecasting",
+   "sum": "Aurora-X is a time series foundation model designed to scale general-purpose forecasting under extreme conditions across diverse domains.",
+   "url": "https://arxiv.org/abs/2609.31038v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ae5127ebcf",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-25",
+   "title": "Low-Bit Recurrent States in Hybrid Language Models",
+   "sum": "Researchers analyze low-bit quantization for fixed-size recurrent states in hybrid language models to mitigate compounding channel-decay quantization errors.",
+   "url": "https://arxiv.org/abs/2609.30950v1",
    "wp": false,
    "mp": false,
    "ai": true
@@ -1415,6 +1584,45 @@
    "sum": "An equity report evaluates whether Palantir can maintain revenue growth rates required to support its valuation.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWklPRllnT1Rzb3FZTGNkVlJXYzJvdlRlOW5faUhZcm9HWlpnVUZtQ2lJeWpyUFB1ME1qdDhtVjVpa1lrWjQ0cXV2UmVoRktvSnhMaVVqU3R4c3RQWjBiWHpXTm1HcFNXNjdJclZ5cWFlQW9ZYl9VSU9ybDFCYjdLMXNadjFTZU0?oc=5",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c4afdfa0e4",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-24",
+   "title": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+   "sum": "InternW0-Δ is a world action model trained on over 20,000 hours of open data to bridge visual dynamics and robot manipulation.",
+   "url": "https://huggingface.co/papers/2609.31394",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "2ff7a4aef3",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-24",
+   "title": "Game Arena: Strategic LLM Evaluation in Competitive Environments",
+   "sum": "Kaggle Game Arena introduces an open platform to evaluate large language models through competitive, strategic games instead of static benchmarks.",
+   "url": "https://huggingface.co/papers/2609.31473",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c9515cbd2e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-24",
+   "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+   "sum": "FuseReg introduces layer fusion regularization to reduce the reconstruction-generation gap in representation autoencoders for visual generation.",
+   "url": "https://huggingface.co/papers/2609.31620",
+   "wp": false,
    "mp": false,
    "ai": true
   },
@@ -2329,6 +2537,19 @@
    "ai": true
   },
   {
+   "id": "885ccb6985",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-23",
+   "title": "SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL",
+   "sum": "SLCA-GRPO addresses credit misattribution across structured tool calls and natural language summaries in reinforcement learning for tool-calling agents.",
+   "url": "https://huggingface.co/papers/2609.29050",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "9a2a65a812",
    "t": "papers",
    "c": "",
@@ -3115,10 +3336,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-   "sum": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+   "sum": "Enterprise AI startup Ema raised $77 million in funding, bringing its total capital raised to $140 million.",
    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "233cf3705a",
@@ -3127,10 +3349,11 @@
    "src": "TechCrunch",
    "d": "2026-09-23",
    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-   "sum": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is…",
+   "sum": "Greek Prime Minister Kyriakos Mitsotakis stated in an interview that world governments remain largely unprepared for AI advancements.",
    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "973170f2e6",
@@ -3139,10 +3362,11 @@
    "src": "GeekWire",
    "d": "2026-09-23",
    "title": "Amazon opens its seller tools to outside AI agents, starting with Anthropic’s Claude",
-   "sum": "From GeekWire.",
+   "sum": "Amazon opened its seller tools to third-party artificial intelligence agents, launching initial integrations with Anthropic's Claude.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1pVeHhockdFWjl1eXJoYlJKZmZHT2JTOXlLalRYeHBKalY1RnNNdXBNY0ZIUmVSZnNCckVDMDJyLVI1LWFXLWxyTXB3Q1JWYnRmZXhjOFBfbkdLb3Jzcy1QUGhXaFA2Wm9pOUs1eHRWLURHeFFlVDJCbmE5bXRhRU5HbjVVMThHbXJNSTZTTnlQaTJwWWFtWWRha1RZRktWSG4xMi0ydFhHbUVNV2lDMHE4NA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "32a2890c1c",
@@ -3151,10 +3375,11 @@
    "src": "aboutamazon.com",
    "d": "2026-09-23",
    "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for Amazon Quick and Anthropic’s Claude",
-   "sum": "From aboutamazon.com.",
+   "sum": "Amazon launched an upgraded Seller Assistant alongside a connector linking Amazon Quick directly to Anthropic's Claude.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJEMEhNVjVhWlBoRXNvX0FlWEtZMUxyRGZXekdwR2NVcjhTSWZYd0phakF5N3N3Q3FuN2F3UV91SW9McFY3c1REZmhpTmE0NVR0RkFVT1FJSFNBWFNEX0FJV2czQ0VvOWkxY2J3U0RVUjBSV3NzQzA5eUxXTTJ3SjdBQWNwQ2dJbklNWlkwV2N6SUJfSzhwTWdaU2p3Zw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c6a5b4a7db",
@@ -3163,10 +3388,11 @@
    "src": "businesswire.com",
    "d": "2026-09-23",
    "title": "CBTS Unveils Blueprint for 100% Agentic Delivery After Scaling Anthropic Company-Wide, Giving Mid-Market Companies a Proven Path to AI-Fueled Growth -…",
-   "sum": "From businesswire.com.",
+   "sum": "CBTS published a framework for mid-market agentic delivery after deploying Anthropic models across its enterprise operations.",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdFRkX293em1NMjl5N1d3aUxieXRxZHRvVzBiQWZzM1ZlOXVERi00bmRDcG1UYmVzLUViMlBoQ1BGTXEyNlhibXpMakhBMEJDME5xWEY5RUJReEtUenFfNkZfdUFURDN6STRyMHV3Z0FQcnFrUUxWU24yRkRpUUw1SFN5NFJDYm5aTnhMb1ZMS2t6ZVZRSll5S1hpVUdwQkJPdm43aWYxTmdEZmlNenhjRWlNZ3djRjRNLWpJUHpPYU1MbmpmYXNQVjR3c1JHOU5mVzVHYjF5ODJBNVpKdEU0MExDMWQtMjdvZmJCbWRQcnA3OFFzQmhfczJ4aXB0V1RnX1YyQ00zYVlPMGFLSW1WdGlhS1RHdzJ6S2hXc09sYVdpWHhjbWI5YmRlbw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "68c82aa959",
@@ -3175,10 +3401,11 @@
    "src": "The Hacker News",
    "d": "2026-09-23",
    "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-   "sum": "From The Hacker News.",
+   "sum": "Safety benchmarks revealed that models from both Anthropic and OpenAI still attempt restricted actions under specific evaluation tests.",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zbEpUVHQwVDl3TENaSC1aRlR6em8xYlo2TVIwVUpaenB6T0xyUFNaakdmZks4cV9oVDl3cFdjSi16Q1k4QU04bUF0bXMwWGZmY3Zya0xkZl9NRE9EZjhVVTR4ZHA0UWdscm84eFV4azFqcXdNdEd4WjhILWo?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "611a0a242b",
@@ -3187,10 +3414,11 @@
    "src": "Ynetnews",
    "d": "2026-09-23",
    "title": "China probes DeepSeek, Moonshot over alleged user data transfers to Anthropic’s Claude",
-   "sum": "From Ynetnews.",
+   "sum": "Chinese regulators are investigating DeepSeek and Moonshot over allegations of user data transfers to Anthropic's Claude.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GWWREMzhXdXE5UW05UXhIdnJyb0p5VnBZeUZFMUVRSl9ZenQ1NkZGT3R3VUMxQlhQU2ZJVVNWaFN5QTVfUUhnMkQ0YjktM2t6SWJZSkxnUi01SjkzU2ZFZXlwWWZZRk9MUHcwYw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2277c14a85",
@@ -3199,10 +3427,11 @@
    "src": "Cryptonews",
    "d": "2026-09-23",
    "title": "Anthropic's ClaudeAI Predicts a Wild 2026 Price Target for LINK",
-   "sum": "From Cryptonews.",
+   "sum": "A report highlights speculative 2026 price predictions generated by Anthropic's Claude for the LINK cryptocurrency.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1dfRVMzYlR0VzBkdHZLUUpNbUM0Wl96dXNIS3JxXy12d21JdGNBbXgza0dVdDUtRzh0THRFTDJ0eVlZZzRXMm9UUzg1eEFDcFRWT3poUTNUcTFyRUFIMllEYUFPUGdmRkxONFlFZURjQWZMMGdjaFIyMzdZQzNkbkRPckk2ejBjVjlNQU41b1M?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "35d07e8dcd",
@@ -3211,10 +3440,11 @@
    "src": "Barron's",
    "d": "2026-09-23",
    "title": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI. The Stock Rises.",
-   "sum": "From Barron's.",
+   "sum": "Palantir stock climbed following market analysis highlighting potential revenue gains from artificial intelligence adoption in air traffic control systems.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjNRTktob1lWdUl6SDdDYjAyNXJYejVlSDNkZUZ1Q3RnX3pqQ3M2NWxMdU1WM1hrWmV1dURZeHJDQ3ZXdEZleWYyR1VBQ1FBdDNPSVNhRk12OVlILWI1WlhqeHFkZV9GUGIwR3A4TmVmZ3k0TFdOV3pwNDhMYnZsLVdrTEMyUzZxeURN?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fb44afc2f5",
@@ -3223,10 +3453,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-23",
    "title": "Palantir Reveals Its AI Sovereignty Strategy And Wall Street Is Starting to Believe It",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir outlined its artificial intelligence sovereignty strategy aimed at securing sovereign and regional AI infrastructure for governments.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZGNMSjhkeTE3V3BORjhscmFaWGZJZXdSdW5DWEI2Wm5aQWgzNUFPZGpaYWlMaVJYOFhJa0xQVzF3V2QxYTV3QjBpZTVIVVc4cUNwTHJ5Y0lDWUhkYXhRQnRkdjlvVkR5Qnc1T09ISW9nYUFLVVlLNENaS082Sk9JbnR6ZVM3aGpFYzVhaXRETDNHWmxOaDVuWEliS3B3NUV1ZVZ6WVBwaw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "48e5eea762",
@@ -3235,10 +3466,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-23",
    "title": "Not Palantir. Not Micron. The $325 Billion Nvidia Partner That Jim Cramer Just Called a \"Must Buy\" Stock",
-   "sum": "From The Motley Fool.",
+   "sum": "Financial commentator Jim Cramer recommended a major Nvidia hardware partner to investors over Palantir and Micron.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0xreURrWnpiUzdiMVdINVZEXzZmYVE1cTVnNlB5S0k5WXprcWJXZ04tZnlNNXBMakJTcUVXa05Qb3h2YWZ1RzhHc2JjVFY5VGxxb3R4bVpOYlFOU1d3OUkzMWYzaHk3WHVhZ0gtRnF5X3VVZFJxZjRIUjIxbE5nLXdzRXAxQklYT0lra0VuYWxCMksyX1dkQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6015002bda",
@@ -3247,10 +3479,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-09-23",
    "title": "Palantir Gains 2%, Nebius Pulls Back, Micron Barely Budges as Michael Burry Adds to Shorts in All Three",
-   "sum": "From 24/7 Wall St..",
+   "sum": "Investor Michael Burry expanded short positions against Palantir, Nebius, and Micron amid mixed market performance across the stocks.",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0t3THE3dkxzLS1fOFNvQ290b3BaU3hWN3VaeHdwb0ZDU3hLNGtudnVPV1ktRDY3NjhVN2x0bFIzZzY0MVh4Z1FxczR2bTFuMFVkUXJETC1CZWM5MXF6eVZqMk9iVHNCOEV0Zm52LU5VLWw2N0tLTWZhRm1qeFJyWlIyTFc3dlNKdWRob3VTQ0wwVG1HdTNyVEpjWGU4b05xdmtuaGVvRjk4N3FPUzdIUFpvM2M2dHF1akhNR0NodUNIOGdUZTBfYnVFZ09YaXJ2dnk3NnlJSVBmMW5i?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1fa751b49f",
@@ -3383,6 +3616,19 @@
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTDFpMktVSHkwMUtXOTYwRy1rU01VMFp6bElxMTR0c191SmNtSDNLNHBicVJYWTVfeHd5a01pdWFHeUdha0g0SHlxdDZFd3dkUV9MRWN4X2tjYldtSmljU0NfSWs0UXZHcUkwaHAtTVRjLVRyWHdmZ0ViMUVmdS1IcC1vQnFHcUxOOEFxUVd1NGdXRTZZd0VwTklNOTVaS1hXNWs4eHduMkowUHRMaGpiQ2JDQWF3eHNYVG16bUEyTmU0OTJCZFAzVnlIYjZEX2ZhelZ1OTBUNDFrbV9ianVuZ2FUeUJURDNqV1VGX2RFMzJLRVVGaXpVVVBlbUViZFlKMDZz?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "3f9b609891",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-22",
+   "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
+   "sum": "Morphometric Imitation uses morphology- and contact-aware retargeting to train dexterous visuomotor manipulation policies from human demonstrations for sim-to-real transfer.",
+   "url": "https://huggingface.co/papers/2609.28660",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "73648c549e",
