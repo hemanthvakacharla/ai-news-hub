@@ -1,6 +1,175 @@
 {
- "updated": "2026-09-29T22:50:04Z",
+ "updated": "2026-09-30T02:56:37Z",
  "items": [
+  {
+   "id": "309d870a65",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-29",
+   "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+   "sum": "America.gov produces unusual responses regarding Minecraft that officials clarify are intentional rather than AI hallucinations.",
+   "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4a7426e1fd",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-29",
+   "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+   "sum": "OpenAI is reportedly discussing a $30 billion funding round valuing the company at $1.4 trillion ahead of a planned 2027 IPO.",
+   "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a704b5cdb0",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+   "sum": "STEPQuant analyzes error sensitivity to quantize persistent recurrent states in delta-rule linear attention models during concurrent serving.",
+   "url": "https://arxiv.org/abs/2609.38169v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2c15ac4b75",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+   "sum": "LeapQuant enables accurate recurrent state quantization for hybrid linear attention models like Gated DeltaNet and Kimi Delta Attention.",
+   "url": "https://arxiv.org/abs/2609.38166v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3df76feef9",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+   "sum": "WUSH-KV introduces data-adaptive transforms for low-bit KV cache quantization to reduce memory and bandwidth costs in long-context LLM inference.",
+   "url": "https://arxiv.org/abs/2609.38121v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "09935d0f45",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "Mira: Memory-Efficient MoE Inference Using Adaptive Caching and Predictive Expert Staging",
+   "sum": "Mira reduces memory pressure during MoE inference on single GPUs using adaptive caching and predictive expert staging.",
+   "url": "https://arxiv.org/abs/2609.38090v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "edb9397d82",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "$S^3$: Spectral Null-Space Swap Makes Reasoning Models Efficient",
+   "sum": "The S^3 framework uses spectral null-space swaps on model weights to make chain-of-thought reasoning models more efficient and reduce token costs.",
+   "url": "https://arxiv.org/abs/2609.37976v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c3b3c5006b",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "Behavioral Capacity Certificates for Quantized Language Models",
+   "sum": "This paper introduces behavioral capacity certificates to assess how activation and KV cache precision affect quantized language model computations.",
+   "url": "https://arxiv.org/abs/2609.37887v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cbaac669c6",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "Scaling Influence Functions in LLMs through Eigenbasis-Corrected One-Bit Gradient Projection",
+   "sum": "A new eigenbasis-corrected one-bit gradient projection method scales influence functions to analyze how training examples affect large language model behavior.",
+   "url": "https://arxiv.org/abs/2609.37842v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "197eaf9ba8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-29",
+   "title": "Foundation Neural-Network Quantum States for Molecular Potential Energy Surfaces in Second Quantization",
+   "sum": "Researchers develop foundation second-quantized neural-network quantum states to compute accurate molecular energies across diverse molecular geometries.",
+   "url": "https://arxiv.org/abs/2609.37733v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "eb144befd6",
+   "t": "anthropic",
+   "c": "",
+   "src": "Anthropic",
+   "d": "2026-09-29",
+   "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+   "sum": "Anthropic examines GLM-5.3 and the potential risks surrounding the proliferation of advanced cyber capabilities in frontier models.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX212WWhHNWgzWkdtSlZTV3hiU3ZVdmJoUnJPMl92MVlMd1VadHJrbXJ3RjFvdXJib3dueWk0eUFwY25DallZUTJGd1J2MWRTRkFZcWNoa1g3YVBzaEdKbmF5TE1HakN0cnI5emUwdVlKeTZPY2o5R3RheG54R0E2ODVVZXpVUGZ3MDFVQ0h3bDh0UQ?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "97bff182f0",
+   "t": "palantir",
+   "c": "",
+   "src": "GuruFocus",
+   "d": "2026-09-29",
+   "title": "Palantir Stock Falls as Karp Enters Washington's AI Guardrail Fi",
+   "sum": "Palantir stock fell as CEO Alex Karp engaged in Washington debates regarding government AI guardrails.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3pZNkM3LW45QU5LOEdNb3lMV0gtR0JxREU1TjZKX0liVWZ0RHdKRkRkSVFUOVd3cDA4cWR2X0wzc3dCUVBEZDExUUdfeUl1UktOVTRmUnl2R1FiNnYwQ1NUYm9ZUjlGbVItYnFxV1BseUN5V0VDX2pBUVBkUG9icE1CelVtWjNOdW9ycmhSV1B4VFZNUjlVbmRqb1BRQXBKSnpHbWNIRlA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "490c33c5ae",
+   "t": "gemini",
+   "c": "",
+   "src": "theinformation.com",
+   "d": "2026-09-29",
+   "title": "Google Is Paying About 100 Digital Publishers for AI Overviews",
+   "sum": "Google is reportedly compensating approximately 100 digital publishers for content used in its search AI Overviews.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1lIS01OajkzU3ZZYVRYYXVTVHp6dlJzTExTei00MWVBWTdDVFV1QmI2ZlkteklnNGZ1cGtGZDhnMDFkNTZpSy1DX216cTd2VzZrWWpEZGFxREdqLWJ4TjA1RXkweF9ZanRIS290enpZOVBJQnFLdFBIbTVfNEk5RnJsTHhGeG1DRmdvMjh1bU0zVFU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "1b1d0d4555",
    "t": "impl",
@@ -8,10 +177,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-   "sum": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+   "sum": "Elon Musk's xAI acquired dot.com to redirect to Grok, coinciding with OpenAI's launch of its Dots AI agent.",
    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "6421ca8555",
@@ -20,10 +190,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "OpenAI’s latest features take direct aim at the app store model",
-   "sum": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+   "sum": "OpenAI is expanding ChatGPT into an alternative software discovery and execution platform for users and AI agents, challenging traditional app stores.",
    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "943491695b",
@@ -32,10 +203,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-   "sum": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+   "sum": "OpenAI is reportedly negotiating a $30 billion funding round at a $1.4 trillion valuation prior to an expected 2027 IPO.",
    "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "447bf1aab0",
@@ -44,10 +216,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "sum": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+   "sum": "OpenAI is privately collaborating with Nvidia on agent safety despite being absent as a public supporter of Nvidia's Open Agent Safety Platform.",
    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b6f078daef",
@@ -56,10 +229,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-   "sum": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+   "sum": "OpenAI launched office features within ChatGPT, positioning itself in closer competition with traditional software providers like Microsoft.",
    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7880523c2d",
@@ -68,10 +242,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-   "sum": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+   "sum": "Wabi pivoted its prompt-based app builder into a conversational AI agent capable of generating on-demand interfaces and managing tasks.",
    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "572dce9934",
@@ -80,10 +255,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-   "sum": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+   "sum": "OpenAI introduced Dots, an agentic avatar designed to continuously pursue user-defined goals in the background across platforms with minimal supervision.",
    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "914354df00",
@@ -92,10 +268,11 @@
    "src": "TechCrunch",
    "d": "2026-09-29",
    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-   "sum": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing…",
+   "sum": "OpenAI released GPT-6.1 Sol, offering lower inference costs while approaching GPT-6 Astra performance on complex professional and coding tasks.",
    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "6bec62ce79",
@@ -104,10 +281,11 @@
    "src": "Anthropic",
    "d": "2026-09-29",
    "title": "What Do You Want from AI?",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic published an inquiry exploring public expectations and preferences for artificial intelligence.",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOUN3YlBVMkVMVGkzNXQ0R0F4T181Z0dPSWd4QnpnMnR1M0FzckZnUDNqZ09JcG1OSUFwc2s0WkdIRTRGZlg0S015NnZjem9oUWF6MzYyYkpvTUU1OWlMZGxtbHQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7a36ad9ca7",
@@ -783,6 +961,71 @@
    "title": "Seven ESP32-S3 boards form a distributed 1.58-bit LLM cluster",
    "sum": "A hardware project links seven ESP32-S3 microcontroller boards to run a distributed 1.58-bit large language model cluster.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMndMdVpBYXlpTkZwVGVpYmxSTDhvY09aaTd2WEtkM1hxU2N1RXdfRTBhcWtGSUY5Uzh3MmtnMmxTSkhXRUJiMVA3WDgyLU5PaUZSd0M4UUpXTTd2R0VtMUhjdDVHR2tORnp1UmoySEdqTDgzOTYzeXZUaGtMOEdkY04zdlZ1ZURvVHVxWVY0RmxEOGZP?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7975baecd6",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "Real2Gym: Building Gyms from Videos, Bringing Skills to Robots",
+   "sum": "Real2Gym creates visually aligned simulation environments from real-world videos to transfer physical manipulation skills to robots.",
+   "url": "https://huggingface.co/papers/2609.37089",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1e185a0d87",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "LongLive-Plug: Once-for-All Distillation for Video Generation",
+   "sum": "LongLive-Plug proposes a once-for-all distillation method to accelerate and adapt video diffusion models for diverse downstream tasks.",
+   "url": "https://huggingface.co/papers/2609.38154",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bbe07215f2",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments",
+   "sum": "CrossBFM distills a shared latent behavior space across different humanoid embodiments to enable promptable control policies using single vectors.",
+   "url": "https://huggingface.co/papers/2609.38087",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "834372562f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+   "sum": "This research improves long-video question answering by grounding object entities across hours or days into dedicated entity biographies.",
+   "url": "https://huggingface.co/papers/2609.38155",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5c4a4a06cb",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "Anisotropic Representations Improve Planning in JEPA World Models",
+   "sum": "This work demonstrates that anisotropic representations improve action planning in Joint-Embedding Predictive Architecture latent world models.",
+   "url": "https://huggingface.co/papers/2609.37441",
    "wp": false,
    "mp": false,
    "ai": true
@@ -1826,6 +2069,45 @@
    "sum": "Palantir maintains defense contracts despite an FAA contract loss and ongoing debates surrounding corporate AI liability.",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUG16bHBoOHNJb1ljS3lFYkx2b0IzUkZicTRyZUN1bGVSSTFFdm9MNzN1LXBxWWc1RTRyVDhfeFhhR3RXb3VlM2YzaGJCWHNlMTVPSkxJSzdiZFdNNDlnRVdHQ1RvelpqTExVY2JmS3VKSGl3VHZUcVZIOW5aenFqR2NrN2RRRElCWV9uMjJraWdjRFJOdk1ueGFFSFVxUGxxUEhneW9hQkZjZUhVTDVkWWhvUWhjekh3X0d2TGxMdGpPMkpsYjJ1VU5IME9ZeHJ0aHpUUHBBSQ?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8bdb33a335",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "In-Context Learning for Robots: Methods and Applications",
+   "sum": "This paper reviews methods and applications of in-context learning that enable general-purpose robots to infer and execute new physical tasks.",
+   "url": "https://huggingface.co/papers/2609.36012",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c41fe0971f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "Marathoner: Ultra-Long-Horizon Autonomous Intelligence",
+   "sum": "Marathoner investigates autonomous intelligence frameworks designed to persistently execute ultra-long-horizon tasks over extended periods.",
+   "url": "https://huggingface.co/papers/2609.34378",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2ebf708dde",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "Principled Thoughts for Latent Recursive LLM Systems",
+   "sum": "Researchers investigate continuous latent reasoning in LLMs by recurring on hidden states or passing them between agents without decoding text.",
+   "url": "https://huggingface.co/papers/2609.36159",
+   "wp": true,
    "mp": false,
    "ai": true
   },
