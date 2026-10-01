@@ -1,6 +1,270 @@
 {
- "updated": "2026-10-01T16:52:27Z",
+ "updated": "2026-10-01T23:06:29Z",
  "items": [
+  {
+   "id": "17bfcacf3c",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-01",
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "sum": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "280d0a9a74",
+   "t": "impl",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-01",
+   "title": "ChatGPT can now virtually try on clothes for you",
+   "sum": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "0f3d660d21",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-01",
+   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+   "sum": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+   "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "2badf9642d",
+   "t": "papers",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-01",
+   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+   "sum": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "1b019ab53f",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-01",
+   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+   "sum": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+   "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f85c4d066c",
+   "t": "models",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-01",
+   "title": "Amazon releases its own Jev clone as decision models flood the web",
+   "sum": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+   "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "487a3c06f8",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-10-01",
+   "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+   "sum": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
+   "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "7f19a7edef",
+   "t": "anthropic",
+   "c": "",
+   "src": "Anthropic",
+   "d": "2026-10-01",
+   "title": "Claude-shaped science",
+   "sum": "From Anthropic.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "6011bc2c7c",
+   "t": "anthropic",
+   "c": "",
+   "src": "MIXED Reality News",
+   "d": "2026-10-01",
+   "title": "Android Studio now runs Anthropic's Claude Agent and OpenAI's Codex, in canary",
+   "sum": "From MIXED Reality News.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFZUbEkzanFzZ3dNWWxYcDlvZTg1UWlHRzc2Q3dOVHVhOXE5Zl9rUG1zeWlMYUdjSG5rLTZ0M0ZpYlltNDdheXBWT3pPcF95LXZOdjc3WTh5OHk1T2VzbE9OV0ViQzU5V0plWE5zdHZpYng0Q0o2Mjg1Sm8xSVRFaTVxTHpVZ1dDUGstQkQzMXQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ab27bea251",
+   "t": "palantir",
+   "c": "",
+   "src": "fiercewireless.com",
+   "d": "2026-10-01",
+   "title": "Opinion: Silicon diplomacy, kinetic realities: Why Europe is evicting Palantir",
+   "sum": "From fiercewireless.com.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUtHQXJENUFpQ3dNNUVsdWlPQnVFNzBGNmxGZEJJQkxGQ2xQZU9STDFlc0d1eEIyRDVBUnZuYlV5UG90VmZTMVRrbTduRW9NdHR4djRNcHV2eXkzb2llTy1tZk5kaTNvSzlETExsS1V0ZnBhOW1ybDgybDBvWEtVd2JTVGRsRjZQVTRHOHNMYU5mdlRUdEx1SjdZd0NrSXJzV0Z3ZFJvUnRFODVjQndmZFN4MEVETGlQUzlv?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f2255479f9",
+   "t": "palantir",
+   "c": "",
+   "src": "fool.com",
+   "d": "2026-10-01",
+   "title": "Where Will Palantir Stock Be in 5 Years?",
+   "sum": "From fool.com.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaS1tMnh0QmlFNTg1TG1pSGZTdG9OX3kxQVdGaExsY3pBeUtMbDM2R1YwMFhWbWNqXzViaVJMQ0ZrYXdVV05tUVBYOWpWOU9CeF92bk5aQVIwTEk1TXZuUk9KdFI4Y1NqS0YyNFF6QVdKT0NPRV9QYkJvdVBmV2JObHRFZEtJV3B3a0E?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "3e7a4279c2",
+   "t": "palantir",
+   "c": "",
+   "src": "Stock Titan",
+   "d": "2026-10-01",
+   "title": "Palantir and Armada say their AI data centers can be deployed in months, not years",
+   "sum": "From Stock Titan.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXl4REVEbHpMMDBwdUl0UXFNdHF3RXU2NjRBTWR3Slp1ZUNpRi1MYWEyVVJuWjMwSU1DeUFhMjA0ZU1TYVpYcUg5bVJhY3FJVzY3RkYzVXJiQnl4N3E1QmxPQk5YS3dLWTA0MFpfbHlEVXY5SC1vOVZiQjlBbzg2UGlxOHF0bHZZV2xJWUE5QkxSOC1JbWg2eERXUnNIdWp3bWN6ajY1Rmx0ajVsNlE?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "0a643114fa",
+   "t": "palantir",
+   "c": "",
+   "src": "Cloud Wars",
+   "d": "2026-10-01",
+   "title": "Hottest AI and Cloud Vendors: #1 Palantir, #2 Google Cloud, #3 Oracle",
+   "sum": "From Cloud Wars.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmpPc2xaUnMyY041d1lZbnhmdHhXMHRpcTNNWTJXdzhHWUpxWXlNYzdKbTNyZ1RVdHhta1NzcWxfYVY0TWVRdWVBTldPNHdXakJzcWpOTUxUaDhFeURySVpmSFBaMlJuWkktZlZ3YTZXX1RWbjNZQ2NBV3RydTcwSzhpNmx6Ni1OcndWcnUzRzhLcjA?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "0d15398249",
+   "t": "palantir",
+   "c": "",
+   "src": "MarketBeat",
+   "d": "2026-10-01",
+   "title": "Everyone in AI Is Quietly Copying Palantir's Playbook",
+   "sum": "From MarketBeat.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcHFUUDlSRmFuS29wUGdDYlU3UlIzSXRyR2NNX3dtOEZ1bzhqYTk4TFIxN0NFckhjLTNZVnZpS0Yyak1Yd3l2RllhUHNwTHRMUnJ3VW1ITWhsQ1hwMWNVS2RkVlFmRzg1TUpCTnBmaUpOVkNTaDhhS21pdG9SMGx0a2ozZ0xxNVo0QnNLaXdoRE11aXM?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ce24b74769",
+   "t": "palantir",
+   "c": "",
+   "src": "StreetInsider",
+   "d": "2026-10-01",
+   "title": "Palantir and Armada partner on sovereign AI infrastructure",
+   "sum": "From StreetInsider.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMTdxaGdZWWJrZHhGYWxXc0RLUVIzaTVfMHFucUhkUmJpN194N01PdzJYcGFNcktZTThGZU8zaDQ2c3VGWDZCTjlxUGNuZ3NDSzlpOGlETEotTzNrTkpLNVJGVm5zdzBtN2thT1BaN0FvS2RSeGFlS3NaRXFvaWxRRm5BOGZYMDd2QUJOS0I1dXdHUnJaU0NUc0w5c1o5X25MTWtsY04tbEJ4akRObHFlMExmSFNsM1l5?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "39a08f0ba3",
+   "t": "gemini",
+   "c": "",
+   "src": "The Guardian",
+   "d": "2026-10-01",
+   "title": "Google rolls out new Gemini AI model but restricts access over safety concerns",
+   "sum": "From The Guardian.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGxacWxBMjBHTEdEel95dW1GOVVOX09PR3laaEVXQXZvNDBRalVNMFNDTmstQUZ2YU1fX19SaHAwZnp1UVdvS2dVeHBPbTBGU1pfYmllWmJoVFozUUZXcDdHQm9kal92dWpCaEtyVndfWFhuVkVQcEk0djRROS1VUEJFa09VOS15M0U1YVZPSHZIWDVqZVZB?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "a41cf9f120",
+   "t": "gemini",
+   "c": "",
+   "src": "CNET",
+   "d": "2026-10-01",
+   "title": "Gemini 4 Is Here: When You May Be Able to Use Google’s New AI Model",
+   "sum": "From CNET.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGlLZk9HaWFCSG5aQ0daaEpscW9hLTFrYjlBTktRb3VXNV8wNzhRSXg0aWJnUGw2QVAwRHNzQTRGNGluTzBFOEd4OEJQb1pjYTBrWUhBcFk3SHVpMkZORlFUcTAya1dMRXdvcU15ZERZVzFyeFJBQXhYRHB0NGdCdjl2TVctZHlDczJXTGRHMzI?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c78801e522",
+   "t": "gemini",
+   "c": "",
+   "src": "CNBC",
+   "d": "2026-10-01",
+   "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+   "sum": "From CNBC.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnl0RGo0clZVWk13V2ttZGw4TlI2aTB0OTc5UzYyblgydGtBd2I4SWxqTUJ6VWtUcEhvbjdUUnRTUHJpMW0yaU5PX1VpUzRqMlVjc3RPVEQ5dk42UjJ6cDZDRE01Z2I5V1dManlFOW5DeVA3Q1VWS1Z5NzVtb1JJc2xDNmRfYWswYlRGczVXSFRxVzZyX1dJcVFXZ01xSGV6Qmpj0gGoAUFVX3lxTE9jVzM5SC1xaEVWcnkwWGpGMHFWWU9NRkR1b3c2ZFpGQlBJSGZoOEFfOGt5YzZBUXNjdmhteWgya0QxYTIwdEZTV2NrR1ZGMUhZNjRaOUlCSGJHdHNmRFQ0ZmpXRU9xNHBqVThTQlN4R3FuX3g4OVp0YmpLLVBrc0FzYU5EWXZPMHd3THRGdnF2Xy10YzFlU3hYbDRUSERfYXRfVWMxTTVlVQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ff74eb0d18",
+   "t": "gemini",
+   "c": "",
+   "src": "inc.com",
+   "d": "2026-10-01",
+   "title": "Google's Newest Gemini Model Can Handle Your Invoices, Contracts, and Taxes. There’s Just 1 Catch",
+   "sum": "From inc.com.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNmxMSTVwOVMwOWJIZ0RyOHVmM0l1ZVMyRE5aT0ctVFpwUkw3MGljYnJGR3ZEQTBXSHg0M0dSd3VkeFVZTHlMZkV2VlhneWwtcFBPakZDMXBiNVdjMHN0SU42R1FGY3ZXdzJfczRzQXpzd1lHQkplZFNGVlFuTXk1b1ZEeEFlc21ZUFlvREhpYmoyUDlPZ1lLeUtDZmgxTmVnNDViZmtqa1E1SVJaOWhHS2FfaXhOU0dpQVhrNVp0S1FuNXZSUlVCdWZBUQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "d45f962701",
+   "t": "models",
+   "c": "",
+   "src": "Unite.AI",
+   "d": "2026-10-01",
+   "title": "Schwartz Releases BootLoops 1.0, an Open-Source LLM Harness for Science",
+   "sum": "From Unite.AI.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUZMY2VuTDFydmxXbVZtVVVuNW9KM1Y1dUZBZHB5ZUZMWHBaNU5yVVp6WnRnVml5NnFRUFdfdDh2QkRZRlEtekxsNnFCNWdyblljUHVVTnp5bDBlbGxlV2pRSEZMZGxKYWNUVUpINnliOS04elVITGFiMmdqbHFNMjBjYmgyVkh2VDF6UEhNOUdXOWpaLUVv?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "83dc72bb3d",
+   "t": "eff",
+   "c": "",
+   "src": "The Futurum Group",
+   "d": "2026-10-01",
+   "title": "The $246 Billion CPU Opportunity’s Winning Chip Has Not Been Designed Yet",
+   "sum": "From The Futurum Group.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFNJelFEZHhqM0RDbWJrQ2o1dC1Vd0FyMnd5dEh0bURhVldBbVJTQUstd1Y5cW5xSmpsTHZjazNYdWJOWE5qT1p4US1Db2R1eWZtelhfRVgxMmk3YWZWZmRZbFFtdGtJaEJSc2VKTjhodGswaGJQa3FMaHM0bWJCcF92VUgtR3dwb3B0NlNnU1dTUk55UWY0SnpYVjZHLVFvZW9HX0hjN3BoZw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "6a433f64a2",
+   "t": "eff",
+   "c": "",
+   "src": "Tech Times",
+   "d": "2026-10-01",
+   "title": "Eight-Bit LLM Training Now Matches Full Precision: MIT and NVIDIA Fix Root Cause",
+   "sum": "From Tech Times.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU2xWakx6MlliUTVmc2hOZDF6N1hIak14LXRhSFV5Y3NiaEh1VkdMLV9qQ2M4RHJUYnhXVDNhb0ZoMkNDcGFzQ3JoUUctYUhqbEdUd3AtVDFvazg2a0dybE91YVBoWGpGRHdBc043YUczZEtEVDR5ck5uelVCVV9GQTBiYUp2OHozNDdaWmMxaW9JcUdmcTZnYUZYc3FPWWdqSGVxS3dqWWlVVm1nbURQUFFOdktVZ1E5WUlPMVd2QjFxMFNRRXhkRk1R?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "67fa7499b8",
    "t": "impl",
@@ -231,6 +495,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "7208622150",
+   "t": "eff",
+   "c": "",
+   "src": "Tech Times",
+   "d": "2026-09-30",
+   "title": "GMKtec Evo-X5 Pro Ships with 192GB RAM: China Law Requires Data Cooperation",
+   "sum": "From Tech Times.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnFnTzhrNUhtVUQtTXN6ZEYxR200OXFSNTRybkpjYTV5RkJGRVVpNVJ6blZubUZOdHFNSkUzNHBiNXd0ZlpxLVBWWmc1dHZNTXFsUHFSNURWb0RCMkpRLS14eGdTclcxaEtxYThFTWMwZ2FnWXMtQXo5dkxVMlNMenNYM1VreTZET2cxSEsxSXNpbVoxRDQtNHpnMjBiWU53bU9wTTUwQTEyYWpmMkRKTFJhWkpKeWdNRTc2bTNGOUF2Zw?oc=5",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "9b726263dd",
@@ -1102,6 +1378,30 @@
    "sum": "From finance.biggo.com.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USDYxX2M1NzVhYUlOSlp6dTYwWlJwd3BMVmxvTlVSX00wR1NxZUpjN3pzV1c3NFM5cERvdHZhcFVpRjdmOGFaUTZCVFRESDhlRkhibTFzTGpjemc1bnNj?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "2e83d0850a",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "Training LLM Judges from Language Feedback via Position-Selective Self-Distillation",
+   "sum": "We study training LLM judges from natural language feedback, especially for subjective tasks where the verdict depends strongly on which evaluation criteria the judge invokes and how it…",
+   "url": "https://huggingface.co/papers/2609.38792",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b73cd98cbf",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "DAGent: Evaluate-then-Grow Planning for Deep Research Agents",
+   "sum": "Deep research tasks require agents to navigate large knowledge spaces, synthesize evidence across many sources, and adapt their plans as findings emerge. Directed acyclic graph (DAG)-based…",
+   "url": "https://huggingface.co/papers/2609.39154",
+   "wp": false,
    "mp": false
   },
   {
@@ -2228,6 +2528,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "0f8f41c09f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning",
+   "sum": "TTS systems with autoregressive semantic modeling have demonstrated strong zero-shot voice cloning performance and rich expressive variation, but their sequential decoding incurs…",
+   "url": "https://huggingface.co/papers/2609.38658",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "0c6d2839ca",
@@ -3496,6 +3808,18 @@
    "ai": true
   },
   {
+   "id": "b2f52180df",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "BIABench: Evaluating AI agents on real-world bioimage analysis tasks",
+   "sum": "Artificial-intelligence (AI) agents hold promise for automating bioimage analysis, yet no benchmark evaluates whether they can carry out real-world analyses end to end. Such analyses are…",
+   "url": "https://huggingface.co/papers/2609.34274",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "5ab84bb09d",
    "t": "papers",
    "c": "",
@@ -4542,6 +4866,18 @@
    "ai": true
   },
   {
+   "id": "5e9b65483d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-25",
+   "title": "BiasReducer: Adaptive Bias Mitigation for Reward Models",
+   "sum": "Reward models score responses from large language models (LLMs) and guide LLM training toward human preferences. However, reward models can favor superficial attributes such as length or…",
+   "url": "https://huggingface.co/papers/2609.32720",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "03cecc55df",
    "t": "papers",
    "c": "",
@@ -5525,6 +5861,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "f7f4a08d2b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-24",
+   "title": "Aligning One-Step Generative Models with Reward-Weighted Transport Distillation",
+   "sum": "One-step generators enable high-quality visual generation with a single network evaluation, but their post-training is difficult: general implicit generators provide neither tractable…",
+   "url": "https://huggingface.co/papers/2609.30840",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "e1c0cd7fd3",
