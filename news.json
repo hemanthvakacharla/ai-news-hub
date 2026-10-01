@@ -1,6 +1,188 @@
 {
- "updated": "2026-09-30T22:43:26Z",
+ "updated": "2026-10-01T03:03:40Z",
  "items": [
+  {
+   "id": "9fcd175cd6",
+   "t": "anthropic",
+   "c": "",
+   "src": "facebook.com",
+   "d": "2026-10-01",
+   "title": "In a series of private meetings, Anthropic consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be…",
+   "sum": "Anthropic reportedly held private meetings with religious scholars to discuss moral frameworks for its AI models.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTJCTFNxY1hiS1NDWU1hNEN0dC1zMV9EV2h1QjBoYjdFWmRsbW91dGM2QXRzNlJuMjUwb2NYZXRnbnlRSDZkZXotQTR1TE5WQ3hkME1nSXJDZDBKZjFSS090Z3FOaDF6dVgxM0t0RDdvVUliRTFrdkluMEMwc056cTRxR2FpNUd6cjBocXA3Q1VSdTFoOU5qb0dhc1lvS1p0VHlSSlhRMXFqdnM4TjlPNHFnb19CRy1va0p3YUdleUZFUE5JN0llenRyeV9TS2xrWkFF?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "62abf93e13",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo",
+   "d": "2026-10-01",
+   "title": "UK fears grow over AI giant Palantir's health service deal",
+   "sum": "Public and political concerns are growing in the UK over Palantir's involvement in National Health Service data systems.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGxlNzNNdlVUdFc3UG1MMDQtWDJfdlVwa0V4dk9FTUJZdkdQSl9hdnJIOEs5ZVlPeVV5ZmZlX0NVTWVsMXlkQnlxa2pPQkN0eHFUSUZoaHhpYmN2MjU3TlZUdzNyQUZpU0J5LThfWkdkbmEyUkhEemdTMi1JWTRxQkdEb3U?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "786987ca72",
+   "t": "eff",
+   "c": "",
+   "src": "biz.chosun.com",
+   "d": "2026-10-01",
+   "title": "Upstage launches Solar Mini 4, splits Solar LLM lineup into Pro and Mini - CHOSUNBIZ",
+   "sum": "Upstage released Solar Mini 4 and restructured its Solar large language model lineup into Pro and Mini editions.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Za2V4QnFfTUxBSGt4Zjd2MUVTbTgyT0dQdVVSaXJ0SDdjdi1QdTdGZGdEc0J5NUN3TFRqS0p6S3E3ZkVxOUtBZHdVLWlzOFlyZGxfRlRINTFNb1RpQ0dzdDFkS3E3WlRvVGk3S3U5eXV4Rmo0dlFidjl30gGOAUFVX3lxTE5PamRVQmlfYWZOczJoZGVCUEZoQzMtS1hJdGtwUG5nQnJXc0w5S2d6cmxZSC1SX2E0akFkQjdmazlyVHNOVzQ2UmxrRUY2NVBzb0hHb3h6MzNpc1BqUEtxQmd4ekZYMjZ5MGhJWFFqMWhiUFpFbkZZS2RWNlN0NlJ6bHp0M05iLVJ2YWhmTWc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1237634e7f",
+   "t": "gemini",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-09-30",
+   "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "sum": "Google released Gemini 4 Argon, positioning the model as a workhorse for coding and cybersecurity tasks.",
+   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "7cab4a2487",
+   "t": "anthropic",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-09-30",
+   "title": "Anthropic Claude can now create spreadsheets and slide decks for you",
+   "sum": "Anthropic updated Claude with capabilities to automatically generate spreadsheets and slide presentations.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM01mbktERGdMN09JYWtESTYtMEs1bUFoSFh4ZVFTOTMzMG14UjgwQThDYTJLVEtiYU9Xb3pGSWtzZ3hreFlQR1RPRV9OZm5hV1FNYjU5LXdwUldWVWJiRVl6WGFXZTdXdWdGRGNhM1lWeGZGMkZLSldXWU55M2VPdFcwZjA3S0ZEeXF2S3hB?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ee264092b6",
+   "t": "anthropic",
+   "c": "",
+   "src": "Drug Discovery News",
+   "d": "2026-09-30",
+   "title": "Novo Nordisk taps Anthropic's Claude to speed drug discovery",
+   "sum": "Novo Nordisk is adopting Anthropic's Claude to accelerate its drug discovery efforts.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONm0yX19DbUQ4bUNsYXM1Y0RkYmhwejBDZXpaY2hINnpndnVyNHVTcTZ5TWJ3V0R4X0RBRTNqZTFPUG5BVm9xNThDb3RnM19veUxUWE84VG1EN3cwcDRzdjJUMXhHZnJpNWxJSXFFTlNJTFVfT0dNcERqMkJwUW9ZYkpFblhsLS1iSkxVZkJPcGM1UFNvZE5ld0xCeFdBX1lnakE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "40f1798f3a",
+   "t": "palantir",
+   "c": "",
+   "src": "KRON4",
+   "d": "2026-09-30",
+   "title": "SF protest Wednesday against Palantir reportedly draws hundreds",
+   "sum": "Hundreds of protesters demonstrated in San Francisco against data analytics company Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlJRbG1JSFVLdDItelJ3WDhKQVpEQkpKNUtOTFprYzZpZ3JOcnNBWUR6bXRUN0dBMmJlcEctdkttcE5US2I4aWtBVXItYkVzejF6RjhIdEtLTHhCamRyb3JjeUNzdjlxN0ZvVGI2WjdtNGIyNDBmLXBQS0FPWkR5bFIwUWtBdm5nX3NJN1NCQmxmX2JHN1UwSm9ZeGlRbHBCcGFhazNJd2bSAa4BQVVfeXFMTzJITkRqZ0JVV0UzbS0yOGNnNDFQT2NqSWVkVVZhZHBna3I3SDlLaDEwQXNxVVZ4TUNJaDNVbUJEa3NIdXdxaG5YRGE0bllUbmVKV0NjazliRFhMNWZ6OEtDd012ek9VMDhHN1ktdm5vVnJuQjhxaFBXVlFCVWF5VlRlYUZfd2QtQ3k1RGFjZmhHU3JMSkdVUUg1MGtQTmtMcUxTeXluMlUyQkhOTEtR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "efe03281c0",
+   "t": "palantir",
+   "c": "",
+   "src": "Gazetteer SF",
+   "d": "2026-09-30",
+   "title": "Nurses union takes to Market Street to demand ‘Palantir out!’ of their hospitals",
+   "sum": "A nurses union held a street protest in San Francisco demanding that hospitals terminate contracts with Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3gwVFdVODIzcXUxVDNIcUNieGJmTWtnd0ZTakNiMDhLZFlvQjU2dklIMkdGV1dDbXhiOWZKUXlUMmk0MkV3Ym1nenlYNEZHN2JVWW9BcE5uQTZ1RDJtbzVhazFWOURVeVZ4RXZzUUtub1I3aWRJMV9kLWxhWEY3OEFrV0l4UWx1SGVLdzUxaFZ6N04yQ19EdF92a2l4NHVJZ3ZV?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b579ddbdf5",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-09-30",
+   "title": "Michael Burry Buys Put Options on Nvidia, Micron, and Palantir as \"The Big Short\" Investor Predicts a 1987-Style Market Crash",
+   "sum": "Investor Michael Burry purchased put options on Nvidia, Micron, and Palantir, anticipating a severe stock market downturn.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU9IQ25UNHAzeFpLVTRiaTl6dS01bUVCRnBuajMzZXUwaF9kWkhPRHN4MEJnbEZoaXlySzA5V3VQU1drLVNGR0pyejBSQlQtQmVDNTcwSGtaU1Z3UFQxQW1ZcVlwWjNCc2V3Y083bmo0Y2lUaGxMREZEQmV6STFESlFmUm1iQlFZdGg0SFRZemhBLUhZbV81Mg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cb3e8d7a5c",
+   "t": "gemini",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-09-30",
+   "title": "Google Grapples With Employee Skepticism About New Gemini Model",
+   "sum": "Google is reportedly addressing internal employee skepticism surrounding the launch of its new Gemini model.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOejROZlgtQkVqNTdiV2VxZlJjeTVlaGRNN0RDNzdzamlHTnRQU0dHaE5mNzQtUlpCdUE0Y3Z2cTkwdWhwcFJKQjFlVnFTSGZrNW9jMkdKRnB3dTRwcGJvYWhpUEplYUl0cWZSX0RLMWp0UUtLUVAtNVVaZWJlNGg2NUw4UGRHR0xqRUNwNVF1S0FCNEJPQllpY1c4Q1VDcVEzbHJ6SnkzbXpYUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "108f6879d2",
+   "t": "gemini",
+   "c": "",
+   "src": "Axios",
+   "d": "2026-09-30",
+   "title": "Google unveils long-awaited Gemini 4",
+   "sum": "Google has officially unveiled its long-awaited Gemini 4 model.",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "af11a1dae8",
+   "t": "models",
+   "c": "",
+   "src": "Blockchain Council",
+   "d": "2026-09-30",
+   "title": "OpenAI Launches GPT 6.1-Sol",
+   "sum": "OpenAI has launched GPT 6.1-Sol, according to a report by the Blockchain Council.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUDlhT1lYVFRvTnk1MXJ2cFNQOVc5Y2RHTHJDWWNIUFZpZUltVUxOSWdMcVFXM2RYczNsdFVWV2ZWa2ExYWJMV3FoRk92dFpOUGdMWE5yekcxUHR1eDRN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "80891ade40",
+   "t": "eff",
+   "c": "",
+   "src": "crusoe.ai",
+   "d": "2026-09-30",
+   "title": "fastokens: faster LLM tokenization for frontier models",
+   "sum": "Crusoe introduced fastokens, a software tool designed to accelerate tokenization for frontier large language models.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUxiR0J5N0xMNC1lMGFnV2RhUElQOVdvLWV1bXlrQVZodlREbGJZM0h1SXdnazY4aXJpZmtkUkdHLURBdFhQZUxibDhjWG1pUGdmbUl6LVc1Z3JVdHIzaDh1Ui15SXNXNkZ0YzRzV3V0b1pDb1psUUlUdklseVd2RFdNNzVGMFla?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7175010af0",
+   "t": "eff",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-09-30",
+   "title": "DGX Spark vs Framework Desktop vs Mac Studio: 4x Gap [2026] - tech-insider.org",
+   "sum": "A benchmark report compares hardware performance across the DGX Spark, Framework Desktop, and Mac Studio.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFUwRlpXS0RwQ0hSU3VSLXdwa2R4aDhKNmlQb3paYUdIVGpxczcwTlNXQWRmUjM3R2ZKUy1WRTlKOGExb0pQNGNodkRobWdZNlVDLTVOc2M0UTNkRHFhV04zcTB1U1VaS3BLSVNfMlFkWlRKb2s5bEszZno0bWkzdw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "f9953f3a0f",
    "t": "impl",
@@ -320,10 +502,11 @@
    "src": "TechCrunch",
    "d": "2026-09-30",
    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-   "sum": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+   "sum": "Workflow infrastructure startup Restate raised $20 million to provide durable execution environments for AI agents.",
    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7b6770ba25",
@@ -332,10 +515,11 @@
    "src": "TechCrunch",
    "d": "2026-09-30",
    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-   "sum": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+   "sum": "TechCrunch announced a three-day final deadline to register as a startup exhibitor for Disrupt 2026.",
    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ff26d4a382",
@@ -344,10 +528,11 @@
    "src": "TechCrunch",
    "d": "2026-09-30",
    "title": "Airbnb adds AI search, more social features",
-   "sum": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+   "sum": "Airbnb introduced AI-driven search capabilities alongside select local services like meal delivery and laundry.",
    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9f49b513f8",
@@ -356,10 +541,11 @@
    "src": "MIT News",
    "d": "2026-09-30",
    "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-   "sum": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
+   "sum": "MIT Transit Lab secured $2.1 million from Google.org to create an open-source AI platform for public transit operations.",
    "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "ea039df066",
@@ -368,10 +554,11 @@
    "src": "MIT News",
    "d": "2026-09-30",
    "title": "This game-playing AI is the new champ at Stratego",
-   "sum": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
+   "sum": "MIT researchers unveiled a game-playing AI capable of outperforming top human players at the board game Stratego.",
    "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "581ab3112c",
@@ -380,10 +567,11 @@
    "src": "Hugging Face",
    "d": "2026-09-30",
    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face launched the Open TTS Leaderboard to benchmark multilingual text-to-speech and voice cloning models.",
    "url": "https://huggingface.co/blog/open-tts-leaderboard",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ce08790088",
@@ -392,10 +580,11 @@
    "src": "Amazon Web Services (AWS)",
    "d": "2026-09-30",
    "title": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore | Artificial Intelligence",
-   "sum": "From Amazon Web Services (AWS).",
+   "sum": "AWS expanded Amazon Bedrock to support in-region inference for Anthropic models in Seoul and Singapore.",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWTNtMXgtdWtVVEVOMFNNSll4UHpvS3h6Um9ld3FGVTA2SzF6UnZrWXo0QmdOaWVyV0ttQnc2OGRXSHozWkxMa1B0MlBIT3hhMEN5TkNmdVJMSUJOVXB1N2p3LVI4S0dJdVhZR3pma2JaclMxMTUtS0pneDU0YlRoWlA3Yk1HcGlyd0xLUExTUmtrYVAya1RrNzJkaEZFNmRxNXg3eHB2WWp1V0JyeFIzMDBCaEJGNmh0d2VUXzRTNmo1Wk9seFR6ODRURC04RmV0WDNDWEsyYw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3b404f11cc",
@@ -404,10 +593,11 @@
    "src": "calcalistech.com",
    "d": "2026-09-30",
    "title": "Anthropic relies on Amazon and Google for nearly half its sales",
-   "sum": "From calcalistech.com.",
+   "sum": "Reports indicate Anthropic generates nearly half of its sales through partnerships with Amazon and Google.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VcDZ4M241bG5YVmZtQWc1dERjSERUVEtkaHZoYVpYMUc4U0hsemQ2N0tqSmZwTnMtZ0NmUTA0bTE3a3g0RWxjNFZxQnBvVVA5T196TWRoTGtVTlpFY2JUT1J2ZVRrZXc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "77a430eb22",
@@ -416,10 +606,11 @@
    "src": "ABC News - Breaking News, Latest News…",
    "d": "2026-09-30",
    "title": "Trump orders US government to cut ties with Anthropic; Hegseth declares supply chain 'risk' - ABC News",
-   "sum": "From ABC News - Breaking News, Latest News….",
+   "sum": "The U.S. government ordered agencies to cut ties with Anthropic, citing supply chain risk concerns.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazMyTEtZY2RWSjJJaC05T0Y2NDE4bG9NeF9od29uVmtubVYxQnVNOGFuY0hrNjM1bW0xRFVGUkJHbEJNSjJWVGc0YzA0TFZKcl9fRlM0YnVjcU55aXhDcTk1Nl9PYkhXWWZYUnVpMUx5XzNIVTBwR0VPUkxfMnltUEExbGE0alRYZXQtUzhJWDZrTTFqbm1EMW5LbTd1UGx0Z1JCejgxVU1BOWs30gGyAUFVX3lxTE45MVA4TGJmSW1LU1BrdW5MOFhVb1UwU0FDdTZwcnhiNUN5NlhHaW4wTjc5ZDFya2NRUEE0TjEtU21INHhORE5LRUxoeEhNYmo5YXBVcEtjWm1JOGdUaFVYMHV4RndneXVIZ2EwWEN0QjVzOHBRVFVJODR3MzJGSVlPM0RfZTJQWENuaGZHck1zMmZUd0tsOFc0bUpRRmdjUzFTYUFtZHJGUmoxel9oV2t2MXc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "fceb2ec4b8",
@@ -552,6 +743,58 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USDYxX2M1NzVhYUlOSlp6dTYwWlJwd3BMVmxvTlVSX00wR1NxZUpjN3pzV1c3NFM5cERvdHZhcFVpRjdmOGFaUTZCVFRESDhlRkhibTFzTGpjemc1bnNj?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "1e87b847b1",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+   "sum": "Physis-Lang introduces a self-evolving physical language representation to improve the adherence of video world models to physical principles.",
+   "url": "https://huggingface.co/papers/2609.40358",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3bff3e7a71",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence",
+   "sum": "DC-SAE introduces a deep compression semantic autoencoder to balance image reconstruction fidelity with faster diffusion model convergence.",
+   "url": "https://huggingface.co/papers/2609.39222",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "27bdf7cbcd",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?",
+   "sum": "A2Z GameSpec-Bench evaluates how faithfully AI coding agents can generate functional games from formal design specifications.",
+   "url": "https://huggingface.co/papers/2609.39564",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "324e83f10e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "Understanding Multimodality in Generative Behavioral Cloning",
+   "sum": "Researchers investigate how generative behavioral-cloning policies model multimodal expert actions when an observation permits multiple valid choices.",
+   "url": "https://huggingface.co/papers/2605.22493",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dfca328678",
@@ -1550,6 +1793,19 @@
    "title": "Seven ESP32-S3 boards form a distributed 1.58-bit LLM cluster",
    "sum": "A hardware project links seven ESP32-S3 microcontroller boards to run a distributed 1.58-bit large language model cluster.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMndMdVpBYXlpTkZwVGVpYmxSTDhvY09aaTd2WEtkM1hxU2N1RXdfRTBhcWtGSUY5Uzh3MmtnMmxTSkhXRUJiMVA3WDgyLU5PaUZSd0M4UUpXTTd2R0VtMUhjdDVHR2tORnp1UmoySEdqTDgzOTYzeXZUaGtMOEdkY04zdlZ1ZURvVHVxWVY0RmxEOGZP?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "49f1e639a9",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+   "sum": "This paper proposes extrapolating RL representation residuals in on-policy distillation rather than solely matching the teacher's next-token distributions.",
+   "url": "https://huggingface.co/papers/2609.36484",
    "wp": false,
    "mp": false,
    "ai": true
@@ -3397,6 +3653,19 @@
    "ai": true
   },
   {
+   "id": "29aa840db0",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-26",
+   "title": "DuoOPD: Learning from Joint Teacher-Student Outcomes for Multi-Task On-Policy Distillation",
+   "sum": "DuoOPD improves multi-task on-policy distillation by learning from joint teacher-student outcomes when teachers fail on student-solved tasks.",
+   "url": "https://huggingface.co/papers/2609.33711",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "451c71571a",
    "t": "papers",
    "c": "",
@@ -3776,6 +4045,19 @@
    "title": "Gemini 4 Arrives With 0 Specs, Only a Timeline Vow [2026]",
    "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "03cecc55df",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-25",
+   "title": "Not Every Token Is Worth Distilling: Selective Supervision for Direct-OPD",
+   "sum": "Researchers propose selective supervision for Direct On-Policy Distillation to filter out unhelpful tokens during policy transfer.",
+   "url": "https://huggingface.co/papers/2609.29142",
    "wp": false,
    "mp": false,
    "ai": true
