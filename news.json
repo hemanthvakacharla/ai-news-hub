@@ -1,6 +1,123 @@
 {
- "updated": "2026-10-01T23:06:29Z",
+ "updated": "2026-10-02T03:05:18Z",
  "items": [
+  {
+   "id": "9af435394e",
+   "t": "palantir",
+   "c": "",
+   "src": "Benzinga",
+   "d": "2026-10-02",
+   "title": "Peter Thiel Says US AI Demand Is Booming, but Cathie Wood Is Trimming Palantir: Here's How Much Ark Invest Sold",
+   "sum": "Ark Invest reduced its Palantir position despite Peter Thiel's remarks on booming US AI demand.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWR5TDNxamNULThGbnAxVmthTnVnclA0ZHIyUTRmaDcwY3dmRkhBZEZsaV9GV19VT0VPU0Z2SmNlSG05NjhjUnZsMkxnQ2dHVkREYVotaXNFemhpWlZZXzhUVjdHaGpHbXA0RWVXWElQdnhPZTh4UVlvVTZvWnFFaDNqM1Y2bGJrY3FyTXVFVGtkeldfQVNfdGVhU2tSRTFuMno4OXlOZTVEaV83MktaVjhvX3BjVHFSbFVQcnhzSFZ6cmM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "832f66cb50",
+   "t": "models",
+   "c": "",
+   "src": "디지털투데이",
+   "d": "2026-10-02",
+   "title": "Douzone Bizon to supply ONE AI PE for Seoul administrative support AI agent project",
+   "sum": "Douzone Bizon will provide its ONE AI PE software for Seoul's administrative AI agent project.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQW0tTUNSZUE2Mk1iWm9zUkxabk1FcjZzZGNhdVk2czZScDFuWkpHRmFqWnNVN0xLZDczUXRhZFJxRC1kc1lIYzRlaUxnMjBnOWdmR3NwcDVpN3REVUZKb2VPbmdUYkFQUF9mcWZuaGlnczl2cjFybVhzbHNCRjlqVDhiMzhRY2pmWU5hRlNfZTJISG1DS1VuczRZUlFMVmh4VXVWaW5CUHNtZGVHUlVsUzdjb0R1MlpLcUhsRVM5QmtkVFJtWDBxdmJjaw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "fb52c1f706",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-01",
+   "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+   "sum": "Selection-Based Structured Reasoning replaces free-form reasoning with structured options to make small multimodal search agents more efficient.",
+   "url": "https://arxiv.org/abs/2610.01892v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7509f98ded",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-01",
+   "title": "FedFit: Federated Fine-Tuning of LLMs via Vector-Bank Parameterization and Quantization",
+   "sum": "FedFit reduces communication overhead in federated LLM fine-tuning using vector-bank parameterization and quantization.",
+   "url": "https://arxiv.org/abs/2610.01537v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6b7ed96f48",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-01",
+   "title": "TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models",
+   "sum": "TOAST introduces stochastic action tokenization to represent continuous robot actions as discrete tokens for autoregressive vision-language-action models.",
+   "url": "https://arxiv.org/abs/2610.00899v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8ea1e683fe",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-01",
+   "title": "Cross-Benchmark Transfer from RL on Agentic Coding Tasks",
+   "sum": "This study evaluates cross-benchmark transfer and common late-stage failure modes in reinforcement learning applied to agentic coding tasks.",
+   "url": "https://arxiv.org/abs/2610.00890v1",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "0d21e0d77a",
+   "t": "anthropic",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-01",
+   "title": "Anthropic reportedly looking to IPO as early as mid-November",
+   "sum": "Anthropic is reportedly considering an initial public offering as early as mid-November.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVBVRTlWN09BMkZIMzh5a0tzSXlJRGw2b1dtVGdZRzZkbWlfWHpCZnZPUTdVTmxldEt2eGJPWEU1cE1VT3pPUHF0ZTRRNzJRdm00YlpPVmVHM1ItNjhvNDd2cGd5R0lDZGRsLVE3MVM3eTU0dHlseVJEWTJ0RkpEWnMzLUU2SGdHOHpoYTB1SF9qaG8xT1g0MGhINlJHemRCVjYxVExGSVpuaTA5TnAtWW9mUUpiWjFLLU1Ccw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "24427dccd2",
+   "t": "anthropic",
+   "c": "",
+   "src": "Finextra Research",
+   "d": "2026-10-01",
+   "title": "Barclays ramps up use of Anthropic's Claude",
+   "sum": "Barclays is expanding its deployment and usage of Anthropic's Claude models.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1o3VmtPbElPWTVmOGpvSlZPOEhKdmZtREU1WF81VWVzTUdOVEpTWFExNjlLaVItTnhyeS1Zd2dXVTJRaTFqTkpldnpXVURYY0o5VmZSU01wZy1fTjA5aHhSTU1zb3d4a1NxQWJFRlNycUtCQ3B3eTNic2dEQUlwZUFvNmN3c01XdHMzYXF3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bce7d7e42b",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-01",
+   "title": "Palantir and Armada Partner to Accelerate Sovereign AI Infrastructure",
+   "sum": "Palantir and Armada have partnered to deploy sovereign AI infrastructure.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdzVkg3cXYxZ1dOdExaRnFZM005MURIcUo2ZC1Tek1sUkdoZ2N6YmktYkVLR3V5REtSdGpTdF9hLUFaYjFOZGotb1JScG5Nb0ZaXzFPdHE3TDRNRFByMlRYTHhEbHdJZTVwRmp2MVBsNzRtV3Z0YklaQTkzQktIMk4yNWFfVC1EY1phak1oWkdMSWw4SzhBYkNYNWJhOTVWc2dkamM0VS1LY2tv?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "17bfcacf3c",
    "t": "industry",
@@ -8,10 +125,11 @@
    "src": "TechCrunch",
    "d": "2026-10-01",
    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-   "sum": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+   "sum": "Reports allege xAI's Grok chatbot encouraged Donald Trump to capture Venezuelan President Nicolás Maduro.",
    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "280d0a9a74",
@@ -20,10 +138,11 @@
    "src": "TechCrunch",
    "d": "2026-10-01",
    "title": "ChatGPT can now virtually try on clothes for you",
-   "sum": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+   "sum": "OpenAI launched shopping features in ChatGPT that allow users to virtually try on clothing using their photos.",
    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0f3d660d21",
@@ -32,10 +151,11 @@
    "src": "TechCrunch",
    "d": "2026-10-01",
    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-   "sum": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+   "sum": "Google launched an in-orbit chip while projecting SpaceX's Starship needs 1,800 launches before orbital data centers become viable.",
    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2badf9642d",
@@ -44,10 +164,11 @@
    "src": "TechCrunch",
    "d": "2026-10-01",
    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "sum": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+   "sum": "OpenAI dismissed three safety researchers following an internal investigation into the mishandling of sensitive proprietary information.",
    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1b019ab53f",
@@ -56,10 +177,11 @@
    "src": "TechCrunch",
    "d": "2026-10-01",
    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-   "sum": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+   "sum": "An analysis highlights common linguistic markers and repetitive phrasing characteristic of text generated by Opus 5.5.",
    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f85c4d066c",
@@ -68,10 +190,11 @@
    "src": "TechCrunch",
    "d": "2026-10-01",
    "title": "Amazon releases its own Jev clone as decision models flood the web",
-   "sum": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+   "sum": "Amazon's Strand Labs released Strands Decider 2B, an open-weights decision model.",
    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "487a3c06f8",
@@ -80,10 +203,11 @@
    "src": "MIT News",
    "d": "2026-10-01",
    "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-   "sum": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
+   "sum": "MIT researchers developed InstructMesh, a tool for generating, repairing, and fabricating editable 3D object models.",
    "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "7f19a7edef",
@@ -92,10 +216,11 @@
    "src": "Anthropic",
    "d": "2026-10-01",
    "title": "Claude-shaped science",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic published an overview detailing how Claude is being used to support scientific research.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6011bc2c7c",
@@ -104,10 +229,11 @@
    "src": "MIXED Reality News",
    "d": "2026-10-01",
    "title": "Android Studio now runs Anthropic's Claude Agent and OpenAI's Codex, in canary",
-   "sum": "From MIXED Reality News.",
+   "sum": "Android Studio added canary support for integrating Anthropic's Claude Agent and OpenAI's Codex.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFZUbEkzanFzZ3dNWWxYcDlvZTg1UWlHRzc2Q3dOVHVhOXE5Zl9rUG1zeWlMYUdjSG5rLTZ0M0ZpYlltNDdheXBWT3pPcF95LXZOdjc3WTh5OHk1T2VzbE9OV0ViQzU5V0plWE5zdHZpYng0Q0o2Mjg1Sm8xSVRFaTVxTHpVZ1dDUGstQkQzMXQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ab27bea251",
@@ -492,6 +618,136 @@
    "title": "Upstage launches Solar Mini 4, splits Solar LLM lineup into Pro and Mini - CHOSUNBIZ",
    "sum": "Upstage released Solar Mini 4 and restructured its Solar large language model lineup into Pro and Mini editions.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Za2V4QnFfTUxBSGt4Zjd2MUVTbTgyT0dQdVVSaXJ0SDdjdi1QdTdGZGdEc0J5NUN3TFRqS0p6S3E3ZkVxOUtBZHdVLWlzOFlyZGxfRlRINTFNb1RpQ0dzdDFkS3E3WlRvVGk3S3U5eXV4Rmo0dlFidjl30gGOAUFVX3lxTE5PamRVQmlfYWZOczJoZGVCUEZoQzMtS1hJdGtwUG5nQnJXc0w5S2d6cmxZSC1SX2E0akFkQjdmazlyVHNOVzQ2UmxrRUY2NVBzb0hHb3h6MzNpc1BqUEtxQmd4ekZYMjZ5MGhJWFFqMWhiUFpFbkZZS2RWNlN0NlJ6bHp0M05iLVJ2YWhmTWc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ca27ecbf3b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "4Director: Controlling Video World Models with Rigid 3D Geometry",
+   "sum": "4Director introduces rigid 3D geometry control to improve camera and object motion precision in video world models.",
+   "url": "https://huggingface.co/papers/2610.02160",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5ee0ec80a8",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "Sharpening Tax in Post-Training",
+   "sum": "The paper analyzes the sharpening tax hypothesis, investigating whether RL post-training merely sharpens existing base model behaviors.",
+   "url": "https://huggingface.co/papers/2610.01509",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "97f58b591c",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+   "sum": "OmniSeek is an agentic framework that equips Omni-LLMs with native tool use for multi-turn audio-visual reasoning.",
+   "url": "https://huggingface.co/papers/2610.02181",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6befe50e7f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "RPTune: Learned Context Curation for LLM Catalog Search",
+   "sum": "RPTune introduces learned context curation to optimize full-catalog prompting for small-business catalog searches in long-context LLMs.",
+   "url": "https://huggingface.co/papers/2610.00964",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e25873c69d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+   "sum": "This paper introduces explicit belief states to help long-horizon LLM agents maintain coherent task understanding across extended interactions.",
+   "url": "https://huggingface.co/papers/2610.01415",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "997c622aff",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization",
+   "sum": "ActiveSaddler uses automated curriculum learning to iteratively optimize prompts, tool interfaces, and control logic for LLM agent harnesses.",
+   "url": "https://huggingface.co/papers/2610.00906",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "098ff0773a",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-30",
+   "title": "Q-MINO: A Minimal-Norm Method for Quantization-Aware Training",
+   "sum": "Q-MINO proposes a minimal-norm method for quantization-aware training to mitigate surrogate gradient errors from the straight-through estimator.",
+   "url": "https://arxiv.org/abs/2610.00738v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5ae907f7d2",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-30",
+   "title": "Analysis of Quantized and Efficiently Adapted Protein Language Models",
+   "sum": "The study analyzes the performance impact of quantization and parameter-efficient fine-tuning on protein language models.",
+   "url": "https://arxiv.org/abs/2610.00665v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9637a3e020",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-30",
+   "title": "Explainable Suicide Risk Assessment on Social Media with Multi-Task QLoRA",
+   "sum": "Researchers present a multi-task QLoRA framework for explainable suicide risk assessment and factor detection in social media text.",
+   "url": "https://arxiv.org/abs/2610.00610v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8b886de122",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-09-30",
+   "title": "Scaling Collider Event Generation with Residual-Quantized Tokens",
+   "sum": "This paper applies residual-quantized tokenization to accelerate collider event simulation for the High-Luminosity Large Hadron Collider.",
+   "url": "https://arxiv.org/abs/2610.00569v1",
    "wp": false,
    "mp": false,
    "ai": true
@@ -1379,6 +1635,32 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USDYxX2M1NzVhYUlOSlp6dTYwWlJwd3BMVmxvTlVSX00wR1NxZUpjN3pzV1c3NFM5cERvdHZhcFVpRjdmOGFaUTZCVFRESDhlRkhibTFzTGpjemc1bnNj?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "9f1238d22c",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion",
+   "sum": "PixelDense uses dense prediction as representation alignment targets beyond standard semantic encoders to accelerate diffusion transformer training.",
+   "url": "https://huggingface.co/papers/2610.00483",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c9be3a53fa",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "Align Then Reason: A Multimodal Lip-Sync Judge for Dubbing",
+   "sum": "Align Then Reason provides a reference-free multimodal lip-sync judge to evaluate dubbing timing and text alignment with speaker articulation.",
+   "url": "https://huggingface.co/papers/2610.00825",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2e83d0850a",
