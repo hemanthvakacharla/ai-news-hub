@@ -1,6 +1,123 @@
 {
- "updated": "2026-10-03T14:33:37Z",
+ "updated": "2026-10-03T21:53:52Z",
  "items": [
+  {
+   "id": "f8ba7ef564",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-03",
+   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+   "sum": "Amazon Web Services' CEO addressed public suspicion of data centers, announcing the company no longer uses non-disclosure agreements.",
+   "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a17db24aed",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-03",
+   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+   "sum": "OpenAI safety researcher David Robinson resigned, warning publicly that the company's culture is broken.",
+   "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "853f928670",
+   "t": "anthropic",
+   "c": "",
+   "src": "MakeUseOf",
+   "d": "2026-10-03",
+   "title": "Anthropic says Claude can work with Android apps now, so I tested it against Gemini",
+   "sum": "Anthropic announced that Claude can now interact with and operate Android applications.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVGZwU29XazRFNnJXREdtc1BMUUhLcDUwVjRPMUxWNklxRWVlR3B5ZklVeXh2T2JHNEdYMnppbFRnQlFSeHRCVmFnTlNPa3duVUhTcFlpbEV5V3ZNTTEycVRMUWFFR1E?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "17b0775950",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-10-03",
+   "title": "PLTR, CRM, NOW, SNOW Comparison: Palantir Leads Growth, Salesforce's AI ARR Is Clearer",
+   "sum": "A financial comparison analyzes AI revenue growth and annual recurring revenue among Palantir, Salesforce, ServiceNow, and Snowflake.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0lPUjJuVmRMT3RJTW9vc3U1R3ZvNTM0OXZpZWIwSXdKdjlTemIxb0cxSjlVcVpPUWt5RW9pVmo1bl9WT0VzX1ljTG5YRVJXS0hSNUpXM0hZb1dSNlVOalNOTTRaWDh3bnZrcmF3YUV4Q3VSMmhqLUgzbnRFcGVKRWRRYlAyZWpzVzRRelNYSjRadXM2N01SUmN2bzNMQTh1dVN6NFZkdHlUb3Jqa09aYg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a70b62ee0f",
+   "t": "palantir",
+   "c": "",
+   "src": "simplywall.st",
+   "d": "2026-10-03",
+   "title": "Best AI Stocks In October 2026",
+   "sum": "Simply Wall St published an investment overview highlighting top artificial intelligence stocks for October 2026.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa3Q4Y0NFR1BsRjJwSmxnT1VBbDBIXzhmR2E1NENxaWFxUXp0T1hBaXgyakxVeWVEcTZ2QU9va0lXbk90aHlsaExtTGFaUjE4OV9WVmR5QUp1c2gzLTFZSTBUSllYMFc5bFVvVjVGanp5VHMtTXdPVVFIbHZRSVRhenNwMWk2d0pWaUdrLVFXXzVtWmw4QXhtUjQycjFJWTloa2RieVAwc1hKaFHSAasBQVVfeXFMT2t0OGNDRUdQbEYycEpsZ09VQWwwSF84ZkdhNTRDcWlhcVF6dE9YQWl4MmpMVXllRHE2dkFPb2tJV25PdGh5bGhMbUxhWlIxODlfVlZkeUFKdXNoMy0xWUkwVEpZWDBXOWxVb1Y1Rmp6eVRzLU13T1VRSGx2UUlUYXpzcDFpNndKVmlHay1RV181bVpsOEF4bVI0MnIxSVk5aGtkYnlQMHNYSmhR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e94c2a6656",
+   "t": "palantir",
+   "c": "",
+   "src": "AOL.com",
+   "d": "2026-10-03",
+   "title": "Could $20,000 Invested in Palantir Help You Retire a Millionaire?",
+   "sum": "AOL examines long-term retirement returns from a twenty thousand dollar investment in Palantir stock.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAycHJSRkJQVU5oWkZEZjBTblNPX3g3MWJwNzNYQjB0WkNFWW1qNzc0N0hPUlpKZGtUd2FGZEpyNnJSZUo5MzRobXRSU0R2MHpNdUtXaFEyLXpBcGN2c0FVX01pUTJScmdMV2JVamh2enlNcnZXc3FiTXZEOUJqUms?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f137a1f7a0",
+   "t": "gemini",
+   "c": "",
+   "src": "9to5Google",
+   "d": "2026-10-03",
+   "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+   "sum": "Google is restricting model access for free and AI Plus Gemini users while introducing Deep Think to AI Pro.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04R1J3UHRCTHp2S0FSeTd6YUllLS1TYVZvMDFSeVZraUFnZDJxdjk5Rm9Pd3o0Zlk3NEp2WkhOSXQ1aTVTdGJRb2NXaktIRlM1YmVqeHprdWVobkpPTXBiVkVzRFloWC1DamlXbmZB?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "b143b5efd4",
+   "t": "gemini",
+   "c": "",
+   "src": "Android Headlines",
+   "d": "2026-10-03",
+   "title": "Google's Free and Plus Gemini Accounts Are About to Get Nerfed",
+   "sum": "Google is preparing to reduce Gemini model access for users on free and Plus subscription tiers.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdlo0UEZ2WTZoNmFlWTBzVzhSREJ5d3hxS08wcWtVTjZlMVJFY24yXzZaTUw2dEFDOHZJQ1B1al9MREVEb1JfNDJnUFJqMUxSdFVvcVBxaWpkY0JDazB4dVBTZy0zZkRyMEZ6cjJFaS1FSVFKd1h6OVFwazU5UGE0SW1CWEg3WnJrR2RnTmdRMVhGVTQ5dnFNZkcwR1ppX3FpOEIteTVadDc4bUk?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0d5df7765a",
+   "t": "gemini",
+   "c": "",
+   "src": "Pasquale Pillitteri",
+   "d": "2026-10-03",
+   "title": "Google blocks Gemini Flash for free users and Pro for AI Plus on Oct 9",
+   "sum": "Google will restrict Gemini Flash for free accounts and Gemini Pro for AI Plus subscribers starting October 9.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQlNZM2laMVctdmExREtPWTgxanBNMjlyY2trSWhlOEJncVQ1MmtyZEtPaXFrNUJFd1NqcGtCWVpINVNYMWp5MDFEWldxSGNlWlhDZEpyRF9lT2N2TnphYW5kSDl6dWN5TnEzYzFFaEpNdnV5RmJuSERSWmZvRl9NZXd1dC0xZDdFckw0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "41a7e44054",
    "t": "impl",
@@ -8,10 +125,11 @@
    "src": "TechCrunch",
    "d": "2026-10-03",
    "title": "All the AI agents that can live in your text messages",
-   "sum": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "sum": "TechCrunch cataloged notable SMS-based AI agents designed for general assistance, family coordination, travel, and workplace tasks.",
    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "a0a06ba28d",
@@ -20,10 +138,11 @@
    "src": "Fast Company",
    "d": "2026-10-03",
    "title": "Anthropic’s ‘Mythos’ AI proves that obsessing over AGI is folly",
-   "sum": "From Fast Company.",
+   "sum": "A Fast Company commentary argues that Anthropic's Mythos AI demonstrates that focusing on artificial general intelligence is misguided.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XWjduOWdKX0dQOEtDRktWNTJQMDVlVk84LUtCQjRMeDZjcjFxV3ZzdzkxOHVCY1VQaVNXYnhDMk1ueUg2a2N6Rzh6bUVVREFkOUNmTDNYelhTSDFMcTRoMTJNck5jdVNZQkhoVi1kMHVteTgxaDVTNGtR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a686971798",
@@ -32,10 +151,11 @@
    "src": "Startup Fortune",
    "d": "2026-10-03",
    "title": "Google Antigravity adds Anthropic's Claude Opus 5.5 and Sonnet 5.5",
-   "sum": "From Startup Fortune.",
+   "sum": "Google Antigravity has integrated Anthropic's Claude Opus 5.5 and Claude Sonnet 5.5 models.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXNxMHprdm9DXzhqWEFHMUhqMGlNSUZCY2JJdTR6YXRBWnNGWENsNWR6VVBmb3YtUU4ydXZNeFR3eWQtZFhjUFJHTjlqSXJiWUxRNnJPY0R3YlR3THhMY2tNUXh5RHZBc0lrWmFlNy1aQ19pMDRHT0ZrczhhY2g5dVZvTXBJNjMxWXczY1BKXzlNcmNBQ3c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2f5ab26da0",
@@ -44,10 +164,11 @@
    "src": "MIXED Reality News",
    "d": "2026-10-03",
    "title": "Anthropic says some Claude messages sent in its September 29 outage may not have been saved",
-   "sum": "From MIXED Reality News.",
+   "sum": "Anthropic disclosed that some user messages sent during a September 29 Claude outage may not have been saved.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT21JUF93bkl1WXRMMUZWZk5LM204Z3ZsM0pKbUZvcTh0ZFllbF9IaV94RDVSV3JicFN1aWFPU3FRRV9jN1lZZVpid1JhcFJBZTQ0c012SzlEVnNvMmptWVNlUlpjNkViSmxmLW5HbnYyM19zYWx1RndvS3d2VEJEeUVESXFhc2tLY1E4OE1RdXNKOHl0aUl0QXBFblU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d2f706f849",
@@ -56,10 +177,11 @@
    "src": "The New Stack",
    "d": "2026-10-03",
    "title": "Anthropic’s answer to Dots and Muse is already inside Claude",
-   "sum": "From The New Stack.",
+   "sum": "The New Stack examines internal capabilities within Claude that compete with AI tools Dots and Muse.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jMVNnR0YwX2pXNmkzbHFlQ09MWWVad1hSOV9wZjFtclR1Vm0tcGZORURNUTN3bFlCT25ZTlNRM3VTR3dtalhSb0czVHZmU0wxSDVvQ2ctVFZFQTdzdEVN?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0ea81bf75b",
@@ -68,10 +190,11 @@
    "src": "AOL.com",
    "d": "2026-10-03",
    "title": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
-   "sum": "From AOL.com.",
+   "sum": "An investment commentary suggests two alternative artificial intelligence stocks to consider instead of Palantir.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2szOXZWS29RSjF1Zi0wZXFORi13UVdnUTk2SmtrSVlocHlucXNyRWdhbG5QOGhUYkczU1N6bGJTLVJqUW4zR190SlMtaXdFWUhtaHZ0dy0zY3pjak1hVnFQYjVJX3RGRkZ2N3hBekQyS0tmUEI0NExEVUpQQnZtUmdn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ead5587869",
@@ -80,10 +203,11 @@
    "src": "Finbold",
    "d": "2026-10-03",
    "title": "Why you need to buy Palantir stock before October 31, 2026",
-   "sum": "From Finbold.",
+   "sum": "Finbold outlines speculative financial arguments for purchasing Palantir shares prior to late October.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFhnZHFKNjNxMkUyOHp1VHFvU19SVjUzYVNhVUdEV2dPb2dWUldqeWNMME1ONzlJdzRVSDRqQXRLSmtJSThIR056a0cwRzR3Vjl3VlBnVEpFQ3BDNDlwYU8wbG5lWjkxMnNkTVJ2NFlWbXVtdFZGcHhkNzByV1dtLXpKZXU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fa898d578c",
@@ -92,10 +216,11 @@
    "src": "theregister.com",
    "d": "2026-10-03",
    "title": "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
-   "sum": "From theregister.com.",
+   "sum": "The Register examines the rise of forward-deployed software engineers popularized by Palantir's operating model.",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRk1HeGtBbUJ5QmpUd1hlZS0yd0xvMUdDdGZNYmZxU2ZpODhTV3NMQ1hfbnlKcFhGR3N3OWtZYkxqWUhKWWc1R2U1Mm5MVnBrT2gtdU1EZE9BOWh0Y2J1LURtbWZOdTRjRnMzeWlHUUh5OVNWNms5ZDV3V3hfSm1HeDEwRjRxRTgzaTZXWGZhUVplYXh0UUxJLTlMVVZybUhEejMyaGpYcFRSMnAyaXJON3Jva3RJMkd3UHVqUGdIU3JxWWpKS1lpdm1YMXhFSzZsUzdyMUgzcGhjYVU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "66cc37a333",
@@ -104,10 +229,11 @@
    "src": "tokenpost.com",
    "d": "2026-10-03",
    "title": "Palantir and Armada Pair AI Software With Modular Data Centers",
-   "sum": "From tokenpost.com.",
+   "sum": "Palantir partnered with Armada to combine its AI software with modular, rapidly deployable data centers.",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GNVltLW1zUVpSaGFtY1ZUT3p0Mk9nOHA2bGZpYUtCektvLVc1ZmlFc0EwbVVlS0lWeXh3anV5ZC1PNzhFSGc5SVJOSEl5N2NyYW1xaVotQW9Ic28?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ce02e5ffb5",
@@ -116,10 +242,11 @@
    "src": "pluang.com",
    "d": "2026-10-03",
    "title": "Palantir stock shows strong October gains amid soaring AI-driven revenue and upcoming earnings.",
-   "sum": "From pluang.com.",
+   "sum": "Pluang reports on Palantir's October stock performance driven by rising AI revenue ahead of corporate earnings.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDlzUWJ5ZXlEWVlOc1ZRQ3ZNOEg2N0R3OG8xems4RjVJUVFyT0ljS2wwY0pOcDg0V2Vna1FzbUZPcjh5MlVPRjY2WXhSWlBRZ3A3UGNjOS1TMWVLZndnZFlYTDEyT2VIWDZHelBNNGlhRmVwREQxelVNMUE4NGVrTUdqTUVVSU9oOVdPNkZ2dkloUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9901136658",
@@ -128,10 +255,11 @@
    "src": "XDA",
    "d": "2026-10-03",
    "title": "Google AI Plus and free users are losing access to Gemini models, and it's happening very soon",
-   "sum": "From XDA.",
+   "sum": "XDA reports that Google will soon remove access to certain Gemini models for free and AI Plus users.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGtoQmRIVE1HdnpDQm80dzhweGtha3dRVS1uWXZGNkFPbkYxYzRTRVhUSkdFbnc0ZTRlSWNDLXBxOUZZSHpqNzg4a2FTZklFS1FsdmdyMU9oR0Z2U25HbG5UZUZzcUU1R3lOTmRvSmM5TGdoV2RkM3NhcU9kQi1oWUd3bk45TUpjak9laWg2VmE2anpvVkF6S1RMaDRwQzRNTk02R2ZKLVphSFRucjU2bzZjZkJoR3FDNEMw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d0326d2036",
@@ -140,10 +268,11 @@
    "src": "Neowin",
    "d": "2026-10-03",
    "title": "Just days after Gemini Argon launch, Google updates AI plans to limit free use significantly",
-   "sum": "From Neowin.",
+   "sum": "Google announced plan updates limiting free Gemini usage shortly after launching Gemini Argon.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnd0N3VMdHQ1aFJwUHZSVVdyaldycG5oXzZrRU1HTVZnWUpONUgtaEgyc2NyLTFPVERPRU5qZG4yYXZIcVRiMFJSOUdUd3RJRjc1Vk10NjhEZE1NMlg3bFE5aGZGUDloXzJuMXpnYngxR1RCSDVFNVoxQTJvZ2M2TXhWUGlqc1BfaHRIVmJwLWF3WmM5cTlHNGR0dVd4aHNlVDBfNW0zYkNrbHFxU2luQkxxQkZXSkxNUmN3UQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "83485a4ee2",
@@ -789,10 +918,11 @@
    "src": "blogs.oracle.com",
    "d": "2026-10-02",
    "title": "Configure advanced inference ingress on OCI Kubernetes Engine (OKE) with the Gateway API Inference Extension",
-   "sum": "From blogs.oracle.com.",
+   "sum": "Oracle published a technical guide on configuring advanced inference ingress on OCI Kubernetes Engine using the Gateway API Inference Extension.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTBwenJsQlFqM0pNaEhZUUxGTHZyQWZMU1ZVbmJLWkpNV0RIS3lGVlJlSnBYYjNVcHVCQTM4Q3hKMllZMHZIQlZTRVQ3V1RudHRVWmtNeHpjRC0xWk5mUndVLWNnR2RLRDM4X1FORHE4TnpvNG1GQ2p2SEE1TU10MGFCdWE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "36b04add9c",
@@ -801,10 +931,11 @@
    "src": "SK hynix",
    "d": "2026-10-02",
    "title": "[AI Ecosystem] Redesigning infrastructure: Why architecture determines performance",
-   "sum": "From SK hynix.",
+   "sum": "SK hynix published an infrastructure analysis explaining how hardware and memory architecture dictate AI workload performance.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZXpNS2tKQjIxRkswUDdQWFB4UFJCWDJHZm1KcVRWNlI4QnFtN0FZZzYtWS1OTEYzMjZ5UldWTUp0b1NvZmdkbi1uSE5WbkxHLWJyeC1EYk9aaGJEc1hnUDF3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0e2c9270c1",
@@ -813,10 +944,11 @@
    "src": "thelec.net",
    "d": "2026-10-02",
    "title": "Everpure Unveils Data Management Features for Large-Scale AI",
-   "sum": "From thelec.net.",
+   "sum": "Everpure introduced new data management capabilities designed specifically for large-scale artificial intelligence deployments.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fZTJKUHU3ajREWkN6MmRZdWNEMkIyZ19aUHlFUkpHUnZGSXowN0o5aVpNc1pOeVdBWGY5VnNkbXpIZTk0OU9nbWppWmFxNkFoZEllRDBhT0FMVUExdExSa0FodV9kdEk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9af435394e",
@@ -851,10 +983,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-01",
    "title": "Trump Sends Strong Signal on Google's New Gemini Model",
-   "sum": "From Yahoo Finance.",
+   "sum": "Donald Trump commented publicly on Google's new Gemini artificial intelligence model.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSV9jRTJzWHRTVEx1a0dzNUY0V3J1UjF1MHMwRzhiMGlkRUdteUFhNGN3WHBPRDNrMzBVYWNoWHBRNHVSUWUzc2tQOUFEVlBYMWFQdWI4LUhid2NxYlFwTlA1cHd0enNOYURFelBwNC1lbjhPdmV2UFUzTlRrM3dWUDAzbmFMek9oQmRjbzdaLXJYbWRGd2dfcGVsaEtrdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ccab74f7ed",
@@ -863,10 +996,11 @@
    "src": "AOL.ca",
    "d": "2026-10-01",
    "title": "Nobody Could Decode This 108-Year-Old German Military Cipher. AI Just Did.",
-   "sum": "From AOL.ca.",
+   "sum": "Researchers used artificial intelligence to decode an unbroken 108-year-old military cipher from World War I.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IV19GeHVpTUtQeVpqSTBNZFdMSFVWU3k2M2Q4S1RGOC1BOEl6OTZ0QmF4REtlVWZJNFVMVnpOZi1VZnFTVnFxSEdxczMxbzFCc0ItUG1oeGduWndSR2czcWd1UkhxaUJGTzZxamQyLXI2UmkxclJZWmZR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8a25ceddad",
@@ -1096,10 +1230,11 @@
    "src": "fiercewireless.com",
    "d": "2026-10-01",
    "title": "Opinion: Silicon diplomacy, kinetic realities: Why Europe is evicting Palantir",
-   "sum": "From fiercewireless.com.",
+   "sum": "An opinion piece analyzes European policy efforts to limit adoption of Palantir's defense and intelligence software.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUtHQXJENUFpQ3dNNUVsdWlPQnVFNzBGNmxGZEJJQkxGQ2xQZU9STDFlc0d1eEIyRDVBUnZuYlV5UG90VmZTMVRrbTduRW9NdHR4djRNcHV2eXkzb2llTy1tZk5kaTNvSzlETExsS1V0ZnBhOW1ybDgybDBvWEtVd2JTVGRsRjZQVTRHOHNMYU5mdlRUdEx1SjdZd0NrSXJzV0Z3ZFJvUnRFODVjQndmZFN4MEVETGlQUzlv?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f2255479f9",
@@ -1108,10 +1243,11 @@
    "src": "fool.com",
    "d": "2026-10-01",
    "title": "Where Will Palantir Stock Be in 5 Years?",
-   "sum": "From fool.com.",
+   "sum": "The Motley Fool evaluates Palantir's five-year business and stock market trajectory.",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaS1tMnh0QmlFNTg1TG1pSGZTdG9OX3kxQVdGaExsY3pBeUtMbDM2R1YwMFhWbWNqXzViaVJMQ0ZrYXdVV05tUVBYOWpWOU9CeF92bk5aQVIwTEk1TXZuUk9KdFI4Y1NqS0YyNFF6QVdKT0NPRV9QYkJvdVBmV2JObHRFZEtJV3B3a0E?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3e7a4279c2",
@@ -1120,10 +1256,11 @@
    "src": "Stock Titan",
    "d": "2026-10-01",
    "title": "Palantir and Armada say their AI data centers can be deployed in months, not years",
-   "sum": "From Stock Titan.",
+   "sum": "Palantir and Armada announced that their modular AI data centers can be deployed within months instead of years.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXl4REVEbHpMMDBwdUl0UXFNdHF3RXU2NjRBTWR3Slp1ZUNpRi1MYWEyVVJuWjMwSU1DeUFhMjA0ZU1TYVpYcUg5bVJhY3FJVzY3RkYzVXJiQnl4N3E1QmxPQk5YS3dLWTA0MFpfbHlEVXY5SC1vOVZiQjlBbzg2UGlxOHF0bHZZV2xJWUE5QkxSOC1JbWg2eERXUnNIdWp3bWN6ajY1Rmx0ajVsNlE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0a643114fa",
@@ -1132,10 +1269,11 @@
    "src": "Cloud Wars",
    "d": "2026-10-01",
    "title": "Hottest AI and Cloud Vendors: #1 Palantir, #2 Google Cloud, #3 Oracle",
-   "sum": "From Cloud Wars.",
+   "sum": "Cloud Wars ranked Palantir, Google Cloud, and Oracle as its top three AI and cloud vendors.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmpPc2xaUnMyY041d1lZbnhmdHhXMHRpcTNNWTJXdzhHWUpxWXlNYzdKbTNyZ1RVdHhta1NzcWxfYVY0TWVRdWVBTldPNHdXakJzcWpOTUxUaDhFeURySVpmSFBaMlJuWkktZlZ3YTZXX1RWbjNZQ2NBV3RydTcwSzhpNmx6Ni1OcndWcnUzRzhLcjA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0d15398249",
