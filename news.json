@@ -1,6 +1,97 @@
 {
- "updated": "2026-10-02T22:42:48Z",
+ "updated": "2026-10-03T02:51:47Z",
  "items": [
+  {
+   "id": "83485a4ee2",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-03",
+   "title": "Meta wants your next gadget to be Muse-infused",
+   "sum": "Meta is releasing its Muse code for free to encourage integration into consumer devices such as televisions and appliances.",
+   "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "aafdb30de8",
+   "t": "anthropic",
+   "c": "",
+   "src": "Business Insider",
+   "d": "2026-10-02",
+   "title": "Anthropic funds $100M academy to train deployed AI engineers",
+   "sum": "Anthropic is funding a $100 million academy dedicated to training deployed AI engineers.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXV6ZlR2N2dURDl4ZVlZOGp2bV9PVlcwd0lUTTJNYzhKTjBrcjZpQW9xQ3VfemJVN2V4RkFWN0NLX292b3E5UjBpQ0tEX3RhNzdNejd4bXV0bmpUaDRfZ2owWFN5dENhY2lkRnZIZHZ6dHVqQ2ExYkpHVFhrX1ZMTm9OR212ckVTb214cVpvT01ycHh2U09yaEZyaUpnMGpFdjMxSVE5ZjVXUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "72c1dddf9e",
+   "t": "anthropic",
+   "c": "",
+   "src": "National Review",
+   "d": "2026-10-02",
+   "title": "AI ‘Claude’ Can Never Be a Person",
+   "sum": "An opinion article argues that Anthropic's Claude AI model cannot attain personhood.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12OV9NU0hMUDBDMUIyVHdtV2FjZzVRUjVVNnB4VzRwdmxEeE9CbERlUHBfR1pRM0pvVFhFaldlQnk1dFVCMVBtVmhkNU5XRDl5YTVUMlpYdFdsMzkySC0xamlPT2dMUEY2bjhDNnRpdGZaWFFZOVRHY1BJVlJyY03SAX9BVV95cUxNdjlfTVNITFAwQzFCMlR3bVdhY2c1UVI1VTZweFc0cHZsRHhPQmxEZVBwX0daUTNKb1RYRWpXZUJ5NXRVQjFQbVZoZDVOV0Q5eWE1VDJaWHRXbDM5MkgtMWppT09nTFBGNm44QzZ0aXRmWlhRWTlUR2NQSVZScmNN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4edc0ea555",
+   "t": "palantir",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-02",
+   "title": "Palantir Inks Sovereign AI Infrastructure Deal With Armada After 60% Quarterly Surge",
+   "sum": "Palantir signed an agreement with Armada to develop sovereign AI infrastructure following a 60% quarterly surge.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3OERWSkZ6NURUVEhUX2g0UnNpM0paR0xDUTlFcWFQaXZxUm1BOHN4M1FrZXBCTkgyTHVXUGc2ME5MQUFPRGF5d3BkMTlmX0tDTHkxTzFlNHRaRGNUY1dtVHkzWEdvQVlqZnE2a3VMRzdpbjczcmc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a40007df42",
+   "t": "gemini",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-10-02",
+   "title": "Google's Gemini 4 Argon is the latest super-smart AI that most cannot get",
+   "sum": "Google announced Gemini 4 Argon, a high-capability AI model with restricted access for most users.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUzlCemRWYUYxdlBZa05MYURDZTNCUjdzNko5OXFuUEFDdktLV2dvcE5ESVUteUpKeFhBNGhBb1NpYmxHS1c4UkF2THkzaDdGSS1BX2Z4WFlfdzA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b868fcaf21",
+   "t": "eff",
+   "c": "",
+   "src": "Club386",
+   "d": "2026-10-02",
+   "title": "MSI’s new 4-litre Pro Max Edge AI+ mini PC packs up to 128GB of memory",
+   "sum": "MSI launched the four-liter Pro Max Edge AI+ mini PC, supporting up to 128GB of memory.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LcmhvTnFxOEVWT3NyeTFzb29saEFyX3hGd3YyOFBHQ0xaNmJzTzliYjVnMWQ3Nm4zS3NMcnNoQWtqZjFtUm5FbTZObE13emI4M1ZnalVRTWZTYTI5cFprSQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8c3d2f5ecf",
+   "t": "eff",
+   "c": "",
+   "src": "Tech Times",
+   "d": "2026-10-02",
+   "title": "F5 Benchmarks Show NVIDIA DPU Routing Triples AI Throughput at Peak GPU Memory Load",
+   "sum": "F5 benchmark tests show that Nvidia DPU routing triples AI throughput when GPUs operate at peak memory load.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNElvdHJZMDlfdzRhZ2JKd0FXWlRSZkpaS0sxZFdVb1h2djhrV1FFdEl1MjRGaWhoVE55ZnduT0ppZnhpN0MwZ2JxUlZVZ2VUbUJ1S3Aza013REJobEdMZ0JWZ1hBeTFmUVktVU5tSzR2NWhoS3lvWGFpZlZHSDJUQ2lESGlRY25rdUgwZi1QSFF1Z2NrSFR0a2JNU1FTM0tWYTB6Q0xSeGlPUE1wNThJOGRnZmpDbzYtUkZCMi1PQ1VxTHpnRHI0MWJQaXVxbnNO?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
   {
    "id": "3cc6542c47",
    "t": "industry",
@@ -281,10 +372,11 @@
    "src": "TechCrunch",
    "d": "2026-10-02",
    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-   "sum": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+   "sum": "Clay CEO Kareem Amin will discuss the emergence of go-to-market engineers at TechCrunch Disrupt 2026.",
    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e527bfa907",
@@ -293,10 +385,11 @@
    "src": "TechCrunch",
    "d": "2026-10-02",
    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-   "sum": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s…",
+   "sum": "TechCrunch announced the final 24 hours to reserve exhibitor space for TechCrunch Disrupt 2026 in San Francisco.",
    "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5ef2700f9c",
@@ -305,10 +398,11 @@
    "src": "MIT News",
    "d": "2026-10-02",
    "title": "3 Questions: A new resource to empower young entrepreneurs",
-   "sum": "Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
+   "sum": "MIT's Martin Trust Center launched Dear Dreamer, a free entrepreneurship learning platform for middle and high school students.",
    "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "1122627a66",
@@ -317,10 +411,11 @@
    "src": "Google AI Blog",
    "d": "2026-10-02",
    "title": "The latest AI news we announced in September 2026",
-   "sum": "A video showing the September AI updates",
+   "sum": "Google AI Blog released a video roundup summarizing its AI announcements from September 2026.",
    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d599f0a282",
@@ -329,10 +424,11 @@
    "src": "Hugging Face",
    "d": "2026-10-02",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face has open-sourced AstaBrief, the fast report-generation model used in Asta.",
    "url": "https://huggingface.co/blog/allenai/astabrief",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a885ed61f5",
@@ -341,10 +437,11 @@
    "src": "Hugging Face",
    "d": "2026-10-02",
    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face introduced AutoSynthData to generate synthetic training data for enterprise AI agents.",
    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9f283278fc",
@@ -353,10 +450,11 @@
    "src": "ABC News - Breaking News, Latest News…",
    "d": "2026-10-02",
    "title": "Pentagon gives Anthropic ultimatum on AI technology: Sources - ABC News",
-   "sum": "From ABC News - Breaking News, Latest News….",
+   "sum": "Sources report that the Pentagon has issued an ultimatum to Anthropic concerning its AI technology.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmk1c3RRZUVnenpEV3lQRUtudTdTV05mVXo4MWxRVW91UkJCVTB0dmo1dDRfQy13Z2hRSkJ5UXN4NlRscjhaTk5uOEhLcElBckVjd0F4Z0hkUHFYejYwWi1tUjM0Vm9DeE9JdjYxWldSbGVOWjhzcEFTNzMxUDNKNG1ic2VhM2ZDVDVsZE15M0JzNzByUTUzZU1yMEppbWvSAaQBQVVfeXFMUFp0N0lQZWF3MHlhZUlzQXl0Wnp1VWxkMnlHZnh1dUM2RENlSll1QU5MVE9keFNUbzJoczlLT1Z3Z09tdHRyT044MVNwTF90YlNXYkNlVGFsWHdNMmdjSkMxOVNpQ3ZZSTBIWU5KUk5YOXBmcElYdmVHWUhqQXlSX0RWaWdrUV82NmRDN1pYU19GckhjOERTb1FHWkJJalk3ODRDM08?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "371f368e96",
@@ -365,10 +463,11 @@
    "src": "scmp.com",
    "d": "2026-10-02",
    "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-   "sum": "From scmp.com.",
+   "sum": "Anthropic has tightened VPN access restrictions to Claude, disrupting access for users in Hong Kong.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlJ1MHRhMUY5YUNJT3pwWDVJc3h0TkhFLUxYd3FUbnQ2SHdTOFpobWZ2VkRXZmhoQW9XV0JlREhwbHo2TWM0eHcydEtQeWtFcDVGN3JZYUZJQmctMnY0Q0RTbklWaEY3NE5XR0QweHJITVZhSWhuckF2TUV3RkRsSURGV0JOTnZkdWxQR0N0U0RDcFJ2aHF6QnlyQ0RSMVZxbUt2dWl0TTVneERvcTZRc0JTZkJVTGpHOHpB0gG7AUFVX3lxTFBjaTQwVU9VRmRSN1hiajZEeFNGbDlQTXF3MmZFU1hqeWNUZFBkV1NaMWFBb2l2OHlLR290a0JNVlc1eHc1TTVaNWp2SkNBdG92V1l1LUhIb1ZQX1Bwd21HWG5Id3ZjM1pkZHAtNF9DNnktV3BnZlhscmM1OEczbEdjRXZ0V3RoM0F5QUlHREtaT25QWDJrV0J6LXhhMEEzU05DUkE5ODEwZkp1X3d1TlhvOHhlMmJWOHZCNHM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "37b3057d6e",
@@ -377,10 +476,11 @@
    "src": "TechRepublic",
    "d": "2026-10-02",
    "title": "Claude for Government Is Now Generally Available to US Agencies",
-   "sum": "From TechRepublic.",
+   "sum": "Anthropic's Claude for Government has reached general availability for United States agencies.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXZrcUdfNGNPV2Z0ZWhibTl1UmJKVEZ1YTNxU3luQmJOX0pQc3lsY21vcmxPejFRNkhNTWpkU0FBSEUzQ0M1WEhveWRvczZ0dmM4TkR6eVVMcHpveDE3T1JZcDVrTkFmN0hzY1JvajRXV1FoRHVQdjJPNGhvTW1sbEd1cmx0X0g3cEI5elROUk9pVHRtOEE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5e563e5cf8",
@@ -389,10 +489,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-10-02",
    "title": "I’m Buying This Hyperscaler On Repeat Before The Anthropic IPO",
-   "sum": "From 24/7 Wall St..",
+   "sum": "A financial article advocates buying hyperscaler shares ahead of a potential Anthropic initial public offering.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXZ1NjNjYko5QzE2NUl6MXk0Ykx0bXVMNGM1N0VuaGFES3oxdHVYYnJ2ajc5d3paVUNiN01ZNm5Kd2FHMVdfN1JfMmdqdTY2TmRKTkFUTk9KZzdzcnJ5Y0VOdXRaN0h1eGRlQVFDLTB2MTVoREc1cGo3eFVSZVJ3NUxZUHdYQXcyS0dRd1p0bmpJTTB4Z2RRLTRQMEpObUttd2RpR1RTMjQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d9c9f6d48f",
@@ -401,10 +502,11 @@
    "src": "The Times of India",
    "d": "2026-10-02",
    "title": "Explained: Why Anthropic flew a Hindu monk to San Francisco to teach Claude right from wrong",
-   "sum": "From The Times of India.",
+   "sum": "Anthropic flew a Hindu monk to San Francisco to help train Claude on moral reasoning and ethics.",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUC1xdko3X3lzWllFYWtoQ0JGc0lYcXFYZTVTeE12cGZKdG1QTkdKZG9CU085UGdaQnN4YnlPOXNKekROeFIxTFR4SldiWnVFTlpUM0JNSFZzNnoyejJKeFBSSlByblZ6cm9jcDNNWm0zeEhnSkxxaTJHallHQXV5dGdfNzBsRWhjTmJ3Y3dTNjJ0WTB5cHdRekV2Z1JHbGV5YlVCc0NUUUxIcEFkRnpnUGNBbm9CaXkxM2M4RlJGZmRSbjZEeDlqVlJMekNHME16Q3FFRkVzTUY0NERRZUtrbVBMSzNfMXZtTlRMdy1GOUF4VXdf0gH6AUFVX3lxTE5Ed29HR1lWTG1EQ1hpTk16dzRfOG1DWnJYUEdQMUg5UzE5cml2ZlNxNXJmVUhoN0lScm1hbGU2V2UwRUR3ZzdCLXdmZmo5c2lpZ3gyMmUzS05qX1NEcERkTW5qRjNBQnZ2RHp2cUZuWXV3SHMxWE0wN09CM3ZqNTl3Y2NGbWZhYUxQWXI1bnlYZFAwcjhmTUYxeTM5cmZxaXYwOFZEcVpQRVVlaHgxenFjLUdKb1VWRGdneEpMcEFfdmJIeHlpZ3FIeGdEX1QxejgweHBZMUFUNGtobTJabjBieXh4bXVwNnE3R09qbEs5b25WMlNMRkJGeWc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6245d431ce",
@@ -413,10 +515,11 @@
    "src": "Reason Magazine",
    "d": "2026-10-02",
    "title": "Anthropic vs. the Pope",
-   "sum": "From Reason Magazine.",
+   "sum": "Reason Magazine published a piece examining philosophical tensions between Anthropic and the Pope.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odUtiNkpuRm9oLVIxeTNZTnNMRnFYRkZrMWlSOGhndDdoYVBPOWx4ZjBKTDlfRXZoV21HcFBrYnpTbUpYUkt4akZLMGxFb3M0REhrVWljRkFhV2lPejNZMlZ3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b738a5997d",
@@ -425,10 +528,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-02",
    "title": "Palantir Makes Surprising Push Into AI Market Governments Increasingly Want",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir is expanding further into sovereign AI offerings to meet growing government demand.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDdpOXMwVHdOczByNHhONmQ2V2lmME04Yy1xSXZNNi1YV0ZYZnowTHBCVHRwX0tvWGRyS0ZNa2I4eW9vUjVBLWVTVlFtN0J2S1hTdGQ3OThxTGtxNU1hRjdCQTgwSm5BWEpSRURpUDdwUkkzdXp5TVAyRE5wY05mMFVab3NhRnFlNG0zV1hpbVp2YmlVbEZ6QnNaN3ZwZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f9b5b4e8e5",
@@ -437,10 +541,11 @@
    "src": "Benzinga",
    "d": "2026-10-02",
    "title": "Palantir Stock Rises on Armada Deal for Air-Gapped Sovereign AI",
-   "sum": "From Benzinga.",
+   "sum": "Palantir shares rose following an infrastructure agreement with Armada focused on air-gapped sovereign AI.",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEM1U1Y0V0xxSkRQV1J2Q0U0NmtRZmhLVVJfa2U3MG5zYjJaZjFOTHhZTWRaaGtWY2EzN0ZlMDhXQmJpbFFlUzQ3dmROcGVkSVg4bHFOejRVMjlsVVpsOXpncTJRc3pmTzhlV01GVG5OLW1rdmhrVUIzdVNiMGFJSkM3U2VrTUJkaXpSc1diZXhfcFFwNzhVWFBOQzhycUczcmJCU2ZVbGFoVGJZRkc1SkZ2X053UW8?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "65619f4800",
@@ -449,10 +554,11 @@
    "src": "The Motley Fool",
    "d": "2026-10-02",
    "title": "Salesforce vs. Palantir: Which AI Software Stock Is a Better Buy in 2026?",
-   "sum": "From The Motley Fool.",
+   "sum": "A financial commentary evaluates whether Salesforce or Palantir represents a better AI software stock purchase in 2026.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRE1WWlQ0dkVhRnV1SFRaNnFEZlZGUFZKZ0NScGtOc3lmUlp2cHAtdVluXzRDRmlSb3pXMUZSVlk4bS1lWjRGdWVDSFVibTdhYTN6ZUl2dnZJNjFmN0V3bG1qMXhYUE9iS2x5VmVLX2dYa0VkZmlOcGxXWkNaYUt3eF95b3RYLXBkM282TTkxUkduT0l3cjljMFFTOWR0S0F1YnZuenV6VjZRdW9Vd21iX1NwYnRidw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dd8df8eaaf",
@@ -461,10 +567,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-10-02",
    "title": "Palantir’s Growth Could Justify a Much Higher Stock Price",
-   "sum": "From 24/7 Wall St..",
+   "sum": "A market report argues Palantir's business expansion could support a substantially higher stock valuation.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2JDM0cxRHA3UjRmLThGb3lUSUloTjdLM1NGdDQwajhXUm40d3pUTVh1OFdHaWpISWI2SVdsb2VDUFdWUjVGWHU3R1diR2w5SElWR0docXVSdkc3eDA0cDhRODI3Rmp1RnhVSEpoaTZfVWdmZms2OGxFNkFpMkdlRnl3eHF3Z29fQm1lTUZjUzR1eVBVXzRmWkk0Q3VTNWhhRWc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ea197dca69",
@@ -473,10 +580,11 @@
    "src": "WIRED",
    "d": "2026-10-02",
    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
-   "sum": "From WIRED.",
+   "sum": "Wired reports that healthcare workers are raising concerns about operational problems caused by Palantir software deployments.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjNlUll2SV9HcWxHRG5La3doVzhDMjZBSWxmbTk5TVVRYUpaczh1Um5zdXVrYlF3anFKYVQ0UEZReVc3NzUtSVl5RlliaUlJMXdsNF9Ndkx5cDI0SHJYNm11TmxqRkpHcm5oaTFRYWNjQ1lyRTYwNmllY1F1elBLYnZHMGxCejA4WWVwd2FDNWE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6cb7fccacc",
@@ -485,10 +593,11 @@
    "src": "GuruFocus",
    "d": "2026-10-02",
    "title": "Palantir Shares Climb After New AI Infrastructure Deal With Arma",
-   "sum": "From GuruFocus.",
+   "sum": "Palantir shares gained following the announcement of an AI infrastructure partnership with Armada.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2xPSFlkd3V2UWVDVXRfM2xXTDNjaGdxVHRPWlFnNUpYZjA1MlhscUE0STM2MHlxWW1oQ2gtMEQ5eEFzSFNoWV9tTU4ycjJTMU9ySzA4aUNZMmN5a19ZanNrTUNGVWlpU3JfX2xkWUphOERsVWpVWXQtRHZWcEs0NjFnNVY2MHFzQnF4dWZkMTJsZjhfdU9VQjliQU9kcU00dGFwc3M5TGo?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7c242e3b4b",
@@ -497,10 +606,11 @@
    "src": "TradingView",
    "d": "2026-10-02",
    "title": "Palantir, Armada team up on sovereign AI infrastructure",
-   "sum": "From TradingView.",
+   "sum": "Palantir and Armada have partnered to deploy sovereign AI infrastructure.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHdlUmROX281OXF1WndFRDc1cEw5aWw2TEpnVjVHQl8tTkNmSW1CMWxmc1hQd1dySXZZLXRRTGxxZTVRTnFta3NSOGRZT1FsS3czb0tDbVl4eUFaU2ZKRk9YWExScnRvZkIzZ1Q0TnlJOWRVQkVqVXF6U3lZUGQ1ekNfcmxuUmljYXJQNmI2Zk80M2xlRWNVT3c5aEhKaVFVUkhIbjBYc3YtUkpWbVBtanl0TVltQzFM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9fe34fbcb3",
@@ -509,10 +619,11 @@
    "src": "finance.biggo.com",
    "d": "2026-10-02",
    "title": "Nvidia Adds $4,999 DGX Spark With 64GB of Memory as RAM Prices Surge",
-   "sum": "From finance.biggo.com.",
+   "sum": "Nvidia introduced a $4,999 DGX Spark system featuring 64GB of memory amid rising RAM costs.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CTlV5SU1oSG9YbVlCc214UGUyUjJOc0tGd19QeEhyWVNjZlR3bmpDSk5pdnRiZlprV0gzWTRrTFZPVzEwb2Z2NkNuVThMU29nUWp0S2ViNXc5d2p6NHZqVC1iS2ZpbnppTEFKcWlfUVU0Y0hDSFE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f031a68f43",
@@ -521,10 +632,11 @@
    "src": "openPR.com",
    "d": "2026-10-02",
    "title": "UNSW, JT Solar Technology and LONGi Launch Community Power Plant (CPP) at The Gibraltar Bowral",
-   "sum": "From openPR.com.",
+   "sum": "UNSW, JT Solar Technology, and LONGi launched a Community Power Plant project at The Gibraltar Bowral.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd25UN1BSb0hDSkIzTDE3ZE5VVVFxWDVHTHVlWUpBYkwtVXpwQ3h2R19ocERmcjZjTVlKcmhoNDRiWjZ0VHgyaWlIUmd1NDV5cFZ1SXllcVM4akN0MFQwcTZRSUN2MWk4NUdLSGY3UElNRG1iN0ZWTzRUSW11TUZPbDg2aHdFaXN1WE5rT3FjMk1GU3VaaEgzSWJ0WndjckJ5?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b3790d8fc9",
@@ -1193,6 +1305,19 @@
    "sum": "Upstage released Solar Mini 4 and restructured its Solar large language model lineup into Pro and Mini editions.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Za2V4QnFfTUxBSGt4Zjd2MUVTbTgyT0dQdVVSaXJ0SDdjdi1QdTdGZGdEc0J5NUN3TFRqS0p6S3E3ZkVxOUtBZHdVLWlzOFlyZGxfRlRINTFNb1RpQ0dzdDFkS3E3WlRvVGk3S3U5eXV4Rmo0dlFidjl30gGOAUFVX3lxTE5PamRVQmlfYWZOczJoZGVCUEZoQzMtS1hJdGtwUG5nQnJXc0w5S2d6cmxZSC1SX2E0akFkQjdmazlyVHNOVzQ2UmxrRUY2NVBzb0hHb3h6MzNpc1BqUEtxQmd4ekZYMjZ5MGhJWFFqMWhiUFpFbkZZS2RWNlN0NlJ6bHp0M05iLVJ2YWhmTWc?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "81699000d9",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation",
+   "sum": "A research paper introduces Ego2Act, a framework to evaluate goal-directed manipulation in egocentric video generation models acting as world simulators.",
+   "url": "https://huggingface.co/papers/2610.01092",
+   "wp": true,
    "mp": false,
    "ai": true
   },
@@ -5891,6 +6016,19 @@
    "title": "Gemini 4 Arrives With 0 Specs, Only a Timeline Vow [2026]",
    "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0df6e80f50",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-25",
+   "title": "Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration",
+   "sum": "Researchers propose replacing large language models with Jev decision models to reduce latency during edge service orchestration of natural-language requests.",
+   "url": "https://huggingface.co/papers/2609.22753",
    "wp": false,
    "mp": false,
    "ai": true
