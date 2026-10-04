@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-04T03:22:18Z",
+ "updated": "2026-10-04T15:03:40Z",
  "items": [
+  {
+   "id": "8d36181547",
+   "t": "anthropic",
+   "c": "",
+   "src": "BleepingComputer",
+   "d": "2026-10-04",
+   "title": "Anthropic asks Claude users to share voice data for AI model training",
+   "sum": "Anthropic has begun asking Claude users to contribute their voice data to train future AI models.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXdOQkNGN2NyMjVhNDlOZUVRTUdMWkE1OVNsaEtCQUcyS1hzQ2R3UkhLX1A4VjlWX2lOSHZXSjNSQ3NTT0g1M3ZCX0ltWHJSaGhDelJqdjJwbmVKeENqSkFIallKdzdVUWdqR0IwcndOLWhDbjdnbHN2NXFwTk1UczBMNkRoM3NVdllOcUhJUkFDZ3dWM0dfWnV4V19ldVVnS21UbEg3bnhBWV9FNzFHM3ZieWlYTy05aDJfYm9YYzZYdlJUODZBV0ZyTm3SAdIBQVVfeXFMTXhoYkFWNEtHOEVIclNCSlc0X3BsWk8yaGlGLVQyeFRZUm5rX2hNVjZtY0owZFIxZFFqdUxtbXNaQUgyR040UEpYM21Hdi1UTF9DbVJLRjRSa1RxdHA3cXNROFNtZ09ldEwtLWpSNGtJYnFqaVIta3BKdkdacXZqNFRWd0xZR0tLMUpWLVdUSUlhLUtvTUxSdGJEWS0zbEg1UkxPNHFDOURSalhKTHY5RXQ2b2xyNHRjbC1FNEMxcFR4Z1RWQnhyRVA1amZ1NHBqX1N3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "50d322872a",
+   "t": "anthropic",
+   "c": "",
+   "src": "조선일보",
+   "d": "2026-10-04",
+   "title": "Black Market for Blocked AI Claude Thrives in China",
+   "sum": "A black market offering access to Anthropic's Claude AI has emerged in China, where the service is officially blocked.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c8e1c12e84",
+   "t": "palantir",
+   "c": "",
+   "src": "SaasRise",
+   "d": "2026-10-04",
+   "title": "Palantir AI‑SaaS Surge",
+   "sum": "Palantir is experiencing surging market demand driven by its enterprise AI-focused software-as-a-service offerings.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHlhX1BYM0FxeGZqSldaa0dZS1ViYmZzUWRfVXE1TnM0T1hsdzJFSmpKOWhCN1AwNFNINks5WnNSUEw1QUFtM2M0UzJad2N5VFNQMjZ0bTRjSXpHX3pQejhiUVhjVWVpd2l6NFdlamxYT2FBNkhHNllyTGRqd29sOFJXQnJHNGMyNUg4d3M2YXI4d3pZUUFNYVMxelpZNVVPck5iYVByYnlRNWhEeFdjTWpjdEpoRUN4bGpLNA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "89fc5bb49a",
+   "t": "palantir",
+   "c": "",
+   "src": "Forbes",
+   "d": "2026-10-04",
+   "title": "How The Billionaires At Trump’s AI Lunch Are Spending On The Midterms",
+   "sum": "Forbes examined the political midterm spending of billionaires who attended an AI-focused lunch with Donald Trump.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcmttSlFGc2c2YkpRek5udHZBQU82TDJLTTRqaGlPOEpoQThsUGk5aDQ1TkpGNm1ZUkdZeE9VX2pHV0JOVHRFem5maWhjc21xZTlQOHpvbWpzQWxKMHltVmZRSjB1VldaR2N1YS1GYnA2WWd1Zk50TE5sNWR6aXY2TndjeWJxbFR2Ry00OVo3WHdlcnRlTllDeGc3UWt5ajB5RTU5c1dNQ0Y5UW92VlhMTm1FcXl5S0hhRTlnY2xzYTNZcUJ5Y1RjUWQ0bklOZy1JZVRERzI4TFFqZw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0358de5b10",
+   "t": "gemini",
+   "c": "",
+   "src": "the-decoder.com",
+   "d": "2026-10-04",
+   "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro - the-decoder.com",
+   "sum": "Google restructured Gemini tiers, downgrading free users to its weakest model and excluding five-dollar monthly subscribers from Gemini Pro.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR0YzZGhXd3hTVll6X0dlWXdhRmdFVjRmZGhDNi1kMWotdzE2d1B0UzdKdEplRElWYmpJUVE3ME1DMkFXVGh5RE9aVnVHM2Z0QUxBLU5rRkkydXlpaGtpa1JScHcxdkZsRC05VE5iWC1iQThwTkN5cmx2QTVNWVdrT1lCMXJha2ZEbW8yaUR5ZmdjMGFld3lPTDhzbzV3UkYtNnlidXdLeTlOZXdvYkJxalYtM0FXLUJIdFd5MmRDRjhzc0E?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "64ba572888",
+   "t": "gemini",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-10-04",
+   "title": "Google Gemini Free Tier Cut to 1 Model, Oct. 9 [2026] - tech-insider.org",
+   "sum": "Google is restricting its free Gemini tier to a single AI model beginning on October 9.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDcVJyQ1p5QmV6dEc2MG9aR3k3R2RSMDdPaXc0Q1N3Z1RyalRzQjdsOFJCY2ttT3VVMDc1ZXFlaTl6MzJSalJaUHZtdmF2c05Lc0xEYTh2Qjh6WEN3dTJFLVVtY0dRR05naHZDZGE4MjlwaHJSU3pV?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5d2c030b17",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-04",
+   "title": "Google Cuts Free Gemini From 3 Models to 1 Oct. 9 [2026]",
+   "sum": "Google is reducing the model selection for free Gemini users from three models down to one on October 9.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1obzZtdEk5M0JjclVsTUlFeU9ueGlGeEFwVmJ1OENGWHZQRlBiV3I5eUFtd3B4SEZsbGVWYy1LSDBYUlRselhDVjVYekZxcEc3YzFSdmRwYmNuV1lVbzEtNlRCcnl2dDhEQ1EwMFVrdw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ae2a95708c",
+   "t": "gemini",
+   "c": "",
+   "src": "StoryBoard 18",
+   "d": "2026-10-04",
+   "title": "Google Gemini model access changes on October 9: What free and paid users need to know",
+   "sum": "Google announced changes effective October 9 altering Gemini AI model availability for both free and paying users.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbFlQcWs5bDA1aHI2WFZjSTZrQS1zRkVpMkg0Rlg0WXo1LWNpbmVxdTdhRHZpUkZYdlZsZC04NEdoOTQwdk16X3VXT0laU05ucElEZi1oRkhyVk0zVjZNWVNoak9yUFd5bmZHa3poRlR6Q1A2ektrM0pUYkNaSUh3SWZrbGVtUjRvaFNzbmZIMHZ3a2o2TjhwSTdvQ2twYlNKQU5OZHo5RHBrQ2ZTMzdjSVBaZjZMVHN5QV9zTW5SdjBOcThHRjhZWFdyMkQzd9IB0wFBVV95cUxPVkNJT19fRmxucWhvLWpKd3Q0MjhDZjMtLW5IM0lnNkhNSmxZNDM0cUJuTzhVdFA5QldkU2hnYVVBR2dtcTVlREFZWEJBblBpVFM1Q3A5VlkzVUtUMjMyeUlGakdqekdvcmVELUdHU3B5REtBY2JzZEU2Z3ZBVHA4TjZuc3phZWFKUVhIU3E4RXRIRXVqeUxBcV9rMDFvRXpSbVhBRjJoa0xzbDVjaHdDM0s1cVJBNU8yZjhaeHFvcTBXMUd0TDZiVXI4ck1KOWxPSlg0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "824834491b",
+   "t": "gemini",
+   "c": "",
+   "src": "Gagadget.com",
+   "d": "2026-10-04",
+   "title": "Google Gemini's free tier drops to Flash-Lite on October 9",
+   "sum": "Google is downgrading its free Gemini tier to exclusively use the Flash-Lite model beginning October 9.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmdmWHB0LUtXYm1wbVIxbFJHTjFZWEEzcUlZMEluTWR4VFJUUms2WFRsZThscHFMNGhFVHQ3VHVCZkljZ2tMRC1HTWNWQlhiN1UyUldBdmtxRGg2U2dpX2QxaUdSV1RnLWdzeXN5UkRMa3BkQzlpUlhmTGJuVkpqOFI3Rk51RUxnT1hOTXZDWnFjcjDSAZgBQVVfeXFMTm5tXzdMY2paVklKaUcyajdEdGdkNnJsZ0tMMWFlMi15N0NWVEQ3YWlDWHlrNUdxVFNpQ2h2ODBtY1J6RG92M0xKQUVfRFc0N3hvcjNJR0ZBTTZBZmEwc1p3ajRldmpQaDlaYWxELTVHUVd0NlM4d1hDdjJTUEMybUFRMm93LUhZTHJCZ29ydTR3UF9oVlBIM2M?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ca615030e2",
+   "t": "gemini",
+   "c": "",
+   "src": "Martin Cid Magazine",
+   "d": "2026-10-04",
+   "title": "Google moves every free Gemini user to its smallest model on October 9",
+   "sum": "Google will move all free Gemini users to its smallest model starting October 9.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVRqRGRLajdkeHEwenlTck5PT193cjZYNUtrY1V3U0VfWndtTVpzb2hpbGFUc1ZjcGhWUG9nY292ajVPQnVway01NjJ6ZXZ3cFhnZUs0cDRsT3dwY0xpU0VDX1h5NmJxY1UxMjh1OHNiYnFaZGp4X3lJN0tzNDlBRWRlRUNSS216c3R4OA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8984c46b17",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-04",
+   "title": "Sujee Maniyam: Open Models Are Smart Enough — The Serving Stack Is Where Inference Gets Cheap",
+   "sum": "Nebius's Sujee Maniyam argues that open models are sufficiently capable and that inference cost reductions depend on the serving stack.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Cb2dvdkVmWXB3UzFweXYtUFZxc05PZDQtS1BKZnIwUUlGczNEa0lZbXg5M2RtZE13MGZCa3hFZEY0elluTlY2RVVQZUpOTWNYUjkwSXdpYUpmam8?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7192b7ce69",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-04",
+   "title": "What Makes Open Models Fast in Production — Sujee Maniyam, Nebius｜AI Engineer",
+   "sum": "Sujee Maniyam of Nebius discussed infrastructure and serving stack strategies for accelerating open-source AI models in production environments.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFaDJ6b0F4VG9LazFDRGZ6Y1hFTlIweUVUZ1dWeVhSbFhnZHhWU3E5d3F5T19mUkUyUk5PTXRaNWl4WFVVd0U4Q3Z4cm9pV1ZFeDZiY0YwWXZjWVNYMGJF?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "f6431c066a",
    "t": "gemini",
@@ -10,6 +166,19 @@
    "title": "Google Limits Free Gemini App to Flash-Lite From Oct 9",
    "sum": "Google will restrict free Gemini application users to the Flash-Lite model starting October 9.",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUp2Qko0S2hOejlkUS15T2tDenRWNUdCeFYtVnRXd3FyS0psYlA2dG1rd0l4dTYwdEtWLVRJRHNEdFZ5MjV2UU43U01KT1Q1RjRqUVpvMzNqUnhYY1NoTWg5U2MycDZzV1E4b2pCdl9VTHJRd0N3QndVejd6SkRudEpQcVBSRUt4elE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3089a6eeb4",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-10-03",
+   "title": "Palantir Calls Q2 \"Otherworldly\" and Raises Guidance — Will Jackson Hole Derail the AI Sovereignty Momentum?",
+   "sum": "Palantir reported strong Q2 financial results, raised its forward guidance, and highlighted growing momentum around sovereign AI.",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRUtic2RJVE1XTVltRXBkMHU0dUF1WkhhNkNoMS15Y2xlWXhReDFsU0dSRTZ4cmp3N3BGazBKSzc5ZkJ0Uy1qZ1lULUF6RVdyWms5R05LRHR2TE1tNFNqc2lPd3h0dk1BNVV4UjB5WFRpXzlYSEdzeDRReDR2UWxkVTQwaEJCdWZobUhsMk5mblhteUV3dVZhMUNsaW9UNGlpNmxKRDRFSng0NnNkVmloS3g4NzVMbEt5ME9WM3l4SEJYRVk3WjFfLXZtT1ROODkxN2JvNTIwaGxnZ19LeWVHVEFQU0czNDBkZ3FjS2doOVY0cEs5S2Q2TTFSRW9NUQ?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -349,6 +518,19 @@
    "sum": "Meta is releasing its Muse code for free to encourage integration into consumer devices such as televisions and appliances.",
    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "08b492c62a",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-02",
+   "title": "3 Great AI Stocks To Own In October 2026",
+   "sum": "Yahoo Finance highlighted three AI-related stocks recommended for investment portfolios in October 2026.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWl9ITnhfWFNUdmhPRUFyTkw4QmIxa1JxOWswQVFGekRhVFhrNUVseUQ4THgyUV9WTUFGUXk2VFVPZ0liZlJYMzBjaE5rOEM4MmlMT2o5MDktUkJZZXlVS1dvZkxSRDRpS1pRTS1JbWJKMEFDNU9DLTRUTVlOTzhZdjlSTmd2NUhkTXNqaWlsOA?oc=5",
+   "wp": false,
    "mp": false,
    "ai": true
   },
@@ -1672,10 +1854,11 @@
    "src": "Engadget",
    "d": "2026-10-01",
    "title": "Google's First Gemini 4 Model Is 'Argon'",
-   "sum": "From Engadget.",
+   "sum": "Engadget reports that Google's upcoming first Gemini 4 artificial intelligence model is code-named \"Argon.\"",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NcE5kM21qUjFESnNhNnoxT0lYamI1RXZia0ZkdXVBZGIxUVRINU12cTRaLVUzUlJubk5TWktDWExYNEYzVE9ZeVVRZVBxc05hdlFjQVFEZjhOZW02a29IeEkwbGxWeFJmZVhGWDJB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "9fcd175cd6",
@@ -1749,10 +1932,11 @@
    "src": "HF Papers",
    "d": "2026-09-30",
    "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
-   "sum": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that…",
+   "sum": "Researchers introduced Where-OPD, an on-policy self-distillation framework using synthetic scenes to improve multimodal language model spatial reasoning.",
    "url": "https://huggingface.co/papers/2610.02117",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "32424a0e65",
@@ -1761,10 +1945,11 @@
    "src": "HF Papers",
    "d": "2026-09-30",
    "title": "Decoding Looped Transformers Better for (Almost) Free",
-   "sum": "Looped Transformers achieve parameter efficiency by repeatedly executing a shared block across recurrent loops. Each loop yields an intermediate representation decodable for the same next…",
+   "sum": "A new paper presents an efficient decoding method for looped transformers that improves performance across recurrent loops with negligible overhead.",
    "url": "https://huggingface.co/papers/2610.02185",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ca27ecbf3b",
@@ -1903,10 +2088,11 @@
    "src": "Tech Times",
    "d": "2026-09-30",
    "title": "GMKtec Evo-X5 Pro Ships with 192GB RAM: China Law Requires Data Cooperation",
-   "sum": "From Tech Times.",
+   "sum": "GMKtec is shipping the Evo-X5 Pro mini PC with 192GB RAM under Chinese data cooperation regulations.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnFnTzhrNUhtVUQtTXN6ZEYxR200OXFSNTRybkpjYTV5RkJGRVVpNVJ6blZubUZOdHFNSkUzNHBiNXd0ZlpxLVBWWmc1dHZNTXFsUHFSNURWb0RCMkpRLS14eGdTclcxaEtxYThFTWMwZ2FnWXMtQXo5dkxVMlNMenNYM1VreTZET2cxSEsxSXNpbVoxRDQtNHpnMjBiWU53bU9wTTUwQTEyYWpmMkRKTFJhWkpKeWdNRTc2bTNGOUF2Zw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9b726263dd",
@@ -1915,10 +2101,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "Scaling Laws for Looped Mixture of Experts",
-   "sum": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands…",
+   "sum": "Researchers established empirical scaling laws for looped Mixture-of-Experts architectures that combine recurrent computation depth with sparse expert parameters.",
    "url": "https://arxiv.org/abs/2609.40316v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "af4e0119c0",
@@ -1927,10 +2114,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "OpenTSLM TeeMoE: A Unified Time-Series Language Model for Forecasting, Contextual Prediction, and Reasoning",
-   "sum": "Real-world time-series applications increasingly require models that can handle time series forecasting, context-conditioned prediction, and language-based temporal reasoning. Yet current…",
+   "sum": "OpenTSLM TeeMoE is a unified time-series language model employing Mixture-of-Experts for forecasting, contextual prediction, and temporal reasoning.",
    "url": "https://arxiv.org/abs/2609.40265v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d5b8a5cad",
@@ -1939,10 +2127,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "Learning Functional Subspaces for Neural Network Compression",
-   "sum": "Modern transformers pair impressive capabilities with substantial memory and compute demands. Low-rank weight factorization reduces both while keeping the matrices dense, and thus…",
+   "sum": "A paper proposes learning functional subspaces for neural network compression via low-rank weight factorization while maintaining dense matrix structures.",
    "url": "https://arxiv.org/abs/2609.40127v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "414860c701",
@@ -1951,10 +2140,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "Efficient Expert-Parallel Communication on PCIe-Connected Consumer GPUs",
-   "sum": "Expert parallelism (EP) enables inference of large Mixture-of-Experts (MoE) models by placing their experts across multiple GPUs, but requires substantial communication between GPUs at…",
+   "sum": "Researchers developed an expert-parallel communication framework to efficiently run large Mixture-of-Experts models across PCIe-connected consumer GPUs.",
    "url": "https://arxiv.org/abs/2609.40093v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "39d41d9ce2",
@@ -1963,10 +2153,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "Beyond Accuracy: Prefix-Invariant Realizations of Low-Precision Fast Matrix Multiplication",
-   "sum": "Fast matrix multiplication saves multiplications through exact cancellation, but rounding sums that mix token rows can leave contributions from later tokens in earlier language model…",
+   "sum": "A paper introduces prefix-invariant fast matrix multiplication techniques to prevent later sequence tokens from influencing earlier outputs in language models.",
    "url": "https://arxiv.org/abs/2609.39816v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7ef119e207",
@@ -1975,10 +2166,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "RATIO: Reasoning Analysis and Token-level Inference Optimization for Quantized Reasoning Models",
-   "sum": "Post-training quantization (PTQ) has become a widely adopted technique for reducing the memory footprint and inference cost of large language models (LLMs). However, recent studies reveal…",
+   "sum": "Researchers proposed RATIO, an optimization framework analyzing reasoning tokens to improve post-training quantization in large language reasoning models.",
    "url": "https://arxiv.org/abs/2609.39801v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "47ea1e536c",
@@ -1987,10 +2179,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
-   "sum": "Precise grounding matters. It specifies which object is the target and where that object is, even in clutter and for tiny objects, and it has to be fast enough for closed-loop control. Yet…",
+   "sum": "GroundingPI is a foundation model providing fast, precise visual grounding of objects for closed-loop robotic control and physical intelligence.",
    "url": "https://arxiv.org/abs/2609.39601v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7dd5734ce7",
@@ -1999,10 +2192,11 @@
    "src": "arXiv",
    "d": "2026-09-30",
    "title": "Raw-Routed Mixture of Adapters: A Causal Intervention for Routing Collapse in Time Series Foundation Models",
-   "sum": "Time series foundation models (TSFMs) commonly adapt to new data by attaching a single trainable head to a frozen backbone, a one-size-fits-all setup that underfits heterogeneous regimes.…",
+   "sum": "Researchers developed Raw-Routed Mixture of Adapters to prevent routing collapse during adaptation of frozen time-series foundation models.",
    "url": "https://arxiv.org/abs/2609.39445v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "269daccde8",
@@ -2011,10 +2205,11 @@
    "src": "Anthropic",
    "d": "2026-09-30",
    "title": "Can we predict the jobs robots will do?",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic published an inquiry exploring whether methods can reliably predict which workplace tasks robots will eventually automate.",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JM0E2czMxTW96bFJFdTVVZXk4SzktdVYya2tuYy1WYmdKN29TeTZ2U3J5V2dqMVZFRUpxelgxemY0a2c2RTl4c2FCRFh1M3ZWOUtETVJNY0NQNEhLZVh0TTRqb2l0ZkQ1NFE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5139b93edc",
@@ -2023,10 +2218,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-30",
    "title": "ServiceNow vs. Palantir Technologies: Which Tech Stock Is a Better Buy in 2026?",
-   "sum": "From Yahoo Finance.",
+   "sum": "Yahoo Finance evaluated whether ServiceNow or Palantir Technologies represents a stronger enterprise software investment.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUhqS2ppTWlMRjJRMHh2ajkxX1lJN095RkN3V3hkMnFxdktEbmNsWnN5QmZ1akQ4cEZ6S1ZMM3ZqVnFpa2xMcmNENmdHZDZOaU1BQlRlbEo3TWV4Q19BMXJUblhRUG9yaV9fSl9LOGc5ZlJDd3R4b0Vxdm55Q0ZOUnU2b1FyNy03b0lUcTROVmJMYS1UOVA1aWlLbElPcm9IRzNIVlhlYWU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8e1b0fc725",
@@ -2035,10 +2231,11 @@
    "src": "Mashable",
    "d": "2026-09-30",
    "title": "What is Palantir? The secretive tech company behind Trump's data collection efforts",
-   "sum": "From Mashable.",
+   "sum": "Mashable profiled Palantir Technologies and reviewed its corporate history and involvement in government data collection initiatives.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmdmS1VYSW1BczVUT0FKYUZmVzdzUy1WdUo0NlUwNm9Oc2dRd1EzMTQ3VmZFRGJZd3dWRThNWEthQU5BYmV2UTBUTlBzQU11Mmdab2IyYmdPVVhHaUtkOUhNWTNYM3Ztdm1zVnZLVUpGWG1CY25pdGRhSTEtbUF3NFhR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "74c85f2e75",
@@ -2047,10 +2244,11 @@
    "src": "NEWS.am TECH",
    "d": "2026-09-30",
    "title": "Artem Oganov: 80% of AI’s consequences will be good, 20% will be evil",
-   "sum": "From NEWS.am TECH.",
+   "sum": "Crystallographer Artem Oganov offered his outlook that eighty percent of AI outcomes will be beneficial, while twenty percent will be harmful.",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XSnI2aU5UUlBTLTNyYmh0Z2FoSC1BaUo3WlFCcG1uY2twUnFBR1VqQmNIYWVtUDRldmFRSWk1azZyZFRGR0lKbA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "31579c488d",
