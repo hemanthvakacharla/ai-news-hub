@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-04T15:03:40Z",
+ "updated": "2026-10-04T22:06:28Z",
  "items": [
+  {
+   "id": "00aaae6618",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-04",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "sum": "Google paused its open-source bug bounty program after an influx of low-quality, AI-generated vulnerability submissions.",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "bbc50510cd",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-04",
+   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+   "sum": "TechCrunch's Equity podcast discussed the Trump administration's efforts to rebrand AI using safety pacts and superintelligence messaging.",
+   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8aaa4b7411",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-04",
+   "title": "Trump unveils his new Super Intelligence Force",
+   "sum": "Donald Trump unveiled a new Super Intelligence Force task force to address ongoing debates surrounding AI safety.",
+   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f2fc25795d",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Atlantic",
+   "d": "2026-10-04",
+   "title": "AI’s Real Gift to Science",
+   "sum": "An Atlantic essay discusses how artificial intelligence serves as a major asset to scientific research and discovery.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcW1HZDBHU1JFd1NqX1hLUlJ1ZFZOTDF4N1RSQ3F3OG9DemdIWEE3OUdxRlZhMURtQVQ3ODVBS0ZEY04yeHZTMk9SNkV5S0RzODFwS214QkIxY1pRSlFnWU5NcFA0LVBnNnNGYWlscFpsUkhuYXEwTEZFbU9GajFrb0poakw2MTBnaXI4aFVoakkxTk1OQlFLb1M5MWVFM3ZKNWg0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6dc397a6ea",
+   "t": "anthropic",
+   "c": "",
+   "src": "dw.com",
+   "d": "2026-10-04",
+   "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+   "sum": "An Anthropic report investigates allegations that Russia used artificial intelligence for disinformation campaigns in the Central African Republic.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazlNYnZxZmdrTTV4TGdjQUJtLXlzY0M3bm8xWFRwdGhYTDBKR2tQT1NEWlpoeEZJUGI4TTRJakpBc0liSDQtZTNEZmZUZV9kUHNYMmIzM0xsbU9FaERadjFtRDNxVGdOb2Z6M1pmNkZxcUppNzlyMFNpNFdOc0dMQUF0MHR2bTNqYXM2Rk84cVdTdGk5RHY0cXVvX0tObC0tZjdGTm9DNDhEdlFuek03X0pramxKM0YwSnRCUFBxZzVQTG9ucjJYR1NuV1hSUdIBzgFBVV95cUxOazlNYnZxZmdrTTV4TGdjQUJtLXlzY0M3bm8xWFRwdGhYTDBKR2tQT1NEWlpoeEZJUGI4TTRJakpBc0liSDQtZTNEZmZUZV9kUHNYMmIzM0xsbU9FaERadjFtRDNxVGdOb2Z6M1pmNkZxcUppNzlyMFNpNFdOc0dMQUF0MHR2bTNqYXM2Rk84cVdTdGk5RHY0cXVvX0tObC0tZjdGTm9DNDhEdlFuek03X0pramxKM0YwSnRCUFBxZzVQTG9ucjJYR1NuV1hSUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c558b9ac44",
+   "t": "anthropic",
+   "c": "",
+   "src": "조선일보",
+   "d": "2026-10-04",
+   "title": "Claude AI Account Black Market Thrives in China",
+   "sum": "A black market offering unauthorized Anthropic Claude AI accounts is reportedly expanding in China.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "42ff4cc7aa",
+   "t": "anthropic",
+   "c": "",
+   "src": "UA.NEWS",
+   "d": "2026-10-04",
+   "title": "Anthropic says Claude was used in pro-Russian campaigns in CAR — Deutsche Welle",
+   "sum": "Anthropic reported that its Claude AI model was utilized to run pro-Russian influence campaigns in the Central African Republic.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmJldUg3MkVyRlB6a0xfZTQzSjZVYi1VVlNacjU4c1FPMjJXbTQ4S29JTEFURTJ5X0h2Z3lfNEM4QnRUUTdXaEZnNW1SOEVwRDBXZVpKdHdhU0UtOVZ6eDJCQ3lHTTBIczltT05PUHhsR1l5RGxwa2xZSmozU09QaUV3T3ZOLTUzblRodUZGTERlcmVEdmpDQTR6cjFtRUNKSEFoaTNOWDhXQmhXaFdDUE0wZTBpTnA4Umc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a8108aa0a8",
+   "t": "palantir",
+   "c": "",
+   "src": "AD HOC NEWS",
+   "d": "2026-10-04",
+   "title": "Palantir stock gets a sovereign AI infrastructure deal",
+   "sum": "Palantir entered a sovereign AI infrastructure agreement, affecting its market positioning and stock.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalRZOEZyTkpxaUFPN1NBQXo1empZQUVqaC1wbTZIMkk2UE04dHJvYjYzdkU5VTdwOVNGaExjTWdWd19UM19rMGhJMDh1b1h3Xzg5TUxtNm14Q0wzdm1DN0tmS19NSnpBWlEzRUt6ekVCTVA4LWpxRGVTMlhiRFFobE51Q1BoYVNQNVZjZFhMa25jeFBGTndoNTNlT09yN2Rtd2RkdjZpMC1VZC1rUm9hTjZzc3pja2JH?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2dafb694b2",
+   "t": "gemini",
+   "c": "",
+   "src": "PPC Land",
+   "d": "2026-10-04",
+   "title": "Google cuts two of three Gemini models for free users from October 9",
+   "sum": "Google is eliminating two of its three Gemini AI models for free-tier users starting October 9.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlFZZmZwNVlScGZMVTRtTXhzRHdoeVUwcFR2WEpDQVJ3SjRjZjJDb3pWQ2xNMHlEUHJ4THMxUkFrcUtCV1djNU0wV05vZUFHdllSNzFpZTl6N2VOVE9kS3V1aU83M21VNkdPRTV3Rm5xQmM2ZmUyZUNURXhrMVhubjl1MlhzTkdjRk9IS2dtQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1d06832fcd",
+   "t": "gemini",
+   "c": "",
+   "src": "WSJ",
+   "d": "2026-10-04",
+   "title": "Google Rolls Out New AI Model Gradually Amid Safety Concerns | The Morning Download for Oct. 1",
+   "sum": "Google is gradually rolling out a new AI model to users to address potential safety concerns.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU1keF9rZ0tJY1VWOVdQNTJOLV9NbndpOGc0TENacTlSTWI2Vnh5empUTENqRlJDeTZjQk1VMFBNTFpqamhpdTgzYzI0c2JEc0d5WVRTLUR4RFpJX3F0dEtmWXJLdU1PMzdyOGluRFJPRzlaR1o3NWJjZ3JtQlMyeHIyMjcxeUpLa0pPbXBJZ0RndG40NklXS2VzeTJCdUxrWDVn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "debec19a9b",
+   "t": "gemini",
+   "c": "",
+   "src": "TechRadar",
+   "d": "2026-10-04",
+   "title": "Google is changing which models you can access on its Gemini AI plans — here's what you need to know",
+   "sum": "Google announced changes to the specific AI models accessible across its different Gemini subscription tiers.",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdUpwbkU0Wk9wVjU1Tm12eW4zdVhIS3NzaFZSYjJUcEdRckE5dzdLWDd3S0dSOWtVc2lJNzVhT1cxc1dybHJRT1J2SGRKV3hVcC1BY1c4dld0MWF6ZHFhSEpKM0UtR3ExMUFTc1hqek9TTl9YU1lCNEg3LS1PR3pjUlRIRHhnVmpISVczbTBaNURoM3VUT3NMTEVJQmRJNnpHbFRhcVZCR3N0ZzJwYmdWcG9Nc0dPaHdGSW5OWEFTZEhQemZySXRjbWFsZ2FoczNoUW5NS2Q5UUw3bzdEV1VmMFNaY1BUbFRMMTZfNVBSTTBNVE9fdXpUNWNiU3cwT3NvWlM0MExR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "8d36181547",
    "t": "anthropic",
@@ -2257,10 +2400,11 @@
    "src": "uniindia.com",
    "d": "2026-09-30",
    "title": "SeKondBrain's Kemory Launches with Indian Users' Data Held on Indian Soil",
-   "sum": "From uniindia.com.",
+   "sum": "SeKondBrain launched Kemory, an AI platform that stores Indian users' data locally within India.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXNSeWFpSGozTE5kdElobFMyb1NCRHMtaXpIeEZEUm1OdUItNFJEczhEaFJVc3BEVTBuaDJTbVNNZFJQVFMyblozWVA1OVRTLTJiSkJHcnhDM0F1dFZUUzhJOGFxVUhMVmV1RjBKNzdmaWlVWVlUZTM4N1czSEExUDR2c3lCYnk5TUlDRG55aG10c1RRNW8wMERqVHBiaWtNM3pFX0FmaThLMi1fbTFFaGVOSU5LRXdlRHpEZUxaWTZQdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ad9f0f2bbc",
@@ -2269,10 +2413,11 @@
    "src": "TechCrunch",
    "d": "2026-09-30",
    "title": "Tether AI is building the Stable Intelligence layer, a highly efficient platform designed to scale on edge devices, made for the people",
-   "sum": "From TechCrunch.",
+   "sum": "Tether AI is developing Stable Intelligence, an efficient AI platform designed to scale on edge devices.",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQVMyYXMteXBDa3FxR1NoMlE2U1VEVkdWZ3NyNEY1Rmw2ZENEUG5YZ29uaUNfQWx4NTR1SmltbVZXM2JEM3NvcVI0WGZ6YWFIeXpJRTZvdEpEb3hzNmNKRU0zZlVlUmdqVVZBbDlpZ3dhZ1FTM1Z1S2JjdThtWWJzUFZPQW90NTh5dDVwa0QxOHpORVZzeEt5aE8wc0w1cTU1bWhyNzVmQ08xN2tsUzdIX2FVVnRVM3lMRExEZWpibWtPem5US1MzN1JmaWhyblQ5N2hHbXF6c25MM1lhU3NYd0l0NV9jMXJ3akNmbDZlUGNqTV9yV3pjdmlwWU5zdkNf?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1237634e7f",
@@ -2853,10 +2998,11 @@
    "src": "South China Morning Post",
    "d": "2026-09-30",
    "title": "Anthropic raises alarm over Chinese GLM-5.3 model’s elite hacking ability",
-   "sum": "From South China Morning Post.",
+   "sum": "Anthropic issued a warning regarding the advanced cyber offensive and hacking capabilities of China's GLM-5.3 model.",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNYWHJZZHY5d01zSUdta0lSNlRpNnhWeDZjUHJVRGFWbkphaDBQamRnX1ZOblJhLTFBZklPdFFKTkl0UGtCTkx6RGF6NTg0dkJOTjQwNEg3MExxRm9ESE4tbTN0NDN3bFJWMXFZbVd0NDNVb2JFeHJjTWtpM3U2ZktMazVMNnF5LVdJRVBmVzludzl6Y2NoTFQwNkM4Rzg4RXQwcWdDMlRPMHNkazFCV3d4cnYtOU82Z0hralhYY3NSMHfSAcMBQVVfeXFMTzFhQlFMWEdlclNCWDZ5cGo1R2Q0b3lqS2dPMnVlQlFMcDVrN213YXZ5QnBac3B2TDBsSDd0V1hyc2dHSHpfV01XelZZZ0hvRkxKZm1WY0psMTUzTG52UnNnYTlzWFliZ1hqT1VUUWhiNWI5Ui1qVzlTcFJwY2czbW5iY3dfc01ZN2diaC0wNWMxNmZOOVJMMmhQYjdqSW1iV2NJX1Y3dHNaZmlpck5fdFE1SUJBOVdtLTZEQXRONGMtZFZj?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "b107e15f98",
@@ -2865,10 +3011,11 @@
    "src": "Seeking Alpha",
    "d": "2026-09-30",
    "title": "Palantir: A Completely Different AI Story (NASDAQ:PLTR)",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha published an analysis assessing Palantir's strategic differentiation in the enterprise AI market.",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS19VaFhfRzRHcUdydlRka0JnQVRHdXQ4eGdLTFVuUUFlTGRodUhZYTduVUhYMk9QTjM3N2VDWGtRUE5PSnVOVHhDMjcyTDlrNnBtTi1LdC1oUmd1MXBseFlOcDdzVHI0Sk02RjJ3UVNDaWlGSjM3NHhkX0l0ZU9LS2RLbDNNR1Zu?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d45cf7f25",
@@ -2877,10 +3024,11 @@
    "src": "Yahoo Finance",
    "d": "2026-09-30",
    "title": "Palantir (PLTR) Stock Looks Fully Valued Following Fresh AI Adoption News",
-   "sum": "From Yahoo Finance.",
+   "sum": "Financial commentary suggests Palantir stock appears fully valued after recent announcements regarding enterprise AI adoption.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRk50dEJHRFJTNDFwZmlmSm1KMDV4dWFzN3VBQkhJVHVsZkk5RlI3WUVsUW5vUXBqanJSWGR4RVBScU9zY0kzM1Q3azBObEt6Vkg2UFJTbXJPakRrUWFNRmgzZFB6Rl9fbHktNWI3N1pJLVZJaWRPXzBkb1hQZ1YwLUNlWVdPRnozbW1kRTh0TzJZN1oxeUwzcnFqSVg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7a708fb52c",
@@ -2889,10 +3037,11 @@
    "src": "Investing.com",
    "d": "2026-09-30",
    "title": "Palantir, Snowflake lead software sector as Goldman Sachs sees AI gains",
-   "sum": "From Investing.com.",
+   "sum": "Goldman Sachs highlighted Palantir and Snowflake as software sector leaders benefiting from AI-driven demand.",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTVF4UXI4dkF0TFdNN2ExdkhmbXdKTGNFbWVDRmVwcWZaZTNnUWJ4aWtPX2ZaVndKUDN1ellHbktNNnV1bU9yRl9lNnJZS0FxZ0UwWTJWZHJqMEZyNEdvaWJLVjZLanpzNU9nNmhjWnlFbWw0WEE3TE9kUDNDNmNyQndXdFZLU1dFOVM3SGVTQUhNcTQyZ3ZYN2VieGxlMHpUZTZBTTkyQ2NidE1HdVppNUl6RFpoSDZkNWVZVnJEVGlpcDI1ZTF5cmwtb2k?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3b9b75374d",
@@ -2901,10 +3050,11 @@
    "src": "The Motley Fool",
    "d": "2026-09-30",
    "title": "Billionaire Israel Englander Buys 2 Artificial Intelligence (AI) Stocks Up 405% and 575% in 2 Years",
-   "sum": "From The Motley Fool.",
+   "sum": "Billionaire investor Israel Englander acquired stakes in two fast-growing artificial intelligence companies.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWW5oVVh3S0V5clZFb3pBbnZIT0Ixdk1ib1pEbG1rZjk1REYwMzR6UXY0alpYRENySzFqZXVNd2N1NTNLLU91elV0akw3bHlxaV9MQllfYnhUTnd3ZHZPaDU4N1VKczBONnB6SnBSRnN6MGt1UERyUUIxV2lIR3NBdTRhOUkySXRfUTdz?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eb76df20fa",
@@ -2913,10 +3063,11 @@
    "src": "Fortune",
    "d": "2026-09-30",
    "title": "Palantir CEO Alex Karp quietly purchased 37,000 acres of forests in Sweden",
-   "sum": "From Fortune.",
+   "sum": "Palantir CEO Alex Karp purchased 37,000 acres of forest land in Sweden.",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHVoWDVRdk93dEVBZlZRZGpWYjFqRlNUNlJuVk9vMFh4VDNvcHBveUlkalFwT0NxclFCOXB4R1NtWExLT2lGZGFXMDNyUmE1Qk9GcmFEY3M3NVJqbDlSQ1Fzb2dvYkFHZ0RaYXlYcWZBVVVZeDhNY0Q0VFFCWEJMLUs4MmtKcTNONGRCQVY1Unc2UlFsWko5REFfNVY1eWp4WDUyRmJsWGViVGxPcDVXYkFrRnM4dlJIS1g3eE9uQ1Foak9CQjVkTkFRVkNEeDlhS2ljVEJiS2N3MFVZOVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c4374d7f80",
@@ -2925,10 +3076,11 @@
    "src": "tech-insider.org",
    "d": "2026-09-30",
    "title": "How to Use Gemini 3.8 Live: 12 Steps, 90 Min [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "A tech tutorial provides a twelve-step guide on using Gemini 3.8 Live.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZMlhPS2NVU3NDRHFrTExZVXFxSmZTNUI0RkpUcTJmQWp0d1V5U1I2MDJYR1Bxa0lhaWJobVJjZDFvRFppbnhMTk1VamJmZ0laQkZEc2lGc1dqSE1hemVDbXRJZVZIY2dCMjNMSmZKQUUzdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9928e8ba56",
@@ -2937,10 +3089,11 @@
    "src": "MIXED Reality News",
    "d": "2026-09-30",
    "title": "An executive order makes America.gov the single front door to federal services, on Gemini",
-   "sum": "From MIXED Reality News.",
+   "sum": "A reported executive order designates America.gov, powered by Google Gemini, as the primary portal for federal services.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTlkbkVXMm1RUFRtSmFFdHpsRGZnbGdRTVMyTHc4Wm9NQ0FyRnVFSDZaS1pRb3RwVW54bFprQl9fUnJib0VHaDE3ZW4wWHptYTVKcnBPeGYyazZuT2xsb19URTRfaEhjLUtNNjlnOXVpSE1kR1N1R0ZLOTF0alhVaF9DOEU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e5bb6360c7",
@@ -2949,10 +3102,11 @@
    "src": "gbhackers.com",
    "d": "2026-09-30",
    "title": "Android Malware Turns Gemini AI Into an Assistant for On-Device Attacks",
-   "sum": "From gbhackers.com.",
+   "sum": "Security researchers identified Android malware that leverages Google's Gemini AI to assist with on-device attacks.",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xQXZvajhIXzJYVkt1dVBkb01ULUxHeENFWGZzbmUzVjBVRFpGREZiTldkQTlveEU0SzNrNUtKeDltM3hScDBmUG55WTBUMkZzVXY3SkNPdU5adlh5WGfSAV5BVV95cUxPMUF2b2o4SF8yWFZLdXVQZG9NVC1MR3hDRVhmc25lM1YwVURaRkRGYk5XZEE5b3hFNEszazVLSng5bTN4UnAwZlBueVkwVDJGc1V2N0pDT3VOWnZYeVhn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5166de95db",
@@ -2961,10 +3115,11 @@
    "src": "VentureBeat",
    "d": "2026-09-30",
    "title": "Claude Opus 5.5 uses em-dashes 99% less often and sounds more human — but still exhibits 2,548 AI writing tells",
-   "sum": "From VentureBeat.",
+   "sum": "Testing indicates Claude Opus 5.5 significantly reduces em-dash usage while retaining thousands of identifiable AI writing patterns.",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNGpWZl9FaU93X1NjTFdHWHhmdmZlX3pLd3FDT2NxX0FZY2JKM1NZb1dZSUM5d1NsRUhUSjdOb3BFWGxNZmlBV2VpbTRXOHF3TWVMLWc0WmVxZnVKZkFDdGtzaDdnN0xGeGZGcl9yYTRoLXRtaUhBU1FranZGVUVVVS1jLWVrdVJ6NGhCMy1CRC1ndUlOenFwUFc0QjExdzVTOFBkT1FueFUyNlMwNVhWYTJ5eE51ZE5YNEZyM0JnVERqazNpbTFsMnhwd2VvU2RLV3FV?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b661f10de2",
@@ -2973,10 +3128,11 @@
    "src": "finance.biggo.com",
    "d": "2026-09-30",
    "title": "Senior AI Analyst Exposes the Next $10 Trillion Monopoly in AI｜TechSurge: Deep Tech VC Podcast",
-   "sum": "From finance.biggo.com.",
+   "sum": "A venture capital podcast episode examines potential future monopolies in the artificial intelligence industry.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USDYxX2M1NzVhYUlOSlp6dTYwWlJwd3BMVmxvTlVSX00wR1NxZUpjN3pzV1c3NFM5cERvdHZhcFVpRjdmOGFaUTZCVFRESDhlRkhibTFzTGpjemc1bnNj?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e59a1a7d50",
@@ -3011,10 +3167,11 @@
    "src": "HF Papers",
    "d": "2026-09-29",
    "title": "SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation",
-   "sum": "Recent video-based world models pair the scalability of autoregressive (AR) prediction with the visual quality of diffusion models. The choice of scene tokenizer is paramount for the…",
+   "sum": "Researchers introduced SemanTok, a semantic tokenization framework for efficient autoregressive video generation.",
    "url": "https://huggingface.co/papers/2610.00686",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4a79ff5dcc",
@@ -3023,10 +3180,11 @@
    "src": "HF Papers",
    "d": "2026-09-29",
    "title": "JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces",
-   "sum": "LLM agents generate intermediate reasoning and actions token by token, making extended interactions slow and computationally expensive. Jev-style models offer fast probabilistic…",
+   "sum": "JevSpawn proposes compositional action spaces to accelerate inference and reduce compute costs in LLM-based agents.",
    "url": "https://huggingface.co/papers/2610.00437",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0f3073e1f7",
@@ -3035,10 +3193,11 @@
    "src": "HF Papers",
    "d": "2026-09-29",
    "title": "Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans",
-   "sum": "Furnished floor plans support real-estate visualization, interior design, and architectural workflows, yet automatic furnishing remains challenged by limited real-world data and the need…",
+   "sum": "Researchers unveiled Architect-Ant, a system enabling automatic and editable furnishing of architectural floor plans.",
    "url": "https://huggingface.co/papers/2606.10953",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9f1238d22c",
@@ -3073,10 +3232,11 @@
    "src": "HF Papers",
    "d": "2026-09-29",
    "title": "Training LLM Judges from Language Feedback via Position-Selective Self-Distillation",
-   "sum": "We study training LLM judges from natural language feedback, especially for subjective tasks where the verdict depends strongly on which evaluation criteria the judge invokes and how it…",
+   "sum": "A paper details position-selective self-distillation to train LLM judges on subjective tasks using natural language feedback.",
    "url": "https://huggingface.co/papers/2609.38792",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b73cd98cbf",
@@ -3085,10 +3245,11 @@
    "src": "HF Papers",
    "d": "2026-09-29",
    "title": "DAGent: Evaluate-then-Grow Planning for Deep Research Agents",
-   "sum": "Deep research tasks require agents to navigate large knowledge spaces, synthesize evidence across many sources, and adapt their plans as findings emerge. Directed acyclic graph (DAG)-based…",
+   "sum": "DAGent introduces a directed acyclic graph planning framework for deep research agents to evaluate and expand plans dynamically.",
    "url": "https://huggingface.co/papers/2609.39154",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f0c71d8585",
@@ -3097,10 +3258,11 @@
    "src": "HF Papers",
    "d": "2026-09-29",
    "title": "Who Said What, and Will It Be Remembered? Evaluating Persistent Speaker Attribution Across Meetings",
-   "sum": "Speech transcripts used as long-term memory must preserve both words and stable speaker identities. Existing meeting-transcription metrics either ignore speakers or remap anonymous…",
+   "sum": "A study introduces an evaluation benchmark for measuring persistent speaker attribution in meeting transcription over time.",
    "url": "https://huggingface.co/papers/2609.39344",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4cb15de356",
