@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-04T22:06:28Z",
+ "updated": "2026-10-05T03:03:54Z",
  "items": [
+  {
+   "id": "08bb607308",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Times of India",
+   "d": "2026-10-05",
+   "title": "Anthropic brings in-country Claude inference to India",
+   "sum": "From The Times of India.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVk1bWVjVGVlU2RIZE5DOWRaTktPNkZnWkZ3ZWd4dU5rNXdMaVc4X3pWWml1MG5iZGdLUV9aMEpXY2ZFWXF4SldEODJXa1FmOFc0NlhmMFFLRWxoMDZkX21FdUJ1a0VTRUduM19aUUFEamhhRnM2SFN0ZmcxNkxfczNIaXN6d3JtcGdjM3JxS2FSZkthZGp2dU1KMjktNnpzVTlPcHZkZVZaNUN5c2Y3dHVEeWJ0eGVoY3RGTFI1X2lhNWtobzFHWjlOWndnbDhUd2FEenl30gHbAUFVX3lxTFB0eU1UZGNRREQxb1drN2lUQVlXSzBzLUwzSFFnRU9GSThMNEdsWVg5MzgtblJnajh1dFpPUHZQZnU4U0xNU3RodTJLXzFXM1pCSk1qS2tkVjhjZW5KVE5Ld0MzX3lTY01uOGNkNFNqS2V5QkhmcGRqckVDeFFwck5pU1FlTGF0Tnl4TFdhNUhaaDMtblJveVVHLUI0UjNSSjFlRjEtZjNVZ0N6MXhnWUJWXzdieW04RUFVNWhEZ1NSVGxuMFBwdS1hNUhMYTg5NktHNVAtOVlacXZOMA?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "343c14b93a",
+   "t": "gemini",
+   "c": "",
+   "src": "qazinform.com",
+   "d": "2026-10-05",
+   "title": "Google to restrict free access to Gemini AI models",
+   "sum": "From qazinform.com.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUxFQmZBUGlPOGZqV1p6WFVCdnpPZ0daSHFzRm1KZTM0Y25SSmwwaG5JNk1TM1d1LXdxamdVaU95ZzBVVjMwMVhpSnc5QmFhblZ0QXRuZUZjbkpsVW56T0ROYjlkalVHYlQ2RnpYVzI5R0NiQV9Nd1BxWnRoREJoZmFwaW9kSVo2M0tKeNIBjAFBVV95cUxQakxmYll3MUl1SU8wWmxDNU52akpSd2lWOGVLNUM1Y1hFN2NtNlk0MWx3cmJtTFlTOWdUckZtWGtENnhhcFYtRm5oT0pOcVFMV25JbWN2bDVjZXJKTWl0clpBQ1lJdGhITmRwSGRDc0dNaDRtZ293UUNsQWNQTVRocGcwc29hYkptWkJiVg?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "20a134ad4f",
+   "t": "gemini",
+   "c": "",
+   "src": "Yahoo Tech",
+   "d": "2026-10-05",
+   "title": "Google unveils Gemini 4 Argon, its new frontier model",
+   "sum": "From Yahoo Tech.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnE1bHRLNGJrOElYdW1ET0JnTHFzeVlLTmEtQVJ2NnMtbnZhSVdlXzBZdEFQNlp1SGJIcTA4WWNRMDFoM0Nna0RLS1BMR0tlcEVtblpKNkdZQU41ampacjNFLURkczVYRm1fLWlwRjRvTHdLRDhiV0gyQ3Z1ak1LbkJvd3U0R0FTMk55cnprVQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "18e76e2d85",
+   "t": "anthropic",
+   "c": "",
+   "src": "Futurism",
+   "d": "2026-10-04",
+   "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
+   "sum": "From Futurism.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Y3BtOVJxOWlqTGFfX0dCNmo1OFRHa1hNRDJrOGlCeDJsOXhrcm9FdWhpT0FrZk9zbmZHd3l0UUFsNW1qeEY5bVplRm1UenZsNkZ4R3dNSkFOdlMxR3gwRXBtLUhQeFdURURMWGNJT2lCY3dCbHVzMXRUdw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8556721404",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-10-04",
+   "title": "Palantir Stock Price Forecast: Can PLTR Break $200 and Return to All-Time Highs Amid Rapid AI Business Growth?",
+   "sum": "From TradingKey.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWWNsRzdtS21sYWM0S0N1VGRUdjM5U3NnUEVQMWNyRjYyR3dGbDlJTjlrWFl4QXgzMU4wVjZWY3M3elctZzJjNm1zdkNFeGhfQzZtZ2RYNE1WeXNHSHUxcDU0MDdhUzlWV3Nkc2FLM1dFdVFaU3NBa2VydmZyWnVibnZ4aWlfWHZlWk9IVU8yRmhyV3pYaGI4dVM1M3F0djVUVHNVY25ZR0JoQQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "00aaae6618",
    "t": "industry",
@@ -663,6 +723,102 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "6eaaa26669",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "16-bit Precision of Convolutional Neural Networks on Microcontroller Units for 8-bit Costs",
+   "sum": "To deploy deep neural networks on edge hardware, highly efficient inference schemes are necessary that retain high accuracy. This work presents W16A16, a high precision (16-bit), fast…",
+   "url": "https://arxiv.org/abs/2610.03402v1",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "62ead65191",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining",
+   "sum": "Large-scale pre-training has improved the generalization of neural operators across diverse PDEs. However, existing PDE foundation models still struggle with heterogeneous dynamics, where…",
+   "url": "https://arxiv.org/abs/2610.03265v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "de5dcf5c42",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "Page-EntroKV: Hardware-Aligned, Entropy-Weighted KV-Cache Eviction under Grouped-Query Attention",
+   "sum": "Serving long-context autoregressive language models is constrained by the key-value (KV) cache. Most dynamic eviction methods score token importance per query head and choose tokens…",
+   "url": "https://arxiv.org/abs/2610.03135v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "327e6dea69",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning",
+   "sum": "Long-form thinking traces can substantially improve the multi-step reasoning performance of large language models (LLMs), but they introduce high inference-time overhead, with latency…",
+   "url": "https://arxiv.org/abs/2610.03039v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "2032f4cc8d",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "Tailoring the Quantization Space for 1-Bit KV Cache Compression",
+   "sum": "The key-value (KV) cache becomes a major memory bottleneck in long-context LLM inference, placing substantial pressure on memory capacity and bandwidth. To mitigate this bottleneck, vector…",
+   "url": "https://arxiv.org/abs/2610.03027v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "e297ec9175",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "AvoKV-E: Payload-Aware KV Cache Eviction for Long Reasoning",
+   "sum": "Long-output reasoning shifts the KV-cache bottleneck from the fixed prompt to the generated trace. Existing reasoning-cache eviction methods largely treat cached entries as routing…",
+   "url": "https://arxiv.org/abs/2610.03007v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "25baac42db",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "SlimKV: Joint Token-Feature KV Cache Compression with Reconstruction-Free Beacon Attention",
+   "sum": "Long-context LLM serving is increasingly bottlenecked by KV-cache memory, especially in resource-constrained scenarios. Among existing KV-cache compression strategies, token-wise methods…",
+   "url": "https://arxiv.org/abs/2610.02953v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "aa0b62a7a8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-02",
+   "title": "Dynamic Expert Pruning for Multi-Agent Systems",
+   "sum": "Mixture-of-Experts (MoE) architectures scale language models efficiently by activating only a few experts per token, but the saving is confined to computation: every expert must stay…",
+   "url": "https://arxiv.org/abs/2610.02951v1",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "08b492c62a",
@@ -1380,6 +1536,30 @@
    "ai": true
   },
   {
+   "id": "c0f8d6e8d2",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-01",
+   "title": "MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning",
+   "sum": "Rubric-based reinforcement learning extends reward-driven optimization to open-ended tasks by assigning partial credit to individual response requirements. However, rubric judges can…",
+   "url": "https://huggingface.co/papers/2610.02824",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "81fad8a4aa",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-01",
+   "title": "Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It",
+   "sum": "As LLM agents decide on users' behalf which product to buy, which hotel to book, or which paper to cite, a preference for items from certain sources (the sites or services they come from)…",
+   "url": "https://huggingface.co/papers/2610.03195",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "0909d48bab",
    "t": "gemini",
    "c": "",
@@ -2041,6 +2221,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "07351d9813",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling",
+   "sum": "3D editing methods are usually tested on a single edit, yet an asset is built through a long sequence of revisions, each of which must implement the requested change while leaving…",
+   "url": "https://huggingface.co/papers/2610.02298",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "81699000d9",
@@ -3133,6 +3325,54 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "11bed0ce78",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers",
+   "sum": "AI-generated content, often called AI slop, is increasingly common everywhere, particularly in academia. Slop in AI-generated scientific papers, however, has more complex patterns that…",
+   "url": "https://huggingface.co/papers/2610.00531",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f4f8c3fdf8",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation",
+   "sum": "Long-horizon video generation requires models to effectively leverage an increasingly long generation history. As the generated history grows, retaining all previous content becomes…",
+   "url": "https://huggingface.co/papers/2609.38839",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "3a356f9ead",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems",
+   "sum": "As multi-agent systems enter high-stakes domains, the possibility that agents may circumvent safety boundaries is a growing concern. Prior work has examined this risk primarily in…",
+   "url": "https://huggingface.co/papers/2609.39050",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "67db198bad",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS",
+   "sum": "Zero-shot text-to-speech (TTS) can reproduce an unseen speaker from a short reference recording, but typically entangles speaker identity and accent within the same reference. We introduce…",
+   "url": "https://huggingface.co/papers/2609.32777",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "e59a1a7d50",
@@ -5704,6 +5944,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "ea6a833919",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs",
+   "sum": "Physical trajectories contain more than snapshots of a system: they also reveal how its states evolve under governing conditions. However, representation learning for parametric partial…",
+   "url": "https://huggingface.co/papers/2609.34715",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "ee86873a0a",
@@ -15880,18 +16132,6 @@
    "title": "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models",
    "sum": "Vision-Language-Action (VLA) models demonstrate strong generalization in robotic manipulation and navigation, but existing fine-tuning methods provide limited safety guarantees. Current…",
    "url": "https://huggingface.co/papers/2609.13231",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "d7d551bcf3",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-08-20",
-   "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
-   "sum": "Repository-level coding benchmarks have become the standard for evaluating coding agents, yet they inherently suffer from data leakage because they are built upon popular open-source…",
-   "url": "https://huggingface.co/papers/2609.27891",
    "wp": false,
    "mp": false
   }
