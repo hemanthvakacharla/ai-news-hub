@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-05T18:59:44Z",
+ "updated": "2026-10-06T00:33:18Z",
  "items": [
+  {
+   "id": "549ccc4aee",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-05",
+   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+   "sum": "OpenAI will begin watermarking ChatGPT and Codex text outputs in the European Union to comply with requirements under the EU AI Act.",
+   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "82cd9e3ab1",
+   "t": "models",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-05",
+   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+   "sum": "Reflection launched Beam, an open-weight AI model designed for enterprises and sovereign entities seeking lower compute costs.",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "93507b7477",
+   "t": "anthropic",
+   "c": "",
+   "src": "PYMNTS.com",
+   "d": "2026-10-05",
+   "title": "Microsoft and Meta Steer Staff From Anthropic Claude to In-House AI",
+   "sum": "Microsoft and Meta are reportedly directing internal staff away from Anthropic's Claude models toward their own proprietary AI tools.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRG5VX3ZDVEZPNVFaYzBXaEh4N2hDWmdLRF9vNkVPRXl4NUZCaXVQNmFyRGZlVkFEVXQ4TGdEVmczcFZndGRTc3F0ZVhaMDZZa2JEeDE4S1EtOTAxZzdqWlNHXzF1SngzOGFURDkwVnVLQ2ViVXlQdmp2VVo2Q0dnWkxvRl9oN216eEJSV3Vva0l1cUItb0p1TUcxcUd5a0hDX255ZVU5c2ZBNWtVamk2SkpZMGswOWhnYUE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a5d5379bc0",
+   "t": "anthropic",
+   "c": "",
+   "src": "bbc.com",
+   "d": "2026-10-05",
+   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "sum": "The U.S. Pentagon stopped using Anthropic's AI tools after placing the company on a blacklist, according to the BBC.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "79c1db80fe",
+   "t": "anthropic",
+   "c": "",
+   "src": "Big Technology | Alex Kantrowitz",
+   "d": "2026-10-05",
+   "title": "The Key Anthropic Numbers You Need To Know Ahead Of Its IPO",
+   "sum": "Alex Kantrowitz highlights key financial and operational metrics for Anthropic ahead of a potential initial public offering.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenpVQk9zb0s5dDVoUTJ0LVM2aXU0Mmt3Q0FDV3ZvM3FoRVhXc2N3eEdJOU5NenFUREEwNXVycy1yX2JYdUZRaXppbExncXU3cFowdWNub3M2N0NIbWpDa0RUWjdMX1l6ejBELWR5eV9rai16bGdTcGRVLXhCR3ZsRGVFejh1SHdIcEVpRjkyR2ZPY3cta2t0QmVaYWl2eDBwVEVVLW9oR0M3N3h6cEFqa1dhLWxsUEY4REx6dWoybWxLeElWR3lvZGY4aU5MTGs?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b3736915a1",
+   "t": "anthropic",
+   "c": "",
+   "src": "TradingView",
+   "d": "2026-10-05",
+   "title": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage",
+   "sum": "Meta and Microsoft are reportedly reducing their reliance on Anthropic to prioritize deployment of their internal AI models.",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b35ade62f2",
+   "t": "anthropic",
+   "c": "",
+   "src": "Lower Bucks Times",
+   "d": "2026-10-05",
+   "title": "Defense Department Ends Use of Anthropic’s Claude Months After Blacklisting",
+   "sum": "The Department of Defense has ended its operational use of Anthropic's Claude months after blacklisting the AI company.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQXVNdzFKQkJfXzZMU3hGYlNJSW5oSDZ0Mk9rb3JYckV0SENHUjdCdUdFbmVEeURjaTJCUmlRdW1vdDdJcWlsMjBieGo2WlJMVFJsT1VVU1kxanZ5YlFqMFNJTDVqMm9KeVNMaU0xbDRQNVVEZXNlQVNBVTVybXhWbUhGQ3RfS3VEeUg1aEdNLUpDYU1TdHlJUWlpdl9EZHQ4ZFBuTjRpTnNURHJnVGUzMzRCcXVyQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e6a6751bda",
+   "t": "gemini",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-10-05",
+   "title": "Google Gemini access is changing. Free users, take note.",
+   "sum": "Google is restructuring access to Gemini models, altering which tiers are available to unpaid users.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCWE5lMm02VXRBeGo4NjVOMFpzbHFJRGdCRDVnM1RRUkxvRU4wcjduY2pDWXUtaVVra3NLVFVzd2lPN3REMVZTN0FHRVdZOEM3Q1ljWTRNQy1BX1JMSGh4NjgzWXV3MlRoWlQtaFk1cWJRczV2Vmc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "78c239c0d0",
+   "t": "gemini",
+   "c": "",
+   "src": "Tech Build Africa",
+   "d": "2026-10-05",
+   "title": "Google Tightens Gemini Model Access As Free Users Lose Flash And Pro",
+   "sum": "Google is restricting free Gemini tier access by removing Flash and Pro models for non-paying users.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1POHF3WXRtUGJWYjlZT2ZMaldBUUZBOW9HZTh4Y0FjUll5OUFLckxIRTRDeVZqMGw5V3F3bl9UUkFSX3ppNk8zWC1DWVB3SjNudGozdUVpNjBqbnR3UVdwdkJfb1VQbmJYNVFlRGNHT1REbVdqa0FKZnVIZlQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "53467ecc1c",
+   "t": "gemini",
+   "c": "",
+   "src": "SammyGuru",
+   "d": "2026-10-05",
+   "title": "Google is Locking Gemini’s Powerful Models Behind Paid Plans",
+   "sum": "Google is moving its more capable Gemini AI models behind paid subscription plans.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4waGxXaXBMNzNoZUhTUFcyakxqMUQxVDh4LWYtZFljRURzOTJMMWFXMl9pUWlGSUhydGhnUzlKSHgyYUc5ZVVDeTB1TjI3cXRGTHE1MFRoQVp6a0VLeWU5UkwwazdJODJVcDVjaUpZR1pVMlJLT0UxWks3QQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c9d72dd4a6",
+   "t": "gemini",
+   "c": "",
+   "src": "NDTV Profit",
+   "d": "2026-10-05",
+   "title": "Gemini AI Paywall: Google Restricts Free Users To Flash-Lite Model From October 9",
+   "sum": "Google will restrict free Gemini users to the Flash-Lite model starting October 9, moving advanced models behind a paywall.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN21LWXJWR0JkTFpPXzl3OVlQMGlpdndhQTlxalZIczc4NWFtaVR1bDBCSk8wSVRUOVZSNlhGUFQyUG8tbGZ0RlpHWnlwNEJGZFV1NFFmQVNrTDN2SksxQnNzVWt3YUkwMng1QWVCZjJEdWk1eU9DdHAtSjFfMzd0cHNiMkJ1VVM5Rkk5azEzRm1ma1FKVl9NRmxQcmJjSXpmVEVpTmdFNlBvQW52b0tvX2VOWXFQNnpXZC10RW1vazJ3dVF0WXfSAc4BQVVfeXFMUEZtZUNQR2N1VzV3R2k3V2NvaC1vSTJwd0ZXVXk0cHdCeXcyN2FkVE53VUFXZnduNG13M2Y1VGhHRVB4QjNfZ0NRcG0taTIyWUI2RkhJU2tITHU5dW5tcXhVSno5TDRTYnRjVUF5OGdNVGVuNi1HaW96emQ4TnhJeHp0ZHVPX1FZbzBNdEJxVkNUa0xBQVRfMG81eDdfVkhTVVEyV3JzVkRMWFVhbnF0VEl4b2N0SlM3b2owNWd3TjZHNmU0dXl1TlNpeWJVbmc?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1fda60d263",
+   "t": "models",
+   "c": "",
+   "src": "dailybeirut.com",
+   "d": "2026-10-05",
+   "title": "AI Pain Axis: Internal Vectors Alter LLM Behavior",
+   "sum": "Research outlines an AI pain axis demonstrating how internal vector steering can alter large language model behavior.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUc3eElPY2FQaWVya3o5UXVaTnJxWnAzSlNuYTY5ZVVPWlI1dS1qeFdtcjNvaEEtU19DakliRmNKaWFQTV9lbFNfVnh0emZUeXhCTVZ5Y2NxMV81WjEwSmtMdkhfaW9tWGJ6Wmh5UWdoV0tJUEhybkhNVmYycXdTQkVJeW04Nk1QcjBQeGtkcUpNVEUxa2xJczE2ZTd2YjJKRVVpbURQVTIxSW1KM1ZuYU9OTW9jWFhDV3QwaG5Lcnh4dGJk?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "ddc310eb36",
    "t": "impl",
@@ -281,10 +437,11 @@
    "src": "The Motley Fool",
    "d": "2026-10-05",
    "title": "Palantir's 93% Revenue Growth Is Colliding With Michael Burry's Bear Case -- Here's Who Has the Stronger Argument",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool evaluates Palantir's revenue growth against investor Michael Burry's bearish thesis on the company.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXc0TzNkMXB0cHhpVlFQUElVOU5RRkJFNjkxdFRKVlplR25sVDZIU2lKM2FxVGoyWjlxQWVsNUp1Mml3N0xYODB3M2ppd3htcVpvLTJRVTRQengzZmQtS2Vsc1pkQWZiRm9rcGVCY2I5NV96cTV5cnBzTkdIbEE2X3FIY3dsM0YwWjVmMGNB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "11b4d549a7",
@@ -293,10 +450,11 @@
    "src": "Intelligent CIO",
    "d": "2026-10-05",
    "title": "Palantir and Armada target sovereign AI with modular data centre push",
-   "sum": "From Intelligent CIO.",
+   "sum": "Palantir partnered with Armada to deploy modular data centers aimed at supporting sovereign AI infrastructure.",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXlIV0NpTjE5NjdaMkZYX29hRzJuZzJYU1NlYzE3X2xIZTF2TjFxMHZYenA5ZzE5QnQ3NnFSZW4zbUI1VnR2ZmVSenZJNnFrMzFuZDA3bE1xUUx0OFp6R1hleEF6S0loZkZ5TDNleHcwZ2V4bWw3aUQtenFfZGRVS3hYc294SjB6cW5xOTg0bWV2dFJablg3V1ZtbEI0NmJlQTV4REsyblhHdzJTeGhtb29MZnl4TFNRT3pYaHFVNV9rd3Fw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "680ef1ec23",
@@ -305,10 +463,11 @@
    "src": "International Business Times",
    "d": "2026-10-05",
    "title": "Palantir CEO Says Businesses Are ‘Unhappy’ With Frontier AI Labs",
-   "sum": "From International Business Times.",
+   "sum": "Palantir's chief executive stated that enterprise customers are dissatisfied with commercial offerings from frontier AI laboratories.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV2hHSVZSMUZFSEtKUUROTGpzV2lGTVp2R09WeFZVZlVuZ1VZMVdtTk4yZ2VmTzhsaDkyZzd6ODE1TmE5SDA4d0VFbmVlQTdZeEd0OGxxV2J2MGZfSzhyaTRWc3NTM1VXeVBFQWQ1aUhUREFjZC16bmJIWFVMR2FDQWs5ZzY4NTdGeVRsZmFXVnFuSXc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5b47ea204f",
@@ -317,10 +476,11 @@
    "src": "Simply Wall Street",
    "d": "2026-10-05",
    "title": "Palantir Technologies (PLTR) Teams With Armada On Sovereign AI, Is The Stock Fully Priced?",
-   "sum": "From Simply Wall Street.",
+   "sum": "Simply Wall Street assesses Palantir's market valuation following its sovereign AI modular data center partnership with Armada.",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVHUyazJMN3JnX2RablFmNWZHMmI5cnNJYXhmQjdLeE9TVjdmVHZ3NUowWjJ0T25pNlFETW1LaEFJMV9talZuNEVSMWx3Z3VDbUtPc1Fxbmp0VVB1SDZZeGZrT1RXbzhTa0dpeWNVbF82QVVRUGN5SzV4NWhwTkJ3ZlNnSUY0MUc4T05RZ0tqamVucGV0LWFmaDdYWncwNTNjV095UlE4MXRIbk9QSDFwdGlxZ1Z2NHhYb3RxWk1Mek5FQ0hUMm12X0ZwNkVrd09UX3k4dFlXM05Zczha0gHcAUFVX3lxTE5UdTJrMkw3cmdfZFpuUWY1ZkcyYjlyc0lheGZCN0t4T1NWN2ZUdnc1SjBaMnRPbmk2UURNbUtoQUkxX21qVm40RVIxbHdndUNtS09zUXFuanRVUHVINll4ZmtPVFdvOFNrR2l5Y1VsXzZBVVFQY3lLNXg1aHBOQndmU2dJRjQxRzhPTlFnS2pqZW5wZXQtYWZoN1hadzA1M2NXT3lSUTgxdEhuT1BIMXB0aXFnVnY0eFhvdHFaTUx6TkVDSFQybXZfRnA2RWt3T1RfeTh0WVczTllzOFo?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f73461a764",
@@ -329,10 +489,11 @@
    "src": "thenewhumanitarian.org",
    "d": "2026-10-05",
    "title": "Inklings | German government questioned on WFP and Palantir",
-   "sum": "From thenewhumanitarian.org.",
+   "sum": "The German government faced inquiries regarding data-sharing agreements between the World Food Programme and Palantir.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODdzRnZBUjFHbUt5c3lkQVJIWl92X1VydzF1R2hqeGtyWmFhelpab29UTmJXTUdBWlh2Wi1ISTZVQ09URUE4cTRHak1HTV9vbFJwRDhnWUdpdHJwYlpFTUZmbUJTNXdUbDhBYlVYTEZFZ05nbE55c293RlBCZVhfbXhmdFFlWUN5dThuSFJMQ2F4M18yM0hELXVXNEtkVzdFLWFKVlkxWk1SUVNTWUFKbg?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f57c2bff11",
@@ -341,10 +502,11 @@
    "src": "Kalkine Media",
    "d": "2026-10-05",
    "title": "Why is Palantir (NASDAQ:PLTR) stock in focus as its sovereign AI deals widen?",
-   "sum": "From Kalkine Media.",
+   "sum": "Kalkine Media analyzes investor attention on Palantir's stock as the company expands deals in sovereign AI infrastructure.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWdkT2IzTzFNWEVtbjhfZGdIdUxsQTJ2elp5dTZJYnFKazZrMmFKYUhwd1Z5Y2FVYmFsWkRvNkh0MTdpWWpMUW5JVmhyVmFJZUhiWVY3M1RZYWNjWWFKV24zVEVwQ2M0dE1fdVRZcUU3Y0g4ZmhManZfc0ljUThQa29XSktwUDhUUWFOX1N3MlhTMFR6UEhMY00wVFZDMXFCdkZ6ZVJfQVBwNmRrVlh6NlFza2drUQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1e1866dfc7",
@@ -353,10 +515,11 @@
    "src": "Mashable",
    "d": "2026-10-05",
    "title": "Where is Gemini 3.5 Pro? The case of the missing AI model.",
-   "sum": "From Mashable.",
+   "sum": "Mashable examines speculation surrounding the unannounced status and release timeline of Google's Gemini 3.5 Pro model.",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2aTNiejdCUW45NDE1Vmp5OWt2VHptYnA5dnlYUHdRczh4Y0lPLVBwV0tyeFhjOXlkN2FqTWFESzFnVVQ1aGVnRWFycDZDSy0xeVFRUURWRmtwZ3JqX0NDc09ZVHd0d1dxTmx6Zm1B?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f5339e6a06",
@@ -365,10 +528,11 @@
    "src": "Thurrott.com",
    "d": "2026-10-05",
    "title": "Google Gemini Will Soon Limit Model Access for Free and Plus Users",
-   "sum": "From Thurrott.com.",
+   "sum": "Google plans to limit Gemini model access for both free and Plus subscribers in an upcoming service update.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUWFNbkV2eFlwZHdiaEZGWUpyNjViMmpwYlJKTTB5RVA1RzMxMEpIYU9obHNsTVVEcmpuUUtuRTJ2QzdjSnBWQlI5TGhhYVVXcGxOOGduQ01jQUdNMjF2UGJWejZ4SXdZTzV5cFhiN0drTTNFMEVrakVPQ2JwbXlrdnU4TTRwdC1SR3ZqU1FKM0EydV8xSlVqTndfYWFFQlMwRHF0eA?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "81e3a166ac",
@@ -377,10 +541,11 @@
    "src": "MakeUseOf",
    "d": "2026-10-05",
    "title": "Google's new paywall will remove Gemini's advanced models from free accounts",
-   "sum": "From MakeUseOf.",
+   "sum": "Google will introduce a paywall removing advanced Gemini models from unpaid accounts.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JjdTdWZ050eUhSaDlEMVN4UVV2OW15czNwUXotRFE5RU1ndmVwel9PTWJJaGNuWVhUbUdPeGtPZWhVVUpTNFZSR21WSTFDOEFLNk5fYmFBVk5fRHBsSWpfUDFLQUNFRkxnNnFMYmdOOHFSTE1DTGhBRU1zYkxCTTdkZ3NweDdtWVA2UHBPQQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a1c0c42971",
@@ -389,10 +554,11 @@
    "src": "PCMag Australia",
    "d": "2026-10-05",
    "title": "Using Google Gemini for Free? You're Losing Some Models Later This Week",
-   "sum": "From PCMag Australia.",
+   "sum": "Free Google Gemini users will lose access to several advanced models later this week.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYm9QcVFvYWJnc051MTluT24xRVpsM1NHVlR6R0tGYnZIS0F0bkxPVktWSXg3MFNtbmwtVTJMcTllVG5VQ1VySVRNdmZQMnJnbnUtNl9IUl9oZHZVOEtZUVYwZ3BqdDRYUzRGeVpGbmVjbHNJZEw4NjI0Wlg3NjVZdF8ySU9rV2dlN3M0Ri1WeTdlV3ZCUnN0NHZXdzhkdHdYcnc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "91a12ff842",
@@ -401,10 +567,11 @@
    "src": "shattered.io",
    "d": "2026-10-05",
    "title": "Google Cuts Free Gemini to 1 Model Days After Argon [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Google reportedly reduced free Gemini access to a single model following recent internal platform updates.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52c2dBNDJ1blF4QkgtVkJtVDdwYVNsV0dITnNsblZmaktoYS12U1MtcVdPYVp6YU5nbXZoTHg1dFgtQWxSbGZrU0t2OEZjVGcwTlVNMHNVbkJESndYQ3paUzV4MGlzYlRjUmtBUVNVdV9Bbm9hVGc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "72f08ed741",
@@ -413,10 +580,11 @@
    "src": "Times Square Chronicles",
    "d": "2026-10-05",
    "title": "Google Is Narrowing Free Gemini Access on October 9. Here’s What It Means for Your Business",
-   "sum": "From Times Square Chronicles.",
+   "sum": "Google will narrow free Gemini access on October 9, restricting businesses using unpaid accounts to lighter models.",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zMDlqVDZLRl9VbHIzUnhQZnRnallnbjlsVDREUngzcXJTQi1abU1OQ2hCTm1OSUZna1FvbGxWNFhXaTc1SkY3X3VIQ3Q0a2gyUl9GS0ZNOA?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1512c689cc",
@@ -1996,6 +2164,45 @@
    "title": "Douzone Bizon to supply ONE AI PE for Seoul administrative support AI agent project",
    "sum": "Douzone Bizon will provide its ONE AI PE software for Seoul's administrative AI agent project.",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQW0tTUNSZUE2Mk1iWm9zUkxabk1FcjZzZGNhdVk2czZScDFuWkpHRmFqWnNVN0xLZDczUXRhZFJxRC1kc1lIYzRlaUxnMjBnOWdmR3NwcDVpN3REVUZKb2VPbmdUYkFQUF9mcWZuaGlnczl2cjFybVhzbHNCRjlqVDhiMzhRY2pmWU5hRlNfZTJISG1DS1VuczRZUlFMVmh4VXVWaW5CUHNtZGVHUlVsUzdjb0R1MlpLcUhsRVM5QmtkVFJtWDBxdmJjaw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "3c21d7970e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-01",
+   "title": "Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing",
+   "sum": "A study presents focused views for unstructured knowledge editing to improve how effectively updated atomic facts are recalled in large language models.",
+   "url": "https://huggingface.co/papers/2610.02772",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0309bfa7fe",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-01",
+   "title": "Self-Supervised Scaling of Terminal Environments for Scientific Domains",
+   "sum": "Researchers developed a self-supervised approach to scale executable terminal environments for training autonomous AI agents in specialized scientific domains.",
+   "url": "https://huggingface.co/papers/2610.02710",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "aa195d4cbc",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-01",
+   "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+   "sum": "EyeRobot 2.0 uses active gaze and a single stereo camera to achieve precise bimanual robotic manipulation without relying on wrist-mounted cameras.",
+   "url": "https://huggingface.co/papers/2610.03710",
    "wp": false,
    "mp": false,
    "ai": true
@@ -3826,6 +4033,19 @@
    "title": "Senior AI Analyst Exposes the Next $10 Trillion Monopoly in AI｜TechSurge: Deep Tech VC Podcast",
    "sum": "A venture capital podcast episode examines potential future monopolies in the artificial intelligence industry.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USDYxX2M1NzVhYUlOSlp6dTYwWlJwd3BMVmxvTlVSX00wR1NxZUpjN3pzV1c3NFM5cERvdHZhcFVpRjdmOGFaUTZCVFRESDhlRkhibTFzTGpjemc1bnNj?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f8f5abccb9",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts",
+   "sum": "Researchers introduced JEPA-TTT, which uses persistent test-time training on latent world models to preserve planning accuracy under shifting environment dynamics.",
+   "url": "https://huggingface.co/papers/2610.00722",
    "wp": true,
    "mp": false,
    "ai": true
@@ -6476,6 +6696,19 @@
    "ai": true
   },
   {
+   "id": "000abb3ca0",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning",
+   "sum": "WM-VLM investigates internal world models within vision-language models to evaluate their spatial and mental simulation capabilities during visual-textual reasoning.",
+   "url": "https://huggingface.co/papers/2609.34826",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "54297c1f9e",
    "t": "papers",
    "c": "",
@@ -7593,6 +7826,19 @@
    "sum": "Google committed to a Gemini 4 release timeline without providing technical specifications.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcGp1bFBZZEpCTlBTMXRud3pJQk9HWGFUVUhpcWN0NDNVX1QwbUxLZ2ktblR0MWk3bEp2dzktTzduRnlySWxZVVNqbC1hc1JEZndpTDA3WW5Yb1JycWlUQzV0bWh6V2lZdGZj?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1d3d6b0d71",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-25",
+   "title": "The Extender: A Log-Structured Transformer",
+   "sum": "The Extender introduces a log-structured Transformer architecture variant that alters layer communication to improve representational capacity.",
+   "url": "https://huggingface.co/papers/2609.32759",
+   "wp": true,
    "mp": false,
    "ai": true
   },
