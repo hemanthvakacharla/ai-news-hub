@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-06T22:53:29Z",
+ "updated": "2026-10-07T03:15:46Z",
  "items": [
+  {
+   "id": "a1ce0b81cb",
+   "t": "models",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-10-07",
+   "title": "Google releases Nano Banana 2.1 with lower prices and stronger benchmarks",
+   "sum": "Google has released Nano Banana 2.1, featuring lower pricing and improved benchmark performance.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzlhZHQwQlkwaDI4SFZ4VV9LY1FjZGR3ZzI4TGlkNXJXd0FvRmx4VFBTS0VMVEZUSmRDbHFEcnl1NUFmRVZacF9SckdSWGF3Vkc2S1E4TUlSb2JIZXZSYWNpbUxjX1h4RTY1R2R2T3JXcWNzWGRjVG5JR0U1elc4c3lFakRjTTNtdlQ4dkFha21HYzNvUUJ4QndvWjBDT2xYaGtseQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "589ba5bb89",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "A Systematic Study of Small Language Models on Abstract Reasoning Tasks",
+   "sum": "Researchers systematically evaluate whether small language models acquire transferable rules or merely fit distribution-specific regularities on abstract reasoning benchmarks.",
+   "url": "https://arxiv.org/abs/2610.08680v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ff7d40b93c",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "SSR: Sparse Segment Reduction for Ternary GEMM Acceleration",
+   "sum": "Sparse Segment Reduction accelerates ternary general matrix multiplication to reduce computational resource demands when deploying quantized models on constrained hardware.",
+   "url": "https://arxiv.org/abs/2610.08403v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8b0dcca8a0",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "DySCo: Dynamic Sharding for Collaborative Edge-Cloud LLM Inference with Depth-Synchronized Batching",
+   "sum": "DySCo introduces dynamic sharding with depth-synchronized batching to enable collaborative LLM inference across mobile edge devices and cloud infrastructure.",
+   "url": "https://arxiv.org/abs/2610.08268v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "71c0b5aa55",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "Beyond the Leaderboard: Multi-Dimensional Evaluation of Dense and Mixture-of-Experts Models for Automated Program Repair",
+   "sum": "This study evaluates dense and mixture-of-experts models for automated program repair across dimensions like maintainability and security beyond simple test pass rates.",
+   "url": "https://arxiv.org/abs/2610.08173v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c5bdf1d951",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "Align, Then Correct: Training-Free Two-Stage Low-Rank Compensation for Extremely Quantized Large Language Models",
+   "sum": "A training-free two-stage low-rank compensation method attaches closed-form rank adapters to recover accuracy lost during extreme LLM weight quantization.",
+   "url": "https://arxiv.org/abs/2610.08164v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f1cee4e19a",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "ApexQuant: Data-Free Elastic Quantization by Residual Re-Isotropization",
+   "sum": "ApexQuant is a calibration-free quantization method that recursively requantizes residual errors as an adaptive refinement layer over existing quantizers.",
+   "url": "https://arxiv.org/abs/2610.07904v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0deef3bfa7",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "ReFold: Training-Free Reversible Inter-Turn Context Folding for Long-Horizon Agents",
+   "sum": "ReFold introduces a training-free reversible context folding technique to mitigate context growth and cost across multi-turn interactions for long-horizon agents.",
+   "url": "https://arxiv.org/abs/2610.07863v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9d5579f317",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-06",
+   "title": "Tram-FL: Reducing Communication and Computation Costs through Sequential Model Circulation in Decentralized Federated Learning",
+   "sum": "Tram-FL reduces computation and communication overhead in decentralized federated learning through sequential model circulation among participating clients.",
+   "url": "https://arxiv.org/abs/2610.07859v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "926e6b99d2",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-06",
+   "title": "The Overlooked AI Stock Poised to Outperform Nvidia and Palantir",
+   "sum": "The Motley Fool highlights an overlooked artificial intelligence stock claimed to potentially outperform Nvidia and Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVBweG4tTTFuRUYtYk9mOGFNVHktaTdqamNrUzAxc2FLdmJoYzZPcmExZW9YRy04TkpZZ2FTa01wMzV2SGJHcG5oQkdXd0UzUTlVN2l3US1vUGNvMWxwTmludkctOU5GN1l2STRrWHp3RFVSX2VhQWxsdURULUhyUjR6Z1d2LWZ1dmlKNGh3RFhWYWMyRWRLXw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "049bf6f521",
    "t": "impl",
@@ -294,10 +424,11 @@
    "src": "Tech My Money",
    "d": "2026-10-06",
    "title": "Gemini Free Model Access Drops to Flash-Lite on October 9, and AI Plus Loses Pro",
-   "sum": "From Tech My Money.",
+   "sum": "Google's free Gemini tier access will shift to Flash-Lite on October 9, while the AI Plus subscription loses Pro access.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0dqblQwUnZBLVUyTlM5S3JwLUFsZ3hXZjVfUlVpSDh0M1Rxb1EwTnJUaGlDem90VXN3RUdXTURacEpCcHdWOFBjYnpFelhmOWM0V2pXckhrUWs4YjlJTVdWNlJ3eEVnZkFReUdUUEFSdUR2WkZrZmczcHp3Q3N3ZjRoMy1HYXlqT0tqQ2k3a3RQbFZWUHUyX2dsVlFsc09fM28yQVFMOWxzTmk1V0IxcjI4WDhJd9IBtgFBVV95cUxOT0dqblQwUnZBLVUyTlM5S3JwLUFsZ3hXZjVfUlVpSDh0M1Rxb1EwTnJUaGlDem90VXN3RUdXTURacEpCcHdWOFBjYnpFelhmOWM0V2pXckhrUWs4YjlJTVdWNlJ3eEVnZkFReUdUUEFSdUR2WkZrZmczcHp3Q3N3ZjRoMy1HYXlqT0tqQ2k3a3RQbFZWUHUyX2dsVlFsc09fM28yQVFMOWxzTmk1V0IxcjI4WDhJdw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ce4bf7b148",
@@ -306,10 +437,11 @@
    "src": "The Decoder",
    "d": "2026-10-06",
    "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
-   "sum": "From The Decoder.",
+   "sum": "Google released Nano Banana 2.1, an updated image generation model offering improved output quality at a lower cost.",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3oxTUR5MnQ3TVJ3eXhlRk5DTFBVMGtrT2ZoTlgyeUVRRXNRa1RiSUNlRnB5dUJ1RlpXb3JQcFhCeUVmUGZVZUs1TURCSUJONnJfM2psQnJKWHduc24xdlptSlRmVlZyUDBvb2g1V3JhUkxDa3l2MzlHd2JQb196ZjA5M3N4YnVyNXQtS2hnaEhudV9RQUduRHRJcGp2TGMyem5rLUpn?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7cc34f3671",
@@ -318,10 +450,11 @@
    "src": "SiliconANGLE",
    "d": "2026-10-06",
    "title": "Mistral launches open-source Mistral Large 4, details AI roadmap",
-   "sum": "From SiliconANGLE.",
+   "sum": "Mistral AI launched its open-source Mistral Large 4 model and outlined its upcoming AI product roadmap.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ05jajV1RG5hV0FEdHBNX1VUMXNESWg1UE1IMmFfQVd1a0RCeDhxbERFb0RYR0dFMEY3STVkcVVjenNiQWVNcWFSbWJxZzVaa1hUNEtKazlTTFRIRFNfbVg5R0hZWmhSVG8wV3NDRGpwR2xXUU5yWlhmVUYxNk53NlFGM2dMWXYtRUlST2FfSXFGOFZxUHV1SDNlU1BBX0xwbHc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5a116a84bd",
@@ -330,10 +463,11 @@
    "src": "The Globe and Mail",
    "d": "2026-10-06",
    "title": "France’s Mistral says its Le Chonk AI model outperforms some Chinese rivals",
-   "sum": "From The Globe and Mail.",
+   "sum": "Mistral claimed its Le Chonk artificial intelligence model outperforms several competing models developed in China.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0VEZ1VTTjMxcllFNHlEb1pZWHA0Z2sxY1lBenNBcUdieWNRX1lMS3gzdVE3cGtxTUhzRHRpNDA1RnVNcVp5RnBWdWs5NE56NDlpUzhUaUhYMExVT1NRYWRUWmtTRGpiY1pycjRzc1I1VGx4MWt0VjF3dkJfYXhNRVVkbzVrcm5lRDlNSHB3X2x2TzMzQXVTZjFUcUhob0Nk?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "998a0ac46b",
@@ -342,10 +476,11 @@
    "src": "ActuIA",
    "d": "2026-10-06",
    "title": "Aleph Alpha's Kolibri: what the Apache 2.0 license guarantees",
-   "sum": "From ActuIA.",
+   "sum": "ActuIA analyzes the licensing guarantees and open-source permissions provided by Aleph Alpha releasing its Kolibri model under Apache 2.0.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hwb25RRkRlU0dnaGlPc1NqSTNUS2ZSY2FRRm9vb2VUWmI5T1VQNmY3OGZ2M1BfaWRHczFKY3NjQmdHQ0VqX1h5TUV4a3g3TTN5TFQ3NHVhTTlCMFduT1pEcmx5ODhVNnVobDhGU2hjWjU0VGhDOVRnemZaSmx0a2ljLTJIOEhVVmEwRFVFNHJlVm12?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3417141909",
@@ -354,10 +489,11 @@
    "src": "TechCrunch",
    "d": "2026-10-06",
    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-   "sum": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+   "sum": "Anthropic announced an initiative providing startups with one free year of Claude Team alongside $1,000 in API credits.",
    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "f37dd1b56e",
@@ -366,10 +502,11 @@
    "src": "TechCrunch",
    "d": "2026-10-06",
    "title": "LibreOffice says ‘no AI’ is now a software feature",
-   "sum": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+   "sum": "LibreOffice declared that excluding AI features from its default configuration is an intentional software feature aimed at protecting user privacy.",
    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dfb231c34b",
@@ -378,10 +515,11 @@
    "src": "TechCrunch",
    "d": "2026-10-06",
    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-   "sum": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+   "sum": "Mistral AI launched Mistral Large 4, a trillion-parameter multimodal model designed to compete with leading proprietary and open-source models.",
    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "fcad74cef1",
@@ -390,10 +528,11 @@
    "src": "TechCrunch",
    "d": "2026-10-06",
    "title": "Pinterest’s AI now turns beauty Pins into action plans",
-   "sum": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+   "sum": "Pinterest introduced AI-powered Beauty Guides that translate saved beauty Pins into actionable salon plans with estimated costs and appointment times.",
    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6f089348aa",
@@ -402,10 +541,11 @@
    "src": "TechCrunch",
    "d": "2026-10-06",
    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-   "sum": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and…",
+   "sum": "TechCrunch revealed its breakout session agenda for the TechCrunch Disrupt 2026 conference in San Francisco.",
    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e81043418d",
@@ -414,10 +554,11 @@
    "src": "MIT News",
    "d": "2026-10-06",
    "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-   "sum": "The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
+   "sum": "MIT announced the MIT for America initiative to support nationwide STEM education across math, making, and constructive AI use.",
    "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "085f7195b6",
@@ -426,10 +567,11 @@
    "src": "Hugging Face",
    "d": "2026-10-06",
    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face highlighted Falcon-Emirati, a large language model adapted to capture Emirati dialect, culture, and linguistic nuances.",
    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8409fe50eb",
@@ -646,6 +788,58 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTduSzdXQk1rNlhZRmREUHF3VFFjNm4tOUptcnZhRHU1TmZxTVBQRUJRMGlkQjF3RlgtWktqQ3JxUjc1RWRkMGowdTNKMTM3a0huNjNpamQ5ZmxFeEFYaFZScHY5QTJTdWF2RGpWUHdBVnlFUzdYeEY5NnZYNFJXNDdSTlRCT2ZXN0dqWXJsRQ?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "d0a5c76985",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "Personal-Agent Mediated Recommendation with Cross-Platform User History",
+   "sum": "Researchers propose using personal LLM agents with cross-platform user history to enable user-governed personalization rather than platform-centric recommendation systems.",
+   "url": "https://huggingface.co/papers/2610.07588",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2559680877",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation",
+   "sum": "EmbodiedSmith scales training data and evaluation for robotic foundation models using a recursive self-improvement flywheel within simulation environments.",
+   "url": "https://huggingface.co/papers/2610.07969",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b85b4dab92",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+   "sum": "VeriFine scales verification capabilities to adapt judges alongside self-improving embodied reasoning policies as new failure patterns emerge.",
+   "url": "https://huggingface.co/papers/2610.08761",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d27b2d8a67",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "World Models' Last Exam in Physics",
+   "sum": "A paper evaluates video world models on physical consistency, assessing their reliability for prediction and planning in embodied AI systems.",
+   "url": "https://huggingface.co/papers/2610.08791",
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "795ae82dcc",
@@ -1425,6 +1619,32 @@
    "mp": false
   },
   {
+   "id": "989d321502",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-04",
+   "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models",
+   "sum": "HuatuoGPT-3 investigates domain adaptation of base large language models into domain experts using reinforcement learning alone instead of standard SFT plus RL pipelines.",
+   "url": "https://huggingface.co/papers/2610.05966",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "24fe38d973",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-04",
+   "title": "Judged Useless, Queried Anyway: Tool-Using Agents Rarely Turn Their Own Evidence Judgments into Stopping Decisions",
+   "sum": "A study shows tool-using agents rarely turn their own judgments about useless retrieval results into decisions to stop querying failing tools.",
+   "url": "https://huggingface.co/papers/2610.06191",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "a964a238e2",
    "t": "papers",
    "c": "",
@@ -2185,6 +2405,19 @@
    "sum": "Meta is releasing its Muse code for free to encourage integration into consumer devices such as televisions and appliances.",
    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "77f256f475",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-02",
+   "title": "DistScene: Object-to-Scene Distillation for 3D Scene Generation",
+   "sum": "DistScene introduces a framework for single-image compositional 3D scene generation by jointly modeling individual objects and the surrounding environment.",
+   "url": "https://huggingface.co/papers/2610.06960",
+   "wp": false,
    "mp": false,
    "ai": true
   },
@@ -3771,6 +4004,19 @@
    "title": "Upstage launches Solar Mini 4, splits Solar LLM lineup into Pro and Mini - CHOSUNBIZ",
    "sum": "Upstage released Solar Mini 4 and restructured its Solar large language model lineup into Pro and Mini editions.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Za2V4QnFfTUxBSGt4Zjd2MUVTbTgyT0dQdVVSaXJ0SDdjdi1QdTdGZGdEc0J5NUN3TFRqS0p6S3E3ZkVxOUtBZHdVLWlzOFlyZGxfRlRINTFNb1RpQ0dzdDFkS3E3WlRvVGk3S3U5eXV4Rmo0dlFidjl30gGOAUFVX3lxTE5PamRVQmlfYWZOczJoZGVCUEZoQzMtS1hJdGtwUG5nQnJXc0w5S2d6cmxZSC1SX2E0akFkQjdmazlyVHNOVzQ2UmxrRUY2NVBzb0hHb3h6MzNpc1BqUEtxQmd4ekZYMjZ5MGhJWFFqMWhiUFpFbkZZS2RWNlN0NlJ6bHp0M05iLVJ2YWhmTWc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e35f537c09",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution",
+   "sum": "GUI-HARVEST enables self-improving graphical user interface agents by evolving the executable harness that manages observations, actions, verification, and termination.",
+   "url": "https://huggingface.co/papers/2610.00948",
    "wp": false,
    "mp": false,
    "ai": true
