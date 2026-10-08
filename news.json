@@ -1,6 +1,306 @@
 {
- "updated": "2026-10-08T17:11:04Z",
+ "updated": "2026-10-08T23:41:50Z",
  "items": [
+  {
+   "id": "4f0829ed30",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+   "sum": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been…",
+   "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "c9efa01bf0",
+   "t": "papers",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "sum": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the…",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "7dcbf8a5af",
+   "t": "models",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+   "sum": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year,…",
+   "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "66a844307a",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "sum": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "8dce6b889a",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+   "sum": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+   "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "47672f48bb",
+   "t": "gemini",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "Google brings agentic AI to Gemini, starting with businesses",
+   "sum": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and…",
+   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "0542b0f0c0",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "Anthropic changes usage policy to ban model abuse and election interference",
+   "sum": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also…",
+   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "6e4822f670",
+   "t": "papers",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-08",
+   "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+   "sum": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+   "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "7a987f3593",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-10-08",
+   "title": "3 Questions: What is the best path forward for AI in academia?",
+   "sum": "MIT Statistics and Data Science Center Director Alexander (Sasha) Rakhlin shares important considerations for departments and institutions.",
+   "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "0f05fd4155",
+   "t": "industry",
+   "c": "",
+   "src": "Hugging Face",
+   "d": "2026-10-08",
+   "title": "The model that didn't exist, so you made it yourself",
+   "sum": "From Hugging Face.",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b426e5c0fc",
+   "t": "anthropic",
+   "c": "",
+   "src": "Reuters",
+   "d": "2026-10-08",
+   "title": "Anthropic launches dashboard, animation tools for Claude",
+   "sum": "From Reuters.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "93a3b1bc07",
+   "t": "anthropic",
+   "c": "",
+   "src": "Anthropic",
+   "d": "2026-10-08",
+   "title": "Using Claude Science to produce the first complete map of the sky in UV light",
+   "sum": "From Anthropic.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8f6aacaafa",
+   "t": "anthropic",
+   "c": "",
+   "src": "Quartz",
+   "d": "2026-10-08",
+   "title": "Anthropic bans abusive behavior toward Claude in usage policy update",
+   "sum": "From Quartz.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaW45ZnBBbUZqb0p4bmwwci1JREhnYVotVUdEUGp3OXV0blg0bTV5cV9tc0tiVUlsRWJVV2pNbXBTbnZzUFMwSmtwZlpmcXNuallHYTNOX0J0RUprQjhiN1ZkUE9kd3V0RVpmMTBxQVBNZlZuTy04QVJpSFR1V0RsVnFodmJWUEVV?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "a02afbd82e",
+   "t": "anthropic",
+   "c": "",
+   "src": "Forbes",
+   "d": "2026-10-08",
+   "title": "Anthropic Bans Being Excessively Mean To Claude",
+   "sum": "From Forbes.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFdUOVUxZWlsaklRN003RVp3LVYxYWZ6d1JiTl93UnBKcXdhTHQxSV92TElyOWpoSGZvUjdmdXlqWkFsbk1jYWJBb1U1M1FiYl94QTJWOFVubWtFeERadEJMb1RlZVE0NHZSOFd3cGV6X2NqeEcwVWdiZ2NWRWVOLUVBQkJQdmFCLXJVMUhtdEx3NUwzUWpfblN1WC1uWGI4aU9YQ3lOb0xBMGxHZ0RDcw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c8041d085a",
+   "t": "anthropic",
+   "c": "",
+   "src": "Yahoo Tech",
+   "d": "2026-10-08",
+   "title": "Anthropic bans 'cruel' behavior against its Claude AI",
+   "sum": "From Yahoo Tech.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1JjMm54UEJ0WHJLajdwUTdZRWQxV0xhQzV2T3hGdVZqTkRUMXFxZW40YWoyaXl1QUlWSkg2VENkZnR4SVAtVkdHazh5Z3dId0pEZXRBSEt5cWZVem9MQ3RUSWRjZEV5VzNaeXBhWEhvNzB6akdteTAzTGdQeTNhM3NEMF9mODFTN09keUxlY0VnblBsYWx4dUhn?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f40bb8be02",
+   "t": "palantir",
+   "c": "",
+   "src": "Fast Company",
+   "d": "2026-10-08",
+   "title": "Nvidia and Palantir plant a flag for sovereign AI inside 'the world's most complex supply chain'",
+   "sum": "From Fast Company.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZER3ZzhjRXExd2N6dXo5RUFXUFJmbzJxWnF4VmN3WlZ0RmhxZ29oNlZnZUxwc242Q2FxdFo0eGVpYXIyNlhpYUpVd0YxQXhOOV9iQUM5ZVBFREdRVUg2QTItZFhNdEFtQ25aYk1VVFF0LTRZd1FSd3RSamJ2Q2x1VDV6cEJPUQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "77fabdcde1",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance UK",
+   "d": "2026-10-08",
+   "title": "Palantir Technologies Inc. (PLTR) stock price, news, quote and history",
+   "sum": "From Yahoo Finance UK.",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UWkxaMWZPaXl4Nkh1OTlEeHBGeUlUT29BZUZxTnAxYnZiZUZZdDNIdlBOVks0N3pweG1yamxJQ3d3RFpELTJXcUhhQkp6dUd0bmc?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "dd1bf10103",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-08",
+   "title": "Palantir Looks Like a Consulting Company. Its Numbers Tell a Different Story.",
+   "sum": "From The Motley Fool.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2RDYkNPaDN6OFdqdjZOSEN6UmMydHZudE5pWTJpTUxEMlpxRDdxWFVWbnc5dWtPdlRZeGxheVNFVUtBdnIwTmE1alRBeng5ZlhUN05UbjJMbXhfWGVKQnF4dnBTM0tOYjRxZllzZG1BSGlveFM4LUY2cUZaX0E1MVBRSjZsTTZUa1BBYW41NU5JM1k5d3hvaA?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "7e5ab9d8c2",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingView",
+   "d": "2026-10-08",
+   "title": "Palantir Stocks Jump Nearly 3.8% as Goldman Upgrades Its AI Moat",
+   "sum": "From TradingView.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2xuVU15OG1hdFQ5MEVUTkVCUDBXTWFyMFBycWg0S01pUEZ6LU5sM1lTOUR1cDRKOENORTJhTkhjVThIX2pKQ3BLMmt3cl9HeWc2dU9CQng1V2h5TmdEQ2dQQXpMUzlfYmVvc0hzYzdnTVVhSHQ4b005X1RvOU1PbnFtbmlydl9zZVRLa2puRmhtUHJRYTdGeGZGLTFhdF82VTlKLUdIU0Q5REFqelJQUUV1WE9zbnJ0YU9CNV9LRlg?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c912465d97",
+   "t": "gemini",
+   "c": "",
+   "src": "CIO Dive",
+   "d": "2026-10-08",
+   "title": "Google unifies fragmented AI agents into a single hub",
+   "sum": "From CIO Dive.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalotV09WXzNWaXEzOVlzTzV4SlJqQTdWQno2UEFrS0FXbnFIaUwwQnNFSzg2QkRCYlFWVTlYSG9KdERLY2NTYUlDd0VoczBfaVZ4TmZUOWw3VFZfNnZfM0E4TkE2UHlWdng2ZDhyRzB2OEVrYzZGcHplTUVIWkYxczI2UmIzTlhZ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "00dc96fe90",
+   "t": "gemini",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-08",
+   "title": "Google's Gemini 4 Argon: A side-by-side comparison to other frontier AI models",
+   "sum": "From Yahoo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WlRtYW85eFQydXk0c3FSeDdyNjFjcnRObUVmWElIOUtVdEFEMU9DT1ZUcTRhNEd1aDBfMS1hbkJ6YS1YRERhci1XaDhERkFCVElyMkZPYzdpV0FCdkVfQllQMkJpVmdYVm9jMDRvNWJlbkV1NnlBQ0ZZOVVTSUU?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "0febc7f944",
+   "t": "models",
+   "c": "",
+   "src": "Cognition",
+   "d": "2026-10-08",
+   "title": "Introducing SWE-2: Pushing the Pareto Frontier",
+   "sum": "From Cognition.",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwTnlyakE4ZHJtTFdkN1dhUUh1UnhsRFpuamNmTTNNVFZvODVkY3VwSloydjAzV0xCNmNSTjlBdHJpU0FhaFM4?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "843f294f84",
+   "t": "models",
+   "c": "",
+   "src": "Hostinger",
+   "d": "2026-10-08",
+   "title": "Hostinger Managed OpenClaw: How to change the AI model",
+   "sum": "From Hostinger.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnlIXzJiVzRrdU9wSzZCYndGUENoQjZmWDZOMTRXdDkzTlZTSng2V2t2VnRXT2NmbXNaS0RiQ2NBODBCSVpWVDZxV2U5UUoxVG85NXRWQ1Ywdm54VW1vS3dPNFpSU0p1V2xKVllwZ1I5VFBRLWJqU2JBRjh0aHg3Nks4bzFieGhDc3c?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "d69bdec954",
+   "t": "eff",
+   "c": "",
+   "src": "blog.google",
+   "d": "2026-10-08",
+   "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+   "sum": "From blog.google.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDBMdldKVEp0VGsxTno4WDVlbE9sb0RUVS1ka2xvX0hOT3RXYkNIaFRnZVZ4WE96ZlFkWGItV0J6ZldrNU02T0dvREJfbHJ3UHhBa1doVmc5Y2dzRW1zQV9Md0RxaTNRcXI1RU00RzFzSDlyZXkzS1VRaC02R3dwZEJIWFB2NG9OTkFj?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "6bf5fab329",
+   "t": "eff",
+   "c": "",
+   "src": "The Register",
+   "d": "2026-10-08",
+   "title": "Nvidia found $1B under the couch to help secure American scientific computing dominance",
+   "sum": "From The Register.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDFuVkg1NVZTNVc2OGtXMWk0MjdyN2QtVGpoeE9SSGkwTF9GRHM2VEV2S3JTbDJNRlg0WnlsNjY3VHJKVVVXR3QzcDZrbWNQSzMwQzVSbW1vam9QNmZNSU56bGZqTzREcWhubGhZWjM1ZDhQSV9vQk9kbGx0eUtYQXBKaXdyNXQ2WS1NLXlwTXdTa000bWZ4aXo4cTRCQXBnTkh3TDMtMUhld3pVRkhOUlEyUzJnTmY3S0dTRW4wUVlNTWtXclBtTFM2MlJjQlB1ZWlJ?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "759eafaf46",
    "t": "impl",
@@ -1240,6 +1540,30 @@
    "ai": true
   },
   {
+   "id": "628a3b78b3",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-06",
+   "title": "RoboJEPA: Scaling Robotic Latent World Models",
+   "sum": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their…",
+   "url": "https://huggingface.co/papers/2610.10515",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "a15bd5d250",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-06",
+   "title": "DSReg: Provably Recovering Individual World Latents without Reconstruction",
+   "sum": "Methods that recover individual latent variables of the world, from nonlinear ICA to dictionary learning and causal representation learning, anchor the latents to observations through…",
+   "url": "https://huggingface.co/papers/2610.09457",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "969c1153b2",
    "t": "papers",
    "c": "",
@@ -2096,6 +2420,18 @@
    "sum": "From Hackaday.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTduSzdXQk1rNlhZRmREUHF3VFFjNm4tOUptcnZhRHU1TmZxTVBQRUJRMGlkQjF3RlgtWktqQ3JxUjc1RWRkMGowdTNKMTM3a0huNjNpamQ5ZmxFeEFYaFZScHY5QTJTdWF2RGpWUHdBVnlFUzdYeEY5NnZYNFJXNDdSTlRCT2ZXN0dqWXJsRQ?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f75c78706b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+   "sum": "AI agents increasingly operate in environments where they can diagnose failures and improve through experience, yet existing evaluations largely measure what an agent can do at a fixed…",
+   "url": "https://huggingface.co/papers/2610.08902",
+   "wp": false,
    "mp": false
   },
   {
@@ -3488,6 +3824,18 @@
    "ai": true
   },
   {
+   "id": "118a836dd3",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-03",
+   "title": "How corner is a corner case? Percentile control for highway scenario generation",
+   "sum": "Generating corner-case scenarios with appropriate adversity in a simulation environment is critical for testing an autonomous vehicle (AV) software stack's safety performance before…",
+   "url": "https://huggingface.co/papers/2610.05003",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "bbd4789885",
    "t": "papers",
    "c": "",
@@ -4726,6 +5074,18 @@
    "ai": true
   },
   {
+   "id": "875e411d23",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-01",
+   "title": "Beyond the Parameter Monolith: Reconstructive Memories, Executable Skills, and Residual Assembly for Language Models",
+   "sum": "Language-model systems can separate contextual computation, persistent storage, and exact execution instead of updating all capabilities through one shared parameter system. We investigate…",
+   "url": "https://huggingface.co/papers/2610.04012",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "98cd210bb9",
    "t": "papers",
    "c": "",
@@ -5499,6 +5859,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "ffc785d58f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "Inherit-MAS: Test-Time Evolution of Multi-Agent Systems through Workflow and Execution Inheritance",
+   "sum": "Multi-agent systems (MAS) built from large language models coordinate specialized agents to tackle complex tasks, but effective workflows are difficult to design in advance. Test-time…",
+   "url": "https://huggingface.co/papers/2610.02396",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "08b08d8a06",
@@ -6716,6 +7088,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "23b2017360",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-29",
+   "title": "ReGain: Restoring Subject Fidelity in Personalization on Synthetic Images",
+   "sum": "Text-to-image diffusion models are personalized to a subject by DreamBooth fine-tuning on a handful of its images. Increasingly, these images come from a diffusion model rather than a…",
+   "url": "https://huggingface.co/papers/2609.38680",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "f8f5abccb9",
@@ -12653,6 +13037,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "885797323e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-23",
+   "title": "AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework",
+   "sum": "Optimizing embedding systems for production recommendation pipelines demands systematic exploration that consumes disproportionate engineering effort at scale. We apply Andrej Karpathy's…",
+   "url": "https://huggingface.co/papers/2609.30541",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "b86e269c78",
