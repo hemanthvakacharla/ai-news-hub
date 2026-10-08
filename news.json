@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-07T23:25:46Z",
+ "updated": "2026-10-08T03:39:05Z",
  "items": [
+  {
+   "id": "3b78fdefe8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "OrBIT: Structure-Guided Embedding Compression",
+   "sum": "Embedding tables are among the largest components of modern language models. Most compression methods fix a coding geometry such as coordinate blocks, low-rank subspaces, or unrestricted…",
+   "url": "https://arxiv.org/abs/2610.10385v1",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "13db7f7d2d",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "ResidualQuant: KV Cache Quantization for Looped Transformers with 2-Bit Residuals",
+   "sum": "Looped Transformers improve parameter efficiency by repeatedly applying shared Transformer blocks over multiple recurrent loops, increasing computational depth without increasing the…",
+   "url": "https://arxiv.org/abs/2610.10381v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "a6374f0b15",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "Attention via Black-Box Vector Search",
+   "sum": "Sparse attention mechanisms estimate attention over $n$ tokens using a small subset of keys. Many existing approaches use maximum inner product search (MIPS) to retrieve the heaviest keys,…",
+   "url": "https://arxiv.org/abs/2610.10135v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "1cef9695a8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "TR-PTQ: High-Accuracy Integer-Only Transformer Post Training Quantization via Taylor Region Reformulation",
+   "sum": "Post-training quantization (PTQ) enables efficient deployment, yet transformer architectures remain challenging to quantize due to nonlinear layers. While existing methods attribute…",
+   "url": "https://arxiv.org/abs/2610.09969v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f9dbe2578c",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "Layerwise Error Attribution for Fast and Robust Mixed-Precision Post-Training Quantization",
+   "sum": "Mixed-precision post-training quantization is a network compression method that assigns bits layer by layer, under a global memory budget using a small calibration set. The main…",
+   "url": "https://arxiv.org/abs/2610.09877v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "fc761455cd",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "Dual-QK: Sharp Queries and Flat Keys for Prunable 2-bit KV Caches",
+   "sum": "Long inputs and extended generation increase the storage and access costs of the key-value (KV) cache. Low-bit quantization reduces storage and memory traffic, while query-channel pruning…",
+   "url": "https://arxiv.org/abs/2610.09827v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f670325af3",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "DisParQ: Self-Supervised Part Concepts for Interpretable Vision Foundation Models",
+   "sum": "Concept-based vision models represent images through an intermediate layer of human-inspectable concepts, so what a model relies on can be traced to those concepts. However, those models…",
+   "url": "https://arxiv.org/abs/2610.09802v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "4ca31452c4",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-07",
+   "title": "Reproducible LLM Inference Benchmarking: A Sequential Isolation Protocol for Regression Testing",
+   "sum": "Reproducible benchmarking of Large Language Model (LLM) inference is challenging because repeated measurements can vary with execution and system state. We present the Sequential Isolation…",
+   "url": "https://arxiv.org/abs/2610.09778v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "ede35b99cf",
+   "t": "anthropic",
+   "c": "",
+   "src": "SiliconANGLE",
+   "d": "2026-10-07",
+   "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
+   "sum": "From SiliconANGLE.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0pNOFU1Vk9OTXVjSnhQY1hqUWtIWGZSbWYtTUFTRTRhcE9qYUlaNklFbkdfaXBvVFllbnhFUHNSZVFvazFEMkdSOVYyR2toa3RuNC1tMjR2WWNSSHVmZGhxay1kbnlqZU50cUxxSDlMbjdFV1Q0NG1oMWZNVEQ5SW1Xcnp6a2R6UW1kQkUxU1E1UFAtRnRMTzhieFo4bUprNERRckpneXJ4ZUY0bklRUm9xSmtPNWJMV3g5bnY5WUk5QQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "e775329ae3",
+   "t": "anthropic",
+   "c": "",
+   "src": "Dark Reading",
+   "d": "2026-10-07",
+   "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+   "sum": "From Dark Reading.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlJ3aHNaMlhXUDN5UmQ2dzFhQzJNVWxiY3MzcXlNS1Q4ekRiSkRRQVJlX0d2TzBiR0gtTnlxbkpLMlpJeDJqQjZkUTMyVVRFMUZXNGdxZ1ozdU5abG5UYURGM3Q1OHNTcU94WXNxcEd2UmJXNHN5Z1BDN200NkIwMHhnTWE3eUtGTldzLXhPR2cwNWxCRnhmSFRLMVA?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "fb238b20c6",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-07",
+   "title": "Zeta Global Announces Palantir's Dr. Alex Karp and Zeta’s David A. Steinberg Will Discuss Data Sovereignty and Enterprise AI at Zeta Live 2026",
+   "sum": "From Yahoo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXl5aGhOTDJMOFNOU0FqQVFVRElEUlhoOTNtYTZLajFqM2V3aFh1RDZ0NnB4cWMxbXIyY2dKdGJWSnd3NTJvQ08zM2gxaFJScWhrNWRFa0RRclFXRnJPLVNtWWNDdkt4WW56dktuZXV2SHJkQWhOcTNjWUN1WE9odnZ3TW5FYmdPZnNOdU0wTzZpcDNWTmNiakZOWHF5TlE?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ff974b6bba",
+   "t": "palantir",
+   "c": "",
+   "src": "BigGo Finance",
+   "d": "2026-10-07",
+   "title": "Dan Ives Names Nvidia, Microsoft, Palantir as Top Picks for 2027 AI Buildout",
+   "sum": "From BigGo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fTE1lcmZXdTh3SS15MU5wNDA2VTNvS2VpbVN5UFlWc1h0Xy1NVk9DOEpCQkJ3NjFpYnFlZ3VUcjctXzdxRmFuVXY2MWhrNzhoNVNrOFM2bUNFdEhGaFlTY0hXd0VocXlfVkxMTVJFMmFwbjlYMHc?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8520d0af04",
+   "t": "gemini",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-10-07",
+   "title": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup",
+   "sum": "From Stocktwits.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUi1rTmdESUx0bHNtd3BaSFpHTVVNR2UwMkx1TjRpUW9fcFlZb1ZMRDlyMEgta0VsbDB5MVpSakhWZjE4dEdRcGpDY3JwRkhWb2NTcUJxbWhJdFNhZk81a3VrU2hNQVB3V3FMV1J6RWZPdnB6eFVjdE9aRmNKa2dpY3F1UDNyN3FxV1daN0M1U2VIU29CMkcwZi1JMHF2MmROOGxwanpiU2xuSFpjQ0FWdUxHTzhTLXZYcTVXVXllNmhnSG9odExfUDZCVWNMVEE?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "9b80120014",
    "t": "impl",
@@ -650,6 +806,42 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "c40950fa6c",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-06",
+   "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
+   "sum": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can…",
+   "url": "https://huggingface.co/papers/2610.10444",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "e586c32013",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-06",
+   "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+   "sum": "General-purpose agents increasingly write code, use tools, and complete complex digital tasks, raising the question of how far these capabilities carry into the physical world. To…",
+   "url": "https://huggingface.co/papers/2610.10409",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "8e4a10bd48",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-06",
+   "title": "RoboQuest: Generalist Physical Agents that Search, Inspect and Test",
+   "sum": "Recent advances in multimodal foundation models have made them capable generalist physical agents for a range of manipulation tasks. However, successful operation in an unfamiliar…",
+   "url": "https://huggingface.co/papers/2610.10388",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "79d798c19f",
@@ -1436,6 +1628,18 @@
    "sum": "From Hackaday.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTduSzdXQk1rNlhZRmREUHF3VFFjNm4tOUptcnZhRHU1TmZxTVBQRUJRMGlkQjF3RlgtWktqQ3JxUjc1RWRkMGowdTNKMTM3a0huNjNpamQ5ZmxFeEFYaFZScHY5QTJTdWF2RGpWUHdBVnlFUzdYeEY5NnZYNFJXNDdSTlRCT2ZXN0dqWXJsRQ?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f142adfb9a",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "Improving Proactive AI Assistance with Hierarchical Procedural Understanding",
+   "sum": "Proactive AI assistants continuously observe a user's activity and decide whether to provide new guidance or remain silent. They should provide appropriate guidance for the task, determine…",
+   "url": "https://huggingface.co/papers/2610.06505",
+   "wp": false,
    "mp": false
   },
   {
@@ -2315,6 +2519,18 @@
    "sum": "From Yahoo Tech.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnE1bHRLNGJrOElYdW1ET0JnTHFzeVlLTmEtQVJ2NnMtbnZhSVdlXzBZdEFQNlp1SGJIcTA4WWNRMDFoM0Nna0RLS1BMR0tlcEVtblpKNkdZQU41ampacjNFLURkczVYRm1fLWlwRjRvTHdLRDhiV0gyQ3Z1ak1LbkJvd3U0R0FTMk55cnprVQ?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4367700194",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-04",
+   "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
+   "sum": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often…",
+   "url": "https://huggingface.co/papers/2610.06293",
+   "wp": false,
    "mp": false
   },
   {
@@ -4767,6 +4983,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "08b08d8a06",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-30",
+   "title": "UniWAM: Unified World-Action Model",
+   "sum": "Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in…",
+   "url": "https://huggingface.co/papers/2610.02054",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "64fd755d1c",
@@ -9403,6 +9631,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "a473dc1228",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-26",
+   "title": "Learning Multimodal Embeddings with Evidence-Aligned Readout",
+   "sum": "Multimodal large language models can expose task-relevant evidence through generation, but producing useful evidence does not by itself determine how it enters a retrieval embedding. We…",
+   "url": "https://huggingface.co/papers/2609.33659",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "756a4cdfe2",
