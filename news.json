@@ -1,6 +1,253 @@
 {
- "updated": "2026-10-11T16:04:31Z",
+ "updated": "2026-10-11T22:39:55Z",
  "items": [
+  {
+   "id": "2a599db62b",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-11",
+   "title": "Will the HomeView be Apple’s first smart home success?",
+   "sum": "Apple is reportedly set to announce a new smart home hub called the HomeView on Tuesday.",
+   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e380f02bc2",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-11",
+   "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+   "sum": "TechCrunch Disrupt 2026 will begin in San Francisco's Moscone West within 48 hours.",
+   "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "70688ea0e7",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-11",
+   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "sum": "TechCrunch's Equity podcast debates whether ending non-disclosure agreements could help the AI industry overcome data center moratoriums.",
+   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "63a2019172",
+   "t": "anthropic",
+   "c": "",
+   "src": "Japan Today",
+   "d": "2026-10-11",
+   "title": "Anthropic's Claude AI submits false tip on Philadelphia unsolved homicide case",
+   "sum": "Anthropic's Claude AI submitted an erroneous tip regarding an unsolved homicide case in Philadelphia.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUFNcVRXSXFUa1RvY1E3bWtUcFRvRnQ2U1g0WGduaFhnZTJtSjIydDVyZVIyV3labzZETjgzN2hVMExaSm9HZ2Y4bGh3d1puUkR1alNYX2lFVkpMeUNBemQ4cUhXcHhGU1NMOEtWWjAwUFVKNHEwcU9OZFhxNF9IQ1NQYzEwVzItcUowcmhxUVBfa2h1ZldzUjc3VjE1ZWRYWnpjbnlGTmVScnlkOWQyWEtoOUhsaWxjUWd1cXNR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9b659894de",
+   "t": "anthropic",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-10-11",
+   "title": "‘Pharma Bro’ Martin Shkreli Slams Anthropic’s Claude Drug-Discovery Claims: ‘This Is Not Impressive Work’",
+   "sum": "Martin Shkreli criticized Anthropic's claims regarding Claude's capabilities in drug discovery.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSEFLOExITld4YkJIVU85dEpKM1RzbjBNYmx5dWxlY0RGOXFVRVpfNVZVdndxbUs4TTY5OUtiQW9LT0ExckE4TVVrOU5uLTBsYy1iUi1NNDBoZDRoc25rTjdZTUVaQy1VLUVMOU1XVk1fcTV3RDBRNzdxalFHYXREaDJKN3hSbWJ5eXpXRTd6dDRfYW1nX0loVGNfLXA1a2gxTzl4VUpjVklxUGoxX2pEYWFtZ28yTDhK?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4043b5ba4c",
+   "t": "anthropic",
+   "c": "",
+   "src": "OpenTools",
+   "d": "2026-10-11",
+   "title": "Anthropic sets November 12 rules for Claude in 11 high-risk decision areas",
+   "sum": "Anthropic established rules taking effect November 12 for Claude's deployment in 11 high-risk decision areas.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWhaU1pDRHVfeHo5dE1SUkY0YkVTRlBqaFJTMmI3NDVQbmNxekN6LWJIbkIyRGFMMWUydWo0QzlRS3k2MHBaOUFaLXpXZmxmeTNBdmJ1M3J2RDFsNEtiSW5zdF9ibUp3c0NuNjJlMnlsSXJYSjVrYzlVUnZNb3RxbTNCclF5b1NWeXQ0MmlwbERidzlHbHQ4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "72318d8483",
+   "t": "anthropic",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-10-11",
+   "title": "Anthropic just took steps to protect Claude's feelings. Here's what that means.",
+   "sum": "Anthropic introduced measures aimed at protecting Claude's emotional welfare.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVwVUoxaEpsS3JtdXJYM2ZIaUo4ZW9qRVhlWmhRQVFWNzc0UlhIMXNlQ3J1RXMwZ0tMRVQ4blQyR2h6bUhHSzBlYXRfZTNYR2NNQlo0ckFLcEtXbzE4d2dJRUs0eUVnaUFqWk9sR095UHlYYXFKUjNwM0k4ZzZabHBpN0xjNVg1bUZmUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0fa5324ca7",
+   "t": "anthropic",
+   "c": "",
+   "src": "Medium",
+   "d": "2026-10-11",
+   "title": "Anthropic’s Claude Sent a Made-Up Murder Tip to the Philly Police | by Thomas Smith | The Generator | Oct, 2026",
+   "sum": "A report details Anthropic's Claude sending a fabricated murder tip to the Philadelphia police.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdExtTllvakoyM1BtclN3TUpHS0lsN1pqU2RVdjI0WE0zQkRBVDRoUzM5UmMzV0lpbmxuMTZkYzBNbVpQYVVIa1NNcTlzc1VZdFZlRzdkbUZQNzBSUm9ISzhmdmdIY2djR2x1NlFWMUNQUGxGUXNLM3lNNWlOdjFQYnVqQ3RrRVVjQ2djQTE2bG1qUW1WUHNBNkNnaUhfOE14cy1tbWtnZkM0cTlNd29OUU5TTXcyX0pa?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c75ab90332",
+   "t": "palantir",
+   "c": "",
+   "src": "TheStreet",
+   "d": "2026-10-11",
+   "title": "Palantir hits record as its next AI market gets awkward",
+   "sum": "Palantir reached a record valuation while facing complications in its next AI market expansion.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnk2M0kzcERBR0NPNnU3QkxNcE40YmpUQjl1WnNxcFAxN25SZHhIUVpoNWcxRXFHX0NBSWJjQmpDclNTZndQYjZNUFBuRlI5T2ZQQ0NoNVRJMGh4alhEVjJjeWVPbUE5Q1dlRUNiNVVMQ0RKcU1VZEVzYjktMWlfQVl5N1lBSUs5VTBnRThOR09KdmRQaHc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bde0ad61ba",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-11",
+   "title": "History Says This Will Happen to Palantir Stock by 2028",
+   "sum": "The Motley Fool analyzed historical trends to project Palantir's stock performance through 2028.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2dRWWlGUU8tNG1RQWFDVzJ2YWl4enRPM0p2dmtqZEh0ekhDVklfSi1QQ2V6SXJjV2F4X0VVNFczQk5yT0xfa2NwbUNnakJFWGZRU0VQZXFWdWt5azRhdHozd1Fub1NaUDdLYVVxRnRRQW14T2NLS2tvQ2Jzak0zRnJVaGlCMGxIMmszLVRUd1dyYnJzd29wZg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6ee65cc496",
+   "t": "palantir",
+   "c": "",
+   "src": "SaasRise",
+   "d": "2026-10-11",
+   "title": "Palantir CTO Defends AI, Hints at Gov SaaS Deals",
+   "sum": "Palantir's CTO defended artificial intelligence and signaled upcoming government SaaS contracts.",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUjZaZ1pPZnY5dF9KYmwyVmtlQzRIclFhcjdLRnEzSnpXZWlXN1dvX1FIWEwtSzNQQWJ0Ykk1dHZ0cTRhc1hKVTdyVXJOel8tbWRueEtaVjZETWlmQjYxcmVwUE1NRmt3YksxTTBWSFhHaEU5eERRUmFYSHF6WXMxZUJScElhOEdxTEpvVWpQN1Q5MTdSdzM2QTloQ2xXNXdSUWFGdUg3QzQ3UDZ5Zm4zWU5SMzBXd2w2VjA2MUdUbWhOYXpaWGdIQ0dtdTVzYTgtQ1JxenVfUzFuejJJaFZKYWZaV1ZwYzBXLWVBa1UwX2V2SkxJ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6548deaa26",
+   "t": "gemini",
+   "c": "",
+   "src": "Android Headlines",
+   "d": "2026-10-11",
+   "title": "Free Gemini Users Lose Manual Model Choice as Google Introduces 'Auto' Mode",
+   "sum": "Google removed manual model selection for free Gemini users, replacing it with an automated mode.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFhWeXFYdU5YLV9UMm15elFVcmlrS2VheUF1MXhDVFpZUW1IX0RtZC1zQV9LU2VsMV9RenYtT0Rrc25hWFM5d1F6YjRxbkVLQk5BRHJCRVFjcDVfYnA5Zjcyb1dpQ092TkprTGtLNkllcTNMOEYwenFMTDhXeEwtRFY4bS00d3Q1VnhXQTBGV2haOE5D?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "82cd99fc10",
+   "t": "gemini",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-10-11",
+   "title": "Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini Models To Tackle Rivals",
+   "sum": "Sergey Brin reportedly urged AI talent to focus exclusively on Gemini models to compete with rivals.",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNelVxb0lIbnZSbHJCSHl2NFdMMzZEbkpJVVZ5aXZ2MV95OHpLYlhxQnRVY0Q1R2lZUENUTFdIYVRCWGIyb01UZ0NlY0NnWV82Rzh6T2M5dE8ySVhqVlZ3V2dKM3ZOci1RcmppUHZwbVlMWW1SS2tSdEgxeGxVUWFGRThWTlVRSzNaU3VJR1V3M05NZVNYRkQ3cVpkb1JFTFhCVlRpaVFOVGJmUUlTZFcwREtndno1WERNeW9ZXzB0X21nR05NNXpoXzBzYS1NQ3ZHUE9xaENQd21nVXo2eEl5b3ltdkpJMF9IaWJZV1NUNWZFU0xN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4be9892371",
+   "t": "gemini",
+   "c": "",
+   "src": "nokiapoweruser.com",
+   "d": "2026-10-11",
+   "title": "Is Google Canceling Gemini 3.5 Pro for a Upgraded \"Gemini 3.5 Pro+\"? Leaked SDK Code Reveals \"AGENTIC\" Shift",
+   "sum": "Leaked SDK code suggests Google may replace Gemini 3.5 Pro with an agentic Gemini 3.5 Pro+ model.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR3hfeDZDeEh0REpITll0ZnZoT2ZuZEhPN0xxeWNITDlKV19kcUZoalZNV3VaZkxVcDVjQ2pWVGl6RDBjYkdvYURJTE5kQ1RTTk5mNTBSdFgweXQzWmc3NFFVRWlMZ0p2UU80eXRKajNUbWlvZ1RXc19ubW9VWWJKRGJ5QVp0aWN1?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4cb1315341",
+   "t": "models",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-11",
+   "title": "Microsoft Decision-1 Claims 35x Speed vs GPT-6 Sol [2026] - https://tech-insider.org/",
+   "sum": "Microsoft claims its Decision-1 model is 35 times faster than GPT-6 Sol.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JcG5LUEVCMk13eGt3YnJ0OW9xbFRKMG5KTldiRG9UXzhWakVoVHF4U2VSanBXdl9fMXhzNFV5aWQtSElFMVYyOXMwalg0UElKcmM4OEdwLVBWUHBrd2Z5NkE0VXoycTBTdkRKS180UF9USEx6XzlaUF9B?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8f5b62fa4b",
+   "t": "models",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-10-11",
+   "title": "Microsoft launches Decision-1 model for fast, structured AI decision-making",
+   "sum": "Microsoft released Decision-1, a model tailored for rapid, structured AI decision-making.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT215Y3ZDSi0yalFKQ0dPSVM0M2V4bGRrUUozX1Bfd1c4OVYzdkNJSHJQbU5TOW84UnJDOEpuSUlQdy0tbWZVTEdLWFZza29sTk1zQm5KamQtdVFYcldGSDhGWlpsTDNjR2JBS0NFNTgzTDFjVjRHb3poWmd6TC1wXzhHSzIxYUw2T3lpRzFOUHFBZFMzNnZoWldfWU5iSEoyblBuZ3RR?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "b8c3d5af48",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-11",
+   "title": "Agents That Own Their Inference — Du'an Lightfoot & Khaja Omer, Akamai Technologies｜AI Engineer",
+   "sum": "Akamai Technologies presented a session on AI agents managing their own inference at AI Engineer.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HRDNEUjhycEd6WDN3d2VfNmRTU1pxZlRnSS1KNlM4T2xvSHVQZURxTVo1REVvRlFfbjhLMHI5YndTYlpXLVo1S0x4Ylg4SzFReElzajdwc2p6UmFfQmdF?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ebab989c08",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-11",
+   "title": "Same Model, Different Speed: Why Your Inference Provider Matters — FriendliAI｜AI Engineer",
+   "sum": "FriendliAI demonstrated inference speed variations across different providers serving the same AI model.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FdVN2YWI3cjdRdlphWV9vTDdXUkRKQmVTTkw1QnBEalZnQW1YcjZ5YldaXzM1SDV5YUMtS3E4UTNOT09EVHRJRFVCY2NpOVgwa0hHTGFaU2x2RVkwbzRz?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "be0780b338",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-11",
+   "title": "Vector Isn't Enough: Hybrid Search & Retrieval — Jeff Vestal & James Williams, Elastic｜AI Engineer",
+   "sum": "Elastic presented on pairing vector search with hybrid retrieval strategies at AI Engineer.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05b29PSF81TnBPLVh3MnNZa215S1p0VWJ4WXhYaU5mc3d1ZjdJWmFMYkRobVNsLTFBZ3VJc2EwREM1ME1XVC02aGRfVFg1OWNYVDhCZVhFaWotX0hOY24w?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "ba5db8106c",
    "t": "industry",
@@ -167,6 +414,32 @@
    "sum": "Anthropic's Claude AI sent a false homicide tip to the Philadelphia police department.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkExLW1yZlBoaWp4UDNIVlVYRU5vUEZzeDEyeG0wc0hwU2ZYc3FTa3RULVJMdy1EX0gybDlLNHY2M1JuUDVxcUdXNFoyRG5NX2ZpWDExSHR3UEhUM3RZR3Q4Sm5VRVNfc2UzZEZwdGRaV05vRF9JZ1I4cS1xeGNjdno5R0MwbzdTRVRWVVdwUW5ZcUZSVU05N0ZIblZSV1I1UkJF?oc=5",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "68d690b6ab",
+   "t": "eff",
+   "c": "",
+   "src": "아시아경제",
+   "d": "2026-10-10",
+   "title": "Agentic AI Advances Fuel CPU Demand Hopes... ETFs Set to Benefit [Weekend Money]",
+   "sum": "Growth in agentic AI is projected to increase CPU demand and benefit relevant ETFs.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DYXEyZEFZLUh3Y3V1V05xTE5iMWoyUmFNOFltTmcwUXJjbDUwRFdIZTRrM0lhaXpQcnJ4WnFBOUJ4SmxIMWc3WTdJdTdKZG44MElsUk95OTlxTnVIdl9CaXZTbVRXX1lUVU9CZjVDX3JUc0tOWWdOaWFjSQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "dcec4adc8f",
+   "t": "eff",
+   "c": "",
+   "src": "https://gnyouth.net/",
+   "d": "2026-10-10",
+   "title": "16.2″ MacBook Pro With M5 Pro (24GB RAM + 1TB SSD) Still Wins the Pro Laptop Price Fight",
+   "sum": "A review highlighted the pricing competitiveness of Apple's 16.2-inch MacBook Pro with the M5 Pro chip.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS3otQ2ltZ2hua0RoSDkxMWxYeEJDRFhaLVZYXzB3ckpWaGNOUU9XR1BGRHh5VjRmdEY4SHRVd1FJdnBoa05mc3l2dU9OY29idllHM1l6QnU2OUxOR1o4RHRsOElsYUNtUjg3WS0tWGFfYS10RU1TOGVFVC04SExsNnE1VGZVSno4cDNKaGJfRFlYVERwRW94V0JnR1loZElFWGxuNW5pZw?oc=5",
+   "wp": false,
    "mp": false,
    "ai": true
   },
@@ -2595,10 +2868,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "Attention via Black-Box Vector Search",
-   "sum": "Sparse attention mechanisms estimate attention over $n$ tokens using a small subset of keys. Many existing approaches use maximum inner product search (MIPS) to retrieve the heaviest keys,…",
+   "sum": "Researchers propose using black-box vector search to estimate sparse attention over large token sets in transformers.",
    "url": "https://arxiv.org/abs/2610.10135v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1cef9695a8",
@@ -2607,10 +2881,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "TR-PTQ: High-Accuracy Integer-Only Transformer Post Training Quantization via Taylor Region Reformulation",
-   "sum": "Post-training quantization (PTQ) enables efficient deployment, yet transformer architectures remain challenging to quantize due to nonlinear layers. While existing methods attribute…",
+   "sum": "A paper introduces TR-PTQ, an integer-only transformer post-training quantization method using Taylor region reformulation.",
    "url": "https://arxiv.org/abs/2610.09969v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f9dbe2578c",
@@ -2619,10 +2894,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "Layerwise Error Attribution for Fast and Robust Mixed-Precision Post-Training Quantization",
-   "sum": "Mixed-precision post-training quantization is a network compression method that assigns bits layer by layer, under a global memory budget using a small calibration set. The main…",
+   "sum": "Researchers introduced a layerwise error attribution method for fast mixed-precision post-training quantization under a memory budget.",
    "url": "https://arxiv.org/abs/2610.09877v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fc761455cd",
@@ -2631,10 +2907,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "Dual-QK: Sharp Queries and Flat Keys for Prunable 2-bit KV Caches",
-   "sum": "Long inputs and extended generation increase the storage and access costs of the key-value (KV) cache. Low-bit quantization reduces storage and memory traffic, while query-channel pruning…",
+   "sum": "Dual-QK uses sharp queries and flat keys to support prunable 2-bit key-value caches for extended generation.",
    "url": "https://arxiv.org/abs/2610.09827v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f670325af3",
@@ -2643,10 +2920,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "DisParQ: Self-Supervised Part Concepts for Interpretable Vision Foundation Models",
-   "sum": "Concept-based vision models represent images through an intermediate layer of human-inspectable concepts, so what a model relies on can be traced to those concepts. However, those models…",
+   "sum": "DisParQ introduces self-supervised part concepts to improve the interpretability of vision foundation models.",
    "url": "https://arxiv.org/abs/2610.09802v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4ca31452c4",
@@ -2655,10 +2933,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "Reproducible LLM Inference Benchmarking: A Sequential Isolation Protocol for Regression Testing",
-   "sum": "Reproducible benchmarking of Large Language Model (LLM) inference is challenging because repeated measurements can vary with execution and system state. We present the Sequential Isolation…",
+   "sum": "Researchers proposed a sequential isolation protocol for reproducible Large Language Model inference benchmarking and regression testing.",
    "url": "https://arxiv.org/abs/2610.09778v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ede35b99cf",
@@ -2667,10 +2946,11 @@
    "src": "SiliconANGLE",
    "d": "2026-10-07",
    "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices",
-   "sum": "From SiliconANGLE.",
+   "sum": "Anthropic launched the Claude Haiku 5.5 small model and cut Sonnet 5.5 cache read pricing in half.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0pNOFU1Vk9OTXVjSnhQY1hqUWtIWGZSbWYtTUFTRTRhcE9qYUlaNklFbkdfaXBvVFllbnhFUHNSZVFvazFEMkdSOVYyR2toa3RuNC1tMjR2WWNSSHVmZGhxay1kbnlqZU50cUxxSDlMbjdFV1Q0NG1oMWZNVEQ5SW1Xcnp6a2R6UW1kQkUxU1E1UFAtRnRMTzhieFo4bUprNERRckpneXJ4ZUY0bklRUm9xSmtPNWJMV3g5bnY5WUk5QQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "e775329ae3",
@@ -2679,10 +2959,11 @@
    "src": "Dark Reading",
    "d": "2026-10-07",
    "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-   "sum": "From Dark Reading.",
+   "sum": "Anthropic is reducing Claude guardrails for vetted cybersecurity defenders.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlJ3aHNaMlhXUDN5UmQ2dzFhQzJNVWxiY3MzcXlNS1Q4ekRiSkRRQVJlX0d2TzBiR0gtTnlxbkpLMlpJeDJqQjZkUTMyVVRFMUZXNGdxZ1ozdU5abG5UYURGM3Q1OHNTcU94WXNxcEd2UmJXNHN5Z1BDN200NkIwMHhnTWE3eUtGTldzLXhPR2cwNWxCRnhmSFRLMVA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fb238b20c6",
@@ -2691,10 +2972,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-07",
    "title": "Zeta Global Announces Palantir's Dr. Alex Karp and Zeta’s David A. Steinberg Will Discuss Data Sovereignty and Enterprise AI at Zeta Live 2026",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir's Alex Karp and Zeta's David Steinberg will discuss data sovereignty and enterprise AI at Zeta Live 2026.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXl5aGhOTDJMOFNOU0FqQVFVRElEUlhoOTNtYTZLajFqM2V3aFh1RDZ0NnB4cWMxbXIyY2dKdGJWSnd3NTJvQ08zM2gxaFJScWhrNWRFa0RRclFXRnJPLVNtWWNDdkt4WW56dktuZXV2SHJkQWhOcTNjWUN1WE9odnZ3TW5FYmdPZnNOdU0wTzZpcDNWTmNiakZOWHF5TlE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ff974b6bba",
