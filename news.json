@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-11T02:54:58Z",
+ "updated": "2026-10-11T16:04:31Z",
  "items": [
+  {
+   "id": "ba5db8106c",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-11",
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "sum": "Industry executives state voice AI has not reached its breakout moment because context layer failures frequently break end-to-end processing pipelines.",
+   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "025b0a175f",
+   "t": "anthropic",
+   "c": "",
+   "src": "WPXI",
+   "d": "2026-10-11",
+   "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+   "sum": "Anthropic's Claude AI model submitted a false tip to police regarding an unsolved homicide case in Philadelphia.",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG12bWMtSHZKaVVnMEhYLS1MQ0hMUklyRnlUT0lFN1cwcmQtY3ZhS3VvMlRtUkFJUGZFUktWRFlkV2FqM2p0SmFaQVdvOHdhZ3FmMV8xak1CanhFOWpIbS00TGRmSThhVV95bHZYTUd6RFBmdkpuOHFkelpsT2o4cVYzOHI3cDI4UV8xamxVeVVaN0VlRkNhRXI2MTRPUkg5RTVGTVRLTVU5amxSQTk3VTh5MW1WT3hBb3Q0VDVyZVJWaFJZLXBuYnlHWVhyVXZIWktTemRPaEk4SU9fZEg5M3J4b9IB4wFBVV95cUxQTG12bWMtSHZKaVVnMEhYLS1MQ0hMUklyRnlUT0lFN1cwcmQtY3ZhS3VvMlRtUkFJUGZFUktWRFlkV2FqM2p0SmFaQVdvOHdhZ3FmMV8xak1CanhFOWpIbS00TGRmSThhVV95bHZYTUd6RFBmdkpuOHFkelpsT2o4cVYzOHI3cDI4UV8xamxVeVVaN0VlRkNhRXI2MTRPUkg5RTVGTVRLTVU5amxSQTk3VTh5MW1WT3hBb3Q0VDVyZVJWaFJZLXBuYnlHWVhyVXZIWktTemRPaEk4SU9fZEg5M3J4bw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e4128b3350",
+   "t": "anthropic",
+   "c": "",
+   "src": "Men's Journal",
+   "d": "2026-10-11",
+   "title": "Anthropic Took Its AI Tests Offline After Claude Submitted a False Homicide Tip to Police",
+   "sum": "Anthropic took its AI tests offline after Claude submitted a false tip to police concerning an unsolved homicide.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVBDOVpCQUxPd1NNMFdTN2d6N1BxVHFkQlgzdGxFSnpyY3NYdmp5NDd5SGZnWC1iZDFKNktQQUpFT2tGdTBIR0ZnWk9GTmtFOFBObmxZQkc3dE1ZYTdTTHgzQmF3ZGdQa2NJSzZ3RFpiZDJxZlhBWnZGWkVBX1FMMW5ZdXNPSWtuaGMtek9ncmdCMlpEZlg5U01uLVh6OXBURldfZDc5ZTczVkc5SE1vVm1GekF4ek96Rnp0bE5QOA?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "84edd27ba0",
+   "t": "anthropic",
+   "c": "",
+   "src": "NewsNation",
+   "d": "2026-10-11",
+   "title": "Anthropic’s Claude submits false police tip | Morning in America",
+   "sum": "Anthropic's Claude AI generated and submitted a false tip to law enforcement regarding an unsolved homicide.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVM4NC1TemtTRUdDLVZKNnBESjV0Ym9KMTAxXzZNLWl1eWRBamh0RUVrdkMtZTNsaVNlVERrbGlIRUlLMW9JRmdPLVdwLWNMS3FUbDMxV2hFcW5TY1FnV2pIZllWUHVGSW5EWU91TnpXYXdpOFJya1diYlVDeHlmV0d4ODNpbHJUT1FQalNob3JxSHNQeW5JZEhGcHNCX2pUMDI2T1ViRF9jQkU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b61a8a95f3",
+   "t": "anthropic",
+   "c": "",
+   "src": "MoneyWise.com",
+   "d": "2026-10-11",
+   "title": "Experts are disturbed by Anthropic's ban on being mean to Claude: 'One of the most dangerous things we could do'",
+   "sum": "Experts expressed concern over Anthropic's policy barring users from directing abusive or aggressive language toward Claude.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWlYem54dGV1aHVibEZ0eGlDVkFlcjhWOHNwY3huQVBrZExRSS1lOHVKeEFRdWp6TWl1MlFVaGxMR2MzdW9wVnFvdWgtaU10ak9WazJYckdxSENyX1RmZkpFVU9hRWhGUW1XYnVmeWhXS1BIOHljQVc5bUM3eF9ES2FFMzVHYk0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b3929e0459",
+   "t": "anthropic",
+   "c": "",
+   "src": "Hürriyet Daily News",
+   "d": "2026-10-11",
+   "title": "Anthropic’s Claude AI submits fake murde tip",
+   "sum": "Anthropic's Claude AI submitted a false tip to investigators regarding an unsolved murder case.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlh4cXI0WHo5UV9yQjZGVHdobUtRTW1KQzNTWkd0NVhJNFoyM1pEeXJ2M3NYSHlfYXZsVjg1aV84bGlXSmxQNjY0UFNjdEF4VUZ3QkJvRlRUWTU5VE9hRW1KclZwTmVnRER4TktWQVVwRVR1cXdjSnRySmVnSmVzMm9VRlB3Vm9Na0JTQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0feec2bfce",
+   "t": "palantir",
+   "c": "",
+   "src": "CBS News",
+   "d": "2026-10-11",
+   "title": "Transcript: Shyam Sankar, chief technology officer of Palantir, on \"Face the Nation with Margaret Brennan,\" Oct. 11, 2026",
+   "sum": "Palantir chief technology officer Shyam Sankar discussed company technology and policy on Face the Nation.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXJZc1VzVXphbXp5LUsta2tOYWN0RjI2ZUtBdm11Y2Vlc1dYck9PTjA4djRaNXJxcnp1UF8xSkJoWlFXM1NDeUYxR3FrYzlhLXl2SnNQMzQ5WExPcEhOdVY2SFh4WDRyTjZNSkcyTFJUZlpING5aY0ZfT2UtNzVESG9lLVkwYkZJdDFaWkdjdEtmZUtEeUNoRHVGblJpLWJ6MkswdkNlZmViaGpGc0ZZQWRZV0w?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "68e41e6580",
+   "t": "palantir",
+   "c": "",
+   "src": "Seeking Alpha",
+   "d": "2026-10-11",
+   "title": "Palantir: I Couldn't Have Been More Wrong, I See The Light Now - Buy (Rating Upgrade)",
+   "sum": "An equity analyst upgraded Palantir stock to a buy rating.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdk5wSmpoZ3pDakpPS1E5Umt3NWRqbEV0cUVwdU9wYTU4eVZxVnVJdTlhdG1ZVDVCWlR0UGE1QnBibFprWC1nNE54SEFTOVVHWTEwZWZ1VW9NVjBudzR0Yk9FQ2JnVVJHZ1A3ZEx1cTV0RmJJbmFuZ1pSTlpkdXd4UkZyMmN1U0llaGVVVXNSWWhUNUxnVGpGVHROcjRXQ3FHUDBoWmN0aw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "66a7889f22",
+   "t": "palantir",
+   "c": "",
+   "src": "Finbold",
+   "d": "2026-10-11",
+   "title": "2 Palantir (PLTR) stock alternatives to buy now",
+   "sum": "A financial report identified two potential stock alternatives to Palantir for investors.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uN2k3YVB0S2pCX3FrMHk1OUk1cWlEWUp0a1hPZGtiV0ZNMERjVVZRZjV1Tk9PLVJiS1c0a2xEVUZ3bC1HeUYyeV85d0FEWGRmMWNZdXROS2VMNWxkclIzN1lQckJXUVlMMFVHNUZDTWxiT3NN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e8f44b4aee",
+   "t": "palantir",
+   "c": "",
+   "src": "Pluang",
+   "d": "2026-10-11",
+   "title": "Palantir hits record high; investors eye Snowfl...",
+   "sum": "Palantir shares reached an all-time high as market investors assessed alternate enterprise software stocks.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGFmbURLOWJLTGd1V3E5MVQ2bEU5Vk9pOUM0N1psblhDbUpNNlhrMjFXdTF0QmNieWNCQnlYTlM1OWZGVW9PaVJpcEd2Z3oxSTN6TlFicVlDdG4wNUU1cTdpQzRmM1M2NjNBTTdhN0dFZGdsdzhuLU82TVM2WnZYODdtQjc4a0FLak9PTkMxWmxLZk5q?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e692bc1890",
+   "t": "gemini",
+   "c": "",
+   "src": "The News International",
+   "d": "2026-10-11",
+   "title": "Google Gemini access is changing: What users need to know",
+   "sum": "Google is updating user access rules and availability tiers for its Gemini AI services.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFFlVGFiS2I1eDFqaEJCN0FrZEdaUUplRjBUNWRnTE9ZTUdPS2hwMThpSTBRLTkzZFNGdy1ZRnQxS2VKN0ZyLUg4X3lIeVNTOWplNlcyUUdqN25FaFJ4WVFXOTg2TmRBa04tekR3dXo2WGJUSzByRTZjZThaSk1RQnMzVV9RWDRxb2xGV1AyaHFOb3AxMTFRTkJqMVQwYUnSAZsBQVVfeXFMTkFXdk05RkZlMTcyZDA4NVFMQTRua1VJczBvSUFVRGRSc1gzamhoZkJ3SnFJVTBZNjkwbmtOMzAxODkxTkJoaXRyRUxKcVgyVm5jRlNoMVVxZFlaeGJZZEtsREpDdE1HdVNqNVhMQ3JCN3VBTTBjY19FdVZnWG1rWWktbUpVSEZwVGdOeVlqZXV4V2V2VmpjWEVMamM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b5733b69e5",
+   "t": "gemini",
+   "c": "",
+   "src": "jetstream.blog",
+   "d": "2026-10-11",
+   "title": "Google Gemini Now Lets You Set Thinking Levels to Low, Medium, and High",
+   "sum": "Google Gemini added a user setting to adjust reasoning effort across low, medium, and high thinking levels.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzR0QnZ0bHVIX2ZmWWlUbm8tMlAwTDl5OFFSSWRhTTRJc01xX3k0NWE2ZUVJbE9iVi1rb1hwSFQtRlNNRFJTZGhKN0hreHJ4aXEzaW0tbkh2VUFzUERvX0JHc3NmcTY1VW03TG9aZGpQWWZfZzJfZ05jTmg2VGFuVGJB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "771f887ac4",
    "t": "anthropic",
@@ -8,10 +164,24 @@
    "src": "FOX 7 Austin",
    "d": "2026-10-11",
    "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police",
-   "sum": "From FOX 7 Austin.",
+   "sum": "Anthropic's Claude AI sent a false homicide tip to the Philadelphia police department.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkExLW1yZlBoaWp4UDNIVlVYRU5vUEZzeDEyeG0wc0hwU2ZYc3FTa3RULVJMdy1EX0gybDlLNHY2M1JuUDVxcUdXNFoyRG5NX2ZpWDExSHR3UEhUM3RZR3Q4Sm5VRVNfc2UzZEZwdGRaV05vRF9JZ1I4cS1xeGNjdno5R0MwbzdTRVRWVVdwUW5ZcUZSVU05N0ZIblZSV1I1UkJF?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "75398a0417",
+   "t": "models",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-10-10",
+   "title": "Apple adds original Apple TV 4K to vintage products list ahead of new model launch",
+   "sum": "Apple added the original Apple TV 4K to its vintage hardware list ahead of anticipated product updates.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3lPMG1vUUhPVjRQalFLZE1YYWdqRkNzXzJQV0JQVGVHeTFKU0lBdmo4cjJ4NzMxS3RsT1pHUG5JNmoxVjItMlZLb0hDdkZiak5Wby0tYWpEWjZxUVdaNFFoV3JUd3VTdGtfR2dqUmRXN0lsblhQc0NsUDNUY3Bwa2ZCWGowSnloeTBrWlduQnBGdW1vRDFsUVRRMG5xbXBJR2VBbUdsOGtqNm5ZcUM0Yw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b6ff32ab82",
@@ -20,10 +190,11 @@
    "src": "upi",
    "d": "2026-10-10",
    "title": "Anthropic AI model sends police false tip about unsolved homicide",
-   "sum": "From upi.",
+   "sum": "Anthropic's AI model submitted an inaccurate tip to police concerning an unsolved homicide investigation.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5d3779d66b",
@@ -32,10 +203,11 @@
    "src": "Techi",
    "d": "2026-10-10",
    "title": "Palantir stock jumps 5.2%: sovereign AI faces an overseas test",
-   "sum": "From Techi.",
+   "sum": "Palantir stock rose 5.2 percent as international markets tested adoption of sovereign AI platforms.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FX29xWXBtNVBWNkkzMC1fYXF3Q2hKalFIUFZCOFp2OXlZeVNkWjlrTWtoT0hPT29mWmZySl9URks2UGpRR0JYNjVoY2ZGVE9jNGg1YWJBTE1xSDZyQ3o5c3VXY1NvX1dJUHJIQ3Z1My1IMVEtNEE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d05facb80f",
@@ -460,10 +632,11 @@
    "src": "Cloudflare Blog",
    "d": "2026-10-09",
    "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
-   "sum": "From Cloudflare Blog.",
+   "sum": "Cloudflare introduced Clef-omni with multimodal capabilities alongside an updated Clef and a lower-cost Clef-flash model.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Tbm5FNGUwaXFPQ3B5MlBiaGdCMXUzM05BdlVwYlVtSk4zX3pFSmFYb1dadm9Uejl1M3JTNThJZXJZaEJvQ19DTFNNZUZSeDE0VW10bWZZTXVJQS1rZF95S2h2NDIwbHJWX1pB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "430e601b1b",
@@ -2045,10 +2218,11 @@
    "src": "Yahoo! Finance Canada",
    "d": "2026-10-08",
    "title": "Google Launches Workplace AI Agent That Acts Like Colleague",
-   "sum": "From Yahoo! Finance Canada.",
+   "sum": "Google launched an enterprise workplace AI agent intended to collaborate directly with employees.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMFN2ZnBiU0lvX2dIZGVHMmdtNEJITWpWbk9Ieno5ZnpRdWZYRktuVFdGZWx3SjQ1R1dPNUw0XzJpVXNSQkJtdWRYYU5GY1BZRXJXQVp6bTNMeFFYdmZaMG1iSGotVENzWEt4MEFOX2lTa05Dc1l0X1IzNkExR3JWM0J3dk05dTFBanA0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1b1670f641",
@@ -2057,10 +2231,11 @@
    "src": "Quartz",
    "d": "2026-10-08",
    "title": "Google launches universal Gemini AI agent for enterprise work",
-   "sum": "From Quartz.",
+   "sum": "Google launched a universal Gemini AI agent designed to execute enterprise workplace tasks.",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96SllzMjR4TjJMcmg2eHZVdExTU1BJMkwzWjhBQlUzUVlRRlFKZzlHd24zTzJvNnE1a1lEeE5OelFlOGhGbkJJaUp4V3VBb3NlcW5sOE1ZcnJLOUtQRGJGZUJPYUNSOFBodXJZZFNwQXhDM1RqVFJKajhfQ0o?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "840b6878af",
@@ -2069,10 +2244,11 @@
    "src": "Computing UK",
    "d": "2026-10-08",
    "title": "Google to restrict Gemini model access for free users",
-   "sum": "From Computing UK.",
+   "sum": "Google announced plans to limit access to Gemini AI models for free-tier users.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjlfeExCNFhtVi1qSUp4cjNxQmVmYTBMWWVIZ0xuTk0wNkZaX2dPSGNRQjdvb2wtU2U4ZFhka2pQVGJwX0hmNHIwMlB5bVdWTlFId042bEpSOEVmNldvV3VoOUI4bzhPcUlKTVdUa3M1QXRKeU1Yak5OV0JHLUMxb0VZQTRPNHpacHBNTmMxZlNPcGo2Mi1YSml3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1c365bf00f",
@@ -2081,10 +2257,11 @@
    "src": "trendingtopics.eu",
    "d": "2026-10-08",
    "title": "Google Pulls Gemini Flash and Pro From Free Users",
-   "sum": "From trendingtopics.eu.",
+   "sum": "Google is discontinuing free-tier access to its Gemini Flash and Gemini Pro models.",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wcWJJUDZWMHoyeWNmd1dBaU05dVh4YXFEbElYV1BtUENBRXdnQzRwYnFad2VGMHNjTk1sWDRpV2JkLW1ScnhGOS1rY2FvellvWWUyVExhYnNXU3RvcTJZN2RIREZYZzY4Y2c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "482712d58c",
@@ -2093,10 +2270,11 @@
    "src": "Understanding AI | Timothy B. Lee",
    "d": "2026-10-08",
    "title": "Understanding Jev, the new model everyone is talking about",
-   "sum": "From Understanding AI | Timothy B. Lee.",
+   "sum": "An analysis detailed the architecture and capabilities of Jev, an emerging AI model.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81QnpXRFVfT3RDLTExelpua1gtWFgzNGFETl9UWmROeVRaWXprYk45dmYzUDNoV2o0dldkaG9CblE2SEJkMmk4VU5rY3I0WnJEOWZ4endiWEQzU3ZjcmJjaEttXzNoZlU2dGZJcW1GelFzVy02R2N0TEt3WUZlbkE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9497476778",
@@ -2105,10 +2283,11 @@
    "src": "shattered.io",
    "d": "2026-10-08",
    "title": "Chutes, Harvard Release 6.12B LLM Request Dataset [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Chutes and Harvard released an open research dataset containing 6.12 billion large language model requests.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YV1ZCcXNPMjFWNF9sNE82YXFrMmxHZWN2MGZtYWYxNGVTaGhWN0lhTXN4RUJsam10U1R2YmIzN1lubHd2Rnd2MVZFZmNFRjVYMGx3WnY3bHE0eWZpdTJlNF8tYU9JRTMzLWo1SUtjelc2cUow?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "baa78ac583",
@@ -2117,10 +2296,11 @@
    "src": "MarkTechPost",
    "d": "2026-10-08",
    "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
-   "sum": "From MarkTechPost.",
+   "sum": "Architect launched Liquid Inference, a real-time auction marketplace for large language model inference compute.",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQl9wbmJsNFhYbWxMLUkxMFg2ak5McExFOURQVFVRcWxfMF9GU2lkMWRMTnpnMGxRbmdoV292bUZWd05TVTRvR2FuWkswWHlfNzdqVl85V1RpNWpxNEZJTkYwY2xMTGJRZDI4YXVSV2EtZ0J3bXlHNzFpWmRUSERPQjhuakRHRWFjcmtYSHJQUHlIaHA0TUZLcU5CZlZETlptdjZKZTNmampVc2x2bW5CWVc1aEnSAbQBQVVfeXFMTUJfcG5ibDRYWG1sTC1JMTBYNmpOTHBMRTlEUFRVUXFsXzBfRlNpZDFkTE56ZzBsUW5naFdvdm1GVndOU1U0b0dhblpLMFh5Xzc3alZfOVdUaTVqcTRGSU5GMGNsTExiUWQyOGF1UldhLWdCd215RzcxaVpkVEhET0I4bmpER0VhY3JrWEhyUFB5SGhwNE1GS3FOQmZWRE5abXY2SmUzZmpqVXNsdm1uQllXNWhJ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1e7bb711ff",
@@ -2129,10 +2309,11 @@
    "src": "TechPowerUp",
    "d": "2026-10-08",
    "title": "Senao Networks Releases x86 Enterprise Server Series",
-   "sum": "From TechPowerUp.",
+   "sum": "Senao Networks announced a new enterprise server hardware line based on x86 architecture.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLUlVSVE2TXpLRUJaeV9RV3FRb2tXTFZaOWxKRlA3RVBHWlBKWEJRelBpLWZXeGVkVVJOSFlmRlVmZFgxRkY3S05GaGs4ZnRoMTF4ZTk1RmNzS2N6LUhaeDhSci1uc3JLM0JBbFVCb19td0wxMl90NnF3QW9kaXN4MDJ1OVhTVnpPVERvcXJNWVRvWFJrVlHSAZYBQVVfeXFMUC1JVUlRNk16S0VCWnlfUVdxUW9rV0xWWjlsSkZQN0VQR1pQSlhCUXpQaS1mV3hlZFVSTkhZZkZVZmRYMUZGN0tORmhrOGZ0aDExeGU5NUZjc0tjei1IWng4UnItbnNySzNCQWxVQm9fbXdMMTJfdDZxd0FvZGlzeDAydTlYU1Z6T1REb3FyTVlUb1hSa1ZR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fc59091854",
@@ -2141,10 +2322,11 @@
    "src": "Intellectia AI",
    "d": "2026-10-08",
    "title": "Custom Silicon Revolution in AI Growth",
-   "sum": "From Intellectia AI.",
+   "sum": "An industry report analyzed the expansion of custom AI silicon and its impact on computational growth.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16VEVpSFNRTk9HUlVlTlVqXzFZREpXOEprUUloTWJfZDA2NFhTNVdQbFliQWxqRXBBdDNuTllpX19WMW5uRFNqMzFmNXZ0M3oxcVZuclEzZ0ZpMlBYY0JzbWh4SlRRVEtBNE8zTVVHV2dpTDY2?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d9dbebbed0",
@@ -2257,10 +2439,11 @@
    "src": "finance.biggo.com",
    "d": "2026-10-07",
    "title": "Why AI Agents Should Have Their Own Sandbox — Philipp Schmid, Google DeepMind｜AI Engineer",
-   "sum": "From finance.biggo.com.",
+   "sum": "Google DeepMind engineer Philipp Schmid argued that autonomous AI agents should operate within isolated software sandboxes.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9heHRLTGpWVTMtTHZlU2xscy1JUkZsa2pDbzhZNk5abDVvbVhkeG55cW4wNHdsYU91blhPLU5wTF9KRUlIRmhkMFRSdUFrR2U3akVneG5VR1FoMnF5LUZF?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a59fea1f7d",
@@ -2373,10 +2556,11 @@
    "src": "Hugging Face",
    "d": "2026-10-07",
    "title": "Introducing Falcon ASR",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face released Falcon ASR, an open automatic speech recognition model.",
    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3b78fdefe8",
@@ -2385,10 +2569,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "OrBIT: Structure-Guided Embedding Compression",
-   "sum": "Embedding tables are among the largest components of modern language models. Most compression methods fix a coding geometry such as coordinate blocks, low-rank subspaces, or unrestricted…",
+   "sum": "Researchers introduced OrBIT, a structure-guided embedding compression method to reduce language model memory footprints.",
    "url": "https://arxiv.org/abs/2610.10385v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "13db7f7d2d",
@@ -2397,10 +2582,11 @@
    "src": "arXiv",
    "d": "2026-10-07",
    "title": "ResidualQuant: KV Cache Quantization for Looped Transformers with 2-Bit Residuals",
-   "sum": "Looped Transformers improve parameter efficiency by repeatedly applying shared Transformer blocks over multiple recurrent loops, increasing computational depth without increasing the…",
+   "sum": "Researchers proposed ResidualQuant, a 2-bit residual KV cache quantization method optimized for looped Transformers.",
    "url": "https://arxiv.org/abs/2610.10381v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a6374f0b15",
