@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-10T22:06:13Z",
+ "updated": "2026-10-11T02:54:58Z",
  "items": [
+  {
+   "id": "771f887ac4",
+   "t": "anthropic",
+   "c": "",
+   "src": "FOX 7 Austin",
+   "d": "2026-10-11",
+   "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police",
+   "sum": "From FOX 7 Austin.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRkExLW1yZlBoaWp4UDNIVlVYRU5vUEZzeDEyeG0wc0hwU2ZYc3FTa3RULVJMdy1EX0gybDlLNHY2M1JuUDVxcUdXNFoyRG5NX2ZpWDExSHR3UEhUM3RZR3Q4Sm5VRVNfc2UzZEZwdGRaV05vRF9JZ1I4cS1xeGNjdno5R0MwbzdTRVRWVVdwUW5ZcUZSVU05N0ZIblZSV1I1UkJF?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b6ff32ab82",
+   "t": "anthropic",
+   "c": "",
+   "src": "upi",
+   "d": "2026-10-10",
+   "title": "Anthropic AI model sends police false tip about unsolved homicide",
+   "sum": "From upi.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "5d3779d66b",
+   "t": "palantir",
+   "c": "",
+   "src": "Techi",
+   "d": "2026-10-10",
+   "title": "Palantir stock jumps 5.2%: sovereign AI faces an overseas test",
+   "sum": "From Techi.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FX29xWXBtNVBWNkkzMC1fYXF3Q2hKalFIUFZCOFp2OXlZeVNkWjlrTWtoT0hPT29mWmZySl9URks2UGpRR0JYNjVoY2ZGVE9jNGg1YWJBTE1xSDZyQ3o5c3VXY1NvX1dJUHJIQ3Z1My1IMVEtNEE?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "d05facb80f",
    "t": "industry",
@@ -416,6 +452,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "cbb5ba2911",
+   "t": "models",
+   "c": "",
+   "src": "Cloudflare Blog",
+   "d": "2026-10-09",
+   "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+   "sum": "From Cloudflare Blog.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Tbm5FNGUwaXFPQ3B5MlBiaGdCMXUzM05BdlVwYlVtSk4zX3pFSmFYb1dadm9Uejl1M3JTNThJZXJZaEJvQ19DTFNNZUZSeDE0VW10bWZZTXVJQS1rZF95S2h2NDIwbHJWX1pB?oc=5",
+   "wp": true,
+   "mp": false
   },
   {
    "id": "430e601b1b",
