@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-11T22:39:55Z",
+ "updated": "2026-10-12T03:21:01Z",
  "items": [
+  {
+   "id": "de842fbe6f",
+   "t": "anthropic",
+   "c": "",
+   "src": "ABC News & Headlines – Australian…",
+   "d": "2026-10-12",
+   "title": "Claude's fake murder tip-off speaks to 'carelessness' of AI companies, expert says",
+   "sum": "From ABC News & Headlines – Australian….",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT091a1dGcURIN2E5YVdTckU1QlNRTVB5aEJjdEw4a1gyeDBNdUQ1UGN2MEF2QVo1TjVEVG5nV2w4aWpCMy1uWnV4UHVXOXJCTXRjR2szNHlsNFBxRS12WmpjbDJQZl8wblBoUi14Vk9seW1mY3J0Y3VYWHFUcmFyejFlT09qOU0zbkpJWkNiMUZvaGNJS0pDdENxNDBScDNLcmxjczl3MG0?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8f43eeb56b",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-12",
+   "title": "Palantir Technologies Announces October Seoul Pop-Up with Korea-First Exclusive Merchandise Release",
+   "sum": "From Yahoo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVlWZFoxeHI0RDI3bXpEYnNWOWdYQ1RpQWVYOTB5WEdOc2xDTGY5X3B1TWVCUmwxaVdrX3QzS3BHUHJnajhMSGRheVV0eERILW44cHFVcjRTZVAxaHVBZ1BoS1BGMDk2RzlEMzU4enZjTzhPWlh3Y2FpUVdtV1dwc09CM0VhNUR4T2t6Vm84TTBQcmpseTJSMkZwc2t1SnpacUVmc1hiaXVoeUJQZVE?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "abdc33806a",
+   "t": "gemini",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-12",
+   "title": "Google Defends $15B India AI Hub Amid Water Fears [2026] - https://tech-insider.org/",
+   "sum": "From https://tech-insider.org/.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjA2N2pZb2dQSlEtT0JWOHBPVldrQzRHdnU1eU51bjFlTGFXVWRhblZZOWNMV3lENDFFdjFhTTcyTm9weVlBdFM2bnhYZFFaOVVGX3E0bjZ0UUpVaFMzeGlNZDJMSkF5aGlkVGNlODlqVF9RSTJRME9NaDdTTTlUQw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f7b0c77fab",
+   "t": "eff",
+   "c": "",
+   "src": "디지털투데이",
+   "d": "2026-10-12",
+   "title": "VeselAI to provide global inference infrastructure for Upstage Solar Pro 4",
+   "sum": "From 디지털투데이.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1VpU1ZaRFk3LWNDRmRGaVRYcjJMb3VzRDkzaV9Xa25oNGQwQkdqY1kyTjVicjQ5YTdUcHR2LXV3QjRKQnI0X3dOaTd3ZVVweE41SFA5bW9XOVNkZjRQMDNhQzEzZHR4a2lVZmVJUjVlRzFPek1QZHlJU25hOXU1dlp5OHlXdDBUeEF4REdvZk5kMHJwUjZZc3VMb2EzT29kWXN1RElnY2RyZmtudW9DQ1c5LW9scHY4b2w2bg?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "d919c71103",
+   "t": "anthropic",
+   "c": "",
+   "src": "Search Engine Journal",
+   "d": "2026-10-11",
+   "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests",
+   "sum": "From Search Engine Journal.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak91SVNpZkcxalQ3M2RINkFzMXdqY19UQVZsYTNyek9HWC03aFlScDVmZDRma0RtVkc4YTJTcDcwZDNqVEVhSFpuMzBDVk1PU2c2VDFuNGxMZjY4NHc4RmpISXUxUFZsTkdPcTg3VmFyTUtIVlBfTHh4c1RTaG5FbVFleEFtWkZKeGRxOU1QV2FPRGs?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "5b14e6cadd",
+   "t": "anthropic",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-11",
+   "title": "Claude AI’s Fake Homicide Tip Surfaced After 81 Days [2026] - https://tech-insider.org/",
+   "sum": "From https://tech-insider.org/.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RVzlqNzdtdVpsV3dTM0hRU1d5SmF0YlctaW80eEpaMFppTzc2ZVdUb1FKbmszSF9vR29jbEdGQldnMEpqdXVkYTYtYXRqZnhUcmJRVkc5WTQ1SzhBMktXdHVjd3FSVTRZejhxSnlKekZrSnEx?oc=5",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f3a2aec89d",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-10-11",
+   "title": "Palantir Q2 2026: Record 93% Revenue Growth, 155% Rule of 40, Stock Up 30% — Then Consolidates",
+   "sum": "From TradingKey.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVNYN3B5QVdkM3dLS21MRXhGV2JQcFp4MnpuaGY0WXdiSTBfS09KeDRfeFBES0tDMkh1US1mTXZxMjZQUmJ6bzlPYlhwYmRjdXdPeW9UTVBfaWVCMUdEOUpnTGk1OTdlMF9sRFU0RGV6VDUtcTNVd3E5RXdXbVVhbDVJSHlkbzh1NWRsRzlaaHFQX0tXSlBSRl9KX2YzOEpmRlZWMzlnbHJNLWtCcjJ1WVNQSkM2cGxlS3ZIekI3VHFHYjBHVFlaOWNLS1c0d0ljRDJv?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "e7c85091cf",
+   "t": "gemini",
+   "c": "",
+   "src": "THE ELEC, Korea Electronics Industry…",
+   "d": "2026-10-11",
+   "title": "Google Unveils Gemini Agent for Enterprise Work",
+   "sum": "From THE ELEC, Korea Electronics Industry….",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQk9RdEZzcXhaT3dhN3ZMalVzdlhMR0ZFRlFFaEowMzhlRTY0RTBSSzA4QmJxTW1kN05HX1F1SlVaRE90YXUzX2trR1VzMUdaWjVqSlcwNHFxSDFITUJfNm5uYmJhdW8?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "2a599db62b",
    "t": "industry",
@@ -899,6 +995,66 @@
    "ai": true
   },
   {
+   "id": "e0b58338fb",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-09",
+   "title": "ReplaySSM: Cache SSM Inputs, Not State",
+   "sum": "State-space models (SSMs) maintain a fixed-size recurrent state, but reading and writing it at every decoding step can bottleneck hybrid models. This eager state management causes large…",
+   "url": "https://arxiv.org/abs/2610.13778v1",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4359a135b8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-09",
+   "title": "DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs",
+   "sum": "Low-bit inference on accelerators with native 4-bit support requires quantizing both weights and activations to realize the full throughput gains these formats provide. While post-training…",
+   "url": "https://arxiv.org/abs/2610.13767v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "4a4536f174",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-09",
+   "title": "Overcoming Data Imbalances with Expert Selection Biases",
+   "sum": "Mixture-of-Experts (MoE) models have become the standard architecture for frontier LLMs. The multiple parallel experts in each transformer block theoretically enable expert specialization…",
+   "url": "https://arxiv.org/abs/2610.13370v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f31731c3c5",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-09",
+   "title": "DuoRate: Two-Rate Per-Expert Precision Allocation for Mixture-of-Experts Serving",
+   "sum": "Serving a Mixture-of-Experts (MoE) model pays for expert precision twice: the resident footprint pays for every expert the router can reach, while each batch-one decode step pays only for…",
+   "url": "https://arxiv.org/abs/2610.13328v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "4583bad488",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-09",
+   "title": "S$^3$R: Fast and Faithful RL Rollouts via Self-Sparse Speculative Decoding",
+   "sum": "Fast rollout generation for long-context reinforcement learning with verifiable rewards (RLVR) requires reducing KV-cache traffic without changing the response groups used for policy…",
+   "url": "https://arxiv.org/abs/2610.13202v1",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "cbb5ba2911",
    "t": "models",
    "c": "",
@@ -1638,6 +1794,90 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "f73ecee0e6",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-08",
+   "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+   "sum": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and…",
+   "url": "https://huggingface.co/papers/2610.13944",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c1d2a4ba44",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-08",
+   "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+   "sum": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the…",
+   "url": "https://huggingface.co/papers/2610.13947",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "46d1f5296e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-08",
+   "title": "GraphDecisionBench: Benchmarking System One Models on Graph Tasks",
+   "sum": "Large language models (LLMs) are increasingly explored for graph understanding and decision-making, while System One models such as Jev select directly from supplied options. However, the…",
+   "url": "https://huggingface.co/papers/2610.06354",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "ce2e7a4c26",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-08",
+   "title": "Learning Representations to Guide Pixel Diffusion Transformers",
+   "sum": "Visual representations are largely developed for understanding, yet what makes them useful for generation remains unclear. We study this question in pixel diffusion transformers and…",
+   "url": "https://huggingface.co/papers/2610.12978",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "39f6611570",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-08",
+   "title": "Deploying RDMA for Large-Scale Inference and Training Workloads",
+   "sum": "RDMA can reduce communication overhead in distributed machine learning systems, but realizing these benefits in production requires more than replacing TCP. Variable-size messages,…",
+   "url": "https://arxiv.org/abs/2610.12815v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "46241a4c78",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-08",
+   "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+   "sum": "LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create serious safety and security risks. Runtime guardrails should…",
+   "url": "https://arxiv.org/abs/2610.12813v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "4c7da3854e",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-08",
+   "title": "The Expressive Power of Random-Feature MPNNs Across Graph Sizes",
+   "sum": "Continuous random node features increase the expressivity of message-passing neural networks (MPNNs), but existing theoretical analyses are not fine-grained enough to capture their…",
+   "url": "https://arxiv.org/abs/2610.12809v1",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "b4202ce810",
@@ -4559,6 +4799,30 @@
    "sum": "From Hackaday.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTduSzdXQk1rNlhZRmREUHF3VFFjNm4tOUptcnZhRHU1TmZxTVBQRUJRMGlkQjF3RlgtWktqQ3JxUjc1RWRkMGowdTNKMTM3a0huNjNpamQ5ZmxFeEFYaFZScHY5QTJTdWF2RGpWUHdBVnlFUzdYeEY5NnZYNFJXNDdSTlRCT2ZXN0dqWXJsRQ?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "a1d9e8df56",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs",
+   "sum": "Multimodal large language models have become the dominant paradigm for visual understanding, but incur substantial costs by encoding inputs into dense, fixed-size patch tokens. However,…",
+   "url": "https://huggingface.co/papers/2610.07987",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f5bce14cc2",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-05",
+   "title": "Stateless Language Agents: Scaling Long-Horizon Automated Research",
+   "sum": "Automated research systems increasingly run LLM agents over long horizons, but more inference does not by itself produce more progress: agents replay growing histories, duplicate one…",
+   "url": "https://huggingface.co/papers/2610.07625",
+   "wp": false,
    "mp": false
   },
   {
@@ -10621,6 +10885,30 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "2a11dfe1cb",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "Inducing Process Supervision from Outcome-Only Reinforcement Learning",
+   "sum": "Process reward models (PRMs) have become a key component for LLMs, as their step-level feedback supports both post-training and test-time reasoning. However, training strong PRMs remains…",
+   "url": "https://huggingface.co/papers/2609.36641",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "55104fe275",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "Video-RSI: Recursive Self-Improvement of Video Understanding Agents via Harness Evolution",
+   "sum": "Video understanding agents acquire evidence through an executable harness that controls what they observe and how they use those observations. However, execution traces contain only the…",
+   "url": "https://huggingface.co/papers/2609.37950",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "f81bf57009",
