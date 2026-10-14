@@ -1,6 +1,102 @@
 {
- "updated": "2026-10-13T23:10:03Z",
+ "updated": "2026-10-14T02:46:28Z",
  "items": [
+  {
+   "id": "5b37e4a213",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-14",
+   "title": "Palantir CTO Blasts Silicon Valley’s ‘Doomsday Cult’ Over AI Safety — Says Pentagon Has 'Already Replaced' Anthropic",
+   "sum": "From Yahoo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlZ1TVdkbzZuZHBTdW1ud0hzb21KQW1lOGlDR1JUTmxPbDdJS0JoR0JabkNPNXIyR3ZNQUpwUTM1bExTRTZ1RURKMmFMdHJPakJZd2RkaktsMTg0YXVDNkkxeTNya1ZEbDBnOUNNUElFZVo3MGVCREU5Tk0wUjZKdEF6VG9RSkt4cjc1bVh1OUw2Z0lCNUU3MGVMZnZrYWM?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "a2d00ff109",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-13",
+   "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "sum": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer…",
+   "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "efd4a0d661",
+   "t": "anthropic",
+   "c": "",
+   "src": "CNBC",
+   "d": "2026-10-13",
+   "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+   "sum": "From CNBC.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3JOdkNVSmNxeGNMNUdLa2w4SVpweUxZMzFKVURXOWt0MlZSV3ZSVDZuTlNNOWp5WjZnX3plY295MDk0YXl2RkFLcEZMUFJBenNuR2VySEhlS2J2VFNqV09zeHFGb002cC14eEpsd25FYnRZVGlHRW1TTElYZV9qN1U4OTVqQVpiRGNPUkRnR25sc3Z3MFVOaDBpVUduSUxKeWxDRkUtc9IBrAFBVV95cUxNWkluVXhmLU9VUkxwc1RMQnlFa2FRWWhPZXNHUU91c2ViUUhWcUQ5bTRJUG53N2dNbHJtVGZxX0xuaEU2UEl0WXY0UE5MYzdzZjNxMTgzQ2xkV2RfWUozMUdOdzJxTFk3cG1yVUFtVkRCcmZNeVAxX2tsM1pBZVFjS3V4OVd2RF9IbklZU3NRSGdYaktiZ1ZYZDhZa2lMQVRFWmZ5dFJJeExWazBp?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "67d40eaa92",
+   "t": "anthropic",
+   "c": "",
+   "src": "Yahoo",
+   "d": "2026-10-13",
+   "title": "Anthropic Admits AI Helped Houthis Develop Missiles That Could Correct Their Course",
+   "sum": "From Yahoo.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHF3OVMzM2VHU2dMOXhSeWUyNGIxLS1CYUFEaHhTZExmanZRQzBFRV90Z3FQUkZ6dXVmNTQ3STBPaEhtNTRKcFMyancyTFFydy16TENCVENTOHhTMEZ5MmhrVnZqWVVWbmlUcFJLZGFSY0dkVXhjd0NpRGRFOE14LTlMNTZpN0FBU2k3LTd1R0J6aWJpOGc?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "6994eebdc1",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Nation",
+   "d": "2026-10-13",
+   "title": "Anthropic Wants You to Be Kind to Claude",
+   "sum": "From The Nation.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81SWI4bU03S2d4M2gzX2pYMG8zSG5oOF9ZUmRCd3VERDVrUGozcGI4ZUQyclNLeWRYS1dWQ0lKeFY0VlEwTldWVmVfUU9vek13UGhSbkdvcXI4S0EtZW52UTFKdjdldTVzR0xZZ01Ec9IBd0FVX3lxTE1Qd1lBazhBcmZMR1N5NS1ab0UwbExhOGI0WXRQZ3U3aElwQUFJaE0xblJuOUpmXzl3amhQSVVMcVBlcDNrNEkxTEZ3ajdVUWdvbG5RNzZ2QnFiWjIyRmRDQmxUSmNFZmY0QWJuZUFiNHIwLUtpZjU0?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "780cc0646a",
+   "t": "gemini",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-10-13",
+   "title": "Google releases Gemini 4 Argon, its new frontier model: Benchmarks, how to try it, and pricing",
+   "sum": "From Mashable.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZGlQM0xOMUw2NkM5ZVBUb0UzeXVFZV9BcEp4cGY4RzdyVjNDRXVPM3pQdUp2UnladkZmeDRYZGVsdDF1VG9qekhNaU5xeXVYVkRQSjVZdnhvTjZmWUtYVi1tUzhwZTQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "93e6d2971c",
+   "t": "gemini",
+   "c": "",
+   "src": "The GitHub Blog",
+   "d": "2026-10-13",
+   "title": "Gemini 4 Argon in GitHub Copilot",
+   "sum": "From The GitHub Blog.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW83SVlUWUZTQTIxbEJZc0dTYUhMcXdVTF9iRmtWVTh3WUtZZ05NTTR4UXF2QjQ5Qy14MDdGQ2d4NzZHOTdQNHJiUDc0ZG1RTG5IMEYwbHU5ekJ4cTE5ZmVTSXVvZFcxOGg2WFBpU2V3X1hWNmpnMEI5YXhaWFE?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "39bec51183",
+   "t": "gemini",
+   "c": "",
+   "src": "PYMNTS.com",
+   "d": "2026-10-13",
+   "title": "Google Says New Frontier Model Excels at Deep Work Across Domains",
+   "sum": "From PYMNTS.com.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTNaaWN1a19OWUZhNmg0dFpfQ2JhRDFGcVVhUjlJbkFiWmN0NXFmX0FYRTZkVzBjc2xEanBleDczWHF4d21yekpKRk9tbkdRVGFETHNZRGtjdlJzN05QYU5TTzdmMnBvWTdHR0Z6MzJpV1ZzaUd2UzkxUXZBbElnbi1HXzVTSzNwWldmYXpEelNrRlBBbmFNeDEyb3JScDRheXBES0FlUUFHNFpSV3NhOU9KNUo0UXFoVnhyTG50elY?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "314375845b",
    "t": "industry",
@@ -812,6 +908,30 @@
    "ai": true
   },
   {
+   "id": "466d2f6297",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-12",
+   "title": "Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models",
+   "sum": "Large language models (LLMs) have demonstrated remarkable capabilities in solving complex tasks in coding, mathematical logic, and iterative reasoning, especially by coordinating…",
+   "url": "https://arxiv.org/abs/2610.16165v1",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "432420b212",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-12",
+   "title": "When Does Compensating Inherited Quantization Error Help? Mean-Square Guarantees for Layer-Wise Quantization and Their Limits",
+   "sum": "Layer-wise post-training quantization methods let each layer compensate for the quantization error inherited from earlier layers. We ask under what assumptions such compensation guarantees…",
+   "url": "https://arxiv.org/abs/2610.16020v1",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "3e9e4ae1b8",
    "t": "eff",
    "c": "",
@@ -1495,6 +1615,78 @@
    "sum": "From 디지털투데이.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1VpU1ZaRFk3LWNDRmRGaVRYcjJMb3VzRDkzaV9Xa25oNGQwQkdqY1kyTjVicjQ5YTdUcHR2LXV3QjRKQnI0X3dOaTd3ZVVweE41SFA5bW9XOVNkZjRQMDNhQzEzZHR4a2lVZmVJUjVlRzFPek1QZHlJU25hOXU1dlp5OHlXdDBUeEF4REdvZk5kMHJwUjZZc3VMb2EzT29kWXN1RElnY2RyZmtudW9DQ1c5LW9scHY4b2w2bg?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "385cff3935",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-11",
+   "title": "Error-Based Bidirectional Predictive Coding Enables Deep, 4-Bit Predictive Coding Networks",
+   "sum": "Predictive coding networks (PCNs) promise properties not offered by backpropagation-trained networks: learning from purely local information, a single network that both discriminates and…",
+   "url": "https://arxiv.org/abs/2610.15933v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "3fa7b8e9e8",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-11",
+   "title": "Fast and Accurate: Improving Personalized LLM Performance by Semantic Concentration Inspired Workload Split between RAG and Fine-Tuning",
+   "sum": "With ever increasing personalized large language model (LLM) services, the next question to answer is how to improve the quality of services/users' experiences, which is indicated by…",
+   "url": "https://arxiv.org/abs/2610.15921v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f27bfaf7ef",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-11",
+   "title": "To Cache or Not to Cache: Understanding and Mitigating Safety Incompatibility in Cross-Model KV Cache Reuse",
+   "sum": "Cross-model KV cache sharing reduces prefill computation by allowing a receiver model to reuse prefix KV states generated by a related sender model. Existing methods optimize such reuse…",
+   "url": "https://arxiv.org/abs/2610.15721v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "58451749f6",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-11",
+   "title": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention",
+   "sum": "Linear attention promises the efficiency needed for long-context language modelling, yet its fixed-size recurrent state must simultaneously support ongoing computation and preserve…",
+   "url": "https://arxiv.org/abs/2610.15715v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "deb753aa6d",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-11",
+   "title": "Preserving Updates in Low-Bit Recurrent State Quantization",
+   "sum": "Linear attention and recurrent models compress past tokens into a fixed-size state that is updated at every step. However, storing these states in high precision incurs substantial memory…",
+   "url": "https://arxiv.org/abs/2610.15709v1",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "8460c1224b",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-11",
+   "title": "Context-Aware Precision Scheduling for Small Language Models",
+   "sum": "Small language models (SLMs) used as on-device agents must balance accuracy and latency as their context grows. Mixed precision helps manage this tradeoff by assigning different precisions…",
+   "url": "https://arxiv.org/abs/2610.15640v1",
+   "wp": false,
    "mp": false
   },
   {
@@ -2480,6 +2672,42 @@
    "ai": true
   },
   {
+   "id": "0e4f5bcb87",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-09",
+   "title": "Vela: User Behavior as Supervision Sparks LLM Intelligence",
+   "sum": "Large language models are increasingly deployed in applications that act on users' long-term behavior histories, from personal assistants to recommendation and advertising systems. These…",
+   "url": "https://huggingface.co/papers/2610.14709",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f03ae1af47",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-09",
+   "title": "ShellElastic: Scalable Elastic Pretraining with Simultaneous Maximal Updates and Hyperparameter Transfer",
+   "sum": "Foundation models need to support diverse inference budgets, yet training a separate model for each budget duplicates pretraining effort. Elastic models train several nested sub-networks…",
+   "url": "https://huggingface.co/papers/2610.15124",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "bb1a5a2035",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-09",
+   "title": "PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces",
+   "sum": "Deep research requires connecting multiple steps of search, reasoning, and computation, with intermediate findings guiding what to investigate next. As investigations grow, agents must…",
+   "url": "https://huggingface.co/papers/2610.15208",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "e0b58338fb",
    "t": "papers",
    "c": "",
@@ -3279,6 +3507,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "05eb4aa6db",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-08",
+   "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+   "sum": "LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically…",
+   "url": "https://huggingface.co/papers/2610.14224",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "a678dc12be",
@@ -4403,6 +4643,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "3760b95c6c",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-07",
+   "title": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+   "sum": "Joint-embedding predictive architectures (JEPAs) learn compact latent world models without pixel reconstruction. Existing JEPA pipelines typically train visual representations and…",
+   "url": "https://huggingface.co/papers/2610.12818",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "bba6cce3b7",
@@ -12684,6 +12936,18 @@
    "ai": true
   },
   {
+   "id": "2f543e5bd6",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-28",
+   "title": "PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos",
+   "sum": "Evaluating the physical consistency of generated videos remains a fundamental challenge. Existing approaches rely on off-the-shelf vision-language models, which can often be myopic to…",
+   "url": "https://huggingface.co/papers/2609.38377",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "afcd57cc37",
    "t": "papers",
    "c": "",
@@ -14137,6 +14401,18 @@
    "ai": true
   },
   {
+   "id": "f77472af9c",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-27",
+   "title": "Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment",
+   "sum": "Modern AI models are aligned through post-training to adapt them to downstream tasks. Recent work shows that fine-tuning language models on narrow tasks can induce emergent misalignment…",
+   "url": "https://huggingface.co/papers/2609.35291",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "ab01accd45",
    "t": "papers",
    "c": "",
@@ -15319,6 +15595,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "ed438fcc98",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-09-25",
+   "title": "DoSA: Dots Sparse Attention",
+   "sum": "Sparse attention visits few keys, yet finding them can still require scoring every key with every indexer head. We introduce DoSA (Dots Sparse Attention), a lossless method for making this…",
+   "url": "https://huggingface.co/papers/2610.13990",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "1d3d6b0d71",
