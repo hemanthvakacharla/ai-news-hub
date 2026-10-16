@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-15T21:52:59Z",
+ "updated": "2026-10-16T02:16:02Z",
  "items": [
+  {
+   "id": "1fe6c221b2",
+   "t": "engines",
+   "c": "",
+   "src": "vLLM Blog",
+   "d": "2026-10-16",
+   "title": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
+   "sum": "Inside the Kimi K3 optimization effort: understanding the bottlenecks and the decisions that made inference faster",
+   "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ba4e7337ab",
+   "t": "industry",
+   "c": "",
+   "src": "Hugging Face",
+   "d": "2026-10-16",
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "sum": "From Hugging Face.",
+   "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c9c43f1e32",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-15",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "sum": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "wp": true,
+   "mp": true
+  },
   {
    "id": "21e3505542",
    "t": "models",
@@ -680,6 +716,42 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "5b5be1928c",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs",
+   "sum": "Large language model (LLM) agents now fix software, operate computers and serve customers, but their harnesses, the programs that run them, call a large LLM at every step, which makes long…",
+   "url": "https://huggingface.co/papers/2610.21412",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "631b6d8df7",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference",
+   "sum": "Long-output inference in large language models suffers from severe KV cache memory and bandwidth bottlenecks. While KV cache quantization alleviates this issue, low-bit quantization (e.g.,…",
+   "url": "https://huggingface.co/papers/2610.19605",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "eee24a5e3f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes",
+   "sum": "As coding agents become increasingly capable, robust evaluation requires a broader and more diverse supply of verifiable software engineering (SWE) tasks. However, real-world tasks are…",
+   "url": "https://huggingface.co/papers/2610.21359",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "2d06fe1fe8",
@@ -1529,6 +1601,30 @@
    "sum": "From Yahoo Finance.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlZ1TVdkbzZuZHBTdW1ud0hzb21KQW1lOGlDR1JUTmxPbDdJS0JoR0JabkNPNXIyR3ZNQUpwUTM1bExTRTZ1RURKMmFMdHJPakJZd2RkaktsMTg0YXVDNkkxeTNya1ZEbDBnOUNNUElFZVo3MGVCREU5Tk0wUjZKdEF6VG9RSkt4cjc1bVh1OUw2Z0lCNUU3MGVMZnZrYWM?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "9971e6745a",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-13",
+   "title": "Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation",
+   "sum": "Unified multimodal generation covers discrete, continuous, and hybrid paradigms. Discrete approaches with single-codebook visual tokenizers align naturally with text modeling but have…",
+   "url": "https://huggingface.co/papers/2610.20818",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "11eab342d9",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-13",
+   "title": "CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation",
+   "sum": "Reasoning distillation requires chain-of-thought (CoT) data with correct answers, but obtaining such data efficiently remains challenging. Forward CoT generation (FCG) followed by…",
+   "url": "https://huggingface.co/papers/2610.20828",
+   "wp": false,
    "mp": false
   },
   {
@@ -2639,6 +2735,30 @@
    "ai": true
   },
   {
+   "id": "ba75719472",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-12",
+   "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+   "sum": "With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding…",
+   "url": "https://huggingface.co/papers/2610.18829",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "fe66ad25d0",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-12",
+   "title": "MFVSR: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal",
+   "sum": "Video subtitle removal (VSR) is an important video restoration task, yet existing evaluation remains limited by low-resolution datasets, fragmented test sets, and generic video-inpainting…",
+   "url": "https://huggingface.co/papers/2610.18461",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "887890271f",
    "t": "papers",
    "c": "",
@@ -3461,6 +3581,18 @@
    "sum": "From 디지털투데이.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1VpU1ZaRFk3LWNDRmRGaVRYcjJMb3VzRDkzaV9Xa25oNGQwQkdqY1kyTjVicjQ5YTdUcHR2LXV3QjRKQnI0X3dOaTd3ZVVweE41SFA5bW9XOVNkZjRQMDNhQzEzZHR4a2lVZmVJUjVlRzFPek1QZHlJU25hOXU1dlp5OHlXdDBUeEF4REdvZk5kMHJwUjZZc3VMb2EzT29kWXN1RElnY2RyZmtudW9DQ1c5LW9scHY4b2w2bg?oc=5",
    "wp": true,
+   "mp": false
+  },
+  {
+   "id": "2390789f9e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-11",
+   "title": "Calibrated Typed Decisions for Entity, Relation, and Event Extraction",
+   "sum": "Information extraction models often perform well on the datasets they are trained on, but transferring to new domains and annotation guidelines remains challenging. Supporting…",
+   "url": "https://huggingface.co/papers/2610.17113",
+   "wp": false,
    "mp": false
   },
   {
