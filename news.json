@@ -1,6 +1,58 @@
 {
- "updated": "2026-10-16T21:52:56Z",
+ "updated": "2026-10-17T02:04:55Z",
  "items": [
+  {
+   "id": "14ecbf378f",
+   "t": "engines",
+   "c": "",
+   "src": "vLLM Blog",
+   "d": "2026-10-16",
+   "title": "Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly",
+   "sum": "vLLM implemented CuTe DSL optimizations to accelerate Kimi K3 decode performance on Nvidia GB300 hardware.",
+   "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4a721a6610",
+   "t": "anthropic",
+   "c": "",
+   "src": "Politico",
+   "d": "2026-10-16",
+   "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+   "sum": "Anthropic is privately pitching its own artificial intelligence safety legislation to lawmakers.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e1d099ce45",
+   "t": "palantir",
+   "c": "",
+   "src": "AOL.com",
+   "d": "2026-10-16",
+   "title": "Palantir Stock Is Near Its Record. Here's the Price at Which I'd Buy It.",
+   "sum": "An AOL financial column assesses Palantir stock valuation near record highs and suggests ideal entry prices.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONC1uakd4cU1fdllERmtzZDkxLTdFc1BlS2Y1eTFpS19ZV1R2cmZmNjNEOXV5Sno5RHhvSXRRSlZWNFVod3dPWnQwQkVLTi13ckdCbFh6SXJwUkxDM1lnV0xrOWZuNWRRd25hMjlJbWNfVnNGU1Z2QnJWbVZ3RDZ3VlZn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6bf2027d8a",
+   "t": "eff",
+   "c": "",
+   "src": "The Register",
+   "d": "2026-10-16",
+   "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+   "sum": "The Register benchmarked Nvidia's RTX Spark notebook for local artificial intelligence compute performance.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXY2Z3RYZHhkN2pxdDRkWWQ0czZEcmVoa3FxUFdUMDc3M3pqTE9nWmZCQXYtU0tKSUdRUUpXTDlzMDczSVhWeTQyM3BlYUN5T3lBeXBpQjJhMkVtRUw5V3VfSFNaZ3EtdTV0anhLNEZBREtSeVFXQVo2UHJrdlVRQURKTW9uVGFHM1dVSkxDOVg5Q0Q5aGF5bEswbURkTWJUc3J2WFZCcC1RSjVjMXJ0aU5hb202QlVfOERJbGc0RW1UUjJTXzlHSVl4QU5WcWIwdmMzMll5NTdJWW82?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "d0f11237d1",
    "t": "anthropic",
@@ -294,10 +346,11 @@
    "src": "Technext24.com",
    "d": "2026-10-16",
    "title": "Google’s Gemini 4 Argon: What Nigerians can do with the new AI model and what it costs",
-   "sum": "From Technext24.com.",
+   "sum": "Technext24 reports on local use cases and pricing for Google's Gemini 4 Argon model in Nigeria.",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NRWozd19sWGpYa0NNU0FHNzlrM2NBMWhSNFFVU0ZfYS1GN1BMcnY5QjNtbVJqM3E4MEZUaG9lbWY2d29VWkJuaG95NE9NbWgxcTJRMEwwVHM0T2pHZnQ3ajBGZEw5MWxCS0ZVcmRmdy16Z0xOcWt3dGRBdw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "08144c4fd8",
@@ -306,10 +359,11 @@
    "src": "Pasquale Pillitteri",
    "d": "2026-10-16",
    "title": "GitHub rolls out ModernBERT to catch passwords in code at 98% lower cost",
-   "sum": "From Pasquale Pillitteri.",
+   "sum": "GitHub deployed ModernBERT to detect exposed passwords in code repositories at a 98 percent lower operational cost.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3JwV2NOelBaWlpmYmRKN0R0MEVHN2xxaE1QN18yVl9sZnlXLVBpOFBKemNXaE9JbUVRVjBFbUFRUDNfVEhvVm9JNzVtWG5xTWU0S3NZcmxhY0VXcllVMlVCQmE5d3FPQjhFM05lOFFyaDJYSnZRREEtUlRXZ1RtTHNSRWZiZw?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "334cd0a683",
@@ -318,10 +372,11 @@
    "src": "VentureBeat",
    "d": "2026-10-16",
    "title": "How flash storage can cut GPU waste from KV-cache recomputation",
-   "sum": "From VentureBeat.",
+   "sum": "VentureBeat outlines methods for using flash storage to minimize GPU idle time caused by KV-cache recomputations.",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORXVEWmo1T2pkczBERi14UVFVbFJYeDVPbVktdnh1Qm9pamptNVFBdmZZOVE1SHIxY0p3MmUzLVF4T0t1dDhRR0V0enlXLTc0V2wwcHhrRV90dzFjREVJR2tLb2ZFOEpHNk9oaXRyTjB6NnhNNXdZdjgtV2tKWmVQSlUtODVZdjA2TVhRbGNlUWV5ZExVb0g2NzhPREEwWGxCVTZXX2NIWkJBdVlKaFJ0Z2I0dlZ6YmhfamgzT08xbXRfZmJsT1pjeWlFUkg1T1p6WHhpYmFB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "73e6e8ec4a",
@@ -330,10 +385,11 @@
    "src": "PCMag",
    "d": "2026-10-16",
    "title": "Nvidia RTX Spark: Everything You Need to Know Before Our First Tests",
-   "sum": "From PCMag.",
+   "sum": "PCMag previewed the Nvidia RTX Spark notebook ahead of upcoming hardware performance tests.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE95c1AzcmdDbTItRlpNSjZhUGJmZ2pZVnoydTU5bndUbjhsWm5yOER4dlFYLUZfVEcxNWtMZ0h1T2poUTFBSVhjdDFfUHh4dllpc1VLaTJCMWdDaHVqWWdHd1FWUkFzeTA5dlFYMFZTbklxWFhNVEM1c3IyRWZ1ODhfczc0TUtHT015Vm9JM3R0TXM0TVdhdmlB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "03e02abc35",
@@ -511,10 +567,11 @@
    "src": "gHacks",
    "d": "2026-10-16",
    "title": "Google Removes Gemini Pro Models From the $4.99 AI Plus Plan Starting November 13",
-   "sum": "From gHacks.",
+   "sum": "Google will remove Gemini Pro models from its 4.99 dollar monthly AI Plus plan starting November 13.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0NoXzdJc3lZWC01cW95UDFqaG1hQ0xXU1VMSUpkVnl0LW9lWUo3c3FfeHdJZHBJT09PcGp4Ml9pNnladnpNTTVBUmtJVFJhZFdXMWlkT0VNWUg4elNpWWxBV3JHTW5Sd19vZzlZQkQ0R3NRdm9xMUgyTVFGdkxWNENNZ1VEWmhuY2hxcEhMbzdRLTgyMVNxZDR1Mlp2aGhoSWVFNUMxX1lDbGJmNUZEcV9WQ1ZpUQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a53806a9bf",
@@ -523,10 +580,11 @@
    "src": "ActuIA",
    "d": "2026-10-16",
    "title": "Google's Gemini 4 Argon API to double prices on 1 December",
-   "sum": "From ActuIA.",
+   "sum": "Google announced plans to double API pricing for Gemini 4 Argon beginning December 1.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDV2T3BuOFZtQl9Ha2dyZFhJcjA0V0VDTWd3bDJ6Mm5qTGVjTk1WOU1jb05lbXF0MUIyTlV0S0VhVUphSW5JcDVrNmtkc0o4QV9FcHcxcnhjT3ljYkRJeExCRTduS3JmVDc0OGt1NnpXb1VJanVLQmsySzVnLVRzTmxGQVgwYXE5bE9xRkZEa0Nyb00?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c646c89b7b",
@@ -535,10 +593,11 @@
    "src": "9to5Google",
    "d": "2026-10-16",
    "title": "Gemini 4 Argon is now rolling out to Google’s Antigravity for AI Pro subscribers",
-   "sum": "From 9to5Google.",
+   "sum": "Google is rolling out Gemini 4 Argon to its Antigravity platform for AI Pro subscribers.",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0lkdmxxQmhIV1hIaEJ2dS1FOWtUczNKYjJ3czFVSGdRSHVPSTBaa3BWbXJ5STRTZVRfNmZEVEM0c05sU2ZHZEFjUTV2VWVSbmZGaXFJODFNdk55V0NQWWlCaTN6cGFaM09RSFZGYVB4cVZGdEdXb3pYdXo4VGdudGxsVUJPY21PLVN5Q2VPNVdNRjVDTkZiYzlNOVNmeFVZMUJtTDI4aVhkM2ZweDJLYjNwUy0?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9f48a516a9",
@@ -547,10 +606,11 @@
    "src": "CIO Africa",
    "d": "2026-10-16",
    "title": "Google Starts Limited Release Of Gemini 4 Argon To Security Teams",
-   "sum": "From CIO Africa.",
+   "sum": "Google launched a limited release of Gemini 4 Argon to cybersecurity teams.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzhkaUpJUGJNSGlaMWk4WkFhck9tN3QxaWV4QzlHVW9ObjJiWFN3VHRrOWc2aVNKU3dkUHdJcXh1cE5Edkx3Mnh2NWxhWjAyVW5GT0J1ZWRDZEVoaXEteDRieHVUOHNZR3BmazZ1bXJrT2hTN0xKTWE2dXB2bjVkQ1lpU1QzazlqclJOSEtSSlE?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "daac641cb4",
@@ -559,10 +619,11 @@
    "src": "36Kr",
    "d": "2026-10-16",
    "title": "Breaking News: Fable 5.5 Spotted on Azure – Directly Competing Against Google’s New AI Model",
-   "sum": "From 36Kr.",
+   "sum": "Fable 5.5 has appeared on Microsoft Azure to compete against Google's latest artificial intelligence models.",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zOWp2cHA2TnpmSmhHQWxkV05wdGNBWVlIaEhCWmRIMXdhU2l2c2FVdHFTeXVjYVdrVGcyaTgwQlNsMkRhOTh4SU5JMV9OcjFENnRr?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "204ef462a8",
@@ -571,10 +632,11 @@
    "src": "Insurance Journal",
    "d": "2026-10-16",
    "title": "Viewpoint: Model Independence Is the AI Strategy Insurers Can’t Afford to Ignore",
-   "sum": "From Insurance Journal.",
+   "sum": "An Insurance Journal viewpoint argues that insurance firms must maintain model independence across their AI strategies.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWb0o4Z19CZVhfYWM2dTF1Q25IaFRCM0EyOHVKSTktTERpTzkxZjNYM0JZeWxxM2YySjlMeGZ1eXZXMDNTRFhXWl81WEJvdHNYZjBybnE2YWNvT01RVUpuc1JmXzdLcDl5MGtWN1NieE9JNk5GVTlF?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d1fa4cf09f",
@@ -583,10 +645,11 @@
    "src": "ITP.net",
    "d": "2026-10-16",
    "title": "MBZUAI and Inception42 Launch Jais 3 Arabic AI Models for Speech and Agents",
-   "sum": "From ITP.net.",
+   "sum": "MBZUAI and Inception42 released Jais 3, an Arabic AI model family targeted at speech processing and autonomous agents.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0d3T0huZGZGMXQ1Sy1FUTdHc0JWY1c5R2JReTNDUGcwcFJ2TVhyOWdQQ1JfbXBlRUJlNnFXbEppdXpfcmt0QjZzNVppeERJaEJVYi1FT1NjYXI2Ul8yVmhFWTNoZ1A4Q0JVWldhSTNCdHZVRUUzUDVDVktHRFBIZEdtZ05SY2xzUVB5bWhHWEJPZ1VFUW9RUk1OWHpMQ3kyb0p1SzZ0Tk9WMnFuYlE?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1fe6c221b2",
@@ -595,10 +658,11 @@
    "src": "vLLM Blog",
    "d": "2026-10-16",
    "title": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
-   "sum": "Inside the Kimi K3 optimization effort: understanding the bottlenecks and the decisions that made inference faster",
+   "sum": "vLLM optimized Kimi K3 on AMD Instinct MI355X GPUs, matching Nvidia HGX B300 per-GPU throughput on AgentX benchmarks.",
    "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "ba4e7337ab",
@@ -607,10 +671,11 @@
    "src": "Hugging Face",
    "d": "2026-10-16",
    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face released an open data generation pipeline and a 2.8-trillion-token pretraining dataset for Indic languages.",
    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "88352dd84b",
@@ -619,10 +684,11 @@
    "src": "Computerworld",
    "d": "2026-10-15",
    "title": "Apple’s ‘Minions’ tech turns idle Macs into an AI data center",
-   "sum": "From Computerworld.",
+   "sum": "Apple developed Minions technology to aggregate idle Mac computers into a distributed artificial intelligence compute cluster.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEczUUhjR19sVmZuSVc1Ulo0MEZKaTlFcW1sT0h1VWpaLVFNVHJyLTlBUGZ0WG5hUk83TkhUSFFuZGxQMXNqVjFDTjhzRS1GbVlsc0taUk1INlRVMEtkY0ktQ0s0Z2hqVXRPM1FOLWFGcmppUzlKU2dpbTJiNVYwQWFQVWM3cS1FSmVqbUs0Vkc5UnVuWk5Na2REa1JuNmFRTFR1bEd3RWNMcGx0bkE?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "7422d43b16",
@@ -631,10 +697,11 @@
    "src": "Unite.AI",
    "d": "2026-10-15",
    "title": "Juan E. Riojas, Chief Information Officer at Bland – Interview Series",
-   "sum": "From Unite.AI.",
+   "sum": "Unite.AI interviewed Bland Chief Information Officer Juan E. Riojas regarding enterprise artificial intelligence strategy.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGtVRXpfVEJHekhlS25OVkFRWjhvZl9jOTdSaDR4RkZnTUxWV2pLWkNDSUFtVXZibFZkc2RVOTNCZ3k2VnppRlRlXzVJa1NaT1RfMHU0aDhPeUMwZFl0MTJMRDN4dk1XTk9BN3BQdVZWTTg4dm54VWNFeHMtME5tcFMyc1JCb0RLQVhiNzNGREo?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "cdb6b22912",
@@ -760,10 +827,11 @@
    "src": "PYMNTS.com",
    "d": "2026-10-15",
    "title": "Meta Raises Its AI Game as Google Opens Gemini 4 Argon",
-   "sum": "From PYMNTS.com.",
+   "sum": "PYMNTS reports on Meta's competitive AI strategy as Google broadens access to Gemini 4 Argon.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTU9GVTFqbWVHS01VbXdsU0h4eDQ3V1IzaXgzTWJIS2o3MDdoRklic29Xb1ROVWJYTl9oSVJmYjMzTU1MdkswVTlzTDY0a1pOR1V0VWpGQ3J3Z3lXU1hGYURyZDdpMGlkUDlyTlNRaUpmSjFoTkh0WGRwSTNsSFhLYTZiaENidmJBRlV1d2pGWUo5Mm5VSGg4b244VU1QaEp4VG9kQTZOT2tFdTZ0b0xaQ1lR?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0672fac526",
@@ -772,10 +840,11 @@
    "src": "https://www.fintechbiznews.com/",
    "d": "2026-10-15",
    "title": "AI Disruption Risks For IT Svcs Up By Claude Fable 5",
-   "sum": "From https://www.fintechbiznews.com/.",
+   "sum": "Fintech Biz News examines potential disruption risks for IT services companies posed by Claude Fable 5.",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlNncXRnVllBd2NWRmtqbzFwSHJ6V0lNZklhRGh6eHFZOVBDR0R2SktsRjN2a0dtTFh3SWZTR2o0ajBZNWs4RERkTkIzeTUzcnFBbVl5UDluSDJrdkdFNTNOT0N4cS02cXpuYlRDMWxMS2VBUHJnZEhMYnJWN1JSbTBZN3hkUTlBUTVXanQ4cm8tUWJ1blJKbEsxa0NRTG11bGlITWJ3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e862de361e",
@@ -784,10 +853,11 @@
    "src": "HPCwire",
    "d": "2026-10-15",
    "title": "Tensormesh Targets Redundant LLM Computation with Enterprise Caching Platform",
-   "sum": "From HPCwire.",
+   "sum": "Tensormesh launched an enterprise caching platform designed to eliminate redundant LLM inference compute.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEZtejJYMno3YVYxeF9XamRQQ1N3Q3hlVjVEVnZPS2t4ejEwVE5QeWRYRzFtSVgwc1BqRFAzQlcwZWpXamZhSmF0VnhfTTVfeWdwU3VTdnFlNy1JRXQ5SHk3WnFCRHVuS19CRkNjTTI1d0dwQ245a0duYWpkQU1YYjAzdkx6a2tBZWRuTkVSQU9JODJxNDhDWGRFRTFuYjJfTWtRaXhlM0o3eFJ2RnpFR3NOVndMRmNYSnIxNA?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e9b489d449",
@@ -796,10 +866,11 @@
    "src": "NVIDIA Developer",
    "d": "2026-10-15",
    "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog",
-   "sum": "From NVIDIA Developer.",
+   "sum": "Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model tailored for specialized autonomous agent applications.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW82SDRIOTB3UElVN0NhamZVakJWcEF2ZHg4aWhfODdHYTVmRTFlQzdaR005SXV4U2d0d0FJUnAtenRibGNLUHMxUmM1N24tdS04a3phX1E2ZzEySVZsMFZKQmVoVU9yMk50b2t5bG0wN3BCeUoxaGg5ai1ndzZKNk9XUzY3SUlXNHo3bkprYUU2SmY5TGFJNUEyYUxJVmlwbExoRW5QSE9mQmx4c2FmbXRSbFFWQQ?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "51a2b8a09e",
@@ -808,10 +879,11 @@
    "src": "The Globe and Mail",
    "d": "2026-10-15",
    "title": "Agentic AI Could Push This Trillion-Dollar Chipmaker to New Heights, According to Wall Street Analysts",
-   "sum": "From The Globe and Mail.",
+   "sum": "Wall Street analysts project agentic AI adoption will drive revenue growth for major semiconductor manufacturers.",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUzgwQ3FWazlOZ3dHUGd2dElRWmtHLVJ3di1KSnN6LWloNmxoMXlHcjJJUjhnWF9NRkwtWlVvbURLeGNwemt0THFLZXE5amdrUm5iaW5VWGlTVWdKVEtkWVZ6LXRzTE80NlIyejRaQ21Pb3JjLUc3TVhvQnR6RHQ3c1BPRUhZUXpmenhha3M1NlV6Njl6ZG5Eb2RjSlJYZWw5VHJfZXhHcHY0Z28tdUszaXV3b0VHZzBoYTlid3BLSUxUYk9NUl8zNzNxcDlnRTZUZWQ1TW9mVnl6YnFXcHlhNU9ZQVRoV2V6ZGpZUG1CWjd1NGppRkJLLVBETXBfemNVekVJSGlreWlWdlhVSy03UkVBcw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c9c43f1e32",
@@ -820,10 +892,11 @@
    "src": "TechCrunch",
    "d": "2026-10-15",
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "sum": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+   "sum": "MyFitnessPal acquired viral calorie-tracking app Cal AI after the startup generated over 30 million dollars in revenue.",
    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "21e3505542",
@@ -1131,10 +1204,11 @@
    "src": "Lifehacker",
    "d": "2026-10-15",
    "title": "Google Just Removed This Major Perk From Its AI Plus Subscription",
-   "sum": "From Lifehacker.",
+   "sum": "Google is removing Gemini Pro model access from its entry-level AI Plus subscription tier.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDVOeWNPTGRzeDc4bUoxZ2huRzlsc3lPRGdvRU94bklqQTROQnpUMXlJcjFNZ3VURkNNZHVmZnNVYTZNalV3bXJkd0x6YmdkbnpCVnMzSF9oNXV5d0J6Y241VGJEd1ctZDk0ejNuNTZjY0R0cDQ4Q1BYMlFudjZRREhtZ2hyQUVpNUxva2tRelgwUHRSdUNBTg?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1f57a6d163",
@@ -1143,10 +1217,11 @@
    "src": "Droid Life",
    "d": "2026-10-15",
    "title": "Your Gemini Pro Cost is Going Up Considerably",
-   "sum": "From Droid Life.",
+   "sum": "Droid Life reports on upcoming subscription price increases for users accessing Google's Gemini Pro models.",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRG1UZWxHUDF0aFdfeWJLS1ZFc3NWVUJvUGViTVViRnRvVVhWd2wtT0lZOE5MeS00X2NNNmxzblVEbjFIYmVLSHB3UDB1RkFSOWxTR3I2elRtMnZ3MnlzVnZoSlY2eUd5MU9JU2hKVkxJXzFNSDlraHpSUUNqNFFES1hxMnY3S1JHSHFObw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "06fec64456",
@@ -1155,10 +1230,11 @@
    "src": "The Decoder",
    "d": "2026-10-15",
    "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-   "sum": "From The Decoder.",
+   "sum": "Google is positioning its Gemini 4 Argon model as a unified foundation system for robotics.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmM3Z0p3Q0pZXzBiNFRKWFZfT21Rd1l0cUdRa25mSU15OHpiczV6WXNFWGdYZjRUb0JhbGQwUzRNSjh5c3dmcHc3MFVfWnRDQ1h6SG4yRWw2ZEZOUm44dk9xWHZZQzNFbmNsLU02UThhN056WDd4Wl9GeWxocUFPM1dLOUVHQzZNSjhpUlJzQUd4UQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dd44af11aa",
@@ -1167,10 +1243,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-10-15",
    "title": "Gemini 4 Argon Powers Android Studio’s 1M-Token Push [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "Android Studio integrated Gemini 4 Argon to provide developers with a 1-million-token context window.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XeVFTcGVoSWVkZnk1Q3RmemlUYnltdFU4LVpjbkJLTzNZWW9STF9EcjY3NG00RTlLeVQ2bHNYZ3NxMHRScEhwaXNpTHpmMjNOUFp5NXh2a1pQSkR2d3FRVVczQTY0bkdnc2RocURzdEhSTlBXc2JET2VHR0F1d3M?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "332cd8bb85",
@@ -1501,6 +1578,19 @@
    "title": "Palantir CTO says AI researchers took up smoking to prove a hypothesis",
    "sum": "Palantir's chief technology officer claimed AI researchers took up smoking to empirically test a hypothesis.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEFmeWJXUmdMNEpvOHdENlJ6emxxQng1VDJnU29BMnZGLTlXb282NHVRcXRNaDJmUGpQUGJTcjFBend4bmhKZThZRW1NRVBPaGlJYU9yUF95NXR2bjBRX25yd29HRnppOEY0bWQxZEFJbGxXbER0bFlDWHM0UF9DQ05XdmZySVBVNjBmeERCUEk2eUVuYnpwcHl2WQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8c7abe0efe",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models",
+   "sum": "Researchers introduced Mine-Sample-Render, a test-time alignment framework designed to improve output diversity in generative models.",
+   "url": "https://huggingface.co/papers/2610.21185",
    "wp": false,
    "mp": false,
    "ai": true
@@ -28018,18 +28108,6 @@
    "title": "System helps humans predict when self-driving cars will make mistakes",
    "sum": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
    "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "f25655cf7d",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-01",
-   "title": "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models",
-   "sum": "Vision-Language-Action (VLA) models demonstrate strong generalization in robotic manipulation and navigation, but existing fine-tuning methods provide limited safety guarantees. Current…",
-   "url": "https://huggingface.co/papers/2609.13231",
    "wp": false,
    "mp": false
   }
