@@ -1,6 +1,123 @@
 {
- "updated": "2026-10-17T16:45:33Z",
+ "updated": "2026-10-17T21:09:28Z",
  "items": [
+  {
+   "id": "b769f5e984",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-17",
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "sum": "Anthropic reported that its workforce has shifted toward more senior staff and spends significantly more time in meetings.",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "51c1c9a5e4",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-17",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "sum": "Replit switched its default model provider from Anthropic to OpenAI while retaining Claude as an available option.",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "89090bae79",
+   "t": "anthropic",
+   "c": "",
+   "src": "Crypto Briefing",
+   "d": "2026-10-17",
+   "title": "Anthropic cuts Claude Code response lag nearly 3x to 1.33 seconds",
+   "sum": "Anthropic reduced response latency in Claude Code nearly threefold to 1.33 seconds.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51Ylh2SEtjU3BwYlotM3FzODVuaWV4bi1VVEdtUkdhcGtXTFhpTlBQVDdwSDZrRHpZTXZxMDN4eEFBaXBEQUNvck1rX1o1cmtUWXZmOUU4QlRGN0U0WFVOLUdFWFBRWnotYXBRQU5n?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7e39d86b25",
+   "t": "palantir",
+   "c": "",
+   "src": "Simply Wall Street",
+   "d": "2026-10-17",
+   "title": "Can Palantir Technologies (PLTR) Keep Trading At A Premium?",
+   "sum": "An article analyzes whether Palantir Technologies can maintain its premium valuation in public markets.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNGNsbktDU0pKbmQ4TDVRU3FqWnRKbjdQZnR5ZTRNdzd4azVCeU9odVZveUt2Y0ZGUnFFY3F0dU5pN05RT2NQTkVvLU1mS0YyY1hfMk84OGl6MUYyZ0FuM3NjWDVqQ1RpcFZUal9VQm9id2VQRVM3VjFybkpzZEtkR0FKek52bHN0Yjl2a2h3ZHBrVXFFMENZNHZBNGl4VGFKaEdhTGR0Nl84NzFWNWRIbkRtMXAtYlpvbzRIUTVUSVQ3dUFyWnAxWEFjRjFyRWxyQ3fSAdcBQVVfeXFMTWhkYVc0ZUhNakVoR1BHVU8ta2ZsTlZLZ2hEX1Z3ZEU2eGQ5Y2hMUGFHY1BHMmszbVdrMFFoVEczdnMtM25JQlpra0ZRRHc0QWwwVnVENlR3a21CbG9HS2FCUFMyRlA4TWdvXzV4WE16bk5xSnBQTl9YcXRLYmpfcTdCMk9QQ0IxbHpPc245c0Rvb0IyMzNaRHozVklJLXpOMnNKaXVDVUFTaDRhaWh0LXAxcUJPeEtnSE9YUDlPTlBYbWNReWU3aXVhRDYwSEJOQTAwdVVNeVU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5534b16dd7",
+   "t": "palantir",
+   "c": "",
+   "src": "Beinsure",
+   "d": "2026-10-17",
+   "title": "Palantir (PLTR) stock forecast: Wall Street see 11% upside after 7% selloff",
+   "sum": "Wall Street analysts forecast an 11% upside for Palantir stock following a recent 7% drop.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlpJYzY0M0JKTHNVcFpONEY3SWRUUG4wSDgtUHY1dVVJbWsyc0QwX2xoSHIyYlJ3S3pYS3U0STctVmhCXzdqb2lZWUQxU2ltV1Q5eXp4bkRSaUNSYWs4N2xidXR6ckJJN2E5aXNQdHk4V1VFT1NmYk5pQWNWMEprcXFfRzBzVFNTcDdvVkdNaTU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7c8d6db788",
+   "t": "palantir",
+   "c": "",
+   "src": "AOL.com",
+   "d": "2026-10-17",
+   "title": "Is Palantir Stock a Buy Right Now?",
+   "sum": "An investment piece evaluates whether Palantir stock is currently an attractive purchase.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UZGdmU0F3TENWSmQteVhfcjIzN1BuZXRoT1B2VDJweUtNWFExaGtMYWxJZXhWVnh6WEJGX0dCcnNQZVVlZlBLVWFBZVcyd1JJV05Md1ZLamVQU3pPeGRwc0tLYm5qZm9jUF9mbC1HX3V0ZW45?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5a9ec55be2",
+   "t": "gemini",
+   "c": "",
+   "src": "The Next Web",
+   "d": "2026-10-17",
+   "title": "Sergey Brin says Google’s AI now helps build its next models",
+   "sum": "Sergey Brin stated that Google is now utilizing its own AI systems to help develop its next models.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0VHZHFlZkYySzV6a2FqWUI5YTh3UlZzVUhBNHJFN0M2NUFjWlRXdHB2YlJ5NC1RYjhYcVdVdzhlSjV4NHdmenc1bExtMWg3MnN2a0V3VUQ1dkdPOW44VEdyTjRWYkx1b0plbnZlZFBkR2JHOWo1MnlOWmtFb1ZZRHRmYzIyNHJfTXpBQ0o5NXo?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f85d3977a6",
+   "t": "gemini",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-10-17",
+   "title": "Google's Gemini AI helped disprove a 60 year old fusion physics conjecture",
+   "sum": "Google's Gemini AI helped researchers disprove a 60-year-old conjecture in fusion physics.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcU9FV04yMlNqdzNMVjlzNG5BYVdFdU1SRmdxOHlxNnF1Y185ajgyODRaZzljUGZuc1Ayd2RXTGMwcXdOWF90YklWSXRlMW9WSjNWNXlGRV9jeGFjeDVRZDFSU0c0dWNOZjF1VENuOTZZeUI1QkRGd3VjTWFQcFpmT3VuWUE2dG83ZWoxbFJoNXBMc2JCaEJDZlNJcHkwU2J3ZUNV?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f848bb1e61",
+   "t": "gemini",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-10-17",
+   "title": "Free AI Chatbot Compared: ChatGPT vs Gemini vs Claude - tech-insider.org",
+   "sum": "An article provides a feature comparison among the free versions of ChatGPT, Gemini, and Claude.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aTjRpb0UzUUJDU0FuM1FtZ2tobVdwVGVmZEVGcTdZMGd3RTJMQUxqQnR2ZjV5YjdCbTZSV2ZDWDBULVA1ZlNQUlpsUlgwdEZLSDRHTHhsc1BDYjkxMWhSNkVtZjkwRkNGTjM1UHhWak5YSUNvcDBNMG1tREs?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "c9634539a3",
    "t": "anthropic",
@@ -192,6 +309,45 @@
    "title": "Google Cloud offers day-zero support for Reflection's Beam AI model",
    "sum": "Google Cloud introduced day-zero deployment support for Reflection's Beam AI model.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkhQbzhDeVFrWDFoc0JwT0w1eF9KMV9YWDVNenptUG1mdzVaQmQ3OGV5Z2ZpTmdKN215UU84UGw1MlRVUldHNnZDM1lWYU9Fc2RtczJaRXQxMlEzQ1hROHc4eXQ1NUVNc1kzcXQ0MHo4R0pweWlhNWNtUlVSV0VCUUhyV2Q3ekFqQlk2RjRLdjhzcWY5dFBOS2UxRnM4UER3TmfSAaIBQVVfeXFMT0pIUG84Q3lRa1gxaHNCcE9MNXhfSjFfWFg1TXp6bVBtZnc1WkJkNzhleWdmaU5nSjdteVFPOFBsNTJUVVJXRzZ2QzNZVmFPRXNkbXMyWkV0MTJRM0NYUTh3OHl0NTVFTXNZM3F0NDB6OEdKcHlpYTVjbVJVUldFQlFIcldkN3pBakJZNkY0S3Y4c3FmOXRQTktlMUZzOFBEd05n?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d9e7c607da",
+   "t": "models",
+   "c": "",
+   "src": "The New Stack",
+   "d": "2026-10-16",
+   "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+   "sum": "A benchmark review compares the performance of Meta's Muse Wonder against Claude Fable 5.1.",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GVHpxUlpXanZOUTJIVHVMVWJ3SUNRWmFlT2s4SjdfclpILUZ2ZjJ5Q2k3OFBkNy1vckhSdVlEdHRiMHNBU0F6NmlhY3lLUEVLR1FIZldfWFRFbktj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "685dacb199",
+   "t": "eff",
+   "c": "",
+   "src": "Analytics India Magazine",
+   "d": "2026-10-16",
+   "title": "Meta Releases Muse Spark, an 816B-Parameter Open-Weight",
+   "sum": "Meta released Muse Spark, an open-weight AI model featuring 816 billion parameters.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEVLOWdkbFhOOGZWX1cyOXRlQzdueHJTQ2JoQkliaWxIMlc0OTVfRFpOcmxDNUdkcjFpUVF3UHFNRGtEbGRxVXVLQ25xb2gzaWhjMGJ6clhtcmFUOHZmQTI5dVVKeUtLU0E3N1U0S3FyQmRkTFluQ3hmLW1aVWdLd2pYempNLUlsdG8wTGR5ZmFEMmNDMTJsdExrYmo1TVJvYW1DMXVWblhOQ2d4LXk4aGVZTXpKREFCUm05NmR3?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "97f3678ffc",
+   "t": "eff",
+   "c": "",
+   "src": "Gadget Pilipinas",
+   "d": "2026-10-16",
+   "title": "ASUS ProArt P16 (H7607BA) Review: the RTX Spark platform, tested in the work creators actually do",
+   "sum": "A review examines the performance of the ASUS ProArt P16 laptop running the RTX Spark platform for creator workloads.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSVlBTUVESWRJYXcwQnZrZFkwdWxlZjRMVnVsamFoeWlaTFV2YjV3X19VeW85Z3B2dXJ3WTJXMkRzU2VlcGV4NzFRTmwyZGg0SHE1LXpzQ0xJTXo4b2I1U0pEdDB1NmViM3BaWGxYWTRuT0pXMTlJMWRZaTAzZw?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -3167,10 +3323,11 @@
    "src": "Yahoo",
    "d": "2026-10-13",
    "title": "Anthropic Admits AI Helped Houthis Develop Missiles That Could Correct Their Course",
-   "sum": "From Yahoo.",
+   "sum": "Anthropic reportedly acknowledged that AI was used to assist Houthi forces in developing course-correcting missiles.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHF3OVMzM2VHU2dMOXhSeWUyNGIxLS1CYUFEaHhTZExmanZRQzBFRV90Z3FQUkZ6dXVmNTQ3STBPaEhtNTRKcFMyancyTFFydy16TENCVENTOHhTMEZ5MmhrVnZqWVVWbmlUcFJLZGFSY0dkVXhjd0NpRGRFOE14LTlMNTZpN0FBU2k3LTd1R0J6aWJpOGc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6994eebdc1",
@@ -3179,10 +3336,11 @@
    "src": "The Nation",
    "d": "2026-10-13",
    "title": "Anthropic Wants You to Be Kind to Claude",
-   "sum": "From The Nation.",
+   "sum": "An article discusses Anthropic's encouragement for users to interact politely with its Claude chatbot.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81SWI4bU03S2d4M2gzX2pYMG8zSG5oOF9ZUmRCd3VERDVrUGozcGI4ZUQyclNLeWRYS1dWQ0lKeFY0VlEwTldWVmVfUU9vek13UGhSbkdvcXI4S0EtZW52UTFKdjdldTVzR0xZZ01Ec9IBd0FVX3lxTE1Qd1lBazhBcmZMR1N5NS1ab0UwbExhOGI0WXRQZ3U3aElwQUFJaE0xblJuOUpmXzl3amhQSVVMcVBlcDNrNEkxTEZ3ajdVUWdvbG5RNzZ2QnFiWjIyRmRDQmxUSmNFZmY0QWJuZUFiNHIwLUtpZjU0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "780cc0646a",
@@ -3191,10 +3349,11 @@
    "src": "Mashable",
    "d": "2026-10-13",
    "title": "Google releases Gemini 4 Argon, its new frontier model: Benchmarks, how to try it, and pricing",
-   "sum": "From Mashable.",
+   "sum": "Google released Gemini 4 Argon, a new frontier model, along with details on its benchmarks, pricing, and availability.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZGlQM0xOMUw2NkM5ZVBUb0UzeXVFZV9BcEp4cGY4RzdyVjNDRXVPM3pQdUp2UnladkZmeDRYZGVsdDF1VG9qekhNaU5xeXVYVkRQSjVZdnhvTjZmWUtYVi1tUzhwZTQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "93e6d2971c",
@@ -3203,10 +3362,11 @@
    "src": "The GitHub Blog",
    "d": "2026-10-13",
    "title": "Gemini 4 Argon in GitHub Copilot",
-   "sum": "From The GitHub Blog.",
+   "sum": "GitHub added support for Google's Gemini 4 Argon model within GitHub Copilot.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xdW83SVlUWUZTQTIxbEJZc0dTYUhMcXdVTF9iRmtWVTh3WUtZZ05NTTR4UXF2QjQ5Qy14MDdGQ2d4NzZHOTdQNHJiUDc0ZG1RTG5IMEYwbHU5ekJ4cTE5ZmVTSXVvZFcxOGg2WFBpU2V3X1hWNmpnMEI5YXhaWFE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "39bec51183",
@@ -3215,10 +3375,11 @@
    "src": "PYMNTS.com",
    "d": "2026-10-13",
    "title": "Google Says New Frontier Model Excels at Deep Work Across Domains",
-   "sum": "From PYMNTS.com.",
+   "sum": "Google announced that its new frontier model demonstrates strong performance in deep work across several domains.",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTNaaWN1a19OWUZhNmg0dFpfQ2JhRDFGcVVhUjlJbkFiWmN0NXFmX0FYRTZkVzBjc2xEanBleDczWHF4d21yekpKRk9tbkdRVGFETHNZRGtjdlJzN05QYU5TTzdmMnBvWTdHR0Z6MzJpV1ZzaUd2UzkxUXZBbElnbi1HXzVTSzNwWldmYXpEelNrRlBBbmFNeDEyb3JScDRheXBES0FlUUFHNFpSV3NhOU9KNUo0UXFoVnhyTG50elY?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "314375845b",
@@ -3851,10 +4012,11 @@
    "src": "Engadget",
    "d": "2026-10-13",
    "title": "Google's Gemini 4 Argon Is Now Available In The Gemini App And AI Mode In Search",
-   "sum": "From Engadget.",
+   "sum": "Google rolled out Gemini 4 Argon across both the Gemini application and Search's AI Mode.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVVXZmpLVjRJTjJlVThJSWp5UnpQQWNtcl95X0RkV2RNRUNPOVpCSXJQaXg1RWRCdzNCWU03QVYxYkJaWDJLcEswMWhxV2VmejNVYndwcXc0SXBybHo2NmZHbEFWQWNkRklUeG9hbUVQeTlwM3FWWWUwTUZwT2hqNXBrdHV4ZmRROUxrc0ZrUVhTeVhFQkJnUEl0RWhVcGQxLVhpYnNjMTRCYzZCalpkVVJB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0c9c162c4c",
@@ -3863,10 +4025,11 @@
    "src": "Android Police",
    "d": "2026-10-13",
    "title": "Google pulled the best Gemini models from free users; here's the cheapest fix",
-   "sum": "From Android Police.",
+   "sum": "Google reportedly restricted access to its top-tier Gemini models for free users.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05ODFrZjk4a19PNlU1Z2NoclNYS0hfcW1VZWF4YlFwaVg4WVNSUHMzX3lWQzNFVllUem9TaFV3VC1jVDVxaVFOMkpYalhJSUVaLUg3VEdoRkU0RHlTM05FQU5VU0tTNzhWdG5F?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "72b4633dd3",
@@ -3875,10 +4038,11 @@
    "src": "InfoWorld",
    "d": "2026-10-13",
    "title": "Microsoft separates decision-making from generative AI with a new model",
-   "sum": "From InfoWorld.",
+   "sum": "Microsoft introduced a new model that isolates decision-making capabilities from generative AI functions.",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckFGUWF1VXRGSnBXbDQ1TGpibU5xRHdQMkl0ZUk2UUs5YTNkWWtlZUlnR3NIdF9SN0VkZGZuMFFfUUJHNXJEYnNJd0J5c2M1TEZqZlN4Y3dCSTRzR0hDb3p5c2V4WDl6ZFBmR2xnOTRFb2V6c1BodVBLZWUyUDExTzlPSDE3VGNLVEdqY2R5VU45d3VxZWJCVjFvVkVrZUZETElReDMwMVBBMjk1OEp1WVlfMEFNbmFVUFE?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d51e3e46e0",
@@ -3887,10 +4051,11 @@
    "src": "GIGAZINE",
    "d": "2026-10-13",
    "title": "Microsoft releases 'Microsoft-Decision-1,' a decision model similar to Jev's.",
-   "sum": "From GIGAZINE.",
+   "sum": "Microsoft released Microsoft-Decision-1, a specialized decision-making model.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83VXR2QjZpSGpiZGVyRGh4WEpaUll0b1RjdHFjbVQ0OWk3Y2oyNzgzZ0xwcXpucDRNMTNrdmNKSlA2THVmMUVfWHdCR05qMk1HaklGT1lCZzI4cTduaDhkcW15T3ppdUtLaXR1ZHRxZHI?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "df2383d9e4",
@@ -3899,10 +4064,11 @@
    "src": "Artificial Lawyer",
    "d": "2026-10-13",
    "title": "Chinese Company Launches Legal-Specific LLM",
-   "sum": "From Artificial Lawyer.",
+   "sum": "A Chinese firm launched a large language model tailored specifically for legal sector tasks.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlNReGdJTjNKYjRBTXNNMlU1Y1Npdk9EbmtnaWxMQkhIUDUyZVpMTGphWWx2UEwtRXRJQk9qanZsQkNqZHFBMk4za1dTN1JueWhTdVB6azMyaGxHMm5hcjFqWDRXOGQ0ZlNabXBPRk9pYUVob2dReHpLQWRtdkVGbUQwYTVjdUthRE1sV3VQTl9pdw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ff53ed758a",
@@ -3911,10 +4077,11 @@
    "src": "XDA",
    "d": "2026-10-13",
    "title": "You can now use Gemini Argon 4 on the web, and it's Google's most powerful LLM yet",
-   "sum": "From XDA.",
+   "sum": "Google deployed Gemini 4 Argon on the web as its most capable large language model to date.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUtWV1RPS2R0Tzd5ZUkzak5TZThJenBUeks3dU5TZC1QTmczeU9oUnpUODNhUlFFQWdEbGI4S1RqSVVUTTlCbDQ0RTRxcm10a2hQc3FsdWpJV25Rc3dwS2VMVmQ1MUZMTkptOWNQVVFxZnBVVm5Fam95dENsc0FQdzZ0WV9hcnhTMllYend6V3o5N3IwOGhoQ29QbXB3NkluTnQzRFI3STRHV1Y3Q2N2Wg?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7548d55676",
@@ -3923,10 +4090,11 @@
    "src": "Il Sole 24 ORE",
    "d": "2026-10-13",
    "title": "Gemini 4 Argon now available to the public: Google’s response to ChatGPT-6 and Fable 5",
-   "sum": "From Il Sole 24 ORE.",
+   "sum": "Google launched Gemini 4 Argon publicly as a competitor to OpenAI's ChatGPT-6 and Claude Fable 5.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGk5V3ZKZ2ZfUnI0YkYtNnRQQmtjUkdQYVltRmlPel9IZENwV2pNREh6cUVwQWtjeXF0eE9wcm16QTdFWTlXa1pvWVhGTW1ZUVNZckdDVjdaT05NdzBKelJlVmhRSzQ4M00wMURBUTNJaFBFeDV6NWZWV3JrUEkxSEcyT1h3MXptYnJnbnh3VEY3WXVWeG9Dd084TUQzODBQYzR0OA?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "be85a7ea16",
@@ -3935,10 +4103,11 @@
    "src": "Apple Machine Learning Research",
    "d": "2026-10-13",
    "title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-   "sum": "From Apple Machine Learning Research.",
+   "sum": "Apple researchers introduced Minions, a distributed virtual GPU cloud system that pools idle Apple Silicon hardware.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CM1hFSzdlUk5zMms5bkZNczdibWpxZTd5RUU2Nk9mOE1qN1daWXNyc0QwRTIwMkk5VjVFWnc2Zkt1SV9BQkN4NFBfTERrWkl2M1VVWGdEU1g1LXR3SEx0VkphdTVvTDdMVk83bzhySFRNQQ?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "087c913062",
@@ -3947,10 +4116,11 @@
    "src": "shattered.io",
    "d": "2026-10-13",
    "title": "Modular’s MAX Tops vLLM by 5.5x on Kimi K2.5 [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Modular reported that its MAX serving engine achieved 5.5x faster performance than vLLM on Kimi K2.5.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4U25NQURDdXNwclRhdFBWS1U3SkNhbWVSM0VmSnlpX245WHAwRUZtNUNrRTZPUFNkREE5amtOcGlObXkxNkVrR0N2VmRDdUVuUUNsYnlFZGJtRlZGZFlLWHIxWmVsRlRqMWZzbzk1MVM?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bbe9efcd05",
@@ -4063,10 +4233,11 @@
    "src": "HF Papers",
    "d": "2026-10-12",
    "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
-   "sum": "With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding…",
+   "sum": "Researchers presented OmniCompass, a benchmark designed to evaluate multimodal LLMs on omni-modal video grounding and understanding.",
    "url": "https://huggingface.co/papers/2610.18829",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fe66ad25d0",
@@ -4075,10 +4246,11 @@
    "src": "HF Papers",
    "d": "2026-10-12",
    "title": "MFVSR: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal",
-   "sum": "Video subtitle removal (VSR) is an important video restoration task, yet existing evaluation remains limited by low-resolution datasets, fragmented test sets, and generic video-inpainting…",
+   "sum": "A new paper introduces MFVSR, a multi-style benchmark for evaluating automated video subtitle removal algorithms.",
    "url": "https://huggingface.co/papers/2610.18461",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "887890271f",
@@ -4178,10 +4350,11 @@
    "src": "HF Papers",
    "d": "2026-10-12",
    "title": "Can an Agent Learn to Predict Its Own Failure? Outcome-Grounded Confidence Calibration in LLM Agents",
-   "sum": "Controlling an acting LLM agent means deciding, at each step of a long-horizon task, whether to trust its next action, abstain, or hand off to a human. That decision needs a per-step…",
+   "sum": "Researchers proposed outcome-grounded confidence calibration to help LLM agents predict step-by-step failures during long-horizon tasks.",
    "url": "https://huggingface.co/papers/2610.18614",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "32aa38d75c",
@@ -4190,10 +4363,11 @@
    "src": "HF Papers",
    "d": "2026-10-12",
    "title": "Let the Mind Conceive, Let the Hand Achieve: Following Multimodal Instructions for Long-Horizon Robotic Manipulation",
-   "sum": "A robot following a multi-step instruction needs to act on the right objects in the right order, even as the scene changes. It must also maintain awareness of task progress and determine…",
+   "sum": "A paper details a framework enabling robots to maintain task progress and follow multimodal instructions in long-horizon manipulation.",
    "url": "https://huggingface.co/papers/2610.18352",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "466d2f6297",
