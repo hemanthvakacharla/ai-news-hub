@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-17T02:04:55Z",
+ "updated": "2026-10-17T13:21:22Z",
  "items": [
+  {
+   "id": "ad621b2c65",
+   "t": "anthropic",
+   "c": "",
+   "src": "CoinDesk",
+   "d": "2026-10-17",
+   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+   "sum": "Anthropic's Claude AI reportedly solved a 25-year-old mystery concerning numbers provided by the NSA.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjZ1MzZ6clVYZmItTGI1TnZuZkl0cFFoX2NoeTBadC1KUFVsYW54THVXVndhcTRHUTFYWFlQSFRwekRQSldvY0w2WXU3LU1mRmpzUFVWT2pBaDdfWWthS09WZlItajBOM21yZlZjaDZYdTVRb1lpOFZ4a3NxbUNrTWNmWGQ2TzF2djdJNHpfcmF0NnJ0M0Jic1g2aFM1T195UXpMTEs0UDFmUTl4aGc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cacd964e2c",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Quantum Insider",
+   "d": "2026-10-17",
+   "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+   "sum": "Anthropic’s Claude model designed more compact quantum circuits, reducing computational resources required for critical calculations.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYURjUkQ4Wk91LUpUaXNlYmdUS0Q3UmNFTUFvSEN5c1pYRUx2NXgwTmhUQS16MV9oLW9ZNmJJR2laeGwxRFlxMmtxZUVkaGR3dHlocUlYMFpKYVkzbzNHYUJ2WFUtcnNQVDhuSHQxTTdkUi1vYXR3SVZQOXJkVmhXeVB4Z1BlSDZVRE9XaWZ6YWt0TWFiQmlieklTMnZDdGJLbDdXTzNKc3VnSEhwRW5IaUxFeUdtQ2R1NS0wSVdHNHA2bmNTWUgxTmF6Y1lmc0t4a0gxcg?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "94c1995dbd",
+   "t": "anthropic",
+   "c": "",
+   "src": "Quantum Zeitgeist",
+   "d": "2026-10-17",
+   "title": "Anthropic's Claude Improves Quantum Optimization Designs",
+   "sum": "Anthropic's Claude demonstrated improvements in designing quantum optimization circuits.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQndneXNOQV9MclRCTzNYLU8wang0VVJ6S25yNk5GN0t0RThPRGdrUmQ3NHRnZFNRaVotR09WSTdldUNsVEhDdnNYVFY1UkdacXVHRF9hUlpmR0V3NFliandVME1VSXdKNGxxR0FjOFhMeWpBYzlUdWZZREJPT1FqdlJYQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "778cd26cdb",
+   "t": "anthropic",
+   "c": "",
+   "src": "GBHackers News",
+   "d": "2026-10-17",
+   "title": "Anthropic’s Claude AI Uncovers Origins of NSA-Provided Cryptographic Keys After 25 Years",
+   "sum": "Anthropic’s Claude AI identified the origins of cryptographic keys supplied by the NSA 25 years ago.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVhES0NHQUV1VlZRT2RJdmsxbDFxa2ozN1ZEdWk5MHRDWm14Q0tfMnNhX0J2d2tfTDVIWi03Q1dxTzF2MGNySTJkX09jWjlLYXZUX2NzbU5NNVZZNVNIYUZoeG9BZXYxdFZGRXFUbjdseFNWR1g5UHRkUHVTX2FPUdIBhgFBVV95cUxOdllyd0Z5Z3pWeVVHTXVTZU1QS29JLUdlVjR4bll4cWNsUkU1WFdIUjFfeXk2RFByVGx0ZXBLSnh3dzhxZ1JhUElwVDFuNVk2bEY5VmwxTVJ0cDVYNVVhVFhiWWotNlVuTkNzcVpyQWFXNWdZcGhfOFEtWmQxTFRHMkFmSlVQdw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d955c1080a",
+   "t": "anthropic",
+   "c": "",
+   "src": "Cyber Press",
+   "d": "2026-10-17",
+   "title": "Anthropic’s Claude AI Solves 25-Year-Old NSA Cryptography Mystery in Under 30 Minutes",
+   "sum": "Anthropic’s Claude AI resolved a 25-year-old NSA cryptographic mystery in less than thirty minutes.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ySVdRaWZKV2RiQWRJVzFkblZWNDhqYThEdmNTS1M4VGNyUlBXVDFGODZkdVlhQXBCem5wQUpobTRsQ1JEV0docENnbkdmRXgxc1VuZEJpNDVaZ0hwWFpoLV9jZmpReG5SanVuUW1yZEkzdHRreHfSAXZBVV95cUxNcklXUWlmSldkYkFkSVcxZG5WVjQ4amE4RHZjU0tTOFRjclJQV1QxRjg2ZHVZYUFwQnpucEFKaG00bENSRFdHaHBDZ25HZkV4MXNVbmRCaTQ1WmdIcFhaaC1fY2ZqUXhuUmp1blFtcmRJM3R0a3h3?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "e75e87b94b",
+   "t": "palantir",
+   "c": "",
+   "src": "Stocks Down Under",
+   "d": "2026-10-17",
+   "title": "Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software",
+   "sum": "Palantir shares dropped 7% as an AI-driven stock selloff impacted software companies.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1keTBIeEhxeHFLWjBna2p4TWdjTUIzb1BRN3A3V0VhTlVIRE1vWGJESHpacTdPZHZGMURSS05nMnRpYTdkWDJBdWIzeEwtUjZHXzBuLWFobzF2N1pyRkR1MUlBdGpGalZFeno4SXh1MXpTVjlKYVEyWGtHMA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "65a3805940",
+   "t": "palantir",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-10-17",
+   "title": "RTX, AeroVironment And Ondas-Palantir Push Deeper Into Drone Defense And AI This Week",
+   "sum": "Defense contractors RTX, AeroVironment, Ondas, and Palantir expanded their artificial intelligence and drone defense initiatives.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzI0NHBFYXVMOWYtSW5oejF1OUdVSFBXSG9YSmRydDVlZ182LThva0t4S3p1clU1cWxtWFlzeGdldWpoY2YweU5LWlp2M1J2eTJFdi0zUmxiclh2VEQzeHZiU3cxdm5kaUt4NEVscXJVVVBZQWVjaEVhaUh1XzJfRU1JWDJZSEI1RlduSElaSzEyN2VWenRPWUwwdmpuaFpIR1EwTnNGWVdtMlE4eGVQTlhfaExXb2FhYVV6UmRSQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0f72e50a6d",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-17",
+   "title": "Gemini 4 Argon Goes Global: 1M-Token Launch [2026]",
+   "sum": "Google expanded access to Gemini 4 Argon globally, offering a one-million-token context window.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTk5VLVNMSzBNcmhfWWtLbEZzNENRdVBQazhKMzI4ZTk3M3h5dmZndW1WQko5Mk1Pd01OWEl3YnltazhZN1d2N2tha0NfWHZWMTNVb25DbzF1anhYbUtpQTI5S3cyMG96Q3hlTFJOVnBfMkV6?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "97a9bfd1ae",
+   "t": "gemini",
+   "c": "",
+   "src": "Stocktwits",
+   "d": "2026-10-17",
+   "title": "Alphabet Stock Gains On Report Of Google’s New ‘Frozen’ Chip To Boost Gemini AI Efficiency",
+   "sum": "Alphabet shares rose following reports of a new internal chip designed to improve Gemini's inference efficiency.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTThmRVQxUVdWNDJvb2FUdVFSdG9YdklfMHROWG1DeG5WQkdBWUcxenhmampteTEyMG5GblBvdmpycjdGNnZ1ZG5nSUJ4elFPVTJMdGFmYWFEODl0eVp2amxLb1JMcm9xMjhhQ0Vja1VBQk50OEFDTURvVHZqS3VmYVd0dmI5UW5yMUxhUGtmMHhPWkNhMW00dkNON0VseHp6dDRMRi03VnBtLUwtRUFGZ3FZODJmdmM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0f1648b466",
+   "t": "eff",
+   "c": "",
+   "src": "Tech Observer Magazine",
+   "d": "2026-10-17",
+   "title": "Google Cloud offers day-zero support for Reflection's Beam AI model",
+   "sum": "Google Cloud introduced day-zero deployment support for Reflection's Beam AI model.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkhQbzhDeVFrWDFoc0JwT0w1eF9KMV9YWDVNenptUG1mdzVaQmQ3OGV5Z2ZpTmdKN215UU84UGw1MlRVUldHNnZDM1lWYU9Fc2RtczJaRXQxMlEzQ1hROHc4eXQ1NUVNc1kzcXQ0MHo4R0pweWlhNWNtUlVSV0VCUUhyV2Q3ekFqQlk2RjRLdjhzcWY5dFBOS2UxRnM4UER3TmfSAaIBQVVfeXFMT0pIUG84Q3lRa1gxaHNCcE9MNXhfSjFfWFg1TXp6bVBtZnc1WkJkNzhleWdmaU5nSjdteVFPOFBsNTJUVVJXRzZ2QzNZVmFPRXNkbXMyWkV0MTJRM0NYUTh3OHl0NTVFTXNZM3F0NDB6OEdKcHlpYTVjbVJVUldFQlFIcldkN3pBakJZNkY0S3Y4c3FmOXRQTktlMUZzOFBEd05n?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "73f15e6555",
+   "t": "models",
+   "c": "",
+   "src": "Kingy AI",
+   "d": "2026-10-16",
+   "title": "Meta Muse Spark Open: Benchmarks, Specs, Hardware and Costs",
+   "sum": "Meta shared specifications, benchmark results, hardware requirements, and operating costs for its open Meta Muse Spark model.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1JrLXRCeWptNTB3dGU3UXU5NE5sY1Y2X1NHMGdkSDZNNGZFdHV5cnR2WUc1bnZya1lVcWlBdHN4WWdsb0Zzdl9YdmFwSFRsMVNsX3BzN0xPTDNVVVpBRVBvZnBjdXhJc3NCckNzQUpJNmZLVXp3RkRWZzRhRGx0LQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "14ecbf378f",
    "t": "engines",
@@ -1256,10 +1399,11 @@
    "src": "Unite.AI",
    "d": "2026-10-15",
    "title": "New 5.6B-Parameter FLUX 3 Image Klein Debuts as Open-Weights Release",
-   "sum": "From Unite.AI.",
+   "sum": "The 5.6-billion-parameter FLUX 3 Image Klein model was released under an open-weights license.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWJQZUhVZ1hUaHJWczg4ZHMxZ0N6Q3lvYzlOVGdONGhNNXlkTzlyM1pCNnRCUzQ1Ml9uTTV1eFQzTHJWZjdodHFvSFpSbDZQOW80NkVjb2ZrTUlMZ3dLR2o3U21STTdKb0FSOHd0RGlha1lWaEZzcUpZNW1rTFBGVW1RdDI0bzZpM05wSkJtcDl3NDYy?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4b7795bf9c",
@@ -1268,10 +1412,11 @@
    "src": "Global Times",
    "d": "2026-10-15",
    "title": "Chinese scientists use homegrown LLM to solve world-class math problem",
-   "sum": "From Global Times.",
+   "sum": "Chinese researchers reported using a domestic large language model to solve a complex mathematical problem.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFb3djcWM1dExvMHYwb3NoeVpWcVVMbUFKUVdpMmxVa0ZXVXRNVGh4ek5sOWZTdENWYmlSWGR4OGVGUnF5RmdPNjdMbGRXQ25KYnpxRjQwcjc2bUFhbTh4bVBn?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2836fd6c13",
@@ -1280,10 +1425,11 @@
    "src": "shattered.io",
    "d": "2026-10-15",
    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-   "sum": "From shattered.io.",
+   "sum": "Microsoft introduced Decision-1, a 9-billion-parameter decision model based on the Qwen architecture.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJWVVOOHQ2RU1aenVfeHYxZ05LcVVMM0Q4dTA1OW51dkRjajJrTzdmNllEMHVxNFdNOGdaZ193T2hxZmJURUNSZWtsZHFoc3NTc1JTMTNIcF9uemlEQk85M3JyaEEwUW8zQnBLRmJOVS1SZw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "303965531d",
@@ -1292,10 +1438,11 @@
    "src": "Apple Machine Learning Research",
    "d": "2026-10-15",
    "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
-   "sum": "From Apple Machine Learning Research.",
+   "sum": "Apple researchers demonstrated local and distributed large language model inference using MLX and RDMA on Mac Studio hardware.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnRXZPbzdxVGlNeXpHc25TdWZxTktlYWp0WTR5RjJJeTVtWUs4NVdNV3gwQjVrQW1tTmpjdEYxQkxNWWU1TGFfQXhmZzVPYzE3SklObVRjQ0dMUGt2R3ZNR1lwb2NNdWROLUxPazEyVEt4eHhFT1VR?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d1ff841b63",
@@ -1304,10 +1451,11 @@
    "src": "XenoSpectrum",
    "d": "2026-10-15",
    "title": "Chinese Firms Buy Over 1 Million NVIDIA GPUs, Repurposing Gaming Chips for AI Inference",
-   "sum": "From XenoSpectrum.",
+   "sum": "Chinese enterprises acquired and repurposed over one million Nvidia gaming GPUs to handle AI inference workloads.",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iREltR2Y0ang5bkZmUXVCaFNJbFpiVHlYYU5iSjlYWE5sVlVKZy04cFdsTFpuYTJ1MkVsdGZWazMtU2ZHeFJmWGxrZDJmcXU2RUV2WTQ4TEtaYmJUNVdkX1RlUFg5X2tpc05tbGlLUQ?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b4faeb1cc1",
@@ -1680,10 +1828,11 @@
    "src": "Jon Peddie Research",
    "d": "2026-10-14",
    "title": "Intel’s D270 puts inference in ordinary racks",
-   "sum": "From Jon Peddie Research.",
+   "sum": "Intel launched the D270 accelerator to support AI inference workloads within standard data center racks.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2ZUUUw5VDA5emlQdjlQcnRodW54dzZncjRSWnRmQkJSd3JaX2x4dkp2eFlBTnpCbFpUblJKQXQ4MUJnVWxsdmNTaEo4VXZzOWtzaGFUSm9naTJSWVlEUHJyWEJNSmtMdEREeVlSRFBNU1BwUkpISlloRDhFTU5wbTdB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5b5be1928c",
@@ -1692,10 +1841,11 @@
    "src": "HF Papers",
    "d": "2026-10-14",
    "title": "JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs",
-   "sum": "Large language model (LLM) agents now fix software, operate computers and serve customers, but their harnesses, the programs that run them, call a large LLM at every step, which makes long…",
+   "sum": "Researchers introduced JevAgentHarness, a framework for evaluating, deploying, and training decision models that share runtime control with LLMs.",
    "url": "https://huggingface.co/papers/2610.21412",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "631b6d8df7",
@@ -1704,10 +1854,11 @@
    "src": "HF Papers",
    "d": "2026-10-14",
    "title": "PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference",
-   "sum": "Long-output inference in large language models suffers from severe KV cache memory and bandwidth bottlenecks. While KV cache quantization alleviates this issue, low-bit quantization (e.g.,…",
+   "sum": "A research paper presented PN-Mix, a mixed-precision key-value cache quantization method designed for long-output LLM inference.",
    "url": "https://huggingface.co/papers/2610.19605",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eee24a5e3f",
@@ -1716,10 +1867,11 @@
    "src": "HF Papers",
    "d": "2026-10-14",
    "title": "SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes",
-   "sum": "As coding agents become increasingly capable, robust evaluation requires a broader and more diverse supply of verifiable software engineering (SWE) tasks. However, real-world tasks are…",
+   "sum": "Researchers introduced SWE-at-Scale, an automated system that synthesizes verifiable software engineering evaluation benchmarks from historical bug fixes.",
    "url": "https://huggingface.co/papers/2610.21359",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2d06fe1fe8",
@@ -2326,10 +2478,11 @@
    "src": "HRTech Series",
    "d": "2026-10-14",
    "title": "Tenth Revolution Group named Select partner in Anthropic’s Claude Partner Network",
-   "sum": "From HRTech Series.",
+   "sum": "Tenth Revolution Group joined Anthropic’s Claude Partner Network as a designated Select partner.",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa3BLTlFPTXRiOTZqM3NxUkhPNFNxT2IwMTQ0NXBlNGFSUWhFRGZjRThXdXRMUVZRM3BkaUpXVlZXZTh1MS15Z3loclBmVmVOVS1BSGU3VHhpWkpGblI1bC12YS1wTjNrQ2x5bkdrb0MxcnJQMjFkUV9rc2ZOSGQ0QjFZZm9iNWJYdXdHVnFVRWhjeTBDUk95eFc2WThNSUI0TGZTYmxkNFU5ODBTUmtETkUyM1dNUXJwNGZSZ0NIcTFUQVdZ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "de5aaf940f",
@@ -2338,10 +2491,11 @@
    "src": "Startup Fortune",
    "d": "2026-10-14",
    "title": "Anthropic's Claude agents pushed code merges to 30,000 a day in September",
-   "sum": "From Startup Fortune.",
+   "sum": "Anthropic reported that automated Claude agents increased software code merges to 30,000 per day in September.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTjFhOEhuMmtzcUxnaHZTelBqT3VIQU5YQ3pRYWJ5RFNJbGpUSWYteXFZNFppcHByYmJ0dml5V2Y4QkllaWtEUlNiMlp1QVpVc0ZscGx5cVJ1N3FRYkFzdFV3ZDZLQTBGNmlwQnJoYnQzOWNPTzdzdXZCNHktemdLZ3g2ZzZXOGJZcm5EMS1LQVh4VXlUd3BNWDVweGp0bDBL?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d40cfeb726",
@@ -2350,10 +2504,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-10-14",
    "title": "Palantir’s AI Opportunity Could Be Bigger Than Investors Think",
-   "sum": "From 24/7 Wall St..",
+   "sum": "Analysts suggested Palantir’s long-term commercial AI revenue potential may exceed current market expectations.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFFSUWtoc25kYzFRVGlDdjhnZjg5c3pHdTlGRklIa3ZYaVV6ZUNDSnpwdG16VEhIdGxGaEg5U0taQzFiYjhCVGx3NWFmQ2NoWTZjYWxRTVFmaktlQ3RPeVc1VG1MTXotWk53MGQ4QjlSdmFzV2lOXzVvdDF2MlduckROWWdseEc2cHNVaFA4LW8yLUxYVjNMbVdCR1R4bDkxeHRBS3ZXX18?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "dee4f12ef2",
@@ -2362,10 +2517,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-14",
    "title": "Palantir Billionaire Peter Thiel Buys 2 Brilliant AI Stocks (Hint: Not Nvidia or Micron)",
-   "sum": "From Yahoo Finance.",
+   "sum": "Reports indicated investor Peter Thiel purchased shares in two AI-related companies outside of Nvidia and Micron.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2hNYmE0WE1RQjBsSEpIb2dCWFRPRmhPaVR3aVJsVnJGXzA3a2pMREhnc0tQZ0tNVHpJVmc2UmZXSU1XdzMzV19QeXpvWFZOQm9qQ01waTVaY2UtYWwydE03SHlHVU9vQnhCWVRCckdUQVN1QUtkYzRuUDk3SWtheGRrbWhzSzN4OUlhN19EMHFDVzdHZVVna0paMDRKd3NSVFlF?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "82e10ad9dd",
@@ -2374,10 +2530,11 @@
    "src": "TradingView",
    "d": "2026-10-14",
    "title": "Palantir AI Backlog Is Growing. What It Will Take to Reach $300",
-   "sum": "From TradingView.",
+   "sum": "Financial analysis evaluated revenue requirements for Palantir to reach a $300 share price based on its AI backlog.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZU8xckhfMGdpU1M5aUR4UFFfTklHZlp6WG1PUVplQmhZRmgzbWgzdjhXc3ZPc2xxODBEZ2RZSG13WURRMnl2SndCRk81blhYRmJBZmc4blQ3eTQzODhJZkloM1ZKVElrRGQzV3huUFBvc1BxcmlGVmhhV1VmbDEyRkRpVVlLNURMMV82TWZMdzBLZWlmcm5XaXVORmlQT1JpZlFXV01KS2RObnpCZGdMcTVqTEg3SnFvSVltbi13?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9396b1e696",
@@ -2386,10 +2543,11 @@
    "src": "Seeking Alpha",
    "d": "2026-10-14",
    "title": "Palantir Is Not C3.ai, But C3.ai Wrote Its Watch List - Downgrade Palantir To Hold, Sell C3.ai",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha downgraded Palantir to Hold while comparing its valuation dynamics to C3.ai.",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVBFcjFDakZLQnNjbXJORDVrTlcxTkNwUThEQk1mTU11akpkRE5lRjZVVWZxVjNyZkQ1X29fWkpCZU5jU2V6M3JDektZNDFjT3hkSnJCVV94c2J1LXFpRWpDUXYwRzZ5TWNEWnJTaTVDRWRxQThVcG9lRGlmODZlaHFZd05CZTRfb2x4bEREWlB6Y28wRi16aWFNcHViWkNTWHAzVm5qSzNDOEtwZ1pWUFVaZ3VoVWV0cGc0cmY0d2RZTXBRMnZJ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a87a5e7ada",
@@ -2398,10 +2556,11 @@
    "src": "Technology Org",
    "d": "2026-10-14",
    "title": "Google Opens Gemini 4 Argon at $2/$10 Pricing",
-   "sum": "From Technology Org.",
+   "sum": "Google launched Gemini 4 Argon with API pricing set at $2 per million input and $10 per million output tokens.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb25yU2RFVExOZEg5V3l6RTQteFBVSXhYZE9wUXJDemN3ME90ZjVPc1VLOG9aeEkwNktLTFljeHZfNUFnelA3ZUJNS1o1V2lvaU1SR1VRVkJfRDhZNk5DM1F6dnNkb1ZvSXdGbms1MFVSS3pSR01iNjBNUXFkUUl4bVA1ektFUjZMTnVVRFd4WVFqS2Fx?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e5098dea0e",
@@ -2410,10 +2569,11 @@
    "src": "MarkTechPost",
    "d": "2026-10-14",
    "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
-   "sum": "From MarkTechPost.",
+   "sum": "Google launched the Gemini 4 Argon API, featuring an output limit of up to one million tokens.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcl9icHlOYk91NmhDSkNia085dkVlZmVXREQxbEEtU3NnQ1VOemZxSHpucG5zbnNVRzl2S0dOeWl3Z3JUMzJyUUdhd19qeEdtakxEX3NVdDV3REpGNF9YWHBNM0tXbEZWcGxrbTZxZ1lqX1FEYkV5aElZN0FkQVXSAX9BVV95cUxNX3JfYnB5TmJPdTZoQ0pDYmtPOXZFZWZlV0REMWxBLVNzZ0NVTnpmcUh6bnBuc25zVUc5dktHTnlpd2dyVDMyclFHYXdfanhHbWpMRF9zVXQ1d0RKRjRfWFhwTTNLV2xGVnBsa202cWdZal9RRGJFeWhJWTdBZEFV?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "93f0657668",
@@ -2422,10 +2582,11 @@
    "src": "InfoWorld",
    "d": "2026-10-14",
    "title": "Google positions Gemini 4 Argon for long-horizon agentic work",
-   "sum": "From InfoWorld.",
+   "sum": "Google is targeting its Gemini 4 Argon model at long-horizon agentic workflows and multi-step tasks.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmwtYlFITS1vUE1ldWF1Rk1hNXJyN25neXlxbnlNOFBKdjc2Q0tWLWlBYk55Nml1OEI0YUpIRnBwWDZ0Sm81SWptY29Kc25WWFRtb1pjRWZTemJXc3dLSE9aZUM0R3FCWXk0UGJPVU55NEtLY1pnNE9PWS05ak1TMkwydjJZemE4NHhiRkxFTFBMd1NWZE5mZWlvM1Q4WFJmdmJEZXIwQTZzNkdu?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "06b48eb006",
@@ -2434,10 +2595,11 @@
    "src": "Android Authority",
    "d": "2026-10-14",
    "title": "Wait, is Google Gemini really getting 'dumber'?",
-   "sum": "From Android Authority.",
+   "sum": "Android Authority investigated user claims regarding whether Google's Gemini models have degraded in reasoning capability over time.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjSExmWUVIVkRyRGVhblFSX0F4aHZTcENlVFpoNkNuMXJuNDZxTGk2ZHk5cDRLVXZLOHBKRnZ3SEhGYmJuSld3Z1NUUVhmdm1MYnVyWXdqa0xiWlZEbUFtWEZpZnRqbHBTQ3lpaldNd0hLQlpDSElVTk1MeWlmbms?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0a20857292",
