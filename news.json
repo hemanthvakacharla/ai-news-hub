@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-17T13:21:22Z",
+ "updated": "2026-10-17T16:45:33Z",
  "items": [
+  {
+   "id": "c9634539a3",
+   "t": "anthropic",
+   "c": "",
+   "src": "Law Commentary",
+   "d": "2026-10-17",
+   "title": "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models",
+   "sum": "Anthropic is advocating for an AI safety bill that restricts government authority to block dangerous models.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUpETGxDdXo5QzRMMEdKUko5cWxsQzJSeDhRUUVZYV94Q2RKc1FjV2JaT1hmTUxBanF2WGN5bGFObkdXVTExVV80WFVpY2NfenEzOWFOUnFGbDRkbHBPcjRvcmJkbk5TYVRTV1U5NXNZajRlYVE5TTRKak1zYXNQNjlIUzNmVEw3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ee3b5d8cb9",
+   "t": "palantir",
+   "c": "",
+   "src": "TheStreet",
+   "d": "2026-10-17",
+   "title": "History of Palantir: Company timeline, facts & milestones",
+   "sum": "TheStreet published a timeline and corporate history covering key milestones for Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMi15WGM3SjJMaVpFOUVFeGdGblB2RGwyTEZlektmdDl0R1VjNkhzTmo3d1RUOUExa2l3MGxaa2thNC1abXFqMjJuc0tEVFo1Q3luUXZIOXEtYVZ5ZVpXNENucnBxUDh4Z0tvRzBVYWhWZm9kYlExNWpRNEw4U1UtRm5tVGs2cXVUbktUNHpVekJLcGtNVTdMZlNpYmQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "69292c0511",
+   "t": "models",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-10-17",
+   "title": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B parameter open weights model",
+   "sum": "Black Forest Labs released FLUX 3 Image Klein, an open-weights image generation model with 5.6 billion parameters.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE0tTXVtQ0xYSl9mVnQ0N1JQYW10M2ZxOXR6YzkzaHVseE1mQlNfdEUzajZXUnFfbllINldxam1pUXFIbS1pYUwtcjh3TnEyTzJ4Y2NkaTFaS3pyQ0I3VWhiTTJ6YlBQUzU5SVQ0QVcySGZlbTNPR29teFZUSmdDR045R0RKUk1VTlVrTFBKNERtX1JpSnM5WkhwSDV5OXBLS2hYV3dwYzA1LUFSM3RR?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "5a3feb1d0c",
+   "t": "eff",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-17",
+   "title": "Set Up PCIe Bifurcation: Multi-GPU & NVMe in 12 Steps [2026] - https://tech-insider.org/",
+   "sum": "Tech Insider published a 12-step guide explaining how to configure PCIe bifurcation for multi-GPU and NVMe setups.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mdXFCT0s4dUZ4TlZYNEctaDV1UXAtdXFDbGlKbUc3bEdvMGxscXFKOV9SM2JHdE5XOUVKR29tOUI4d3ZPRG5MNnZuZkd0a3FNcFF5a0xaNk9HQ2dVWWprc1JhZmlaLTJVMmxXU3JWMkdONUhCMUpJ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a4e59d57ee",
+   "t": "eff",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-10-17",
+   "title": "llmspeed Lets Users Test Local LLM Performance Before Buying Hardware",
+   "sum": "The llmspeed tool enables users to benchmark local LLM performance before purchasing hardware.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNck5xVFluNV9RV1ZabEtBZ3lqcHFOZEUzNmhlRVcwWTZLZUlSMW5nLU1MdDEyd2RoanFCR2swQlNycGhZV1FQaFlSN2NoRkJSYThWeHZUeHB0cDJuNmZPQkNOMGJKNE1oakZSZVZMZ2x0Yk44WlZUXzFteFRjNXBUblkybFFyME5CSDFsZUtJcmtyUnlHbElkelE4aWtNbTQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "ad621b2c65",
    "t": "anthropic",
@@ -128,6 +193,32 @@
    "sum": "Google Cloud introduced day-zero deployment support for Reflection's Beam AI model.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkhQbzhDeVFrWDFoc0JwT0w1eF9KMV9YWDVNenptUG1mdzVaQmQ3OGV5Z2ZpTmdKN215UU84UGw1MlRVUldHNnZDM1lWYU9Fc2RtczJaRXQxMlEzQ1hROHc4eXQ1NUVNc1kzcXQ0MHo4R0pweWlhNWNtUlVSV0VCUUhyV2Q3ekFqQlk2RjRLdjhzcWY5dFBOS2UxRnM4UER3TmfSAaIBQVVfeXFMT0pIUG84Q3lRa1gxaHNCcE9MNXhfSjFfWFg1TXp6bVBtZnc1WkJkNzhleWdmaU5nSjdteVFPOFBsNTJUVVJXRzZ2QzNZVmFPRXNkbXMyWkV0MTJRM0NYUTh3OHl0NTVFTXNZM3F0NDB6OEdKcHlpYTVjbVJVUldFQlFIcldkN3pBakJZNkY0S3Y4c3FmOXRQTktlMUZzOFBEd05n?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9efea202ae",
+   "t": "palantir",
+   "c": "",
+   "src": "Forbes",
+   "d": "2026-10-16",
+   "title": "CoreWeave, Nvidia and Palantir Stocks: Which Is The Better AI Buy?",
+   "sum": "Forbes published an investment analysis comparing the stock performance and AI outlooks of CoreWeave, Nvidia, and Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWhNZEJQLURoeVp0US1Ra280elRoQlBudEhYNHNIRWxGQVFpM3BuWHE4OXU4MFRJblJfUFJrM0RabFhDR0E5QWpVTEphMEc2UjhtWHVSR1lHUU9obDZKb2txZXk1TGRBbjZVTEtKNnlGZ3hXeENDc0c4anZOVWFrNDZSdjl5YUdLWkhiMGlNYlF6dFRpYmlzNlVR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "209ac31d4a",
+   "t": "models",
+   "c": "",
+   "src": "HPCwire",
+   "d": "2026-10-16",
+   "title": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model",
+   "sum": "MBZUAI and Inception42 released the Jais 3 language model alongside a new Arabic speech recognition model.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamxoblB5QWFZeS1JSUxHSWExMkRZeVJoMGhwWGFnR3BRRmI4ejVvLV9OR0RpQ0dyTUJhSjlIU3Jmd1JqeVBQeHM2RUIzWWxveXBFX191Z3pVM1ZfdG8zZThzU1lTazVsQUItbThDYjRTTHgyenNDZ1h3am1FTmttaEFsLVNvSWNxR3hqejQ4RzVqYnhfTFRzX1lYU2tTM2Q0R2Q2SUFTWjlmemYzWWZjNEdqWm9nd0dBaUE?oc=5",
+   "wp": true,
    "mp": false,
    "ai": true
   },
@@ -2608,10 +2699,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-10-14",
    "title": "Build an LLM Gateway for 4 AI Models in 13 Steps [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "Tech Insider published a tutorial detailing 13 steps to build an LLM gateway for four AI models.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTS1VZWFnQmRKSHVOLWd5VEJMM2JUa0ZvMnRTNHdKdGZhVmdMckZUdjVELUNIX294OG9UU3htV3JHQWROaENVazcySTNDRWtCWklGQm1aNUZfcWhzQ08zYkhDTWhtR1cxRFhOdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "688d05c5f1",
@@ -2620,10 +2712,11 @@
    "src": "KDnuggets",
    "d": "2026-10-14",
    "title": "Few-Shot Text Classification with Scikit-LLM",
-   "sum": "From KDnuggets.",
+   "sum": "KDnuggets published a tutorial demonstrating few-shot text classification using the Scikit-LLM library.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5idi1oTWNnX0docFB3ZEVlVTRYbE1LTGN4SFRvYk9UcjNiTW1MRDJZX1gtNlkwb0gtTTZXWTNMYkZjVTl4SXQyT0V2b0ZBVnVuRjJTQkNZM25OS2NqUDN1aFBmdWRHeGJPdlpBN3FIbVVRZ3ZxcUpXcVNB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6a4c0d4a86",
@@ -2632,10 +2725,11 @@
    "src": "BigGo Finance",
    "d": "2026-10-14",
    "title": "Apple Enters Smart Home Race with $299 Hub; Google and Huawei Unveil AI Cards on Same Day",
-   "sum": "From BigGo Finance.",
+   "sum": "Apple introduced a $299 smart home hub, while Google and Huawei both unveiled AI accelerator cards.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3bGVHRXVQeFZVTVJXaUpXU1poaG1mWnBNZHd3dVZzUGFMYWswRXltWW5jdS03Vno0VXRMRl9GemIzQUdfa19lOURKRTRCWVBTdEhWX0dHYV9VaUpaSTFkTE15S0p0Zmw0dF9ic1VNNlZxaVdvVGc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b5f240dbba",
@@ -2644,10 +2738,11 @@
    "src": "Tech AU",
    "d": "2026-10-14",
    "title": "Google launches Gemini 4 Argon, a generational LLM leap that brings Google back to the frontier",
-   "sum": "From Tech AU.",
+   "sum": "Google released Gemini 4 Argon, announcing it as a generational LLM upgrade.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUFDSHk3aTc5cnZ1dUYwZ1ZFUXpfZ1FHb1lhVVVwckc5NEE4OU1tbDNuOVdTSWdoSHBPM29UZnUxWnZyaE1MbmRBRTdmTFl4YzdkNnBTbng4M1BLYmhCSHhlbGdZSWxqMFRrSEhMb0laYWU0QXp4ZWpMcnBxZmxwQUFGUDI5V2RISEYtQWRCZExaa0I0ajdBM2ctS2FlSU9hWEpOV2RCWTl0MFZqb09fdzBULUFjYjRs?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "efb8fe848b",
@@ -2656,10 +2751,11 @@
    "src": "Tech Times",
    "d": "2026-10-14",
    "title": "LLM Quantization Without Calibration Data Matches SmoothQuant: DualQuant Targets FP4 Hardware",
-   "sum": "From Tech Times.",
+   "sum": "DualQuant achieves FP4 quantization for LLMs without requiring calibration data, matching SmoothQuant performance.",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa3JWV2dIVTI5MUZtQmNaZ3c4alRCRlJMSzZ1TDRRR252LXBzYV8zcUNIUnM4WDFLRkZJcTZSZXVud2tSWDFDWXF1QU1iRGkzalVZWW1Jd3ZxVWo5d1JhR1AzZGo5ekNBTHdMYUNpTzZ1dnR2SGpxNEtZdG9fLWtaVGFkeVBvcm5oQ2FzZ2ptVXdDUG15Tnk0ZC1iNS1rMEN4akJSQjV5SUgwbmlzMjR3Tk05S2hfVHhSeGJYZlZEUXY2TEJMdndZSHRuLVQwaTE5dmhzZ1JrMHAyYk5OV09uMw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bf8c800fab",
@@ -2668,10 +2764,11 @@
    "src": "Unite.AI",
    "d": "2026-10-14",
    "title": "Tensormesh Launches Platform to Cut LLM Inference Costs Through KV-Cache Reuse",
-   "sum": "From Unite.AI.",
+   "sum": "Tensormesh launched an inference platform aimed at reducing LLM serving costs through KV-cache reuse.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc1RxSncyd3dqQVB0ai1qVGtRcmg1VDRsaGpjQkVadVBHM0NtYkpZMGRhZk1fRmtNSklLa0RBaXZPZHRnUGVNTGpSUFY5dUlrcno1ZHluQUFPSnFJQlBPTHNsb3NEZzJGS3RoWg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "18dd74e922",
@@ -2680,10 +2777,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-14",
    "title": "Tensormesh Launches Tensormesh Platform to Cut LLM Inference Costs by Reusing KV Cache at Enterprise Scale",
-   "sum": "From Yahoo Finance.",
+   "sum": "Tensormesh announced an enterprise-scale platform to cut LLM inference costs by reusing KV caches.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmNrU1ItaFlBcUNfdzJvbTJDVGMxRFZHcGZXSFlKZ0Ewbmw4QmJ3UE9xS0pUYjRYamxlVjdzMjhYOFoyZ3pKemFjampPeXVOTkhOUmdDckdkUWpjWnpxeUpvQkFvenBYc1JzMTBiN1IyTkxMVzFPaDMyMy1ScGU4U1JtTjk5RnFQeXBQdmZva2E0Rk04a2tfRkEtdlV4dnY3RGF0TVhDRU80azQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4fc5dc0400",
@@ -2692,10 +2790,11 @@
    "src": "KDnuggets",
    "d": "2026-10-14",
    "title": "5 Fun Projects for LLM Inference Engineering",
-   "sum": "From KDnuggets.",
+   "sum": "KDnuggets compiled a list of five project ideas focused on LLM inference engineering.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxbU5aOS1SdlhPbnQ1OU9EYlRHc2VXLVRSa25qRFVPVTd2QVdka2pEejRVQVFUTVQxSjNHYWhXMWN6RERoNWRWWW95eDVrbnBydmp6clJOSTAwb0dTZ0x3MFR3dFJla0tEZ0U2Rl9OZHE2TG10MkxpUElB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "16ce0859e4",
@@ -2704,10 +2803,11 @@
    "src": "LinuxGizmos.com",
    "d": "2026-10-14",
    "title": "Geniatech Enables Local LLM Inference with RK1828 and Hailo-10 M.2 AI Accelerators",
-   "sum": "From LinuxGizmos.com.",
+   "sum": "Geniatech introduced local LLM inference support using RK1828 and Hailo-10 M.2 AI accelerator modules.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUIzUm0ydkNtLW5sMWc1ZDJWanRMcGYyM2htd2dRY2Mtc3U3U0tuSzNaQjRNeV9TaVpubnA5MDM2UXFYRVdtMHRCbldLd0M3QkdHQmdzX2o1enFWWF9KOVE0N19jVEFzbW5sWTNscUI1RFpqeWs0V0xxVjA3cVR3OUd0RWpEdmNMY1dBcXF5eFNVQzBmRVdjeUhjaFlfOThERlpOdFJ1TThwMGs?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e70c501c2b",
@@ -2716,10 +2816,11 @@
    "src": "HackerNoon",
    "d": "2026-10-14",
    "title": "Top Tools for Serving Open-Source Models on Kubernetes",
-   "sum": "From HackerNoon.",
+   "sum": "HackerNoon reviewed key open-source software tools for deploying and serving models on Kubernetes.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0lxSThHQmg5aTlpSk9lS01mYlprWTdJT2FGeVBUVmJKb1hjX2tTQ285cDhXZWhDV2k1dnVFbmdSNGEzeFQ3Smx0ZXBrTUJBZU9aV1VCTVZhcnNkcmJoWjU4dXI0Y2trbXlBaWpmMk5EUU1FVzhKdzhXTHhXVUZCUFlkSQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5b37e4a213",
@@ -2728,10 +2829,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-14",
    "title": "Palantir CTO Blasts Silicon Valley’s ‘Doomsday Cult’ Over AI Safety — Says Pentagon Has 'Already Replaced' Anthropic",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir's CTO criticized AI safety groups and claimed the Pentagon has already replaced Anthropic.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlZ1TVdkbzZuZHBTdW1ud0hzb21KQW1lOGlDR1JUTmxPbDdJS0JoR0JabkNPNXIyR3ZNQUpwUTM1bExTRTZ1RURKMmFMdHJPakJZd2RkaktsMTg0YXVDNkkxeTNya1ZEbDBnOUNNUElFZVo3MGVCREU5Tk0wUjZKdEF6VG9RSkt4cjc1bVh1OUw2Z0lCNUU3MGVMZnZrYWM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3f7b932464",
@@ -2792,10 +2894,11 @@
    "src": "HF Papers",
    "d": "2026-10-13",
    "title": "Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation",
-   "sum": "Unified multimodal generation covers discrete, continuous, and hybrid paradigms. Discrete approaches with single-codebook visual tokenizers align naturally with text modeling but have…",
+   "sum": "Researchers introduced Intern Lumina U2, a multi-codebook diffusion LLM combining visual understanding and image generation.",
    "url": "https://huggingface.co/papers/2610.20818",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "11eab342d9",
@@ -2804,10 +2907,11 @@
    "src": "HF Papers",
    "d": "2026-10-13",
    "title": "CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation",
-   "sum": "Reasoning distillation requires chain-of-thought (CoT) data with correct answers, but obtaining such data efficiently remains challenging. Forward CoT generation (FCG) followed by…",
+   "sum": "CoTranslator proposes translating reverse chain-of-thought sequences to forward sequences to improve reasoning distillation data generation.",
    "url": "https://huggingface.co/papers/2610.20828",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "461c1c104e",
@@ -2933,10 +3037,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models",
-   "sum": "World models (WMs) and world-action models (WAMs) focus on future world prediction and executable action generation, respectively. Although these models learn shared physical dynamics and…",
+   "sum": "UniW(A)M introduces a unified mixture-of-experts framework integrating future world prediction with action generation.",
    "url": "https://arxiv.org/abs/2610.18697v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "011e60593d",
@@ -2945,10 +3050,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "Kwai Summary Attention V2 Technical Report",
-   "sum": "Summary-token architectures such as Kwai Summary Attention (KSA) compress distant context into learnable Summary token per chunk, and hybrid variants interleave these layers with full…",
+   "sum": "The Kwai Summary Attention V2 report presents a hybrid attention architecture that compresses distant context using learnable summary tokens.",
    "url": "https://arxiv.org/abs/2610.18654v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b55354b0e5",
@@ -2957,10 +3063,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "MultiAlloc: Budget-Aware Precision Allocation for KV Cache Quantization",
-   "sum": "The Key-Value (KV) cache constitutes a dominant source of memory consumption during large language model (LLM) inference, particularly in long-context and complex reasoning scenarios.…",
+   "sum": "MultiAlloc introduces a budget-aware precision allocation method for quantizing KV caches during LLM inference.",
    "url": "https://arxiv.org/abs/2610.18642v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "91b4e22505",
@@ -2969,10 +3076,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization",
-   "sum": "Protein sequence, structure, and functional annotations each capture complementary aspects of protein biology, yet existing tokenizers encode each modality independently, limiting the…",
+   "sum": "ProTok provides a modular multi-codebook quantization tokenizer unifying protein sequence, structure, and functional annotations.",
    "url": "https://arxiv.org/abs/2610.18481v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e8286607df",
@@ -2981,10 +3089,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "FastEEP: Fast Intra-Instance Elastic Scaling for Expert-Parallel MoE Serving",
-   "sum": "Large-scale expert parallelism (EP) has become the standard deployment configuration for Mixture-of-Experts (MoE) models in production. Meanwhile, the highly dynamic nature of LLM…",
+   "sum": "FastEEP proposes an intra-instance elastic scaling mechanism to optimize expert-parallel mixture-of-experts model serving.",
    "url": "https://arxiv.org/abs/2610.18451v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e52bf58114",
@@ -2993,10 +3102,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "Not All Drift Is a Mechanism: Tracing Prompt Adaptation in LLMs",
-   "sum": "Prompt-based adaptation offers several ways to specialize a frozen language model, ranging from natural-language prompt optimization to learned continuous prompts. These methods are…",
+   "sum": "Researchers analyzed prompt adaptation techniques in LLMs to distinguish deliberate mechanistic specialization from incidental parameter drift.",
    "url": "https://arxiv.org/abs/2610.18412v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "642d292a2d",
@@ -3005,10 +3115,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "Revisiting Error Feedback for Model Quantization",
-   "sum": "We study causal error-feedback coefficients as design variables for model quantization. Modeling instantaneous quantization errors as independent, zero-mean variables with a common fixed…",
+   "sum": "A new study explores causal error-feedback coefficients as explicit design variables to optimize model quantization.",
    "url": "https://arxiv.org/abs/2610.18139v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "76dbdd6383",
@@ -3017,10 +3128,11 @@
    "src": "arXiv",
    "d": "2026-10-13",
    "title": "H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression",
-   "sum": "Training-free diffusion-based compression methods repurpose the generative priors of a diffusion or a flow model to compress data without retraining them as task-specific codecs. Recent…",
+   "sum": "H-DDCM introduces Hadamard codebooks for fast, training-free image and video compression using diffusion model priors.",
    "url": "https://arxiv.org/abs/2610.18125v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a2d00ff109",
@@ -3029,10 +3141,11 @@
    "src": "TechCrunch",
    "d": "2026-10-13",
    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-   "sum": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer…",
+   "sum": "Science Corporation implanted its PRIMA vision-restoring retinal chip into its first patient with Stargardt disease.",
    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "efd4a0d661",
@@ -3041,10 +3154,11 @@
    "src": "CNBC",
    "d": "2026-10-13",
    "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-   "sum": "From CNBC.",
+   "sum": "Anthropic petitioned a Washington, D.C. appeals court for a rehearing regarding its blacklisting by the Pentagon.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3JOdkNVSmNxeGNMNUdLa2w4SVpweUxZMzFKVURXOWt0MlZSV3ZSVDZuTlNNOWp5WjZnX3plY295MDk0YXl2RkFLcEZMUFJBenNuR2VySEhlS2J2VFNqV09zeHFGb002cC14eEpsd25FYnRZVGlHRW1TTElYZV9qN1U4OTVqQVpiRGNPUkRnR25sc3Z3MFVOaDBpVUduSUxKeWxDRkUtc9IBrAFBVV95cUxNWkluVXhmLU9VUkxwc1RMQnlFa2FRWWhPZXNHUU91c2ViUUhWcUQ5bTRJUG53N2dNbHJtVGZxX0xuaEU2UEl0WXY0UE5MYzdzZjNxMTgzQ2xkV2RfWUozMUdOdzJxTFk3cG1yVUFtVkRCcmZNeVAxX2tsM1pBZVFjS3V4OVd2RF9IbklZU3NRSGdYaktiZ1ZYZDhZa2lMQVRFWmZ5dFJJeExWazBp?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "67d40eaa92",
