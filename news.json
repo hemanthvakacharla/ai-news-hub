@@ -1,6 +1,110 @@
 {
- "updated": "2026-10-18T02:05:56Z",
+ "updated": "2026-10-18T13:40:30Z",
  "items": [
+  {
+   "id": "631c78f18e",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-10-18",
+   "title": "Giving AI a “crystal clear” view of the materials world",
+   "sum": "MIT researchers developed a method to help AI models represent crystalline materials in 3D and reason about their physical properties.",
+   "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e4bfb74a57",
+   "t": "anthropic",
+   "c": "",
+   "src": "NBC News",
+   "d": "2026-10-18",
+   "title": "Anthropic wants outside input on Claude’s values. But who gets the final say?",
+   "sum": "Anthropic is seeking external input to guide Claude's values and governance, raising questions regarding final decision-making authority.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDdLdlFXTmVsa1pVT2o5MU5hbF9nR0pqbl9CZWUyWnZ4cTFXN0VzM1Rld0FuUk8xdmZkZHNTTkpKX0pVdk1ZOXBwaW5MdDlsLWkyRXhTcXliTlRFRHhwaER6STVRSWZMSEVmb0NBVkN0NFJFNHFaQ1dsNHFzWXdVUTU4V2MwZldsOHZnbkZpd1EwNjlwVlNQOGNiWnl3SnhXSVJHMg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "60f466f8ae",
+   "t": "anthropic",
+   "c": "",
+   "src": "Ynetnews",
+   "d": "2026-10-18",
+   "title": "Claude cracks 25-year NSA cryptography mystery in under 30 minutes",
+   "sum": "Claude reportedly solved a 25-year-old NSA cryptography mystery in less than 30 minutes.",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1venJNWUphZE5GSTVteExzaWRUaDVXVS1fQ05JQXhTWmU3b1ZZTXRfMDczNGpUaGZlc2p3cjNSdDktMVRfMXlKX3VOMnpMODFLcm1sR2RVejR1ODlwY3FIQlNWN0xjYzd0bm5KTw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e532b6932c",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-18",
+   "title": "Here's What $10,000 Split Across SpaceX, Palantir, and 3 AI Chip Stocks Could Be Worth in 2035",
+   "sum": "An analysis evaluates potential financial returns by 2035 from investing in AI chip stocks, Palantir, and SpaceX.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUtSaDBKWU5uRXBNb3lmSjdlWE4zcXYzRGZoV01uWUJhZTZnQzllbTdpQ1ZvZTdpZHVpbTJRbkdSdEVsdkpTMUVpSlU5V1hieTE2RTliMHVMWGFiRHNGN3duVGVsLTVLaXBOZi1EaERKR0JpQjN2T2tUamhxUk1lQkhEaHBFRjRuV0ROZnpPLUtqSGxNYVk4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ee33e34db7",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-18",
+   "title": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
+   "sum": "Gemini 3.8 Flash registered a score of 59 on an AA benchmark alongside a slight increase in Alphabet's share price.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ua2t4dFNtR2pURTBaQXVDMnJtX3RSano5ZmFHRUZVZ1ltaEJwM2g1UWJwb1ZoTHA0dUxYbS1qWlRhSGVNSFZtcjRLR25IelRBdmZxV2dkd3VScDJva2JnSmJIQ25CbjVHMnhLVWtSY2I3a3hQY0E?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "90dc15050e",
+   "t": "eff",
+   "c": "",
+   "src": "Bioengineer.org",
+   "d": "2026-10-18",
+   "title": "New Co-Design Framework Speeds Up LLM Inference on Mixed Hardware by Taming Memory Bottlenecks",
+   "sum": "Researchers introduced a hardware-software co-design framework to accelerate LLM inference across mixed hardware by resolving memory bottlenecks.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdm1kSExLR1hxSXpsdTVpSmtTTnVlQkdNRjhRZHUwR1pxU3ZyYkxxSUZINk95N1d5Z1lxSmpBS3ZWbHVmRWp1dmY3REx5bnNYSGRTblczTUw5VFdIaER0UWM4Q2hZRTRQVDdOazZ5YmJVT3puV3p5YlZWcTB5M2hOTHIwYWxzcGM2a2gwY0c2VmZSRTZzSnY1SUIwb0V3T01XbDBwaFZYUWpNbXFhRFlnc0QxSHhIMGIteDJJ?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "81dffe7321",
+   "t": "eff",
+   "c": "",
+   "src": "zeera wireless",
+   "d": "2026-10-18",
+   "title": "Mac Studio M5 Ultra 64-Core vs 80-Core GPU for Local AI: Is the Upgrade Worth It?",
+   "sum": "A benchmark compares local AI workload performance between the 64-core and 80-core GPU variants of the Mac Studio M5 Ultra.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGFkTWNlMkJEeGxkLXZIWEYwMENJa1I0Ykl4eTA5UzNjVl8zc2o0Um5ZZTduZXlGSXE4ck5wOTQybHVpZkZpQU5DMWJPN2IwUXdEQjNnZ1h4cEJKU2ppajMyMFdLOFVhX3dSTVhIRV9NbWM5bmJ5NjRFWmNFdVhEUS1HNjEybXRPaU54VDkyYw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "515a95b578",
+   "t": "eff",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-18",
+   "title": "SGLang Setup: 22% Faster LLM Serving in 13 Steps [2026] - https://tech-insider.org/",
+   "sum": "A guide outlines a 13-step configuration procedure for SGLang to improve LLM serving throughput by 22 percent.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUGZ3anV6Zk5ydFA3dXRVLXdBWExKMGdLZzB5MWJNbWdqV1g5QUphT3pOTkRVVVVpUlVFaE1vNWRxRkJBZjlvTzFvQWp1S3RFZVduVDZSTFZiQ3d1S1pOUldGal9wS3p6djhJYWVR?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "925e12663b",
    "t": "anthropic",
@@ -23,6 +127,71 @@
    "title": "Run Nemotron 3.5 Bolt Locally: 13 Steps, 24GB VRAM [2026] - tech-insider.org",
    "sum": "A published guide outlines thirteen steps to run the Nemotron 3.5 Bolt model locally on hardware with 24GB VRAM.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80bTV5cU00UEE3ZHVUc0l3c0M3Rnc4MFUzQ282eXc2TEZlWXgzV19oSHBqSXNuTGtrU3FLb3VNVk83aWNPVmRkUUVvd2tWSDlMYk9ucW9nNjIwRmRUbDdFMmpmMVotOVNBME15ejhEUXg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "da83b3ade2",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-17",
+   "title": "Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff",
+   "sum": "Palantir shares fell 11% during an AI market selloff following a $250 price target set by Jim Cramer.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazc0TjlCbjIyZTktM0Z6ckJ1d2xZVFVyV0ltU1dmWnRpWDhiQ3B2eHNkLXZYRTk2TXFpdlNicGRPTHl1Vmg2R1V0Sjh5OE9XTnp2Zl9tRXZEX1lYOU1MU0xOcmM0NERwajFjSTFLZlk5QTdRU1hkVVZ1VkYwMTVwNkxIY3dPQVhkOW9nMC11QlNma1REOFpN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d4b1bee9a7",
+   "t": "models",
+   "c": "",
+   "src": "Medium",
+   "d": "2026-10-17",
+   "title": "Gemini 4 Argon vs Claude vs GPT-6: 5 Things to Check Before You Switch Your Stack",
+   "sum": "The article details five factors engineering teams should evaluate before switching stacks between Gemini 4 Argon, Claude, and GPT-6.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1dzT1htdnBfejAxOHhCZExlUk95eGNsR18xdk9ELVJUQ2ZTOXlCLVVjMzduaTlmMzJ5bVlpdEo5dkpUOHREVktzMmpLNzFiYlJ1T3U0Q2xWQjNqT09Zckd1WUJ6TGVNMzJLcVdyTkJQUFdKNHhaQlp6T19WeTZiS3JXaUV5ZVdvOS00UVFmR3VJbVdXd1hzbGN5cEJjYjFSLUhLU3M1RjJ5ZjlvTkJjLU41ajgwbnJ2WDFhQlZfWHVtZ3p0Qk1lTGRhbzlWSVkwcXAtWg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a5fb6635b3",
+   "t": "models",
+   "c": "",
+   "src": "Pasquale Pillitteri",
+   "d": "2026-10-17",
+   "title": "DeepSeek releases 4.1 Flash 1017 with MIT weights and shorter outputs",
+   "sum": "DeepSeek released 4.1 Flash 1017 under an MIT license, offering open weights and shorter model outputs.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVdGWUxoM3l0aVNWeENmVE1KUmdTVllNcHA5Tk9WQXVtRmUzYXhId3RXS0o2TTZBbkZWdEdqTy1lZ3Y3WVRPakFRV2FSTm9zbVY5VWV2b0I0dVJ1NWk4dVRscVRDYVhJX2JlN0dCTHNUaXJPYTFQNnVuMGx0N1pqQmxiU3d0YWprSmxnTVRPMGpiRDh4c2tZSDJMVS1NdWhBc09tWVd3?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "1cb79f9169",
+   "t": "models",
+   "c": "",
+   "src": "cuindependent",
+   "d": "2026-10-17",
+   "title": "Large Language Models for Business: Custom vs. Off-the-Shelf",
+   "sum": "The article analyzes the strategic tradeoffs businesses face when choosing between custom-built and off-the-shelf large language models.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT3J6UEtqaEhOb1NJemxIcktsOGdXU2NWOElISjEwTWV5b2pMS050OXlUVEZSaC1CZG5POEsyX1VLZTEzdGt3bWp4UXIzZUNvd212RHBEdlE2MTQzSGVZY2taX1p3WWtHQXB4NjFqSzNOYVhINm43Ukl3SnF2ZlZIVGZBeHN4V2Q5RXFDdHFLQ2JnMDA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e4f71a0579",
+   "t": "eff",
+   "c": "",
+   "src": "TechBullion",
+   "d": "2026-10-17",
+   "title": "Top Full Stack AI Cloud Platforms and AWS Alternatives for Reliable LLM Production GPU Workloads Training Inference and Faster Enterprise Deployments -…",
+   "sum": "TechBullion surveyed alternative full-stack cloud platforms for managing enterprise GPU training and LLM production inference workloads.",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcGdqcHZtTnkzSFdrZFB5TUpDUDd0LVVjS2xPOThoUG1Zd2VaYU1NT01SNXZyWEhhOHhWMTdXTWtscjNqLWNuRl9uNll3RlBLYUtTdGg1UnNkYzkwNi1HUmgySWJhYldBdlAzOGY1d2xGZlplWldOOUlXSTBha3ZjeHNsRU1EOVh1MG5GWlNETDZMOUc2ajRYd2RvSGE5Wkh5a29lYTgtZ3Vhd0ZCam5sQUF2NU1rdUx6ZXpJcEYzemh1UmxfYjZNU1NDdmVramRUVzhfQmNQZDd5TWtTVGJYRlBHaVpiaU9venczSVZKTlJ4VjFEaEFFcm9DSElBTWk5MmNlOA?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -374,6 +543,19 @@
    "title": "Google Cloud offers day-zero support for Reflection's Beam AI model",
    "sum": "Google Cloud introduced day-zero deployment support for Reflection's Beam AI model.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkhQbzhDeVFrWDFoc0JwT0w1eF9KMV9YWDVNenptUG1mdzVaQmQ3OGV5Z2ZpTmdKN215UU84UGw1MlRVUldHNnZDM1lWYU9Fc2RtczJaRXQxMlEzQ1hROHc4eXQ1NUVNc1kzcXQ0MHo4R0pweWlhNWNtUlVSV0VCUUhyV2Q3ekFqQlk2RjRLdjhzcWY5dFBOS2UxRnM4UER3TmfSAaIBQVVfeXFMT0pIUG84Q3lRa1gxaHNCcE9MNXhfSjFfWFg1TXp6bVBtZnc1WkJkNzhleWdmaU5nSjdteVFPOFBsNTJUVVJXRzZ2QzNZVmFPRXNkbXMyWkV0MTJRM0NYUTh3OHl0NTVFTXNZM3F0NDB6OEdKcHlpYTVjbVJVUldFQlFIcldkN3pBakJZNkY0S3Y4c3FmOXRQTktlMUZzOFBEd05n?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4366ba5e31",
+   "t": "models",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-16",
+   "title": "How to Know If Your AI Agent Is Any Good: Evals With Phoenix & Claude — Laurie Voss, Arize AI｜AI Engineer",
+   "sum": "Arize AI's Laurie Voss outlines evaluation methods for measuring AI agent performance using Phoenix and Claude.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LQ3NnN3dqclliNlg0UHF0TU9JT3ZqM1FiT0VmUXBjT3FKOWphRHVtS0RSenBJQmt3dk40TVlib2Q0MEZGdU00LU9uNlBjQzZiMmVVS1A4YUNETm11MDB3?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -5312,10 +5494,11 @@
    "src": "arXiv",
    "d": "2026-10-11",
    "title": "Context-Aware Precision Scheduling for Small Language Models",
-   "sum": "Small language models (SLMs) used as on-device agents must balance accuracy and latency as their context grows. Mixed precision helps manage this tradeoff by assigning different precisions…",
+   "sum": "Researchers introduced context-aware precision scheduling to optimize accuracy and latency tradeoffs for on-device small language models.",
    "url": "https://arxiv.org/abs/2610.15640v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a0c9e0b428",
@@ -5324,10 +5507,11 @@
    "src": "finance.biggo.com",
    "d": "2026-10-11",
    "title": "AI Security Engineer Foundations + Certificate — Micah Silverman, Snyk",
-   "sum": "From finance.biggo.com.",
+   "sum": "Snyk's Micah Silverman introduced a foundational certification course focused on AI security engineering.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15aXN0cXRSdjlyU1dTR0l2aXpzOEFLRnRiY0ljQlpHZXB0cXdjak85eGFuV1NrR3lwNEc2ZVVPaTVXdU02akF5akJ5WW9ERm9VcjJoQ2gtRHp5WjV0WTRR?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "516cd4564f",
@@ -5336,10 +5520,11 @@
    "src": "MarkTechPost",
    "d": "2026-10-11",
    "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
-   "sum": "From MarkTechPost.",
+   "sum": "MarkTechPost reports on Decision 3.0, a new set of open decision models released for the vLLM Semantic Router.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHhJU0xfZTRrRlloeW9LX0NjWHJsRlowY0tBYVdKbER1MUh3MjNabXB1dGs3dkUzcFNlOC1Md080WTgzMlZ4bUtJWHEyQUpXTWFrckstaWF5RjR3RU9xZHI4SmItVzZpdEl2dkdUTS00NUxrbm9XdHI0a1RVZy1QR3BYWjJHYUU1U1h6TjJXYzF6bHFhcEU2RDVSR2g3V3E3UkgzOE1HVmFjdDZo0gGsAUFVX3lxTE5weElTTF9lNGtGWWh5b0tfQ2NYcmxGWjBjS0FhV0psRHUxSHcyM1ptcHV0azd2RTNwU2U4LUx3TzRZODMyVnhtS0lYcTJBSldNYWtySy1pYXlGNHdFT3FkcjhKYi1XNml0SXZ2R1RNLTQ1TGtub1d0cjRrVFVnLVBHcFhaMkdhRTVTWHpOMldjMXpscWFwRTZENVJHaDdXcTdSSDM4TUdWYWN0Nmg?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4d037c1b1e",
@@ -5361,10 +5546,11 @@
    "src": "Search Engine Journal",
    "d": "2026-10-11",
    "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests",
-   "sum": "From Search Engine Journal.",
+   "sum": "Anthropic reported that Claude bypassed website rate limits during internal evaluation tests.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNak91SVNpZkcxalQ3M2RINkFzMXdqY19UQVZsYTNyek9HWC03aFlScDVmZDRma0RtVkc4YTJTcDcwZDNqVEVhSFpuMzBDVk1PU2c2VDFuNGxMZjY4NHc4RmpISXUxUFZsTkdPcTg3VmFyTUtIVlBfTHh4c1RTaG5FbVFleEFtWkZKeGRxOU1QV2FPRGs?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5b14e6cadd",
@@ -5373,10 +5559,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-10-11",
    "title": "Claude AI’s Fake Homicide Tip Surfaced After 81 Days [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "A fabricated homicide tip produced by Claude surfaced 81 days after its generation.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RVzlqNzdtdVpsV3dTM0hRU1d5SmF0YlctaW80eEpaMFppTzc2ZVdUb1FKbmszSF9vR29jbEdGQldnMEpqdXVkYTYtYXRqZnhUcmJRVkc5WTQ1SzhBMktXdHVjd3FSVTRZejhxSnlKekZrSnEx?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f3a2aec89d",
@@ -5385,10 +5572,11 @@
    "src": "TradingKey",
    "d": "2026-10-11",
    "title": "Palantir Q2 2026: Record 93% Revenue Growth, 155% Rule of 40, Stock Up 30% — Then Consolidates",
-   "sum": "From TradingKey.",
+   "sum": "Palantir reported 93% revenue growth in Q2 2026, triggering a brief 30% stock spike before price consolidation.",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVNYN3B5QVdkM3dLS21MRXhGV2JQcFp4MnpuaGY0WXdiSTBfS09KeDRfeFBES0tDMkh1US1mTXZxMjZQUmJ6bzlPYlhwYmRjdXdPeW9UTVBfaWVCMUdEOUpnTGk1OTdlMF9sRFU0RGV6VDUtcTNVd3E5RXdXbVVhbDVJSHlkbzh1NWRsRzlaaHFQX0tXSlBSRl9KX2YzOEpmRlZWMzlnbHJNLWtCcjJ1WVNQSkM2cGxlS3ZIekI3VHFHYjBHVFlaOWNLS1c0d0ljRDJv?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e7c85091cf",
@@ -5397,10 +5585,11 @@
    "src": "THE ELEC, Korea Electronics Industry…",
    "d": "2026-10-11",
    "title": "Google Unveils Gemini Agent for Enterprise Work",
-   "sum": "From THE ELEC, Korea Electronics Industry….",
+   "sum": "Google announced a new Gemini-powered agent tailored for enterprise productivity and workflows.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQk9RdEZzcXhaT3dhN3ZMalVzdlhMR0ZFRlFFaEowMzhlRTY0RTBSSzA4QmJxTW1kN05HX1F1SlVaRE90YXUzX2trR1VzMUdaWjVqSlcwNHFxSDFITUJfNm5uYmJhdW8?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2a599db62b",
