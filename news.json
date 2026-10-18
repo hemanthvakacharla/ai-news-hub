@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-17T21:09:28Z",
+ "updated": "2026-10-18T02:05:56Z",
  "items": [
+  {
+   "id": "925e12663b",
+   "t": "anthropic",
+   "c": "",
+   "src": "FindArticles",
+   "d": "2026-10-18",
+   "title": "Pentagon Escalates Anthropic Dispute Over Claude Military Safeguards",
+   "sum": "The Pentagon escalated an ongoing dispute with Anthropic regarding military safeguards implemented on the Claude AI model.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhET2E2R0VoU2gzYW41ZVB6eE5VRnB3ZE15clVlOXMwR1pqUFk3dlY3Q3ljeVM4ZHVQZFg2VXA2SEVWcTN3eVB6UU9LOUNZWFhiWll5eXdlTUxlT0NNUENpOWhsYTZEd1dUNXM1TDV5Rk82bHlrUkUzN3F6NVhiZzVqR3RVNGVlRVlv0gGTAUFVX3lxTE80RVlxX1IyWHNaeVVscWFnQ01IRFc1b282Rms4eE1abkRURV8ycGpuS25pdVdjcWd3VDQyYUx0VmY2dXZNTXZfOEtSLTZrdzMtajNDVmVLS1JhTTFqaHJLcElUeE5PNzZuSVZJT2p6NU5fblRwbmsxaGJyZHVXbUowUjdBVklEMENPcHI4UURlOUw0NA?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "27b2ac8bdd",
+   "t": "models",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-10-18",
+   "title": "Run Nemotron 3.5 Bolt Locally: 13 Steps, 24GB VRAM [2026] - tech-insider.org",
+   "sum": "A published guide outlines thirteen steps to run the Nemotron 3.5 Bolt model locally on hardware with 24GB VRAM.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80bTV5cU00UEE3ZHVUc0l3c0M3Rnc4MFUzQ282eXc2TEZlWXgzV19oSHBqSXNuTGtrU3FLb3VNVk83aWNPVmRkUUVvd2tWSDlMYk9ucW9nNjIwRmRUbDdFMmpmMVotOVNBME15ejhEUXg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "568162b981",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-17",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "sum": "Meta updated its platform terms to remove language concerning scraping and AI training while maintaining its crawling practices remain unchanged.",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4634a3254a",
+   "t": "gemini",
+   "c": "",
+   "src": "nokiapoweruser.com",
+   "d": "2026-10-17",
+   "title": "Google Confirms Gemini 3.5 Pro Isn't Ready Yet—Partner Testing Continues",
+   "sum": "Google confirmed that Gemini 3.5 Pro is not ready for release as partner testing continues.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qQVBTRmpuWTQtTXVfYTN3TnJTUUhPSENNQjk3dkU4Y0ZHNHR2NTJKbGZDbkZwSWZKVTFkd2g4T3pHRFJGSlpHVnl5YVllQWNWVFR1bVM4cXVPZW1GbnNaT2dvNlNocUhDOV9Vb09UdTdaX1pVdlRYMVpreE4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8f967cbb74",
+   "t": "eff",
+   "c": "",
+   "src": "THE ELEC, Korea Electronics Industry…",
+   "d": "2026-10-17",
+   "title": "Intel Unveils AI Inference Software Optimized for Xeon CPUs",
+   "sum": "Intel unveiled new AI inference software optimized specifically for its Xeon processors.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qdEdKQUxoaldKd3djd3Q3dGRlTkpwVExGVEYwdVc5UVgxZHNRbkNESFpYaDE0QjdXSjRHSjhhdXBOQVJjM0NldW85XzlGQzU3a3lJejhiNTZ3Q3BjNFNwSThmUTBxekE?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "b769f5e984",
    "t": "anthropic",
@@ -4376,10 +4441,11 @@
    "src": "arXiv",
    "d": "2026-10-12",
    "title": "Think Before You Speak: Enabling Training-Free Latent Communication Between Language Models",
-   "sum": "Large language models (LLMs) have demonstrated remarkable capabilities in solving complex tasks in coding, mathematical logic, and iterative reasoning, especially by coordinating…",
+   "sum": "Researchers introduced a training-free framework that enables latent space communication between multiple large language models to coordinate on complex tasks.",
    "url": "https://arxiv.org/abs/2610.16165v1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "432420b212",
@@ -4388,10 +4454,11 @@
    "src": "arXiv",
    "d": "2026-10-12",
    "title": "When Does Compensating Inherited Quantization Error Help? Mean-Square Guarantees for Layer-Wise Quantization and Their Limits",
-   "sum": "Layer-wise post-training quantization methods let each layer compensate for the quantization error inherited from earlier layers. We ask under what assumptions such compensation guarantees…",
+   "sum": "A research paper establishes mean-square theoretical guarantees and limits for layer-wise post-training quantization methods that compensate for inherited errors.",
    "url": "https://arxiv.org/abs/2610.16020v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3e9e4ae1b8",
@@ -4400,10 +4467,11 @@
    "src": "BigGo Finance",
    "d": "2026-10-12",
    "title": "How Inference Keeps Up with Our Insatiable Need for Tokens — Cerebras & Gimlet Labs｜AI Engineer",
-   "sum": "From BigGo Finance.",
+   "sum": "Cerebras and Gimlet Labs discussed scaling inference hardware architectures to keep up with rising AI token demands.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTkhCNWtrbVJUZVZLOW5KVnNZdFJkYUR6RkdoQThnaFgya2F2a3dhOGE1ZERESjFYSkszTWtYcGd1YXNKLTMxQXc0MWtjWi1rSXhRbTlNWWdRQ3RiSmpj?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8645b11cc8",
@@ -4906,10 +4974,11 @@
    "src": "PPC Land",
    "d": "2026-10-12",
    "title": "Explaining AI Studio",
-   "sum": "From PPC Land.",
+   "sum": "An overview details the development workflow and features of Google's AI Studio platform.",
    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAxd1NVVlByN2txUVU3Y09kLTl2RllVNHlMZWNIWlltZlp6WEFYNzdkeENGRzhqMGhlUmkwSDh0SGw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3c622c4de5",
@@ -4918,10 +4987,11 @@
    "src": "Gagadget.com",
    "d": "2026-10-12",
    "title": "Google's free Gemini now picks the AI model for you",
-   "sum": "From Gagadget.com.",
+   "sum": "Google updated the free tier of Gemini to automatically select the underlying AI model instead of offering manual user selection.",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1hCeXE4YTBPWGljOXlKNjNLSGdjSjN1N3JnMjcxaGFYRUVRdmYwcFlxNjNsM1F4Tk9vX3FUSTl2ZVpqaUNlaXFuc1VJU2liTDJuTE92YWhxUkZnMWh0eHVLUFFYNFVmMlBxU1UzbHFBejZmbm85MHNvZ18yUVNBRDRjdlNUTGxGZHfSAY8BQVVfeXFMUDVObUxqYmZ5eTN0OWJfeGtLeEQ3dnl1ancwZnZOXy1WU1ctaFBEaFl0SGs4aExQRHlCWUxBYXBGcWpUZmJsbzdHc2NWNlBhX09mRVdsX1BmLUhRRHpta1Z1cnNZeXltdHBKTWcxT09KbEttbjZhQklEeXhJMUtSX1hOaUlDYnN0ME9VREI0ekE?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "818c355a50",
@@ -4930,10 +5000,11 @@
    "src": "Nokiapoweruser",
    "d": "2026-10-12",
    "title": "Google Might Finally Drop Gemini 3.5 Pro on August 12: Here’s What We Know",
-   "sum": "From Nokiapoweruser.",
+   "sum": "Reports indicate Google may release its Gemini 3.5 Pro model on August 12.",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNkJCQjNFdEk5U0p2SEdGMW1WZFZyYVZPaFZpRjQtNmFqcGdsV1ktQ0dHaW9IZHpqTWhtX2hVb3RlX1ZnQ2l5U1ZLMkREY3FqTUc3ZEdXekl3S2xvYkVqazNiWlFWUHJzQm5EUnlJSzR0VHA5eExIT2tfVQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4f2d4b1a7c",
@@ -4942,10 +5013,11 @@
    "src": "Memeburn",
    "d": "2026-10-12",
    "title": "Claude in Gemini 2026: Why Google Let a Rival Into Its Menu",
-   "sum": "From Memeburn.",
+   "sum": "An analysis explores the strategic implications of Google integrating Anthropic's Claude into its Gemini interface.",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9icGF1XzNuZ2pKMXlmakd2MkF0SlhzRk5Za21WMjhKZzFEaGYyQVphdm1SMi0zM0R0Z1V6VlZ1N0RDcGF1Vk1qT0U2WGl1X1k?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "38f77c3083",
@@ -4954,10 +5026,11 @@
    "src": "Mezha",
    "d": "2026-10-12",
    "title": "Google has updated the free version of Gemini: you can no longer select a model manually, but new 'thinking'",
-   "sum": "From Mezha.",
+   "sum": "Google's updated free Gemini interface removes manual model selection while adding automated thinking capabilities.",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmU2S25BODZRX3hTM196RHl0Q2VtYWs4UTBndlJjQnpTMlplVlFDVEhUQzlQNWc2ZzZUYUdYVDVXNWFWWi1wbWhMaGtMcEZmTU1yVXpRSXBTLXZuUVVyWFVHWjZJQTgycTBRcDR3S3FWM2RDZDY4a3Z3V3JNRGVBRGNOQV9iSTY0bF96NNIBkgFBVV95cUxOTUotOGU1bE5JRHdqc1VFZFVqM1gzbEZwR0ZuWEZXZGx0SXFJQ3ZsSjR4MktjeERMUnktaWNCa0xFRzRmb19rODJGVFhPc1g2VWN1WF96dmdobFJteEw3Z3JkU0hxRVdxTGNTT3FMdFN5RFBRbVhDVWtFNDd0d0syeG53ajg3eEpETHljWXJnbEFiUQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "165a17d5f6",
@@ -4966,10 +5039,11 @@
    "src": "TechGig",
    "d": "2026-10-12",
    "title": "Elon Musk's Grok Bot adopts multi-model AI for tasks",
-   "sum": "From TechGig.",
+   "sum": "Elon Musk's xAI implemented a multi-model architecture for Grok to distribute task workloads.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVlV4S0hGQzRnSHpmbmlaRWl6VE1ZVzNob2xVZ25VNE84WkpaLWZSaFhZWXZyTm8xUm50MUtPODF5Q1N5X0U3bDdxS1VtZ1o4V0w4YTVrVHVjRjhRbWljeXFIRkFHeHdHU3dFTy04akJ2MV9LUFFFa2ZpYVZhM3ZNRnp4VnowdTFQY2JqemZQNEUtVGvSAZgBQVVfeXFMT0h4bl9ZbWFKWFBUZHFrb1luV3lUQ2dGRWZwRkxsWWotbk1iYlhtaXNhU244NDFld3BmVDFQZklydXNzcTZZMmt5ZVJsNXVMTHRFR2pEbmYwclh1NVIySmY2b1VMR1hHWDV1b2NQcmJ5c3g5bWhXbTFHVHNqN2tqbllIX29YOG0tOEpJUTdKVEhMZHNpMzVZaWc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2708a0427c",
@@ -4978,10 +5052,11 @@
    "src": "NVIDIA Developer",
    "d": "2026-10-12",
    "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding | NVIDIA Technical Blog",
-   "sum": "From NVIDIA Developer.",
+   "sum": "NVIDIA introduced ReplaySSM, an approach that optimizes recurrent state storage to accelerate decoding in hybrid state-space models.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaExhQ2xYdmsyQUNRQ2hOa2F0MEJ3T05LR2llbVBiWE9kTmdjQ0cxNWljSXRnOWlPcTdZZ3RSQUMwdGNybXFLVHdIVHdpeHFDeVkxd1NOWkh4ZDR2SjFNZ0xjNjY4UXlrMzlOSWdVNXo0Q0pkTk0xREk2UlFtOU1lcjY0SFZ2YTFQSUVvTVBXejVkRGNmVF9Lc3dmTThsSGU0Z25iWg?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "4891e2ec41",
@@ -4990,10 +5065,11 @@
    "src": "IBM Research",
    "d": "2026-10-12",
    "title": "How distributed inference keeps large AI models moving",
-   "sum": "From IBM Research.",
+   "sum": "IBM Research outlined architectural techniques for distributed inference to efficiently serve large AI models.",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcTk1dk90OTNqR3FTWjNRRTNNbWt3UWp6RWp5UUQxazE2OWNpbmhzMUllUTFNNDR4U29xMDMtQ2NQTEtnTzhpMmhRQ1FqbVBoUTYzeGRYcmY4a19nX3c5bQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d5bcb4bcec",
@@ -5002,10 +5078,11 @@
    "src": "FinancialContent",
    "d": "2026-10-12",
    "title": "Hardware.co Launches Custom AI Hardware and Private AI Infrastructure Solutions, Powered by DEV.co",
-   "sum": "From FinancialContent.",
+   "sum": "Hardware.co and DEV.co launched custom AI hardware and private infrastructure solutions for enterprise deployments.",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMEVFRk5reXdCWXR4ZjBUcnJaR281UnFrRDJTVkZ4TmhlX2xFMERPaF9RRFdFS1FPS2Mzako1RmU1ZmxSQXNHaTdLWlN0a29zUmhtNHJSckttMlhqUUVORC1JVU05ekMtTnpTLTQxLTlLaEhGMFNWNlVaSjZaZi1pdW9Tb2xHNDN3VkxqajFwdWJ4alVXTzM1Tl9ETE4weTZ0bkFCelNZNlNRS09JMjFuQzFWSHdJNVQ3VmtEdUExTHREY1FqaXc4RDIyQkRTT0psckNSZEN3ZzVOa3Z5U2dRSGJ6TVNOa3dOWnlFQlJ2ZTNydFBj?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4f7f339707",
@@ -5014,10 +5091,11 @@
    "src": "Techgoondu",
    "d": "2026-10-12",
    "title": "Tired of burning AI tokens? Run AI workloads locally with Ready Server",
-   "sum": "From Techgoondu.",
+   "sum": "Ready Server launched dedicated hardware designed to run AI workloads locally to reduce token-based cloud expenses.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0h2ZFVySHF3amRyamVLRGwtQVNibE1tSjRITkYxY3l3QW9xOS0xOXhZMXo0OHJYLUFDd2pxcHpSbE5hN1ZaNFV2TjFZaFFsdUJiOGVqN0tnYnNYN0JnWmVEQ0VmM3BSVnh1aUVUcmJob3RJUnBpSjBiNFVsaURMeGlPOG9sVUozejJNZ1c5aDd5ZHUyM1dzXzBuYlQ3WlBYNV8xcnFUeFJQanJL?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c0904f8f1c",
@@ -5026,10 +5104,11 @@
    "src": "XenoSpectrum",
    "d": "2026-10-12",
    "title": "AI Token Prices Fall While H100 Rental Rates Rise: What a16z's Data Shows for NVIDIA",
-   "sum": "From XenoSpectrum.",
+   "sum": "Andreessen Horowitz data indicates falling AI token prices despite rising rental rates for NVIDIA H100 GPUs.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XMzh1eVk3UG4wUWRxSkEtajhVRlpzbE5oWU5HVF9TQjNVRmlZOEFwOWpPUkZoaFZrU3U0R2RFeWdSU1h2Nno0SFdXVmduSkVmb1c5TkhTMzM5c1FxNGdOOXE2MGNQTlR3VnVVX2h0a0V6UVZmcU1F?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "de842fbe6f",
@@ -5038,10 +5117,11 @@
    "src": "ABC News & Headlines – Australian…",
    "d": "2026-10-12",
    "title": "Claude's fake murder tip-off speaks to 'carelessness' of AI companies, expert says",
-   "sum": "From ABC News & Headlines – Australian….",
+   "sum": "An AI expert criticized developer carelessness after Anthropic's Claude generated a false murder tip-off.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT091a1dGcURIN2E5YVdTckU1QlNRTVB5aEJjdEw4a1gyeDBNdUQ1UGN2MEF2QVo1TjVEVG5nV2w4aWpCMy1uWnV4UHVXOXJCTXRjR2szNHlsNFBxRS12WmpjbDJQZl8wblBoUi14Vk9seW1mY3J0Y3VYWHFUcmFyejFlT09qOU0zbkpJWkNiMUZvaGNJS0pDdENxNDBScDNLcmxjczl3MG0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8f43eeb56b",
@@ -5050,10 +5130,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-12",
    "title": "Palantir Technologies Announces October Seoul Pop-Up with Korea-First Exclusive Merchandise Release",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir Technologies announced an October pop-up event in Seoul featuring exclusive merchandise releases.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVlWZFoxeHI0RDI3bXpEYnNWOWdYQ1RpQWVYOTB5WEdOc2xDTGY5X3B1TWVCUmwxaVdrX3QzS3BHUHJnajhMSGRheVV0eERILW44cHFVcjRTZVAxaHVBZ1BoS1BGMDk2RzlEMzU4enZjTzhPWlh3Y2FpUVdtV1dwc09CM0VhNUR4T2t6Vm84TTBQcmpseTJSMkZwc2t1SnpacUVmc1hiaXVoeUJQZVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "abdc33806a",
@@ -5062,10 +5143,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-10-12",
    "title": "Google Defends $15B India AI Hub Amid Water Fears [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "Google defended its planned fifteen-billion-dollar AI hub in India against concerns over local water resource consumption.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjA2N2pZb2dQSlEtT0JWOHBPVldrQzRHdnU1eU51bjFlTGFXVWRhblZZOWNMV3lENDFFdjFhTTcyTm9weVlBdFM2bnhYZFFaOVVGX3E0bjZ0UUpVaFMzeGlNZDJMSkF5aGlkVGNlODlqVF9RSTJRME9NaDdTTTlUQw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f7b0c77fab",
@@ -5074,10 +5156,11 @@
    "src": "디지털투데이",
    "d": "2026-10-12",
    "title": "VeselAI to provide global inference infrastructure for Upstage Solar Pro 4",
-   "sum": "From 디지털투데이.",
+   "sum": "VeselAI announced an agreement to supply global inference infrastructure for Upstage's Solar Pro 4 model.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1VpU1ZaRFk3LWNDRmRGaVRYcjJMb3VzRDkzaV9Xa25oNGQwQkdqY1kyTjVicjQ5YTdUcHR2LXV3QjRKQnI0X3dOaTd3ZVVweE41SFA5bW9XOVNkZjRQMDNhQzEzZHR4a2lVZmVJUjVlRzFPek1QZHlJU25hOXU1dlp5OHlXdDBUeEF4REdvZk5kMHJwUjZZc3VMb2EzT29kWXN1RElnY2RyZmtudW9DQ1c5LW9scHY4b2w2bg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "195efd2b82",
@@ -5099,10 +5182,11 @@
    "src": "HF Papers",
    "d": "2026-10-11",
    "title": "Calibrated Typed Decisions for Entity, Relation, and Event Extraction",
-   "sum": "Information extraction models often perform well on the datasets they are trained on, but transferring to new domains and annotation guidelines remains challenging. Supporting…",
+   "sum": "Researchers proposed calibrated typed decisions to improve cross-domain generalization in entity, relation, and event extraction models.",
    "url": "https://huggingface.co/papers/2610.17113",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fc33113876",
@@ -5150,10 +5234,11 @@
    "src": "HF Papers",
    "d": "2026-10-11",
    "title": "Omni-Modal LLMs Know More Than They Say",
-   "sum": "Omni-modal large language models (Omni-LLMs) extend LLMs to process heterogeneous modalities (e.g., vision, audio, and IMU signals) alongside language, enabling a broader range of…",
+   "sum": "A paper investigates disparities between latent internal knowledge and explicit generation in omni-modal language models.",
    "url": "https://huggingface.co/papers/2610.16135",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "385cff3935",
@@ -5162,10 +5247,11 @@
    "src": "arXiv",
    "d": "2026-10-11",
    "title": "Error-Based Bidirectional Predictive Coding Enables Deep, 4-Bit Predictive Coding Networks",
-   "sum": "Predictive coding networks (PCNs) promise properties not offered by backpropagation-trained networks: learning from purely local information, a single network that both discriminates and…",
+   "sum": "Researchers demonstrated deep 4-bit predictive coding networks using error-based bidirectional predictive coding instead of standard backpropagation.",
    "url": "https://arxiv.org/abs/2610.15933v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3fa7b8e9e8",
@@ -5174,10 +5260,11 @@
    "src": "arXiv",
    "d": "2026-10-11",
    "title": "Fast and Accurate: Improving Personalized LLM Performance by Semantic Concentration Inspired Workload Split between RAG and Fine-Tuning",
-   "sum": "With ever increasing personalized large language model (LLM) services, the next question to answer is how to improve the quality of services/users' experiences, which is indicated by…",
+   "sum": "A new framework optimizes personalized LLM performance by dividing workloads between retrieval-augmented generation and fine-tuning using semantic concentration.",
    "url": "https://arxiv.org/abs/2610.15921v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f27bfaf7ef",
@@ -5186,10 +5273,11 @@
    "src": "arXiv",
    "d": "2026-10-11",
    "title": "To Cache or Not to Cache: Understanding and Mitigating Safety Incompatibility in Cross-Model KV Cache Reuse",
-   "sum": "Cross-model KV cache sharing reduces prefill computation by allowing a receiver model to reuse prefix KV states generated by a related sender model. Existing methods optimize such reuse…",
+   "sum": "A study analyzes safety incompatibility and jailbreak risks that emerge when reusing key-value caches across different language models.",
    "url": "https://arxiv.org/abs/2610.15721v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "58451749f6",
@@ -5198,10 +5286,11 @@
    "src": "arXiv",
    "d": "2026-10-11",
    "title": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention",
-   "sum": "Linear attention promises the efficiency needed for long-context language modelling, yet its fixed-size recurrent state must simultaneously support ongoing computation and preserve…",
+   "sum": "Researchers introduced a state replay mechanism to improve long-context language modeling in linear attention architectures.",
    "url": "https://arxiv.org/abs/2610.15715v1",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "deb753aa6d",
@@ -5210,10 +5299,11 @@
    "src": "arXiv",
    "d": "2026-10-11",
    "title": "Preserving Updates in Low-Bit Recurrent State Quantization",
-   "sum": "Linear attention and recurrent models compress past tokens into a fixed-size state that is updated at every step. However, storing these states in high precision incurs substantial memory…",
+   "sum": "A research paper presents a method to preserve recurrent state updates during low-bit quantization for linear attention models.",
    "url": "https://arxiv.org/abs/2610.15709v1",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8460c1224b",
@@ -28521,43 +28611,6 @@
    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
    "sum": "From Hugging Face.",
    "url": "https://huggingface.co/blog/train-to-paint-with-code",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "d3c8e8d6d9",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-02",
-   "title": "Not All Ranks Are Equal: Budget-Aware LoRA Merging Across Tasks",
-   "sum": "Researchers introduced a budget-aware LoRA merging method that optimizes layer-specific ranks instead of assuming uniform rank allocation across all layers.",
-   "url": "https://huggingface.co/papers/2609.22237",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "569889965f",
-   "t": "impl",
-   "c": "mit",
-   "src": "MIT News",
-   "d": "2026-09-02",
-   "title": "From MIT to IBM, expediting AI and quantum deployment",
-   "sum": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
-   "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "12bff037b7",
-   "t": "industry",
-   "c": "mit",
-   "src": "MIT News",
-   "d": "2026-09-02",
-   "title": "System helps humans predict when self-driving cars will make mistakes",
-   "sum": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
-   "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
    "wp": false,
    "mp": false
   }
