@@ -1,6 +1,174 @@
 {
- "updated": "2026-10-19T22:41:54Z",
+ "updated": "2026-10-20T02:40:50Z",
  "items": [
+  {
+   "id": "ed298111b5",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-20",
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "sum": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in…",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "1463c13860",
+   "t": "models",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-20",
+   "title": "Inception’s Mercury 3: 40x Bigger, 8x Faster [2026]",
+   "sum": "From shattered.io.",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4WWtzemZNbjN0ZnRDZkdETm5oSkRJUlFtU29La3daODhCLVhLZm00cTIxNG51bGg3SDhnclRjbjRGdnEzT2t5VVo4dHpreTlhZW90MFZRNkNFQU5zOG9mRnVTVVZFeEtRRTNjcw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b0fb4c0567",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-19",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+   "sum": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "d45dacf783",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-19",
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "sum": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs…",
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "80fbccdecd",
+   "t": "anthropic",
+   "c": "",
+   "src": "Amazon Web Services (AWS)",
+   "d": "2026-10-19",
+   "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+   "sum": "From Amazon Web Services (AWS).",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "3023c9c0ca",
+   "t": "anthropic",
+   "c": "",
+   "src": "Reuters",
+   "d": "2026-10-19",
+   "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+   "sum": "From Reuters.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "82565f6364",
+   "t": "anthropic",
+   "c": "",
+   "src": "Emory News",
+   "d": "2026-10-19",
+   "title": "Claude AI now available to Emory University community",
+   "sum": "From Emory News.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmdDc2hZWjl5c3N0X3FuX1doZHNxT1NTMm9MdzFzOGx0QUk3Y3dJX2tuTFJyM0N3WnZXUFBzbnNIY3VtOW9pRV9qaHYxelhGczl6ZE1MVVVWYms1ZlJ0dk85T2laUnVzUThGMFRFa2NOdGVWUmtpSTFCS1U0Znp4MVhTWVhKNWVrbjlySFRB?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "139d2f1939",
+   "t": "anthropic",
+   "c": "",
+   "src": "EdTech Innovation Hub",
+   "d": "2026-10-19",
+   "title": "Anthropic opens Women in AI Hackathon applications | ETIH EdTech News",
+   "sum": "From EdTech Innovation Hub.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbE5HZmExREdKSjJwdURnaGdQRVE1QW5ZV2p4RVVVOXFkVm1mcUFJX2VDeWxzNGNwbXZBeDByTm52WEt3eG5VblFjbXRscEFSem1sVENVbmpNb25CR0h2SlhsM0FldWF1VU5XNk5hQ3d4TllJN0Q1bGc0emFXb3FqOEMxM0hYRGhUYkcyUC14eTVFQ3RPLU80eVVsbFpSLU8xdHdJVjloVHZGbTc4OXIzREwxZ1dHR3g2OFhwWlB3?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "fd6bcd3e1e",
+   "t": "palantir",
+   "c": "",
+   "src": "Investor's Business Daily",
+   "d": "2026-10-19",
+   "title": "AI Software Pacesetter Palantir Leads 22 Onto IBD Best Stock Lists",
+   "sum": "From Investor's Business Daily.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzdhSHBDSC1RblI5V3BjYk1DZkFIZEFTbW5IOWREa1o5bUxRUVJuNTZZVG5xN3UzV1doN3FQZW1TN1FEdEdITjRGRzdrTjFzQ3pVTmxzWUNKRWcwTVBiUGxwYU5ncU43d1F4NXpLZkp6RHZycjJYMmxPcHBTaFA1aUdXMFJMdw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b1627b26cb",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-19",
+   "title": "Palantir, Datadog and chip stocks bounce back as Amazon lifts Wall Street",
+   "sum": "From Yahoo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTJxSmJCOU8tTF9wMHl1cEJ5eXlUQTJEcXhyRjUxQmZoZS1FM0pLd19pUllsQ2p5anZGMkgwU1F5bFFRMnFLUzJaY0RZWldfX0QySjhBWk93YWNSQWxLM3VBZWhwdFVOVVpfZk9YZktkYkVWdjE2WlJvVUFHZ2swYzZzZDcyT1Y5SXFoZExEUmRDXzBtaTlwQWJIMGVCM0pTaU5nRTBERjdTX3dSZkVTZlRoS3ZNVVh4dGlKM2tad2FhMkozc2d5Tg?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8640ff536f",
+   "t": "palantir",
+   "c": "",
+   "src": "entARABI",
+   "d": "2026-10-19",
+   "title": "PLTR: How Could Its New Partnership Support Government AI Expansion",
+   "sum": "From entARABI.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUhtOExFUXU3NEhETDFOdWJTT25zanRhbnNmRkNVbWVMY1FIU3ZOeGNpUW1TZ1FKT3RlN2FDQmxzYjFOR181SnVHNWFWR3I0Ukk4SnBHTk8xTzZhZFotRVlsaFJET3Q4LXN2WnV4aW0zRG43Z2taMTdBcmMwNTNxMHc0Tmg2dmc3THNhQzBSdVpPSWZ5OVpPTUNINUs0UlM3?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f19b891e11",
+   "t": "gemini",
+   "c": "",
+   "src": "Inven Global",
+   "d": "2026-10-19",
+   "title": "Google DeepMind's Gemini agents beat Minecraft with no human help",
+   "sum": "From Inven Global.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRERMQ2RWZ1FMUnY4RTdncnVMaVYxY2xteF84TmxyMTRqdGZMd0lDRXJ4a3p3a2lZeWtZZTU2QXZPaVY2eTRLOThiVHZ4NnhDQkVfZGhERDQ2SGFHcEFoV1VOVll3SzhYNExiQmhnbTE0WUM1c2tNLTJDczlUVFZvSS1kYncwMFh1eEljdjdYaFZ5NlNqa0Y4c3JvQ21jNV82Ti0wUTBOUFh1WVk?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "7934ad9edc",
+   "t": "models",
+   "c": "",
+   "src": "Interesting Engineering",
+   "d": "2026-10-19",
+   "title": "New Mercury 3 model claims 8-fold speed edge over GPT-6 rivals",
+   "sum": "From Interesting Engineering.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2xjQzJjN3pkemRqU0dkRUI2bnptMzJsa2JRVnVhaTFDaTJuUS11UmNnTGI2UWJoMTg3eG04SVFmODExZGFoRHJmN1pJTHF2WDhBanFZRVJLRk9Dam9zVkRMS3NaWHNWZzdrc2wtZm9Jd1lyZ2E4SGFmejlWVWZTbDlyZWhaMzd4Q2RibDYyZkY?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "188cc5e751",
+   "t": "eff",
+   "c": "",
+   "src": "TradingView",
+   "d": "2026-10-19",
+   "title": "Weekly Recap: Intel (INTC) Q2 results and D-series Crescent Island GPU",
+   "sum": "From TradingView.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVF3b1F6QlZRQWhVSUJwT0lDaWlXejIxcXRhWFRvV25FVVJSY3pGZXRUdWxsWEsyakh1d1BhakZyVURlTjY2M1dUNHNOcDVidEd1UGlWOW9ncWRxUU9BamlHZFM4RXl6cGNpRVlvcWEzRTVZV29vZGtZbllSZWFQamJCTThSd0E0UVY2ZGJWVTVNVjlLTFl2VkRNMHo1Q3pHLVJkcm9lVDEyYk1VZ2pCS3owWldoU3NycTd4UUZLZFNlcDhVdm5lbA?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "0cffae2fd0",
    "t": "anthropic",
@@ -617,6 +785,18 @@
    "ai": true
   },
   {
+   "id": "937a8f1728",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-18",
+   "title": "Frechet Forcing: Training Long-Horizon Streaming World Models from Short Clips",
+   "sum": "Streaming video world models generate the future chunk by chunk, conditioned on their own past and a stream of actions. Trained on short clips, they drift once a rollout exceeds the…",
+   "url": "https://huggingface.co/papers/2610.25666",
+   "wp": true,
+   "mp": false
+  },
+  {
    "id": "d24b690659",
    "t": "anthropic",
    "c": "",
@@ -939,6 +1119,30 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "62baecf08b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-17",
+   "title": "World Model Interpretability: From Decoding Representations to Understanding Latent Worlds",
+   "sum": "Emerging Joint-Embedding Predictive Architectures (JEPAs) are moving beyond representation learning towards latent world models that support prediction, planning, and control. Yet their…",
+   "url": "https://huggingface.co/papers/2610.25296",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "a7ca3e22bd",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-17",
+   "title": "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion",
+   "sum": "Multi-turn image editing aims to modify an image according to a sequence of instructions, enabling more effective interactive visual content creation for users. However, existing methods…",
+   "url": "https://huggingface.co/papers/2610.25404",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "7d95fdeaf3",
@@ -2241,6 +2445,18 @@
    "ai": true
   },
   {
+   "id": "9c3a7d7fb2",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-15",
+   "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+   "sum": "Large language model (LLM) agents have shown promising potential in coding tasks, and their performance is jointly determined by the policy model and the harness that mediates their…",
+   "url": "https://huggingface.co/papers/2610.22791",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "6a78753fff",
    "t": "papers",
    "c": "",
@@ -3201,6 +3417,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "45fea1ed3d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
+   "sum": "Advances in frontier coding agents have sharply increased the token costs of AI-assisted software engineering. Their token efficiency is typically evaluated on isolated tasks, whereas…",
+   "url": "https://huggingface.co/papers/2610.22732",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "bc35a47e70",
@@ -13498,6 +13726,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "4253a159f9",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-03",
+   "title": "Self-Evaluating Recursive Agents",
+   "sum": "Recursive language-model agents decompose tasks and delegate subtasks to child instances of the same policy, forming a tree of work. Training them, however, is hard: the final outcome is…",
+   "url": "https://huggingface.co/papers/2610.04902",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "118a836dd3",
@@ -29907,30 +30147,6 @@
    "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
    "sum": "Existing approaches to persona simulation with Large Language Models (LLMs) mostly rely on shallow character descriptions that fail to sustain coherent character behavior across extended…",
    "url": "https://huggingface.co/papers/2609.22255",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "2976ed3050",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-04",
-   "title": "Tri-PvP: Exposing Modality Bias in Omni-Modal Large Language Models through Perceptual-Propositional Evidence Conflicts",
-   "sum": "Omni-modal large language models (OLLMs) jointly process vision, audio, and text, yet their modality bias under cross-modal conflict remains underexplored. Existing benchmarks conflate two…",
-   "url": "https://huggingface.co/papers/2609.06011",
-   "wp": true,
-   "mp": false
-  },
-  {
-   "id": "154716650e",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-04",
-   "title": "SkillSpec: Intent-Masked Specification Reasoning for Agent Skill Correctness",
-   "sum": "Autonomous agent systems increasingly depend on reusable skill abstractions for consolidating experiential knowledge and domain expertise. These artifacts typically bundle free-form…",
-   "url": "https://huggingface.co/papers/2609.06052",
    "wp": false,
    "mp": false
   }
