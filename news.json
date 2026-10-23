@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-23T02:30:57Z",
+ "updated": "2026-10-23T14:34:16Z",
  "items": [
+  {
+   "id": "94cd4ca5fb",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-23",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "sum": "Mobility app inDrive plans to test Pony.ai autonomous robotaxis powered by Nvidia hardware in Kazakhstan starting in early 2027.",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "690aea53d2",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-10-23",
+   "title": "Q&A: How AI came to model the “messy” human mind",
+   "sum": "An MIT researcher discusses the historical role of deliberate randomness in early AI and its connection to modern deep learning hallucinations.",
+   "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6430909168",
+   "t": "industry",
+   "c": "",
+   "src": "Hugging Face",
+   "d": "2026-10-23",
+   "title": "Does Your Model Run on AWS Trainium? Look It Up",
+   "sum": "Hugging Face introduced a directory allowing developers to look up model compatibility with AWS Trainium AI accelerators.",
+   "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "085ba153da",
    "t": "papers",
@@ -593,10 +632,11 @@
    "src": "TechCrunch",
    "d": "2026-10-22",
    "title": "Nirva raises $33M for a pendant that only listens to you",
-   "sum": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+   "sum": "Hardware startup Nirva raised $33 million to manufacture an ambient AI wearable pendant priced at $249.",
    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "779cc50e4b",
@@ -605,10 +645,11 @@
    "src": "TechCrunch",
    "d": "2026-10-22",
    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-   "sum": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+   "sum": "DeepSeek has reportedly raised $15 billion in new funding following recent US federal directives restricting the use of its technology.",
    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "bac3b1cc89",
@@ -617,10 +658,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-10-22",
    "title": "Why Engineers Should Brave Capitol Hill",
-   "sum": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the…",
+   "sum": "An engineer outlines reasons for technologists to engage directly with congressional lawmakers regarding STEM education and research funding.",
    "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "5d118fadbe",
@@ -629,10 +671,11 @@
    "src": "Hugging Face",
    "d": "2026-10-22",
    "title": "Ensemble forecasting with IBM Granite time-series models",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face published a guide covering ensemble time-series forecasting techniques using IBM Granite foundation models.",
    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3dec6b4cf9",
@@ -641,10 +684,11 @@
    "src": "Mashable",
    "d": "2026-10-22",
    "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload",
-   "sum": "From Mashable.",
+   "sum": "Anthropic introduced Claude Duet, a new AI agent designed to assist users with workplace tasks.",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa3ZVM2JtaGdBajhfZEFDWVJaVHlvbkxYcGR5ODFBdjlEeFNON3FfcG0tYzR0aHIyazRjanhUTWRyX1phZ3JLQTNVTmZTMXlBajQ5SmxUZUFVZms5eGxRbVJrZ04xZDYw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "819de26796",
@@ -653,10 +697,11 @@
    "src": "Quartz",
    "d": "2026-10-22",
    "title": "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots",
-   "sum": "From Quartz.",
+   "sum": "Anthropic is launching Claude Duet, a workplace AI agent designed to compete with Meta Muse and OpenAI Dots.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4weXI0QVdqNEdJSmR3Z2RvUl9feHFyMzdkSV90S2hhNlFadVd1TjZiUmpURVJtei00QnJQajBCaFJ1LXN2YktJN3o1S3hhNC1SV3RJNlA3RVhCeHNHZFFuMW5rc2x2WjY5VDZLaVZ0dkFqMmx0alJIcUliZEE1LVU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "633de65efa",
@@ -665,10 +710,11 @@
    "src": "PCMag",
    "d": "2026-10-22",
    "title": "Anthropic's Claude Duet Agent Joins Muse, Dots in Personal AI Race",
-   "sum": "From PCMag.",
+   "sum": "Anthropic unveiled Claude Duet, entering the workplace and personal AI agent market alongside offerings from Meta and OpenAI.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVQyby1UT21FZDFBcTUzTzNVYUE2WVk4X1JTRFYxTy1heG9VTWU4RS1PVnpLOTdHMHhDb19FV3pCTnp1MTFfVjNhUGlNazNTLUtFWFlrYTlNVjdTY21tNUF4NHdSUy05dmxmWklLTVdOSk45cXRhejhXaVpJTGhvRnR5bVVsUEVzZllMazVycTVUaWc1b3c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b102a10a95",
@@ -677,10 +723,11 @@
    "src": "Business Insider",
    "d": "2026-10-22",
    "title": "Anthropic's top engineer reveals just how far her team has gone with AI coding",
-   "sum": "From Business Insider.",
+   "sum": "An Anthropic engineering leader detailed how the company's technical teams are using AI tools directly in software development workflows.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1ozdXdwU0xrLW9uTW9US0NpV3hOMWNrcVdXREw1a3hvUkxqUERlTkl3M1NGd0JQcTJ4RnlaNE5ZNWd6MGlCbjVzbmtqbElPZ1VVSENRSTRzMVIxY0dFbEg4TUF3SVFtREY1Uk9kTTczcG9OVjVUWUpJck5Nai1PMmhJX2o0bUxaQ3dqQm52S014TjRYZU5Mb0JPeVZBNDg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b0a853ac66",
@@ -689,10 +736,11 @@
    "src": "Reuters",
    "d": "2026-10-22",
    "title": "Palantir says it cannot shut off NATO AI system as Europeans fear US tech dependence",
-   "sum": "From Reuters.",
+   "sum": "Palantir stated it cannot deactivate NATO's AI system, responding to European concerns regarding dependence on American defense technology.",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDFzczJud3pHcEZobURrNEhua1BVYm43Q2FSbFF5N2Jzc2gta1FnTm1wcVRseGVvSHhUSEZ0SnlHSXlsR0VKRW9rRGszYzRwLW5mQWdLZk9FVnMxVU12ZjBKZ21yT0lYNXZVTW1lRlBWWWV5d0g2U2F6MDRwajYtbXdOMDBXNjducVgtbWMwZmpBT3cyb1VqRTVPbjNsMk9OTnpqOTJUUFZMRkJWMW40V3lCLWpuOUREWU5sejd5UGdraHJGWWM4Nw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7ad2dee65f",
@@ -701,10 +749,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-22",
    "title": "Stagwell (STGW) and Palantir (PLTR) Expand AI Partnership to Transform Enterprise Marketing",
-   "sum": "From Yahoo Finance.",
+   "sum": "Stagwell and Palantir expanded their partnership to incorporate Palantir's AI and data platforms into enterprise marketing services.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnMtbXR0RjczQVFJS05OLVpINmtnV1RkdVRKN0JwR1FhRXVnNG9MRElyamU5eXg1R0V2Sm1nS1RzRmsxTUc5a0JSWlEzMGUtMkpZa2ZFOG0xbUxFWXRaSFpsQV9ZWVhxbUFGX2FUb0QtalZtaU1sb1hXS1BPSmZOcjhYZ0ptbEFXaDhFZXJOZXRxUG9SNUNkNkRRS3d3aGc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a2726f5511",
@@ -713,10 +762,11 @@
    "src": "The Motley Fool",
    "d": "2026-10-22",
    "title": "Palantir Stock: Buy, Sell, or Hold After a Research Firm's AI Warning?",
-   "sum": "From The Motley Fool.",
+   "sum": "Financial analysts assess Palantir's stock rating following a research firm's critical warning concerning AI enterprise software.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0w3MVl6YmhXZ1V6eEZxQTNBTDNGSWx0QU1obDFjOHY0V1FrU0l1WFZ5SHVzd2pKRmFZYWgtcHdQbEVmd3Fnajh2eW11MWdOSE1yTTR4ZWUxZldQaENzV2Q3QUo2U216azhEbk9lRGFjMkhNN1JjZ3dHZjJMdkJuZlJuR3h3SmFsY25TcEFZMDVSS1ZkaHpXSg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "82abacd69f",
@@ -725,10 +775,11 @@
    "src": "Euronews.com",
    "d": "2026-10-22",
    "title": "Palantir vows NATO AI system has no ‘kill switch’ after Starlink row",
-   "sum": "From Euronews.com.",
+   "sum": "Palantir assured European officials that its NATO AI platform does not feature a unilateral kill switch.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVmU5c1RaX0g0aDBPQl93alNWM0ZlRXZiZ3ZyMmwwdXlpWnVUcWhJOFU2U0hrYmkyNk1TRWtPZXIzTlVlZUZua0lhYVdvaldUQnpTeGlSQ0w0X3NjQThhRl9sdU00UGhnYWNVNkJscktISjV2NnQ5YXV4cC1jTE04Wlh4YVM4aFVmcmw2cHhqRzg0Vlc4S21SdU4xWEF4MkMwcXR5MW1zeTVrMFlsekdWY0tMV1pVRTNfQXRtRjVn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "64f60577b3",
@@ -737,10 +788,11 @@
    "src": "The Korea Herald",
    "d": "2026-10-22",
    "title": "Posco Future M adopts Palantir AI platforms",
-   "sum": "From The Korea Herald.",
+   "sum": "South Korean battery materials company Posco Future M adopted Palantir's AI software across its operations.",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RY1ROSU4yck9aZGpxNjI2MVYtbHplY1ExSDJXQ3lNV2RKY0JyT19CR1NnMzJ6RE9NY094MzVKdkktb1JtSXBXQjVlR1lUQU16d0pfekFZWQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6188827399",
@@ -749,10 +801,11 @@
    "src": "Bloomberg.com",
    "d": "2026-10-22",
    "title": "Europe Seeks to Compete Against US Tech Dominance",
-   "sum": "From Bloomberg.com.",
+   "sum": "European policymakers and companies are pursuing initiatives to counter reliance on dominant United States technology platforms.",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDBmckpGUWU3N3lyaXp0d0pxY04xX2w1eVczcmE5RU9MM25ndmtuVEduLWhoTEZRdHpPbGZuRUxibFZJUlJyNVJkRnYyMTdabGhvNEhxdWtJLXpGa2xoVE9sR3ktc3hGdkx4bmN4ckU0ZUYwelZFWDlqRUxBS0JLUXRkZEF4SllwdkFRdjlSajl2MkJpekNKamQzY3Rlc3NkUnZHenBpcFk3aGdBWkpGWE81cVVHRjlHU3ZLRnZ6V1RNZkk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f79abfed3d",
@@ -761,10 +814,11 @@
    "src": "Modern Diplomacy",
    "d": "2026-10-22",
    "title": "Palantir Says It Cannot Switch Off NATO’s AI System as Europe Fears US Tech Dependence",
-   "sum": "From Modern Diplomacy.",
+   "sum": "Palantir reiterated that it cannot unilaterally disable NATO's AI infrastructure amid European debates over reliance on US technology.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnl1TTZBaGs4YVZrWGEzWms4VW9VN0tYOVh2Njc5T3dfXzlqMDdSbEt1VUVQQ1NKM1RxVGNTQnJLUnJEY0tsT25Calo4X1JPekY5YjBWRk1HNTBtdHZYMzBheDNkWElDMGQ1cFpyZzM4VGQ1ckF3OWpUOGo5TWxXTThBM3RSQWtVaUNYekMxc0FTeDc1dTU5cmgtSU1Sc0NvcnNoVlB6aTVCOFFxb09LMXkzOFFDR3pnM0w5RzJjcmwtQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b43fb1c391",
@@ -773,10 +827,11 @@
    "src": "nokiapoweruser.com",
    "d": "2026-10-22",
    "title": "Google Quietly Starts Training Gemini 4, Its Next Flagship AI Model",
-   "sum": "From nokiapoweruser.com.",
+   "sum": "Reports state that Google has initiated training for Gemini 4, its upcoming flagship artificial intelligence model.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVRHdseFBSa2JILTRTU0hhR3poVU1rVXNNUElkVG93UG5rakRUeWxfbUJ1cm1hMF9PUjllM2IyU2tDdTQwR1Y1WnhNdmozSlFZVFFRY0t3MldlR091aGI3ejkyWmt6Yjd2TFpzSG1IUnY?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6bb98981d3",
@@ -785,10 +840,11 @@
    "src": "Tech Wire Asia",
    "d": "2026-10-22",
    "title": "OpenAI brings AI models to Google Cloud for enterprise customers",
-   "sum": "From Tech Wire Asia.",
+   "sum": "OpenAI has made its enterprise AI models available directly through Google Cloud infrastructure.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fVV81cjNRU2R1dWk0Z05NRGkzZjdWai02RnYzaDVGT0xVOWRrN3ZWV3kzOXhVQW1lSVBTZkFWaVN0TFdhYWNUWjNzVm11QXFnRzgxbDhKNkpoTVVGaE1sOXBJbFNwVGVWcWUyV0ZTVnM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8641987e18",
@@ -797,10 +853,11 @@
    "src": "Global Times",
    "d": "2026-10-22",
    "title": "Chinese tech company unveils new AI model based on fully domestic computing power",
-   "sum": "From Global Times.",
+   "sum": "A Chinese tech firm launched an AI model trained and operated entirely on domestic computing hardware.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oanJzZ3JhVl9XMEdxQllYZEdoUldlMjVWQmZBOG9ZQjVFMjdfeEI3b3BVT1ZDVXAzeWhmVi1fZXA1bVdqdmNBZ21zS08zZExhX2RJaFhSR1loMWFrM25MV25n?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "21eb0c3fbb",
@@ -809,10 +866,11 @@
    "src": "Dealroom",
    "d": "2026-10-22",
    "title": "KAIST professors' AI inference startup AnyBridge lands seed round from The Ventures",
-   "sum": "From Dealroom.",
+   "sum": "South Korean inference startup AnyBridge, founded by KAIST faculty, secured seed funding from investment firm The Ventures.",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzZUXzVWZ2ROY1dxU2xkeTFMU0wxR3hTeGtmYnJPaER6cG5BSmN4TDRKUTV0di1QUE9vTTZ4b291M1hPT0ROMUpjMU5ENXNWY3B1V3pqcjhydlNleXF5WWVlV0hmT2VjR1BiWXBmSl9HVnBYNWZWeFR4cjA1dlZDT2J2NFlMX0JPcDBtUE9pNXlfTlNKZi1FV3dwNTJtR0FDdlktZkVmem96ZzNranhDdXdGV0RZV0E?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "169ea32808",
@@ -850,6 +908,45 @@
    "sum": "An analysis discusses the challenges facing open-weight AI models, arguing that practical verification layers remain missing.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1F4TmJTaHhENlc5Q1Z2ckx1NDYxejdjdXFvNmFBdS1SYlBjRUpXSXBIVVRnWF9idy1PZEgxX0E5SnlyUDZuZDh6MGgzLTVGaUhITDREMkJ1MWNsOUM4ZllBOXBBUDdhcGRxUlJKakR0bktZd085YUtKVVZHVXhqbHp0OXdqR2o4ajlfMGp4cVNjWkVSMXdGNjJBTV8?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bf7522cb1f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+   "sum": "Researchers introduced FilmFlow, an agentic framework that translates cinematographic intent into controllable camera trajectories for 3D virtual filmmaking.",
+   "url": "https://huggingface.co/papers/2610.30753",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0400e12e3f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+   "sum": "RIDAR is a framework designed to detect and intervene in research integrity violations committed by autonomous scientific research agents.",
+   "url": "https://huggingface.co/papers/2610.31372",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "f680fcbe62",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+   "sum": "IQuest-Q1 is a 320-billion-parameter sparse mixture-of-experts foundation model activating 15 billion parameters for agentic command-line interface systems.",
+   "url": "https://huggingface.co/papers/2610.30949",
+   "wp": true,
    "mp": false,
    "ai": true
   },
@@ -1789,6 +1886,19 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3dpRXM3V3h5bkg2Skp5dnlEOGpRcm5kN1VIQzFTV195ZUppYld3WkMxblIxRzh4YnYxVl9XbGRLaEt4NmQ2Vmh1bmEzNEljMTV3bjluOHI2OXk3aDhNeFNFRGpQcllyX3hHaVVtQXRTVDJMSTF4NzkyMFdsY0hUYWVXaTJJMW1adUZVb1FzT2U1Nzg1QTZMTzZIWm1Cb1RiSG9fVDdSeHJiX3hnOGc?oc=5",
    "wp": false,
    "mp": false
+  },
+  {
+   "id": "b57096931a",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-20",
+   "title": "SplatLab: Autonomous Scientific Discovery for 3DGS Research",
+   "sum": "SplatLab is an autonomous scientific discovery system developed to reproduce papers and engineer new extensions for 3D Gaussian Splatting research.",
+   "url": "https://huggingface.co/papers/2610.30468",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "26448da66c",
@@ -4033,6 +4143,19 @@
    "ai": true
   },
   {
+   "id": "257b6373c1",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-18",
+   "title": "Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans",
+   "sum": "A research paper evaluates how language model capability levels affect human-AI collaboration dynamics and task delegation.",
+   "url": "https://huggingface.co/papers/2610.27148",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "cb22510ced",
    "t": "papers",
    "c": "",
@@ -6011,6 +6134,19 @@
    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
    "sum": "Hugging Face released an open data generation pipeline and a 2.8-trillion-token pretraining dataset for Indic languages.",
    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e1fc41e66b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-15",
+   "title": "MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models",
+   "sum": "MambaAct introduces Mamba action experts into flow-matching vision-language-action models to lower inference costs for real-time robotic manipulation.",
+   "url": "https://huggingface.co/papers/2610.22951",
    "wp": true,
    "mp": false,
    "ai": true
@@ -8266,6 +8402,19 @@
    "sum": "Palantir's CTO criticized AI safety groups and claimed the Pentagon has already replaced Anthropic.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlZ1TVdkbzZuZHBTdW1ud0hzb21KQW1lOGlDR1JUTmxPbDdJS0JoR0JabkNPNXIyR3ZNQUpwUTM1bExTRTZ1RURKMmFMdHJPakJZd2RkaktsMTg0YXVDNkkxeTNya1ZEbDBnOUNNUElFZVo3MGVCREU5Tk0wUjZKdEF6VG9RSkt4cjc1bVh1OUw2Z0lCNUU3MGVMZnZrYWM?oc=5",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4be7263b6e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-13",
+   "title": "RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation",
+   "sum": "Researchers developed RTAformer, a transformer model that tracks evolving relations and object persistence for video scene graph generation.",
+   "url": "https://huggingface.co/papers/2610.20091",
+   "wp": false,
    "mp": false,
    "ai": true
   },
@@ -13846,6 +13995,19 @@
    "sum": "An industry report analyzed the expansion of custom AI silicon and its impact on computational growth.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16VEVpSFNRTk9HUlVlTlVqXzFZREpXOEprUUloTWJfZDA2NFhTNVdQbFliQWxqRXBBdDNuTllpX19WMW5uRFNqMzFmNXZ0M3oxcVZuclEzZ0ZpMlBYY0JzbWh4SlRRVEtBNE8zTVVHV2dpTDY2?oc=5",
    "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1e97b3363f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-07",
+   "title": "Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective",
+   "sum": "A study examines event sequence forecasting through generative modeling to evaluate trade-offs between realism and predictive accuracy across heterogeneous data.",
+   "url": "https://huggingface.co/papers/2610.12586",
+   "wp": false,
    "mp": false,
    "ai": true
   },
