@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-24T17:06:51Z",
+ "updated": "2026-10-24T21:20:02Z",
  "items": [
+  {
+   "id": "b0af889ad0",
+   "t": "impl",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-24",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "sum": "TechCrunch compiled a running list of failed or underperforming AI projects, including delayed updates to Apple's Siri and OpenAI launches.",
+   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9c846da2f6",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Profile | Polina Pompliano",
+   "d": "2026-10-24",
+   "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
+   "sum": "A profile highlights Anthropic CEO Dario Amodei and his role leading the company behind the Claude AI models.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNVRycmlWXzJTdWtVSVZMbkN2SlVsVEhpUTktdFVuX1g0RmNGNjV4WUhaTjlCMTZmVEg1dWVlSkRWUjJuWGd4bXNvU2dqOXFScG9QMnNrUmJNMmZKNXJtMmp3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4b605f4438",
+   "t": "anthropic",
+   "c": "",
+   "src": "Rolling Stone",
+   "d": "2026-10-24",
+   "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+   "sum": "Elvis Presley's rightsholders filed a lawsuit against Anthropic alleging unauthorized use of 274 songs for model training.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTh5TVotQUREU29MT1BHc3JwV0p6X2FiUjlIbllhX3hkaWpxZnNMUzkyMHU0elBhRFBlUmJKWTE1X1k3VmhFQ056RFZ2cHV3ZS1jcW1hQXN6djRLcFNjNmdIeEFpY3FZU1RFVkZPM296WDNwOEM1S3R3WU9kSGhJeVFqRUhpVG1NWWZlczdYWW5veElSaG9SM1JGeGpRUUZ5bUNQMHpKOU9udVpISzdCUjFPNkRIWFk?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2007d9c9ed",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-24",
+   "title": "Gemini 4 Argon: 1M Tokens, $2 Price Doubles Dec. 1 [2026]",
+   "sum": "A report details pricing and token limits for Google's Gemini 4 Argon, noting planned price increases.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2UxaExNT3NnT1VMSm5jTE83bkYxUXR2RUZnb3hyVEd0ZG1kUEFhYzRTQ001NGpJRUxpbUllMGtGZTdhZ3piUWE3WkpZcThUMjRDZGY3Vi1jVjNYQkJKdmFQRV9mc2szelg5N09DSVBNcVNjc1dYXzExQnR2dlZTeDBOQmFyMzQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "42a742b28a",
+   "t": "gemini",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-24",
+   "title": "Gemini 4 Argon: 1M Tokens, $2 Input, Paid Only [2026] - https://tech-insider.org/",
+   "sum": "Gemini 4 Argon offers a one-million token input context under a paid-only tier.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHphR0ZWWmJVNVZ0aGJ1SDBHc3lDN0NHSm81RER3NHBKWmpGS0pLZGZPYUh6S1F3TTZXTVh3UVdwdkIxSE9aZUc3ZU5JSFYwdV9QSldIN2NIXy13RjJrU015WDRsRUdoR1hlMEZaZTlYUlJBVTFXVm1GMXBjdm1OaA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2abed1be1a",
+   "t": "eff",
+   "c": "",
+   "src": "Wccftech",
+   "d": "2026-10-24",
+   "title": "NVIDIA GeForce RTX 30 GPUs Get Up To 2X Faster AI Compute Performance With New GPU Unlock Mod, Real-World Gains Of Up To 60%",
+   "sum": "A new GPU unlock mod reportedly doubles peak AI compute performance and delivers up to 60% real-world gains on RTX 30 cards.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYzRTYzFubHo4OVJxX2FPbUNIMUtZVUJzc1ptN2pGMGNjdkRkckJ4UlJlcFlzWkYwZGl5RXFiNndvUHJXbDVybk5IbGdKay0wbjJoQlVHZE1xb3BkOEVpeHgzX1REbVlOZXBnaFM4Zy1fUi1aWlZ4UE9zZG5zZE5xdkFEODczR1NRLTd2VFhMSzhTRVhWWi1JMlNMVDJZMzZtaDVoeG5SZ2d2MThNWlZwQzRYS01pVWhMdUo0dV9acDJaUEs0MlU4aE1OczA0YmpUVWxqNUljM3RkTEp00gHiAUFVX3lxTE9FOUoyeEhmcXF0OURtVTFWR2ZtcTE3SzQxeTMxM0tqeGZ4c0RnbVVnYllpbjMwRVhFRm8tbEkxSnNPYlplOVRoanF5Q0pudTJqMTBiOTRLSWhtYjZwZUk4SjBjNGRKbjc1b3Q2V3dSR2ZXMGNRYi0zSjlrMHFBSWVNUkhYLWpQS2JkRHU3aHdzSS1hTm4tZGsxYVZGREVjUFp0Ml8ybWRHcVdqdl9NRndNZnBUR0RSSWNTOGpNcGdDaGE1LXhySkFLeURlWlljQXJFU1lJeDNibzRDSEpaQVhoNEE?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "35d668020c",
    "t": "industry",
@@ -259,6 +337,19 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFQyRXJtQU5CWDVfWjZfUXpLaDFFUkFJc2tkWWE3RDljeVRhRmoyRXhIS1A1cG5Hd0VxTDhZdlNENmY1czlEQ19uZjVKOXRja1ZMeW5DNXpNT1hydjNKUlNLaFpZNlV2OHI5NkZIaGJFbUs0OUpMa1JqLUc2WHdjN2VmTHY0eDJCZDI2aW5mQVFudnl2RXdWSDJWNzE?oc=5",
    "wp": false,
    "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c438f85868",
+   "t": "engines",
+   "c": "",
+   "src": "vLLM Blog",
+   "d": "2026-10-23",
+   "title": "Serving DeepSeek-V4.1-Flash at Scale: vLLM Matches DeepInfer and Scales to GB300 NVL72",
+   "sum": "vLLM implemented prompt/decode disaggregation and Wide-EP on an NVIDIA GB300 NVL72 rack to scale DeepSeek-V4.1-Flash serving.",
+   "url": "https://vllm.ai/blog/2026-10-23-deepseek-v41-flash-pd-wide-ep",
+   "wp": true,
+   "mp": true,
    "ai": true
   },
   {
@@ -4454,10 +4545,11 @@
    "src": "entARABI",
    "d": "2026-10-19",
    "title": "PLTR: How Could Its New Partnership Support Government AI Expansion",
-   "sum": "From entARABI.",
+   "sum": "An analysis examines how Palantir's latest partnership aims to expand the adoption of government-focused AI tools.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUhtOExFUXU3NEhETDFOdWJTT25zanRhbnNmRkNVbWVMY1FIU3ZOeGNpUW1TZ1FKT3RlN2FDQmxzYjFOR181SnVHNWFWR3I0Ukk4SnBHTk8xTzZhZFotRVlsaFJET3Q4LXN2WnV4aW0zRG43Z2taMTdBcmMwNTNxMHc0Tmg2dmc3THNhQzBSdVpPSWZ5OVpPTUNINUs0UlM3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f19b891e11",
@@ -4466,10 +4558,11 @@
    "src": "Inven Global",
    "d": "2026-10-19",
    "title": "Google DeepMind's Gemini agents beat Minecraft with no human help",
-   "sum": "From Inven Global.",
+   "sum": "Google DeepMind announced that autonomous Gemini agents successfully beat Minecraft without human assistance.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRERMQ2RWZ1FMUnY4RTdncnVMaVYxY2xteF84TmxyMTRqdGZMd0lDRXJ4a3p3a2lZeWtZZTU2QXZPaVY2eTRLOThiVHZ4NnhDQkVfZGhERDQ2SGFHcEFoV1VOVll3SzhYNExiQmhnbTE0WUM1c2tNLTJDczlUVFZvSS1kYncwMFh1eEljdjdYaFZ5NlNqa0Y4c3JvQ21jNV82Ti0wUTBOUFh1WVk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7934ad9edc",
@@ -4478,10 +4571,11 @@
    "src": "Interesting Engineering",
    "d": "2026-10-19",
    "title": "New Mercury 3 model claims 8-fold speed edge over GPT-6 rivals",
-   "sum": "From Interesting Engineering.",
+   "sum": "A new model named Mercury 3 reportedly claims an eightfold speed advantage over rival systems.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc2xjQzJjN3pkemRqU0dkRUI2bnptMzJsa2JRVnVhaTFDaTJuUS11UmNnTGI2UWJoMTg3eG04SVFmODExZGFoRHJmN1pJTHF2WDhBanFZRVJLRk9Dam9zVkRMS3NaWHNWZzdrc2wtZm9Jd1lyZ2E4SGFmejlWVWZTbDlyZWhaMzd4Q2RibDYyZkY?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "188cc5e751",
@@ -4490,10 +4584,11 @@
    "src": "TradingView",
    "d": "2026-10-19",
    "title": "Weekly Recap: Intel (INTC) Q2 results and D-series Crescent Island GPU",
-   "sum": "From TradingView.",
+   "sum": "TradingView reviewed Intel's second-quarter financial results alongside updates on its D-series Crescent Island GPU.",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVF3b1F6QlZRQWhVSUJwT0lDaWlXejIxcXRhWFRvV25FVVJSY3pGZXRUdWxsWEsyakh1d1BhakZyVURlTjY2M1dUNHNOcDVidEd1UGlWOW9ncWRxUU9BamlHZFM4RXl6cGNpRVlvcWEzRTVZV29vZGtZbllSZWFQamJCTThSd0E0UVY2ZGJWVTVNVjlLTFl2VkRNMHo1Q3pHLVJkcm9lVDEyYk1VZ2pCS3owWldoU3NycTd4UUZLZFNlcDhVdm5lbA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0cffae2fd0",
@@ -4827,10 +4922,11 @@
    "src": "Fox News",
    "d": "2026-10-19",
    "title": "Anthropic AI sends fake murder tip to Philadelphia police",
-   "sum": "From Fox News.",
+   "sum": "An Anthropic AI system generated and sent a false murder tip to the Philadelphia police department.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcndJRnB1WjM2MEVNMVRVbDFncnpSODloZTFTLTNfcW5QX2drOVgzYzhGTVkyb3RkS2ZGOGdGRUl3TVBXR3JQbUtWTlJnalk0dkdhcGtVYmpzSWRnMzlELVp0MlV3cV9rTnNTTDdYZXlYcEZIWG5qalE3V3BPVnNqU0thTDBFY1RHbTQw0gGQAUFVX3lxTE9zcGdjdkhmTWVPSlZmaWxHMVJtQmxqRU9KTHdmSkdCUnB1SklEejdCbkJHTk14R2JkaXdHMVNhR2ZtbmpPS1pIUS1Qczd3UUpWZ3RJcjVCMXA1cTRraHZ1N0pVYV9lcGlUSDFTNjlnNVQ2c0lodWNuWEhWYmlIZjZqT2NQUWxvWU4yRjIxcmZSOA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bae9a787c7",
@@ -4839,10 +4935,11 @@
    "src": "AI Insider",
    "d": "2026-10-19",
    "title": "Anthropic’s Claude Designs More Efficient Quantum Circuits With Automated Feedback",
-   "sum": "From AI Insider.",
+   "sum": "Anthropic's Claude successfully designed more efficient quantum circuits when paired with an automated feedback loop.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHFBUkZQT2VhTnRJOHNkT3Z0R1Z6STI5LURLd0ZfRk9aR2lTN3RiejFjVXhtNTVfYUE2Y1pSOUZ1Y04wWEZhTDc4X1luRC01SHJLWXJ3WXRhdHB6bGw3dFRRdnk3d2JfQzQwc01uSnNmXzN0VDh6UW5hcVZfWDZ2LWJvMkxDd29HNUZlOFJyM3F0N2FHZER6T1dyTUFkRzczbW1hZ01fbzE5N1dpNFZac2xCUS1OYVFkbkxB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "219172b093",
@@ -4851,10 +4948,11 @@
    "src": "Techli",
    "d": "2026-10-19",
    "title": "Making Sense reaches select tier in Anthropic’s Claude Partner Network",
-   "sum": "From Techli.",
+   "sum": "Tech agency Making Sense reached a select tier within Anthropic's Claude Partner Network program.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3Z6bktvUVRlblZKemhzM1FPWmpFNGZ2QXZwQmpWalpwVEpQMV9DWDRkd1A0dWRpQVVOMi1vcVpURW9RQUNnc2oxcWUxc1hPYW5KaE5ZcFBYYXBhaWp6RUpua2FSdjB6dXJJSHVCMENlbEwwU1UzZVNuQjRrenluUTlxY2F3Nm5RRVh1YXZBY05lczdtUHJDSktlOA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "93380231f3",
@@ -4863,10 +4961,11 @@
    "src": "TweakTown",
    "d": "2026-10-19",
    "title": "Anthropic's Claude AI 'fixes' Oblivion Remastered on PC by creating a mod that boosts performance by 40%",
-   "sum": "From TweakTown.",
+   "sum": "Claude generated a PC modification for Oblivion Remastered that reportedly improved frame performance by up to 40%.",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY21YNlFUaFBzS0s2LWVkUnNoWUFWbU0td0FtYVlyeGtvb2V3MC1hMTNCaGNfSWtRZE1seXRGa2JQWmMyOFVPNlQtYmZlTE9zWE1WbDhpRjVwMlJrcDFIREV4WkpFSVE5VjR1Q1BCUHRmZEl3bjRWYUtlWmJ5N2NxRzVjcmNsSkFSMzhHTnpjalEzRko1b042aHNhTHFuYjhtTEFfMVdHbTZsOUJKb1N0MFRvdng3UkxxcEpsR2FmSGQtX2pqblBKekwxRGp5UGxfVURCT1l3S2tiWDQ0N1dhNkVuNDlSN1RHd3NFM25n?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "883a303c74",
@@ -4875,10 +4974,11 @@
    "src": "shattered.io",
    "d": "2026-10-19",
    "title": "Claude 5.5 Family: 2 Models in 6 Days, Haiku Next [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Anthropic released two Claude 5.5 models within six days, with a Haiku variant expected next.",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwQlQ2UWN5RHY5TlZqV3ZQVjV0TVk0b2dJZktQSFpxMUlYWXFXdV8wZXowOEFRT0Zja0NjQ05SM19va3NzbHFwUVR6OHlVdjFlTmViWmZORGh0bjllZ1dNM2VNTVZlVjZzYXgtdDZGcnctTERDTFJWZkM5cw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7acdbbb637",
@@ -4887,10 +4987,11 @@
    "src": "MLQ.ai",
    "d": "2026-10-19",
    "title": "Anthropic commits 5% of its shares to a public-benefit fund",
-   "sum": "From MLQ.ai.",
+   "sum": "Anthropic pledged five percent of its equity shares to establish a public-benefit fund.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFpuQ0FZX08wWndmaWZycXU0bVJZbl85dzdRSGcyR1FEa0dkRmFVZTZFdE15YkVlQno5ZFQ5NGJmVVdSbGxnUnVqTWxNcUdmZGVJZHlvYW5vSnBEZC0taExSMEl1TmxHNmxLZTVibXlzYldMNDFKZjZRWVZmWjdleTl1SG5lUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8fe33d4a53",
@@ -4899,10 +5000,11 @@
    "src": "Seeking Alpha",
    "d": "2026-10-19",
    "title": "Palantir: AI In Production While Everyone Else Is Still Piloting",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha analyzed Palantir's position in deploying operational AI systems compared to competitors running pilot projects.",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHlRbl9uaG5jakRkZXR6WWdSdVFNcTdJT2xUVlFzQ2Z6SXhKeHFvUGtnX21WcDhmU1RocnRuaHhlWW9pZVROX20zRnRUcFpORnBwdUlKaDFnc2M5bmFjYk1ZX2Y1ZDRkcUx0c0hlOWNmZ1k5V3FTNG0yeWpZWGVpVXhCbkh0cURwbjFwUDRUNVlUTWVpd05TdkUybFY1QlhEMVBWVlByOA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a244881efa",
@@ -4911,10 +5013,11 @@
    "src": "The Motley Fool",
    "d": "2026-10-19",
    "title": "Why Palantir Technologies Stock Rallied Today",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool discussed market factors driving a recent rally in Palantir's share price.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGVtTnJqa1JaREVkY1QwcnhQbXk4ZlFkSTEyZnRVbGNqRGlXelYzQUFFNm9ESFcyNlJPRFpuM0dUa3NZQkI5TFFQWG5HZTJMQ2RSOThUOW9ZZ2dnSjJBWEFHU3NOZjZnWE1Xc0txc2ZVWHhzWm5mQTBwekpMUGFtTHlfOUJ0QWNnblIxWXR2ck02QQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3dd49d7f90",
@@ -4923,10 +5026,11 @@
    "src": "24/7 Wall St.",
    "d": "2026-10-19",
    "title": "Palantir Rises 5% on Knox Partnership for Federal Cloud Software; Leidos Edges Higher, Booz Allen Hamilton Slips",
-   "sum": "From 24/7 Wall St..",
+   "sum": "Palantir shares rose following a Knox partnership announcement to deliver federal cloud software.",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWTdrOUdnTDJOekZUUnAzdlVUVGhiME1FOXBEUV9TV3lpd3RDRGM4RlBxSVN3N3pPR2pvalpTY0FaNVFUeHFOZ2tuM2FSU0Jfb1BPbUUta0hoS2Z2TGhvNEFSU0t1YjFQdWRoTHRteEg1WldUaW12eklYdEtPOHNsQ3gyNUNVdlU5Q2I3bERacGRsSWF4RHRQNENRbFkzdlZka0xsZnRFTWJrT3JQRWhFdmF3S0F1VndJRnM1Sm5qVEg0V2loM3FqVHAyMUxyWEZnaTFZMzdyUjJNOVdVc2E5UURKQTdjTVZf?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6a05ecd33d",
@@ -4935,10 +5039,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-19",
    "title": "Palantir Stock Fell 7% on Friday. Here’s Where Shares Could Go in 2026",
-   "sum": "From Yahoo Finance.",
+   "sum": "Yahoo Finance evaluated Palantir's recent stock decline and future market outlook through 2026.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTk1QmdmdzhRbTJJbk5FZXN6WE9SRk1mbFFOWjYxc1B0WVZGX3VzSE5oajBnb0xLdmJkb214NzFZNXJwWTlGYTlzazhLanNHc2lsOWc3b3hWUl9ROWFnOHlEVWgwSG9MYTl6bFFNazMxQWljaVl6S2pOOVAwM0dsUndDOFBPSEZFNWNzcVBfVGJfY2trTlA2OQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "53b1049c51",
@@ -4947,10 +5052,11 @@
    "src": "Stock Titan",
    "d": "2026-10-19",
    "title": "Palantir teams up to bring software to government through the world's largest federal cloud.",
-   "sum": "From Stock Titan.",
+   "sum": "Palantir partnered to deploy enterprise software across a large federal cloud infrastructure for government agencies.",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFVaMjZ2R2dfS2hBaDc5VjJBNG5FbmpUVWJDZjZSMXNSNlNtQXl1Z3ltQ1V6cFQybVJGOVZDV1g2RVVhc3ZjU2FPSVdZN2FXOGF0a2k3QUJXbFVsalJmYldQdmtiZjB5N2JuY2tEUm1DWlMxeDVSZE1oc2NHQm44NEw4azlaRXhUUGdfTDhFSG1fZFV3enNyTDAzUlpBN01fTVg2U1pmOTBpR1lRV2NOVHowQ2ZHc1FlbElFUmk1MUs?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6de66b29b9",
@@ -4959,10 +5065,11 @@
    "src": "Stocktwits",
    "d": "2026-10-19",
    "title": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On Palantir, Marvell And Cava As Nike Faces Downgrade",
-   "sum": "From Stocktwits.",
+   "sum": "Stocktwits summarized analyst upgrades for Palantir, Marvell, and Cava alongside downgrades across retail stocks.",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmk2SjJqWFBYNThsTzNPc3lJZUdXbFNhekFvRTRLWVVmeUdkSU5penRJbDFpTWdubEhEWWNmSU9TOU9nRWVRYS1taTZvU3lkd0E5bDVKcTJzUk0xNl8xN2thSnBTQ0FkeWlfOHJSVE5XZkRKYzAyQmVpUlFiSTUyQUdndW84N2piZjkzQVNoU0dYQ2J1QTJOMFBQTkEtQU84bTloZVY1V09DMk1pNmdKYzRXLWRadFhEMkx3QVJpcERkbDVUOFktTWxzSnlRNzVsMFFjeDlRdGFNc3hFbEROclRwSnZudHMtLVg3LXZHVURITUd3QlA0dV9B?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0de005a7ed",
@@ -4971,10 +5078,11 @@
    "src": "shattered.io",
    "d": "2026-10-19",
    "title": "Sergey Brin Tells AI Staff: Go All In on Gemini [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Google co-founder Sergey Brin reportedly urged internal AI teams to focus their efforts entirely on Gemini.",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQ19xanptNzVRTVRySXJQbGNHbjBfRHkxVjdHSUlwd2lnRU5BSnNySkZqaVYxT0s1cTBUd0x3UXBSMU52U3YzRUt0UzZqdEM2bnp5c3VmN1FEZll5V2R0SmJCNG9TTVp0cEF4NmJYRWg1ams?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f9cef93f5d",
@@ -4983,10 +5091,11 @@
    "src": "HotHardware",
    "d": "2026-10-19",
    "title": "Google's Gemini AI Agents Beat Minecraft After 27 Hours And No Human Help",
-   "sum": "From HotHardware.",
+   "sum": "Autonomous Gemini agents completed Minecraft after 27 hours of continuous play without human intervention.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1JpZnZIUG1USG5DM1pJdnlRbmliVkh1LXh3U01GQnhYY1dLdUNSNFdjanVTdlo4eVhTZ203amxHcEtCbG02ZGdhSGRLUFpSeFpzdkNLOTRtU0NIYzMxWEphVmdfNzVFR2ZaX2txOGU2NjBjRVdQMERGV2RXRGxBYmNEZXpDMjFhc1gtaUxHNHBNVUlNV09JMmlFdGgxR0E1UWpR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "67fdd2af6c",
@@ -4995,10 +5104,11 @@
    "src": "Hospitality Net",
    "d": "2026-10-19",
    "title": "roommaster Introduces AI Connector, Bringing Live Hotel PMS Data into ChatGPT, Claude, Microsoft Copilot and Google Gemini",
-   "sum": "From Hospitality Net.",
+   "sum": "roommaster launched an AI Connector to feed real-time hotel property management system data into major conversational LLMs.",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa2phQS1uY0lMbWpSRXVrV01ZQ20xVnZyVnVLU1Ixa3RfZEk0UW5qNkdXdU5SQlJTZ2NORG9hMjdldmVkRG44SGxlbGlVM0t0cmlRemdFbXJGbW1VVUtabHp3b0RKNS1QVE12azFPaWh1akd1ZFdlNHlySEZBdm1VNnJaOTdHR1NkRGg3MFY1bjZNZUdOTWt2ZXJxaHBKZzdyZjRxbGd4cnFVSW9KWXJybHdRTEpMYXg3dkVZNG0wM3pHWkxnbER3ZXIwOV9ZUnhER2NWNVdVS3dMT2xsVVhoVGRRdHdCWkI1cy11S2VTTFhUSThQSmc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "838e86e110",
@@ -5007,10 +5117,11 @@
    "src": "VOI.ID",
    "d": "2026-10-19",
    "title": "Google Releases Gemini 4 Argon, Output Limit Breaks 1 Million Tokens",
-   "sum": "From VOI.ID.",
+   "sum": "Google announced Gemini 4 Argon, featuring an expanded context window with an output limit reaching one million tokens.",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rUTEyV2k0VURhSXFHakliLXk2ODlYT3Q1bVk4OWp1bkppOUdXYlIxTkx3SjB4YmpjY2ZyRkFEWjZoZ0RybmRYQmtZY9IBQkFVX3lxTE8tVno3NG9LOGktcnQ1dXVkejBXa01qQzluSTJDeGVHRDNSSDY5aEJrdU5rV2k5d1dtYVdCT05FZkJNQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "6de92a5fed",
@@ -5019,10 +5130,11 @@
    "src": "Vietnam Investment Review - VIR",
    "d": "2026-10-19",
    "title": "Dogness introduces Google Gemini powered automated pet feeding device - Vietnam Investment Review",
-   "sum": "From Vietnam Investment Review - VIR.",
+   "sum": "Dogness unveiled an automated pet feeder integrated with Google's Gemini AI technology.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXc0cHRsZ1lQU25OSS03N3RfRlpfM1Z6TTRSSDM1Rm9odVZyMHZnU0M3MDg2TGRuM0EyS0NPQmJfbXV1QXNLeVI3VFplYjBDQVRLUmVvNlJOSmlKVkZ0Sk1SMTRfM3loMXhfclZ5U1dCY3paa3I1Mk05TTNfX1A5ZFRxOTEzbE1hV2dETnkxVjZadFVBS0c5Ukt6d0FTS1NMYXc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0c7930ddfc",
@@ -5031,10 +5143,11 @@
    "src": "The Information",
    "d": "2026-10-19",
    "title": "Anthropic Readies Model That Reads Users' Intentions Better",
-   "sum": "From The Information.",
+   "sum": "Anthropic is developing a new model architecture focused on better understanding and anticipating user intentions.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUUI1LVFnVzE0bmNHTjRZSGJMRUhueTNjT1JzSFU5eDhHeFQtNlFYalF6eE9wU2FEelA3dHpXY2xGSW1NbVppT3NMcnlYaHk5alZCVnhoMFIzeHpRUXM1akVfeGJBZG54VWE5X0xZX3hUN21xd2xRQkxMQ0FhckVpOW9GLXRkUDJKYVk0Q1FEbUJkeGFMUmlRLXhUc0g5Zzg5SXlRRTNmQWgyQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "10c6340a91",
@@ -5043,10 +5156,11 @@
    "src": "VentureBeat",
    "d": "2026-10-19",
    "title": "Decision models like Jev handle what SQL rules cannot. Here's how data teams use them",
-   "sum": "From VentureBeat.",
+   "sum": "VentureBeat explored how data engineering teams use Jev-style decision models to handle logic beyond traditional SQL rules.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDJyVk9jZUVwV2FtWkdzZ1V1MWRsSWxldDBSMEFPaHRrRTZ2VkY1SGR4ZUowS3VDOHJjTjB6X2hhYVdoVFV1QVZnRjR0RjI4RHpLUEpkM2EwM0VJLW1iMm1jUFV6OXZSLU13dFAtcmVnc055ZFlpOUotdjNfWDRJTDNMc0NuYnlZU2tWaDRNM0FaTnZxeEtkdWo5TTRhQmlvb1pnZWpqaXQ1cXJGd1BVU1JR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3e7e63896a",
