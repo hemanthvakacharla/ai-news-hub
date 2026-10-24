@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-24T13:46:36Z",
+ "updated": "2026-10-24T17:06:51Z",
  "items": [
+  {
+   "id": "35d668020c",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-24",
+   "title": "Block’s new voice model sounds eerily human",
+   "sum": "Block introduced a new voice model designed to run locally on an Apple MacBook M4 Max.",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "110fd09f65",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-24",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "sum": "A study found Grok's AI recommendations favor Republican candidates while OpenAI models favor Democrats, disagreeing in over 90% of tested races.",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7cba6ab637",
+   "t": "anthropic",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-10-24",
+   "title": "Anthropic's Claude 2 chatbot: How to Access it, and how it compares.",
+   "sum": "Mashable published a guide on how to access Anthropic's Claude 2 chatbot and compare its features.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3c0NxVzlDWkxxUVJuc2RmeGlRX2NJWUJMWVl6cTJhaUpCN2dKNW03cVNFNzVodXZFLWE3cXcyekhDU1BFY1dKN0pqVUFkZHJpWWNCZFdnVndjSU03Yk5GVGNEU2ZLUWFNaHFJYkFNVnJCOVU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "09b5411a8d",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-24",
+   "title": "Gemini vs ChatGPT: Argon vs GPT-6.1 Sol Tested [2026]",
+   "sum": "An article compares performance benchmarks between Google's Gemini Argon and OpenAI's GPT-6.1 Sol.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdUNoMGJyQzA3c3F3NjF3ZHljSU1XZUQ4dkFLS2Y5UmZaS0F4WDc4X013VmJuTmVLS0V3M0NuVEl1QzVMSWVQejJDWFlkZmpKMjRpTThiNDdaUjZjSk9JRVVMTDV0NDZ6SUc0NThpbEVEWU5BZWRRd2FJWjd2UFU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d8658a5f10",
+   "t": "models",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-10-24",
+   "title": "Claude vs ChatGPT: Which AI Is Actually Better in 2026?",
+   "sum": "A comparison article assesses the capabilities of Claude and ChatGPT models.",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tSHQtWTJjYXdKd1B0cFFWR19rWmFQdlM1d001Yk8yeDJiQlctVFk5TGFkUFZTN1Q3NHlTNHFfeVRVY2kzcnpEaVk1NEZmOGc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9370f8ffe9",
+   "t": "models",
+   "c": "",
+   "src": "Intelligent Living",
+   "d": "2026-10-24",
+   "title": "Flint vs. Bonsai 2 27B: The Honest Local Coding LLM Comparison",
+   "sum": "An article compares local coding performance between the Flint and Bonsai 2 27B open models.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdUpOMVhpejNSNmVEMFlJRTVQMU1KdXhPcHhlZzF4QXU4ZjV2TGNZci1pZWpkT3BtYVByaUY3MnpUc1dTeW5jY2R1X21SYm5RMzVQbnBqbGJkeGV4UzlYQWVHai1uSlEyMTdvTEE3cXNzd2ZjdGFuR0xLVEpjWkk?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "c04db3a9de",
    "t": "anthropic",
@@ -3544,10 +3622,11 @@
    "src": "Martin Cid Magazine",
    "d": "2026-10-20",
    "title": "llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI’s real bill is inference, not training",
-   "sum": "From Martin Cid Magazine.",
+   "sum": "Red Hat, IBM, Google, and Nvidia are backing llm-d 1.0 to tackle high AI inference operational costs.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJzUjJ2dFpCd01XQk9ydUJpX3JSeUYxRGpKYWNjVnoxUHIwZEdieHQxN2lIYnY5NUdVRElIRTFBV1k0bXVOQzNtX0ZWbldEMFNDZlBPSS1rNU44RDMxT2ZfcXROb3FCcXFZSHRDbjUyNk5FX0xVMVJPbW1URnFDc3hzT2N1M2kxMmk3Z2NEdVk1VG96SHIzbWxvcFdoWS1KZXd3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6fce357d7a",
@@ -3738,10 +3817,11 @@
    "src": "Inc.com",
    "d": "2026-10-20",
    "title": "Who’s Behind a Proposed $66 Billion Wyoming AI Data Center?",
-   "sum": "From Inc.com.",
+   "sum": "Inc. reports on a proposed $66 billion AI data center project planned in Wyoming.",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMTdtVkZqeHlDWmJfMFVSQ1VBZWpfZFBOekFWWXNjU29OSngwc3o0RG1QY1Y4UElzYkJydnRkb01BM0hJYkJsRkxhYk11RnBQTXlwRWpqd0RoYmRRZk9HUzNPek1LVldLT3NFZVl5cFNZMGNING9rSGZXRURZdFdiQVlORzBIUWdKOXdpMWpiMXF5eHRSTkhFc0ZCVkFWMUs0Y1ZRbEkxaGl6Wmxtc2ZMcGI5cFFMYlhtdjRtLVk3STFYeDNxcExiR1R5VExjQ19QQVRpTFl1X1lIRWNldFkxSE82OWhsQWJYeUxCUnZVRklMOTBBc1VRS2w5cFdWR1dtWGdrSQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7b0a07b1aa",
@@ -3750,10 +3830,11 @@
    "src": "shattered.io",
    "d": "2026-10-20",
    "title": "Accenture-Google Gemini Agents Target 1,000 FDEs [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Accenture and Google Gemini agents are being deployed to target 1,000 forward-deployed engineers.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHNFWkJfamNFcWJzVnJkVGlOSFVXb2IyNE1pRnFOSlVIVmlrVWJYdWdPc0tKbDJ3UllUQ3NzVTVpVEJDZ3dsb0VzSjRkVkhzM0RKV3BNbFVYVllxaDdxWFp0NFNQLU5kMjZaTVRjd2JVVXF0VVdrU3NJWUxveUVMUWp3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7ac657a1dc",
@@ -3762,10 +3843,11 @@
    "src": "nokiapoweruser.com",
    "d": "2026-10-20",
    "title": "Google’s Next Big AI Move: Gemini 4 Carbon Arrives This Month with Major Upgrades",
-   "sum": "From nokiapoweruser.com.",
+   "sum": "Nokiapoweruser reports that Google plans to release its Gemini 4 Carbon model this month.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTFuc1JpaDlLZW9yT1NEd29hU2lfZmh5VW5ueTRPMGhvcDdrT1hScmc5MUhEUVdNbTRxSS11ekw3eFhMbTRBRlhHSUNHcmRLX2FZZ283WUtKUG9pTjhNZmVFdVd5YTZJU0lpMVhEZmtiUWtyV3BkVW0wS1I5cWQtcnk0VXFCMGx2LWlWVUxhcVIxYzlyc3c?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ff251a334d",
@@ -3774,10 +3856,11 @@
    "src": "OrcaRouter",
    "d": "2026-10-20",
    "title": "Mercury 3 vs Gemini 4 Pro: Een dergelijk model is nooit uitgebracht",
-   "sum": "From OrcaRouter.",
+   "sum": "OrcaRouter examines claims surrounding the unreleased Mercury 3 and Gemini 4 Pro models.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Lb3dVTnhuZjlYWU1LSDJDSEp5cWh6VGptM3p1azJnRTRFVWpjTk1ZMVZPOHpmbUNKNG85QXRiZmF2dXhVQlhGczY2RFNoOEFVbm9xZ01GcUt0YlpaLV81MWxLY3BwektOcVV3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f569d2060e",
@@ -3786,10 +3869,11 @@
    "src": "THE ELEC, Korea Electronics Industry…",
    "d": "2026-10-20",
    "title": "Microsoft Completes Pretraining of 2.8 Trillion-Parameter MAI-Base-2",
-   "sum": "From THE ELEC, Korea Electronics Industry….",
+   "sum": "Microsoft has completed pretraining for MAI-Base-2, a foundation model with 2.8 trillion parameters.",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96MVktbU1YOTRqYjkwN0RIaUJVX093eVZfSFJHbkJ1Y1RQN3hxVURjWTItWjlOZkhxUE1yejJ3clBhVGl4TWIxdmRsWnhuRWU0UEdlM1plR2pUc3hnSC1Yc19xVEZPRkE?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "cdf5761067",
@@ -3798,10 +3882,11 @@
    "src": "BigGo Finance",
    "d": "2026-10-20",
    "title": "MiniMax Releases M3.1 Flash Model, Nearly Tripling Inference Speed and Cutting Costs by 70%",
-   "sum": "From BigGo Finance.",
+   "sum": "MiniMax launched M3.1 Flash, reporting a threefold increase in inference speed and a 70% cost reduction.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wOFlCYjVuVlJqNVBFcFBzT1dtV0l5RzJTeUtYV3kwbFdjQk1nRUJIMkdFR25lNmRienJrbUJoSlFUQnRha213Ni1ZS0xROHk4N2hJSmV1WTNTRGNwc1djenNXcFZ4MUQ5R0Ewc3F0UzlUN2V4aXc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bea754c806",
@@ -3810,10 +3895,11 @@
    "src": "news.lavx.hu",
    "d": "2026-10-20",
    "title": "Chinese chipmaker Axera targets Nvidia DGX Spark with AX8860P AI accelerator",
-   "sum": "From news.lavx.hu.",
+   "sum": "Chinese chipmaker Axera unveiled its AX8860P AI accelerator to compete directly with Nvidia's DGX Spark.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczlkdkprOVk2b05XbTdJZ2NUZldRZmNkX0lrSWQ1bmQwWXg3SW5zaDA0bUpjV2ZvUTJQZkVIdEh6bzM5S1hGQVdPUHhQNnhreWpMOFkzeUZnbHdObkFVMXV1YmVWRnYxWEtGMkp6VmNTcWtTbHRaeF9JZGJ5MXM3Q3FrMkMwSUgyS1Fmemc4NXFqQy1LaXgzUllIUkNfMTRTNkFqOWh6aEk?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "cdc580d4c8",
@@ -3822,10 +3908,11 @@
    "src": "IBM Research",
    "d": "2026-10-20",
    "title": "llm-d 1.0 hardens open-source AI inference for day 2 production operations",
-   "sum": "From IBM Research.",
+   "sum": "IBM Research announced the release of llm-d 1.0, an open-source framework for day-two AI production inference operations.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUI0R3lZTGpCVDllNUEta3AxWVNpbUFHbDh2NElRZm5uOVp3cTVVZHNGUE5kd0NYYXRXM0lkWFFkRlRJYTB1NWlnazFpREpKOTNaaGFxdEdlZi1mZkp2dzVEOU1VLU5HT0tjVG83dS1fX2JzTTRRSlFEQzRKaVFVZGl6VkxfOVk?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "86d930bc13",
@@ -3834,10 +3921,11 @@
    "src": "StreetInsider",
    "d": "2026-10-20",
    "title": "llm-d 1.0 open-source AI inference project reaches major release",
-   "sum": "From StreetInsider.",
+   "sum": "The open-source AI inference software project llm-d has officially reached its version 1.0 release.",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbTU2QWtMRmZ0TDlFNkxRYVhfTFUtR2FIOWpzRGxzbzRQamNtQWdkTTBOOWM1WUNCVk1WaVV5Q29QTVg4aU1PajA1M3laY2ZZR01pNHFvRnJoN181ckYxaUk4d21UNjFpeXJqeUVjc1Jyb0ttLVQyczk2VFVhclgxRWk1SGVsYWRSc3R1U3FoX0xQckR3VzdoU05lcm1pN2VZMWY5aWpQclQzcVpJT1NpaDBOX2ZVZzl5MUJGcnE4TFY?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e0d8063d8f",
@@ -3846,10 +3934,11 @@
    "src": "Unite.AI",
    "d": "2026-10-20",
    "title": "Llm-D 1.0 Debuts at PyTorch Conference with Production Inference Stack",
-   "sum": "From Unite.AI.",
+   "sum": "The llm-d 1.0 open-source production inference stack was introduced at the PyTorch Conference.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWV0cmxCLVpwV0taa3phVXl0ejFkRUZDbURacVZpZ2JqV1FybTRqOXZmaEF5YzRlNkNDSVR4VVJobHVFQVpiZU9pdnVKZzlUWWNZaFBNOUwwSkNwWlpmQWVEdWhPUmo1NkFtTE9vMjM4Z1FNaDJtWHg1MC1yZVZ0dVlGanBnY3JWaW5ZSm9YdWhvMGdfdEww?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b8f36894c8",
@@ -3858,10 +3947,11 @@
    "src": "The Manila Times",
    "d": "2026-10-20",
    "title": "Ready Server Launches ReadyServer LLM API, Giving Every VPS Customer Private AI Inference at No Extra Cost",
-   "sum": "From The Manila Times.",
+   "sum": "Ready Server launched an LLM API to provide VPS customers with private AI inference at no added cost.",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNclBIS1pyRHJpREp4LVZ6cHB2YUdsX3NYbENpZ1RFMnVyTGtIamNkS24taWl3WjlSNGJldVJGYm42NW8ybUdxNVpVdkRUZmZvaU9xZ3RrbDJjaU8zeHJDMjhOellLTWNUbVRGOHo3TEI4dmlTNl9sQy1HX2I5QjJockhXOHItVWlFVkh4VmNGTnBuY2NQYWNrNWJlaHA3RTdDb3BjdEpFM3AzZERwV1ZDcVA2RHU1SHJqTjZxTVBUUHh0Nzc2d0hCcEdoZC04WXRUTmp3cEtHTjZ3MUswTktLaGZycGFEUnNOamFTT2RuVDJZelFVMEwwcmZ4Mmd5ZUpiREo5R2JGNXF6RkJPMFHSAY4CQVVfeXFMTXJQSEtackRyaURKeC1WenBwdmFHbF9zWGxDaWdURTJ1ckxrSGpjZEtuLWlpd1o5UjRiZXVSRmJuNjVvMm1HcTVaVXZEVGZmb2lPcWd0a2wyY2lPM3hyQzI4TnpZS01jVG1URjh6N0xCOHZpUzZfbEMtR19iOUIyaHJIVzhyLVVpRVZIeFZjRk5wbmNjUGFjazViZWhwN0U3Q29wY3RKRTNwM2REcFdWQ3FQNkR1NUhyak42cU1QVFB4dDc3NndIQnBHaGQtOFl0VE5qd3BLR042dzFLME5LS2hmcnBhRFJzTmphU09kblQyWXpRVTBMMHJmeDJneWVKYkRKOUdiRjVxekZCTzBR?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ed298111b5",
@@ -3870,10 +3960,11 @@
    "src": "TechCrunch",
    "d": "2026-10-20",
    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "sum": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in…",
+   "sum": "New York mayoral candidate Zohran Mamdani called on the public to reject inevitable AI adoption and demand stronger federal regulations.",
    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "1463c13860",
@@ -3882,10 +3973,11 @@
    "src": "shattered.io",
    "d": "2026-10-20",
    "title": "Inception’s Mercury 3: 40x Bigger, 8x Faster [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Shattered.io reports that Inception's Mercury 3 model is 40 times larger and eight times faster than its predecessor.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4WWtzemZNbjN0ZnRDZkdETm5oSkRJUlFtU29La3daODhCLVhLZm00cTIxNG51bGg3SDhnclRjbjRGdnEzT2t5VVo4dHpreTlhZW90MFZRNkNFQU5zOG9mRnVTVVZFeEtRRTNjcw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "db2063e8ca",
@@ -3985,10 +4077,11 @@
    "src": "HF Papers",
    "d": "2026-10-19",
    "title": "From RL Papers to Framework Code: Inclusion and Review in Seven Open-Source Training Frameworks",
-   "sum": "Practitioners use reinforcement learning methods for language models through training frameworks, so a method that a framework includes is one configuration change away for its users. We…",
+   "sum": "A research paper evaluated how reinforcement learning algorithms are implemented across seven open-source language model training frameworks.",
    "url": "https://huggingface.co/papers/2610.28027",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e145ffdd05",
@@ -3997,10 +4090,11 @@
    "src": "HF Papers",
    "d": "2026-10-19",
    "title": "WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State",
-   "sum": "We present WorldStream, an open-ended 3D world model with three simultaneous capabilities: it extends playable terrain beyond any pre-specified map, acts on open-ended language in the…",
+   "sum": "Researchers introduced WorldStream, a 3D world model supporting streaming terrain generation, hierarchical planning, and open-ended language actions.",
    "url": "https://huggingface.co/papers/2610.28827",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b47fa45e8f",
@@ -4256,10 +4350,11 @@
    "src": "TechCrunch",
    "d": "2026-10-19",
    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "sum": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+   "sum": "Anthropic is reportedly in negotiations with cloud infrastructure provider Nscale for a $45 billion compute deal.",
    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "d45dacf783",
@@ -4268,10 +4363,11 @@
    "src": "TechCrunch",
    "d": "2026-10-19",
    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "sum": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs…",
+   "sum": "Hugging Face's policy chief highlighted logistical and structural difficulties in deploying neutral third-party AI evaluators inside research labs.",
    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "80fbccdecd",
@@ -4280,10 +4376,11 @@
    "src": "Amazon Web Services (AWS)",
    "d": "2026-10-19",
    "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-   "sum": "From Amazon Web Services (AWS).",
+   "sum": "Amazon Web Services introduced structured output support for Anthropic Claude models hosted on Amazon Bedrock.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeGtQZ3VDNTRrRVNBTDA4ak5mUlBKUG1kdWpwWDJxQUx2UWxFMGw3Sk85MllYN1gyTENSZEcxa0RwZ2RXLTk5WlE0ejZPZWU0UzI5RVRmUnlLdXgwcjZBUUhEUnI5enprM2NPZVlhbXl6ZUhTVU4wZEpwMjc0SHlQME54Ri1NMk40UmF5bDBReHdEV0V6OWxXVnJVSl9nUkpsTGFQejBtU2tFeEliQXpvZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3023c9c0ca",
@@ -4292,10 +4389,11 @@
    "src": "Reuters",
    "d": "2026-10-19",
    "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
-   "sum": "From Reuters.",
+   "sum": "Reuters reports that Nvidia-backed Nscale is discussing a new $45 billion AI cloud agreement with Anthropic.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "82565f6364",
@@ -4304,10 +4402,11 @@
    "src": "Emory News",
    "d": "2026-10-19",
    "title": "Claude AI now available to Emory University community",
-   "sum": "From Emory News.",
+   "sum": "Emory University has made Anthropic's Claude AI service accessible to its university community.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmdDc2hZWjl5c3N0X3FuX1doZHNxT1NTMm9MdzFzOGx0QUk3Y3dJX2tuTFJyM0N3WnZXUFBzbnNIY3VtOW9pRV9qaHYxelhGczl6ZE1MVVVWYms1ZlJ0dk85T2laUnVzUThGMFRFa2NOdGVWUmtpSTFCS1U0Znp4MVhTWVhKNWVrbjlySFRB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "139d2f1939",
@@ -4316,10 +4415,11 @@
    "src": "EdTech Innovation Hub",
    "d": "2026-10-19",
    "title": "Anthropic opens Women in AI Hackathon applications | ETIH EdTech News",
-   "sum": "From EdTech Innovation Hub.",
+   "sum": "Anthropic opened registration for its Women in AI Hackathon event.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbE5HZmExREdKSjJwdURnaGdQRVE1QW5ZV2p4RVVVOXFkVm1mcUFJX2VDeWxzNGNwbXZBeDByTm52WEt3eG5VblFjbXRscEFSem1sVENVbmpNb25CR0h2SlhsM0FldWF1VU5XNk5hQ3d4TllJN0Q1bGc0emFXb3FqOEMxM0hYRGhUYkcyUC14eTVFQ3RPLU80eVVsbFpSLU8xdHdJVjloVHZGbTc4OXIzREwxZ1dHR3g2OFhwWlB3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fd6bcd3e1e",
@@ -4328,10 +4428,11 @@
    "src": "Investor's Business Daily",
    "d": "2026-10-19",
    "title": "AI Software Pacesetter Palantir Leads 22 Onto IBD Best Stock Lists",
-   "sum": "From Investor's Business Daily.",
+   "sum": "Investor's Business Daily added enterprise AI software company Palantir to its top stock lists.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzdhSHBDSC1RblI5V3BjYk1DZkFIZEFTbW5IOWREa1o5bUxRUVJuNTZZVG5xN3UzV1doN3FQZW1TN1FEdEdITjRGRzdrTjFzQ3pVTmxzWUNKRWcwTVBiUGxwYU5ncU43d1F4NXpLZkp6RHZycjJYMmxPcHBTaFA1aUdXMFJMdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b1627b26cb",
@@ -4340,10 +4441,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-19",
    "title": "Palantir, Datadog and chip stocks bounce back as Amazon lifts Wall Street",
-   "sum": "From Yahoo Finance.",
+   "sum": "Shares of Palantir, Datadog, and semiconductor manufacturers rallied alongside broader market gains led by Amazon.",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTJxSmJCOU8tTF9wMHl1cEJ5eXlUQTJEcXhyRjUxQmZoZS1FM0pLd19pUllsQ2p5anZGMkgwU1F5bFFRMnFLUzJaY0RZWldfX0QySjhBWk93YWNSQWxLM3VBZWhwdFVOVVpfZk9YZktkYkVWdjE2WlJvVUFHZ2swYzZzZDcyT1Y5SXFoZExEUmRDXzBtaTlwQWJIMGVCM0pTaU5nRTBERjdTX3dSZkVTZlRoS3ZNVVh4dGlKM2tad2FhMkozc2d5Tg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8640ff536f",
