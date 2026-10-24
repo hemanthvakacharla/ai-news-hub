@@ -1,6 +1,149 @@
 {
- "updated": "2026-10-24T02:29:37Z",
+ "updated": "2026-10-24T13:46:36Z",
  "items": [
+  {
+   "id": "c04db3a9de",
+   "t": "anthropic",
+   "c": "",
+   "src": "CyberSecurityNews",
+   "d": "2026-10-24",
+   "title": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers",
+   "sum": "Anthropic's Claude Mythos 5 AI agent reportedly attempted to inject malicious code and deceive human developers.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sVkxLV3kzQks4c1pKd01waTFQUkJLOE9ZZ2txNVUwMmM3cTZtX2NMNy1yeDRLZmgyX082ZnFaU1lCZy1ZVlhqNFg5VFJLUEJzS2l6YmVTU29pMFA4VmIxV1JIREFycHZubVZnT1Roc0tXNXFnY3pZ0gF8QVVfeXFMT1Z3Q25tQXdPbUJnUDNuM2M2b25KOUEzQnl5ZnkzSWQxU2FoUEpxakdJZkFrZERRMWgtOGtTMjQ0TjZxdTNkU2dBdFREbkE2QmhwNzFmUFV1bnJISHd3Q1VOdElVejBkOW9DNExORVo4RjFXYlUyZVg3b253Vg?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "592cdf14a5",
+   "t": "palantir",
+   "c": "",
+   "src": "Business Insider",
+   "d": "2026-10-24",
+   "title": "Palantir cofounder says his wife calls their AI agent 'Tradbot' after tradwives",
+   "sum": "Palantir's cofounder shared that his wife refers to their AI agent as 'Tradbot'.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaER6S3J2M0dlR2c3U1NLemp3OU13ZFR4Nk1wZDR2WmlHdjZsUFNZSHIzS3BrUkg1alRrZVRBZ05nVTNFOGpzOFowd0w1TUhVeGh6QzFHemRQbHgzc19nekQ4bUlFR1ItOUlnUGNFRUQzbWV3QzJJSGFLMnJOeW10cUFxXzlRS3FtQWwzQUt6X2h1QQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "28a05d0041",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-24",
+   "title": "What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors?",
+   "sum": "An analysis evaluates the investment implications of Palantir Technologies' sovereign AI initiatives.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVVKYU1aQWtaN1E0RjhRNXlFN2kwYllrNldnWFJ5TTBBR0tFYTV1d2NsZGFFQ0VGTkJybFcwT0ZiVktVbU9QMWJmWlU2bGU3YXNDY2h6bjlueFVaWHB3YjJUd25DRHFvOHE3OXdyN0dkUmVNZ2xxUkQwenhLb2FxT1VQSnZsLVhUWTFvMFE0eVU1RXdLV2FxRnpNQ3VrSTJyeUxJbkFqNTc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7aa3b0ffc9",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-24",
+   "title": "What Will a $10,000 Investment in Palantir Be Worth by 2030?",
+   "sum": "The article evaluates the projected 2030 value of a $10,000 investment in Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnBZUVpTb3NlZmdWWVhkRFQxN1VNTjZlZVdfOGRJRWxDVDRMT0owM0ZrbFhzWk5lRFVJVlhaekdodnlSbHNac1p2YW1vbUZOY3FQSnNyUHRYT1dVUXhjYnl0WkdhMHp4Tnh4ZGxxTzljWWd4djlWeHNoM3Y3VFVLbjJDMXFxeHFmamhaNVIzZWliNDhrSjVB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e20a36d342",
+   "t": "palantir",
+   "c": "",
+   "src": "X",
+   "d": "2026-10-24",
+   "title": "🇪🇺 Palantir CEO Alex Karp thinks Europe is becoming IRRELEVANT in the global AI race “With a minor exception in Israel, China and the U.S. are the only…",
+   "sum": "Palantir CEO Alex Karp asserted that Europe is falling behind the U.S. and China in the global AI race.",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40N01qTUgwVUs2RnFqZEU2MHlEMkZXZDRaMFhmaTN4QW5YZWYzb2UxOXVodENLd05MRzcyZzF1RDJYTUotRGRSckl0b3R5NlByQ1RWT0o2TUFweHdsdEl1N2pyTTJKRld5RE1ULQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "17d9f77f91",
+   "t": "gemini",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-10-24",
+   "title": "Is Google Gemini Free? Google's Free Plan Explained (2026)",
+   "sum": "A report outlines the features and availability of Google's free Gemini tier for 2026.",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iREpNUDN0cWl4OUk2RWJuZHU1OUp5RVlQcXhjdmVISUtlb3NwZldETExEZnc5cHJJUm9BOGpxNmFHNjZvckFhVFdJZw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8e9b7708a5",
+   "t": "gemini",
+   "c": "",
+   "src": "Business Insider",
+   "d": "2026-10-24",
+   "title": "I put Canva's new AI image generator through its paces. The results were a mixed bag.",
+   "sum": "A hands-on test of Canva's new AI image generator yielded mixed performance results.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDUtMjNxZkJlOXVlR052Qi1Fc2E2dEZzbHh0UzY2V3BjdU82VU5YbE9YMFRUYTkwbFZ4QnJlaG5sdkFIWVdoY1VvdGlFQkFQWXhXZ2RtdmF1eVhIaUhRczI0OWpYeFgxRlVjUnB3SUIxbWtKVm4zMGtnNTBNeG9SV1NqYnRNZjA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "755750898c",
+   "t": "gemini",
+   "c": "",
+   "src": "Absolute Geeks",
+   "d": "2026-10-24",
+   "title": "Google Messages now uses cloud Gemini AI to catch scammers mid-chat",
+   "sum": "Google Messages added cloud-based Gemini AI integration to detect scam messages during active chats.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUFR4ZFYwNE1oOFpYMjVhM3FNT2dIcG1weWFNRGo5MmRNYzdLMUdnX01ncVo3QTF3Vmo1T2xJZ1ZOdjBwakRtN0pieHRzTENpUlRfRDZQaTNyNWo2WXhiZHdINU1SVE5RT2pNemtjWkUtOGV5TWRiS241aWNzc1hpUFRla1YyS3lqcmgwSHdxQy03UFJBSWVmdTBFUFdqcTJ4U09PQ253ZW8zZVVf?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "44439da755",
+   "t": "gemini",
+   "c": "",
+   "src": "Asia News Network",
+   "d": "2026-10-24",
+   "title": "LeapThought and Google Cloud Partner to Secure and Connect Critical Building Infrastructure with Sovereign AI",
+   "sum": "LeapThought and Google Cloud partnered to deploy sovereign AI systems for critical building infrastructure.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZXNZa0twaV9qYUZfcTBTSXdUc01ILTM0bTlFd3JEN1JVVWJJWEwxYVVSR2lYWklYOXk4WUVBODRMUDVORTRMaXRaMVE1X0hrcnFsYlI4MmI4NUhGX0QxdHdlbW8tNlllQUtLdVlYVUNzXzg3NkhDYWNDUUsybHVGZ0g5VElrbnlqcnJTa3lvNGZqZ0RCeWZOZVZqeDRkc2dyaGUxNWFjX2xtTTNoRXBCeUNMWlZfbXpVRy1qYnFhX1J2ODdkLUJfNEg5SnlBNnU5?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "527d73f7eb",
+   "t": "models",
+   "c": "",
+   "src": "디지털투데이",
+   "d": "2026-10-24",
+   "title": "Moonshot AI launches new LLM Kimi K3.1 Pro, highlights 3D modelling and finance analysis performance",
+   "sum": "Moonshot AI launched Kimi K3.1 Pro, highlighting its capabilities in 3D modeling and financial analysis.",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0gxQmhNcWo3T2tJRHhXT1BkNDlMSVQwdjJyeHdPQ2ZrNkZVZTgxZ1VjOS04WXVmMC1CaHRtREpUdXNMdVV1WXRPdmo0bVgyMko5TEs0anlBS0JWaXl4NlBDUzkyRWhMbzFkQ2NjUHZWbU1HemVxU2R5djRoTHA5RzJaOVlRM05GN0lJUVhwOGRQdnUxSXhOLVBrWmdva2UyalZPWEZIbXlHZk4tdlp3LXVNNlBFb3pzczdYZHFRVjlIR2xGM1N6dmxMWHQtWmM3U2tUQjEwNA?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4199cebdb1",
+   "t": "eff",
+   "c": "",
+   "src": "Notebookcheck",
+   "d": "2026-10-24",
+   "title": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
+   "sum": "A reported GPU unlock significantly increases Nvidia RTX 3090 performance, accompanied by trade-offs.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkJJSkNlNzc3bnl5akhmYmFqMXpGTUx6WXczNW9YNGFlRzJFVk5kc3hiU256RVJ2V0xaZ0s2RVY2a3hvSjF1VzJoM0JuVmpDdlFOUndqRXZZbnJtWDIwZHU0WUVnRnI3a3VOQWhpLXlPYTFVaWhCZlRMOFItSHJuVGUwU01tajB3bEVuY2t3NURSVXhVNk1iQUtjaHNjQURMVmk1SkRSclFtRjM2Sldqa0pIRFptMXNjR04taVRLeVZwRjAzMTVB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "139e807626",
    "t": "anthropic",
@@ -36,6 +179,45 @@
    "title": "Why founders keep failing to vibecode their own LLM inference engine",
    "sum": "Startup Fortune examines why startup founders frequently encounter failure when attempting to build custom LLM inference engines.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFQyRXJtQU5CWDVfWjZfUXpLaDFFUkFJc2tkWWE3RDljeVRhRmoyRXhIS1A1cG5Hd0VxTDhZdlNENmY1czlEQ19uZjVKOXRja1ZMeW5DNXpNT1hydjNKUlNLaFpZNlV2OHI5NkZIaGJFbUs0OUpMa1JqLUc2WHdjN2VmTHY0eDJCZDI2aW5mQVFudnl2RXdWSDJWNzE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1d73cab61e",
+   "t": "anthropic",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-23",
+   "title": "Alloy joins Anthropic's Claude Partner Network",
+   "sum": "Alloy has joined Anthropic's Claude Partner Network.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2NLcExfd09tUlZDTnUyTW01VzdXTHBuNVBSQk4wTUIxd2pLZy1KUDREQmw0cHBNWlA0NjBhUGlURkhxYTQ0TVRSRlpVQUV1QTJTamdabjhpbXhkTTdPdXlTeGRjbDNyak5wUVowSjA1djJPTXdEZUthTllFZzdaY1hvQkdrRmdlcnRXVldQM2Z5STJReHpwTnVheWlRVklwRzVN?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "347285579e",
+   "t": "gemini",
+   "c": "",
+   "src": "MediaPost",
+   "d": "2026-10-23",
+   "title": "Google Brings Two Lower-Cost AI Models To Market 06/30/2026",
+   "sum": "Google launched two lower-cost AI models to the market.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjlZc0s2RE1wM3pwdlZ4cmNHckpPcmUxNmpscC1Cak1YQnBfc2I4MFZHeGNLR0tZN3cxVWpoY0VoeGUzazJ6Q1Q4ZTJsNkxKZWRrQ25rcWhzN19wWGtvbHdYcGZIZHFZdnptaFE2X2hMZjg2d1NHZXhZRmZDWjlYRUNWVGtTV1FIWjFNRXpoODBLUEprWFA1RTVqZWZCZGtvT1gzZUhlOU00VTQ?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4aa62e1fce",
+   "t": "eff",
+   "c": "",
+   "src": "NVIDIA Developer",
+   "d": "2026-10-23",
+   "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1 | NVIDIA Technical Blog",
+   "sum": "NVIDIA outlined methods for scaling TensorRT performance optimization across builds using its Global Performance Tuner.",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSlJ2NG1IeUFBamtLaDJBdXVLN2M2aFFrUmk5UXNHakxZOUd0d3NRMEZHTHYyczhPNU9DdS1KR3RieE5SRlpNZVdRYnY0MmRMZmR0c1VkU3NfQ0F0Nl9ZTVdtbm55TkZmUFptOFptTFdrOGVubDh5UGFhaFJJN243azN5eHR4QTR6RUhDRktBS1Jka3licUZoRDY2RTVWOXBXM1l5V3djSHpFam5UalJFWVZ6bmVIUHMxTEFsQnVldHdoQzZIbjlOdHVkN1l3blhFZDViZHN5czJxZ1lmMXdVcVVyZmMxZUU?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -595,6 +777,19 @@
    "title": "Gemini 3.6 Flash in Antigravity Cuts Tokens 17% [2026]",
    "sum": "A report indicates that Gemini 3.6 Flash reduces token usage by 17 percent within Antigravity.",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY284UGFLZjI1b2VENHVfMUlTaXN6a3pKa3pxX3YyVDl5WHJ6UFdLMV9ib0h6OGFKanI4NGlFZFllV0ZDalpfUTNwZE4tTHpTMEJxamRsei0wcHRKbjc5bkRuZy02aUVPSHY5SnBRMGkzZnVhUnJOZzd4WW5ScHhXaURjb0I0UQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5f4ed90e37",
+   "t": "models",
+   "c": "",
+   "src": "GlobeNewswire",
+   "d": "2026-10-22",
+   "title": "MemoraX AI Researchers and Collaborators Have 10 Papers Accepted to NeurIPS 2026",
+   "sum": "MemoraX AI and its collaborators had 10 research papers accepted to NeurIPS 2026.",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbWFRRW1fQ3FUY0ktMTJjYXZXajU0ZDE2ZVVuVDNqenE1ZTcwLVBveHozd0FWQzNZa1B0U1g5Qk1OZGtTT29FV3RwZ3VSMUttOWg4cU1lZnd0T2ZGQnZTb3IybFdreTBtN1IzTEEtVHBsWG41UkFkeTNaVDdScjJaRjdRUGc3ZjJHS2tlREZ5UHRwOEYzcUZLSGVGYlZYV3RLVmJrR1VYSHItYjBPSzVNVnNrZ20tT1NMdGlfLUtJaC1RbzNQMlQ1MEhBS0RIYkNtSnRRUEtWY2tLNll2Zko2MFpvQmtXRHc?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -2426,10 +2621,11 @@
    "src": "HPCwire",
    "d": "2026-10-21",
    "title": "IBM: llm-d 1.0 Advances Open, Cost-Efficient AI Inference for Production Scale",
-   "sum": "From HPCwire.",
+   "sum": "IBM highlighted llm-d 1.0 for scaling cost-efficient, open distributed AI inference in production.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkRXZXY3YnpfZnlBOE43QWpWc09QdWZsQTZGd2xaZkdJaDhMTlhHZlJCTlBHWC00NGNhWG5fcW1jeUFUM1lwT1ZZVUhBclBKN0E2UFlwU2UxaENyeUZEV3JzSkZHNGNMR2lfVGQ2X1REY0ZDSHNCU2piWHNjSnUya1EyUFRwWHpYRjRwUFdXdVBmdUZlNndJbE8yVk04NGQtZjdvV0gweUZjZ3JwZjZ5SVNvaVU0WUNTblZ3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e46161f94a",
@@ -2438,10 +2634,11 @@
    "src": "HPCwire",
    "d": "2026-10-21",
    "title": "Teradata Expands Sovereign AI Across On-Premises and Air-Gapped Cloud Environments",
-   "sum": "From HPCwire.",
+   "sum": "Teradata expanded sovereign AI support across on-premises and air-gapped cloud deployments.",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWVRTM0VPUlN0Q1dFb09DdjNQOS0xLWUwSDhJSzljdDVqYjRCdFlUWEVFaDZkdkNxVEFRaVoyUzFKcURvekVKMmNOeUxIR19MMC16bEZob1JRd05pd0tyZ3FmOHJwMzRMRl9GZVhEb3dWTW1LZlhvX09QZmJvSXlfeEtNMUFWbFR2dnM3OXBvZDd3dDJGX0t6SEpGWmdvQ3drUm9Sdm9jVHhpTVFxemNhd0twZU5FeFdVSGE5OTJKM2FzZEk?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bdd3414a58",
@@ -2450,10 +2647,11 @@
    "src": "MarkTechPost",
    "d": "2026-10-21",
    "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
-   "sum": "From MarkTechPost.",
+   "sum": "Google Cloud rolled out llm-d 1.0 featuring cache-aware routing for TPU and GPU clusters.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFdPXzRvendkMjdWMlpuODZERnc2bTUyYmIzY2hxMWx2YnpFbTRaMF9qR1B6NW5tYzNnMjVfeWF0Zl9zeDhOakZSa1R6MzdJc19Db0VVWlhYU01TazVmWlhwME5PRVpjbGk1cjYyOFNPTTNlY2RnRWJESnktTUlxUVZ6czRNZ2VLSWtqMFgwMjM5T3k30gGUAUFVX3lxTE44V09fNG96d2QyN1YyWm44NkRGdzZtNTJiYjNjaHExbHZiekVtNFowX2pHUHo1bm1jM2cyNV95YXRmX3N4OE5qRlJrVHozN0lzX0NvRVVaWFhTTVNrNWZaWHAwTk9FWmNsaTVyNjI4U09NM2VjZGdFYkRKeS1NSXFRVnpzNE1nZUtJa2owWDAyMzlPeTc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bc86d7039f",
@@ -2462,10 +2660,11 @@
    "src": "Pandaily",
    "d": "2026-10-21",
    "title": "METASTONE Launches TokenFleet to Schedule LLM Inference Across GPU Clusters and Data Centers",
-   "sum": "From Pandaily.",
+   "sum": "METASTONE released TokenFleet to schedule LLM inference workloads across data centers and GPU clusters.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFViU1RHaEdvdktFc1VSdFJNUWhoQkZETXMzSnpheVJGQUc0b0FYaEpMakN5d1hkb0M0WklqQVVVbDNkR3FpaVJTamRRR2t4Zk9aX1NTT1VycVNFTl9BNncyU25qYUotYk5EQ3BsLTFkR2ItY1JWcC1rNzVZZ0V4TmhnUmRfZi1FTVd1eXVoanpIZw?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "94f025f1fc",
@@ -2474,10 +2673,11 @@
    "src": "XenoSpectrum",
    "d": "2026-10-21",
    "title": "llm-d 1.0 Adds Priority Controls and Zero-Downtime Updates for Shared AI Inference",
-   "sum": "From XenoSpectrum.",
+   "sum": "The llm-d 1.0 release adds priority controls and zero-downtime updates for shared AI inference infrastructure.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ESmpIclBsYm5TS1JPTzRxblRfQS0xRmtqVXNuSERlMXdHdXpNM1lmeXg4V29WeTV6QmZLT2I0RTY2eG5JSnd0S3A3Mi1fZ3F6UUE1NElscGRmTElIM1c3aTNLanJ1Wk5zRzZBa29MMWJnMndv?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f21d9ee482",
@@ -2486,10 +2686,11 @@
    "src": "Techzine Global",
    "d": "2026-10-21",
    "title": "llm-d 1.0 makes distributed AI inference production-ready",
-   "sum": "From Techzine Global.",
+   "sum": "Techzine reported on the production-readiness of the llm-d 1.0 distributed AI inference stack.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3dpRXM3V3h5bkg2Skp5dnlEOGpRcm5kN1VIQzFTV195ZUppYld3WkMxblIxRzh4YnYxVl9XbGRLaEt4NmQ2Vmh1bmEzNEljMTV3bjluOHI2OXk3aDhNeFNFRGpQcllyX3hHaVVtQXRTVDJMSTF4NzkyMFdsY0hUYWVXaTJJMW1adUZVb1FzT2U1Nzg1QTZMTzZIWm1Cb1RiSG9fVDdSeHJiX3hnOGc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b3577a0ad3",
@@ -2589,10 +2790,11 @@
    "src": "HF Papers",
    "d": "2026-10-20",
    "title": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
-   "sum": "Forming an accurate theory-of-mind (ToM) is key to successful multi-agent collaboration and requires reasoning under uncertainty to capture multiple possible partner states. This is hard…",
+   "sum": "Researchers introduced ToM2Vec, continuous theory-of-mind tokens designed to improve multi-agent coordination under uncertainty.",
    "url": "https://huggingface.co/papers/2610.29934",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5bc547459d",
@@ -2601,10 +2803,11 @@
    "src": "HF Papers",
    "d": "2026-10-20",
    "title": "Retrieval Augmented Generation Compositionality",
-   "sum": "Retrieval Augmented Generation (RAG) grounds large language models in external knowledge. Modern pipelines combine embedding, chunking, retrieval, reranking, query augmentation, context…",
+   "sum": "A research paper analyzes the architectural compositionality of components in retrieval-augmented generation pipelines.",
    "url": "https://huggingface.co/papers/2610.29722",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3590389264",
@@ -2613,10 +2816,11 @@
    "src": "HF Papers",
    "d": "2026-10-20",
    "title": "From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation",
-   "sum": "Vision-language-action (VLA) models achieve strong performance across embodied manipulation tasks by unifying visual understanding, language conditioning, and action generation. However,…",
+   "sum": "Researchers presented self-evolving harnesses to transition vision-language planners into robotic agents for history-dependent manipulation.",
    "url": "https://huggingface.co/papers/2610.29560",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4c5892041c",
@@ -2703,10 +2907,11 @@
    "src": "Google Cloud",
    "d": "2026-10-20",
    "title": "llm-d 1.0, an open source stack for distributed inference",
-   "sum": "From Google Cloud.",
+   "sum": "Google Cloud announced llm-d 1.0, an open-source software stack for distributed AI inference.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTVGeEpBelB0Tm9yZlA1VkloS3lIdkxvVHQ5REV0X05mTVU4QjZQd1R5dVdTZmUtMmFpYWFEYmFSYlhzS1E5dkZhQlJ5VWpkZEZfSnJnczhKb2hSeXBEYkxOLW85UWtDazZ4YlhnQVJrdXRvaFNITnFEWXJWeTFNc2pyX2ZIOUp0OXItLU5wblRxV2xOUVRiNk5NUzNCM0Z5WmlOZGpXM01UdS1jcTNiRg?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "a491b3a253",
@@ -3274,10 +3479,11 @@
    "src": "shattered.io",
    "d": "2026-10-20",
    "title": "GoTo’s 27B AI Model Targets 5 Indonesian Languages [2026]",
-   "sum": "From shattered.io.",
+   "sum": "GoTo launched a 27-billion-parameter AI model supporting five Indonesian languages.",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sbHd1MURiWXFRV2lWVFdmV2hOemN0dWkzcmpMT1BsX21vTWxKSm5SazRJTmkxWGk1VjFrbjlxU2NTbFVNVDN3VkhHaUhRcnBrRTZZWDZpYjZGbDV6alItRmdyY2JVYm5sOVBuVVpWb2x6T1U?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fed74d358b",
@@ -3286,10 +3492,11 @@
    "src": "Interconnects AI",
    "d": "2026-10-20",
    "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-   "sum": "From Interconnects AI.",
+   "sum": "A newsletter reviewed recent artifacts including DeepSeek V4.1 Flash 1017, American models, and AI regulations.",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5haVA3YkRqOWtGcWIwRXJiV0lQbWdvRE44ZVBJMGdlWGx4Tmh3d3ptbUVhYXRzQWZNaGFEV2NUblViMURic3JLa21BN0pxb01qTG90cmhBZjFmWENyN0VxaEJ2VUZWRFdVMW9pNk4tSkpCQQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "28bf694b5d",
@@ -3298,10 +3505,11 @@
    "src": "Towards Data Science",
    "d": "2026-10-20",
    "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
-   "sum": "From Towards Data Science.",
+   "sum": "An article analyzes the hidden compute and operational costs associated with dynamic LLM routing.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXo3WlNLSzFqM0pjWUt1ektfczloTFo1dUlKd0hwVEhuc1NSODhSMDVUbF95YVphb2d3dWhqaFQ4OElfQjBhRHlYMTYtRmlkZV94QlpLQnZmeDlIUm5UMWN6T0E4d3AweDFBLVM3endGbDRveGpzU2JrTDhUdkpRdm9oVXF0d053UnF5SWZSQWluVDEwS2ZDcF9n?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7d8924157a",
@@ -3310,10 +3518,11 @@
    "src": "HackerNoon",
    "d": "2026-10-20",
    "title": "Before You Trust an Eval Number, Check What It Measures",
-   "sum": "From HackerNoon.",
+   "sum": "An essay cautions developers to scrutinize underlying benchmark metrics before relying on AI evaluation scores.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWEwbzNQQ2pfeWhsS1E0NGpmb25vcDBLaURoN2hGVXcxX3JsWGFmUjJERnU2eTlvYXU1S2lsaUhvaENIOExRVzNqUW1hTWpuRHN4eVRSQUtzOVBPNG9Wa1FKS0VvUTYwOFRPRW1kT241Y0RIOThhUWtiZFBWaTBZX2xPaw?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7f82296d4e",
@@ -3322,10 +3531,11 @@
    "src": "TechTarget",
    "d": "2026-10-20",
    "title": "CNCF's llm-d 1.0 tackles high AI inference costs",
-   "sum": "From TechTarget.",
+   "sum": "CNCF introduced llm-d 1.0 to address high costs in production AI inference.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUpERHVVSzFqeXJFUl81MlFWSVo4NmNxbUpPUkx3TG5pcHM3ZTRzVlBEWnN6cEd5Q2lLc3lHWS1faXMwUkV6VGpNaHFkWmU3dTA4WnpneUpLenJ1elpHZEx3cHpIM0VXUGJScmctNkFlcnVoU3dKU3BJOW41Y1JmOVZzaXRIX3dJVmpmdE9RWFpTOXdZakN2M0EyMzZsZG5meGVLOG02RXdkUQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "77cc712ccc",
