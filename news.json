@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-23T21:50:43Z",
+ "updated": "2026-10-24T02:29:37Z",
  "items": [
+  {
+   "id": "139e807626",
+   "t": "anthropic",
+   "c": "",
+   "src": "RIABiz",
+   "d": "2026-10-24",
+   "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before…",
+   "sum": "A 20-seat minimum requirement has sidelined over 11,000 small advisory firms after Charles Schwab promoted Anthropic's Claude.",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPT0R4ZTBtQWtQMTBJWGx2NGV2TVNxRl9aa2liNDQ2SGJFVFEta0I2M2lhaEkwR2hWMmxDMlZXamdQYkpFRkU1Wl9PN3JOLXljb3JuTFJ1Z0wwTFp6ZVlqQkRnVHpZOW1uMkpnR0hUYzkzZm9BXzNXSEQ1cnBic2M2cHpqM0FSempQUGNoQzVhWmdyQksxcVN4QVJGZ2NSaEZ3N0pZMno3SFFIQm9ORVBaWWhkM25DQm1pRkIzd1dyOEZvSmxtMnRBTkxYSXp5dW1IZmhNTC1CczY2T0ZDVlBPT1NvZnZ2YXRxLXZxbklsVnQtSVoxQWlsd0hlbVBEUkxpbTNlNUlBRUJmUXdpQ3BCaUVEQTR0SjRVQTdxQw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bd1a9e13cd",
+   "t": "models",
+   "c": "",
+   "src": "SiliconANGLE",
+   "d": "2026-10-24",
+   "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+   "sum": "Moonshot AI launched its flagship Kimi K3.1 Pro model featuring three trillion parameters.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNE0yTnZ3bmZweG5GVGx6eGV2bTBOR0x6ZEp5TThmR3prQWlhRzdPaWc2Z1FJWEJmc2J6Y1M0SVBsS2VtMHhWS29sNXI0U1R3XzV3YV8tWTh3OEIzNkpJaW1FVkFEcHEwdWtWVzYzVzg4S2lpdFdpWDM2Rm9KS1ZTN2FTclFkcENXeEJZV25hRnM1QUFnNWdvY1VCYkFpeTFSeUJBekwzemNKVjhm?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "95c8b8281b",
+   "t": "eff",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-10-24",
+   "title": "Why founders keep failing to vibecode their own LLM inference engine",
+   "sum": "Startup Fortune examines why startup founders frequently encounter failure when attempting to build custom LLM inference engines.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFQyRXJtQU5CWDVfWjZfUXpLaDFFUkFJc2tkWWE3RDljeVRhRmoyRXhIS1A1cG5Hd0VxTDhZdlNENmY1czlEQ19uZjVKOXRja1ZMeW5DNXpNT1hydjNKUlNLaFpZNlV2OHI5NkZIaGJFbUs0OUpMa1JqLUc2WHdjN2VmTHY0eDJCZDI2aW5mQVFudnl2RXdWSDJWNzE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b15a6fb967",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-23",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "sum": "OpenAI announced it will no longer train its AI models on the live internet due to significant risks.",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "f782f2bc96",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-23",
+   "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+   "sum": "Over 20,000 Microduck toy robots sold after Nvidia's CEO showcased them responding to voice commands.",
+   "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d4759849d3",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Decoder",
+   "d": "2026-10-23",
+   "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
+   "sum": "China's Kimi K3.1 Pro model is reportedly narrowing the performance gap with Anthropic's Claude Opus 5.5.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3hIVEJReWhldnNyNVRzeGhuZjdJNHh6X1dkSG9CbkliWXducy14dlhrdk0yM09mLTJNcmtRak5JRTlCSW5oVm1vVnY0ZDJod0ZZZmxCd2JScllXdHVvLXlLR1BsOFNuLXBsWGhWWjNoMm1tY0FoN3BaM2F4LUpLZjFVNTI4VmNySFBneWNCWFMxSFRDNUhiWW1WVzhITUIy?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1ad5ff3ae2",
+   "t": "anthropic",
+   "c": "",
+   "src": "MarketWatch",
+   "d": "2026-10-23",
+   "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+   "sum": "MarketWatch reports time is running short for Anthropic to complete paperwork required for a potential November initial public offering.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFJNeGlNaWk2VGtvUkxlb243b1oxaWhVRXdnQjhHRVhrWmJjM1R5Vnpia1E4ZFlEQmtMY1ZVeTg4SzZ6YXFPOXNLdFU2cWd0UGZidFJnRGQ0TDBwOW9kVEUydUpmcGFKU3BhTFB3eTFmb1loLTlHLUhxU041ZXZVMEtPMTF4TnNrNHY4MEJlSzdTczQtUWh2aEF1c25fSDVCLWlKSVU5cEoxNXVoOGo3OU5wVmFlX0dmV3NfemVIXzM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b5fed6db33",
+   "t": "palantir",
+   "c": "",
+   "src": "TheStreet",
+   "d": "2026-10-23",
+   "title": "Palantir stock faces brutal test after crushing expectations",
+   "sum": "Palantir's stock faces market scrutiny despite beating analyst expectations.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1FEV044VEh6SU5KVFJZbzVJSFJ6dHlQV0tmbXlnMDk4WE9CY2JUalFFSWlodjMzeGVXUnRoSi01OXJTMHBjUnd1TDBQUjlteFB6dEtGckJqZGFKclBIS2lPOHNKcGtRQWF1MlhiX1A4MVVrbEIzNV9jd0ZGNUhKdWlEN0ZPTno5a0JuZUt3V3QtanpNbmNaWnhRbEM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2d0fbb4375",
+   "t": "palantir",
+   "c": "",
+   "src": "24/7 Wall St.",
+   "d": "2026-10-23",
+   "title": "Palantir Stock Price Prediction: Is $212 in Reach by Year-End?",
+   "sum": "A financial report evaluates whether Palantir's stock can reach $212 before the end of the year.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1pjdUVFdzZ5MXdLa3pQVEYyTUNxb3FPQmJIUUh3V20yX0pOWnFISG5STDdBWFEwLXM1eS1uNjhUQ1dRYTlGRTJ2OVNXWm14Uy1ycDdmbFlLZ0d0b082eng5dEFGYno2VGpMcjkxam9EZ1FEa0dEQWpqYzNwRC1uYnFxM0hVTG5PRmxZOFpKSjE4WmF2YVRmSmdXV2dWa1VJeW9MMXpn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d3649bc69f",
+   "t": "palantir",
+   "c": "",
+   "src": "AOL.com",
+   "d": "2026-10-23",
+   "title": "Palantir Guided for $2.16 Billion in Revenue for Q3. Its Last 2 Quarters Suggest We Should Expect More.",
+   "sum": "Palantir projected $2.16 billion in third-quarter revenue, with previous quarters indicating potential to exceed guidance.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3ZmNVMkJtSGktaGxqWlRTd3A2Wjl2NUh3QXk2RUM5amJySjNrbmF1Nl9DVmZFNnFZV0FVRjNfNjRVZjFaanVEYXFNR2wxVFZZdndaNWFOMmRaSC1zMnFDQmJjVi1xYVZDNVZielFSV3JIQS1kRFZyZHZYNnQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "09e08da1bb",
+   "t": "gemini",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-10-23",
+   "title": "How Much Does AI Cost in 2026? The Complete Pricing Comparison",
+   "sum": "Fello AI published a comprehensive pricing guide comparing artificial intelligence costs in 2026.",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OMVVYdjlTQWNCRFM0elFCdWNIOU5pTm5KQUNOWGc4RjlqbUlHU2J3NjhiQk96UTNZYTJWSVFYUEU4bDhNU1ZRSnc0VnlTQjVQVXVKdA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5e2776da00",
+   "t": "eff",
+   "c": "",
+   "src": "tech-insider.org",
+   "d": "2026-10-23",
+   "title": "Local LLM Setup: Nemotron 3.5 Super VL in 13 Steps [2026] - tech-insider.org",
+   "sum": "Tech-insider published a 13-step setup guide for running Nemotron 3.5 Super VL locally.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nazZ6VGMtd19yaFpyWXFiVDZPRmNPQmFZOFFQUEFOY2RkbU1rN01iOHo5dnVhdGJfQ29WenZFS282eWl2a1hnUDlVYzlUU2FMTWNpaDBKVmhUOHlEYzZDWi1mVm1Vd1c0LXE3ZTJwdnBNbzMwaXJxdDl3Yw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "0931d3afc7",
    "t": "impl",
@@ -320,10 +476,11 @@
    "src": "autogpt.net",
    "d": "2026-10-23",
    "title": "6 Best Sites to Compare LLMs",
-   "sum": "From autogpt.net.",
+   "sum": "AutoGPT listed the six best websites currently available for comparing large language models.",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EMk1zZ196TENaTV81M0ZGSXJvYTJwY0JyZzl4b2YzSFBUWmVOeHc4MHdIaWV0Q3RwWTY1QUVjMnphNEtySElJTTFLVF94V1VGamExMTUtaS1UbUk?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ceb2fabc52",
@@ -332,10 +489,11 @@
    "src": "eeNews Europe",
    "d": "2026-10-23",
    "title": "llm-d 1.0 Targets Lower AI Inference Costs ...",
-   "sum": "From eeNews Europe.",
+   "sum": "The llm-d 1.0 software release launched with a focus on reducing AI inference costs.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0stdkJkakJfSkxmRnZQZV9EendzLUdRcmVrVmJfQzh4RldTZ083cVhNMEtyVVI4MURqUVY5X1BZZXA2ejlLR2tUS1pzLUN4eWMyT2NEMkVoa2NLeTdObTR3Q0tBalF4dUpVd0daYlFWd3dNbGNLbzR4am9zTDBBcQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "303714dae4",
@@ -344,10 +502,11 @@
    "src": "TechTarget",
    "d": "2026-10-23",
    "title": "AI inference is changing data center design requirements",
-   "sum": "From TechTarget.",
+   "sum": "TechTarget examines how expanding AI inference workloads are reshaping physical data center design requirements.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWc2aGt2c29OejNJaVRleEVMcnJwYk9EdW1VMldHOWRqTUZEX0l3WWY2MENiMHdtc09TZTlucDJLSmtRX2NmNE8wZjRJOVl6X0pCaU5oX3RpT1hpekRYOWFRRGZ4T1RhSkhIeFc3d3J3VkF3LXY2aUZxbjFKWnhFb0g5amFJVXp5dm9HeXFEWlF6anJ4R1A0SDNVSktxV3kyV2U4UjdoMHg?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "31a0d2d66c",
@@ -356,10 +515,11 @@
    "src": "Analytics India Magazine",
    "d": "2026-10-23",
    "title": "AMD’s Server CPU Business Faces a New AI Boom",
-   "sum": "From Analytics India Magazine.",
+   "sum": "Analytics India Magazine reports AMD's server CPU business is experiencing renewed growth driven by AI demand.",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjdNZGp0YVkyVFJWMHItbC1ucnhoaEhLRFBqeXhvaTJiVXd5UUJtTlhRc2NFQkIwZUFHOVduT2VwQ0pFenBQUnlwcW9zLVZ5OHJaaFdFZmVVTHZKeTdmLXZzLWhLMkpyT2VkcFBhQ1hHb0c4R3ctUlJ3dnZ2YUNfODFOWlJqVU9MU05oQjBrOA?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "94cd4ca5fb",
@@ -440,6 +600,19 @@
    "ai": true
   },
   {
+   "id": "c54840866a",
+   "t": "models",
+   "c": "",
+   "src": "Crypto Briefing",
+   "d": "2026-10-22",
+   "title": "CryptoQuant launches MCP server to plug on-chain data into AI models",
+   "sum": "CryptoQuant released a Model Context Protocol server to feed on-chain blockchain data directly into AI models.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9va2Vxckh5bUdOR0U3cE11WmNJdDczeHZIM3VRV1JlRk1OdGpRUXo2Snh3Y1RIdm9NbzVDS0NzRnE3aVhQd1UxcjRTNko4S19hUk9ReE5reG9peW4zRlI3M0hYR2JreGJiRnV1TzdTWG8?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "c39a6112c7",
    "t": "models",
    "c": "",
@@ -459,10 +632,11 @@
    "src": "WIRED",
    "d": "2026-10-22",
    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-   "sum": "From WIRED.",
+   "sum": "Hugging Face released a new biology-focused AI model designed to let users interact with DNA data.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa2ZjODMzdHFvWXNpbFVPaDZzV25od090Ym9ObEZxWmFfcUR6LXVvR3dncXEtLWUtUTRWeG9lVWNpWVFnOVFZdFp6YXNsdmpnMzBqdXJCSml4dkVpeWd6Z1VoaTUyeEVDbVZjenZQd1dTX0wtdnk2ZjFjZ2JMUDhXdFhR?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "10100618aa",
@@ -471,10 +645,11 @@
    "src": "XDA",
    "d": "2026-10-22",
    "title": "I changed one llama.cpp flag, and my 8GB laptop GPU now runs a 35B model faster than I can read",
-   "sum": "From XDA.",
+   "sum": "An XDA contributor demonstrated running a 35-billion-parameter model on an 8GB laptop GPU using a single llama.cpp configuration flag.",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVdkakJFT1BXRUtyaTdLYi13R3lucXlZeVlzMjVTM25KR2ZuYzh5eGgxaFdFRGp0YmhleERTZXo5ME9GMGpTY2NuREJSaHZrMUQ4N21qQWlObXJLUDBFTnpkWTliM0dVM1hjWjNjdnd2d2hMZ0NMd3czeklsVlpWcmtBQnBaNkJDdndDS3NWSUxtREJZcTZYVjZOSDRicjdRN05BQVpobVpHV056eEJGQ0dRNjlsNmJJdVAxSVB6Q0M?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "aabb50f660",
@@ -1309,6 +1484,19 @@
    "ai": true
   },
   {
+   "id": "de0cdef672",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models",
+   "sum": "Researchers proposed a temporal task-aware quantization method for diffusion language models based on varying sensitivity across tasks and timesteps.",
+   "url": "https://huggingface.co/papers/2610.31198",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "f59fa14420",
    "t": "papers",
    "c": "",
@@ -1380,10 +1568,11 @@
    "src": "Help Net Security",
    "d": "2026-10-21",
    "title": "Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier",
-   "sum": "From Help Net Security.",
+   "sum": "Google open-sourced TorchTPU to simplify the execution of PyTorch workloads on Tensor Processing Units.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MV2twYlBoWlZvMU9QXzlsNkpjZFBlVDl5TE5NNHZJcVl1NDVyWDJ3LXctMzZrc1IwY2lpX0cwNlNOR25aV3R5cVh4MWVsd1BkMjJCcGFhSUc3elNVLUlMM3NZTTlUeldmb2lQbGVuRFFMRXd1dFVz?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1cc4ceadb9",
@@ -1392,10 +1581,11 @@
    "src": "HPCwire",
    "d": "2026-10-21",
    "title": "PyTorch Foundation Welcomes 9 New Members",
-   "sum": "From HPCwire.",
+   "sum": "The PyTorch Foundation announced the addition of nine new member organizations.",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVzNDlEeDB6dmozYW5EUTR1TUktRElKTE94TGc0REFMRTBPNktWbUVHa0NGZ0tYV0RrbzZvOE5mRnhSV2o2NzRkbHFqVndTdjNYUlZnMWlLTGFkNGQwUXltOTdvRnR4cGxFRlR3UGN4SG10UVU1WXdxOWNVMEkwWGVwdm9WNFFVblJNWQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c730e2435d",
@@ -1404,10 +1594,11 @@
    "src": "IBM Research",
    "d": "2026-10-21",
    "title": "A new plugin can enable fast runtime monitoring and control",
-   "sum": "From IBM Research.",
+   "sum": "IBM Research developed a plugin designed to provide fast runtime monitoring and control for computing systems.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04SnZ3djAxbnlGbjdUT3V3RHpTNUlYbXFzRGpUWlB0R2Iwd29sY09vcUM2czUteHZMM2xDcEhCQmc0elRWRmdLTTRWZ0ZiSGRRM2RpZFhOdFNYZ0w4UEItRk5EbkVEcU9HNWctUnRyR1g?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2544317243",
@@ -1936,10 +2127,11 @@
    "src": "Techzine Global",
    "d": "2026-10-21",
    "title": "OpenAI’s models are finally fully supported on Google Cloud",
-   "sum": "From Techzine Global.",
+   "sum": "Google Cloud added full native support for OpenAI models.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU3ViTzhZTXp0MjZuejFHNXZja0lXR2RMM2FFQ3NmV0RFYWpILUJVZ1ZfZnlsNW1PMG84Z3g5SjVrTm5ha0NoMFVJYUY1eVVTTzRDLUlPNy0waG5VVVpfU2oxc2RuYmdfYmg3RzNNTjJGU3V3VnprSWZmY1pUZnNCWTIyT0tLcWJENnlmcHg0MmFaMEc2RG1yWDVXVUpjRHVwOVRKU2RrZFR3dE9y?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a5479d29ca",
@@ -1948,10 +2140,11 @@
    "src": "Harper's Magazine",
    "d": "2026-10-21",
    "title": "Communion of Saints, by Sam Kestenbaum",
-   "sum": "From Harper's Magazine.",
+   "sum": "Harper's Magazine published a piece by Sam Kestenbaum titled 'Communion of Saints.'",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWXItRjJtRWNXamdfSXQ5NlFWV0hTdXRjZDFMMFQyY3Vld0F6Z2tGRFVhd2VIdEN5c01JZGpNZ3JubXlzLURoMmYtVUZhWVFCRlhlZjZlcEVnTHcyNE5hc0l6NVExRnc2bHFfV0RUaEZHaXhHX09KeTRmbFh3ZnpadnJ4eU95S2pYWHJqdURqbTB5WUU?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0b138e9a1d",
@@ -2220,10 +2413,11 @@
    "src": "Technology Org",
    "d": "2026-10-21",
    "title": "DeepSeek Open-Sources DeepInfer, Its Production Inference Engine",
-   "sum": "From Technology Org.",
+   "sum": "DeepSeek open-sourced DeepInfer, its production inference engine for large language models.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1RCUmFqMFgzVEZyOExGbjgwZjU0Tk9MWHVGS0tuT3BpMFptQU5UYUp1aWhlVVFacUxkRklyYXd4SjVzRjRURVFBX2FSZXdseHFhdmVta25MUG5fYUkzMWFGcENucU1xMTFHTTd1clF3OE1yX3ZGRTNkODlzeUJKSkFTcjY3elRwRkJtMEc2dFhoM1p6OWp0NFVOWkg3UQ?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "ea6aa0ea9a",
@@ -2296,6 +2490,19 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3dpRXM3V3h5bkg2Skp5dnlEOGpRcm5kN1VIQzFTV195ZUppYld3WkMxblIxRzh4YnYxVl9XbGRLaEt4NmQ2Vmh1bmEzNEljMTV3bjluOHI2OXk3aDhNeFNFRGpQcllyX3hHaVVtQXRTVDJMSTF4NzkyMFdsY0hUYWVXaTJJMW1adUZVb1FzT2U1Nzg1QTZMTzZIWm1Cb1RiSG9fVDdSeHJiX3hnOGc?oc=5",
    "wp": false,
    "mp": false
+  },
+  {
+   "id": "b3577a0ad3",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-20",
+   "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+   "sum": "Researchers introduced TARSphere, a full-stack framework for long-horizon embodied robotic agents operating under evolving physical and social constraints.",
+   "url": "https://huggingface.co/papers/2610.30043",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f83d3ef572",
@@ -3469,6 +3676,19 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4WWtzemZNbjN0ZnRDZkdETm5oSkRJUlFtU29La3daODhCLVhLZm00cTIxNG51bGg3SDhnclRjbjRGdnEzT2t5VVo4dHpreTlhZW90MFZRNkNFQU5zOG9mRnVTVVZFeEtRRTNjcw?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "db2063e8ca",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-19",
+   "title": "Diffusion Language Models Change Speed Across Tasks and Languages",
+   "sum": "A study revealed diffusion language models dynamically adjust generation speed and forward passes across different tasks and languages.",
+   "url": "https://huggingface.co/papers/2610.25835",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "72f95f01eb",
@@ -6601,6 +6821,19 @@
    "ai": true
   },
   {
+   "id": "b0b119b4eb",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-15",
+   "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+   "sum": "Researchers introduced EvalResearchBench to study whether AI agents can generate their own evaluation feedback for recursive self-improvement.",
+   "url": "https://huggingface.co/papers/2610.04184",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "e1fc41e66b",
    "t": "papers",
    "c": "",
@@ -7661,6 +7894,19 @@
    "title": "Palantir CTO says AI researchers took up smoking to prove a hypothesis",
    "sum": "Palantir's chief technology officer claimed AI researchers took up smoking to empirically test a hypothesis.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEFmeWJXUmdMNEpvOHdENlJ6emxxQng1VDJnU29BMnZGLTlXb282NHVRcXRNaDJmUGpQUGJTcjFBend4bmhKZThZRW1NRVBPaGlJYU9yUF95NXR2bjBRX25yd29HRnppOEY0bWQxZEFJbGxXbER0bFlDWHM0UF9DQ05XdmZySVBVNjBmeERCUEk2eUVuYnpwcHl2WQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9b9bfbf4db",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+   "sum": "Researchers presented LLM-Attacker, a unified red-teaming framework to evaluate privacy risks and text reconstruction in split and distributed language model systems.",
+   "url": "https://huggingface.co/papers/2610.22722",
    "wp": false,
    "mp": false,
    "ai": true
@@ -34515,42 +34761,6 @@
    "title": "China’s Regulators Take Aim at “AI Boyfriends”",
    "sum": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted…",
    "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "c7df51b40d",
-   "t": "engines",
-   "c": "",
-   "src": "vLLM Blog",
-   "d": "2026-09-08",
-   "title": "GLM 5.3 Optimizations, Part 1: Hybrid HiSparse Offloading in vLLM",
-   "sum": "vLLM integrates HiSparse as a pressure-driven memory tier that composes with the Hybrid Memory Allocator and KV offloading, letting GLM 5.3 requests keep decoding when their KV no longer…",
-   "url": "https://vllm.ai/blog/2026-09-08-glm53-part1-hybrid-sparse-offloading",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "17a985a894",
-   "t": "engines",
-   "c": "",
-   "src": "vLLM Blog",
-   "d": "2026-09-08",
-   "title": "vLLM x AgentX: Optimizing for Real-World Agentic Serving",
-   "sum": "How vLLM optimizes KV cache management, parallelism, scheduling, and P/D disaggregation for agentic workloads, validated on SemiAnalysis AgentX with up to 130K tokens per GPU-second and a…",
-   "url": "https://vllm.ai/blog/2026-09-08-vllm-agentx",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "4f420d1c5c",
-   "t": "industry",
-   "c": "",
-   "src": "Hugging Face",
-   "d": "2026-09-08",
-   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-   "sum": "From Hugging Face.",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
    "wp": false,
    "mp": false
   }
