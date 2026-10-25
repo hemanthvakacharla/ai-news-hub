@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-24T21:20:02Z",
+ "updated": "2026-10-25T02:16:27Z",
  "items": [
+  {
+   "id": "a9a188130c",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-10-24",
+   "title": "Palantir Q2 2026: Revenue $1.935B (+93%), U.S. Commercial Surge 149%, Rule of 40 Reaches 155%, Stock Extends Breakout",
+   "sum": "Palantir reported Q2 2026 revenue of $1.935 billion, driven by a 149% surge in U.S. commercial revenue.",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWTc5YmZsSUtnQkZLNTYwNVFJSkh2R0tRMTRCanpxSXVaenQ2V1o4MTNRaXNtZkh3ZU9tMDA0STdzaEdXeHNHeThCZjNBckFrQzZ1R0RsWTJJd3l2Y05PYWRMUWZkU3FrdEdRLUc2Qi11Q19HeG5yeFl3bkJhZDB5TWRLbktZZFZxd2wya2s5Z1VOQWFrbjRpUWpRbHltVFlVODdYTGM1YnY5V0xHdHpISW16LUdNVnQxM2ZYRkd0TWUzaGtJMVFOX2gyMDlWaUZXdVdQSURubFpkY3RvYkhxcXd3UDh6VldRT2hZVHFpdTQ0a3lUdGVCV2t6UXI?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4f667fd470",
+   "t": "palantir",
+   "c": "",
+   "src": "Simply Wall Street",
+   "d": "2026-10-24",
+   "title": "Should Expanded AI Partnership Require Action From Stagwell (STGW) Investors?",
+   "sum": "A financial report evaluates whether an expanded AI partnership warrants investor action regarding Stagwell stock.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3dkUmp4dksyajJOaVc2eEJ6QldMc1dWaGdPV0RxZktmRDUwS25XbzRjek5xdEVlcTNkNlhVV3hnNTY0VmZQNkNlRFJmT3pabk9RMU13Y1Y0NDFZSGNqZmZRTWNSNWM1WnlqRGh0cEJidHFiYmpVakdDVkpERTB5UUQzUWdlLTRkcVUycXBvTjl0NmFBdjgyS0pjYURfNlFDMkw2S2FaU2R4aXNzaloxR1B2VDQ1Um15Zm9OcnFYMXZhb25IN3fSAcYBQVVfeXFMTTd3ZFJqeHZLMmoyTmlXNnhCekJXTHNXVmhnT1dEcWZLZkQ1MEtuV280Y3pOcXRFZXEzZDZYVVd4ZzU2NFZmUDZDZURSZk96Wm5PUTFNd2NWNDQxWUhjamZmUU1jUjVjNVp5akRodHBCYnRxYmJqVWpHQ1ZKREUweVFEM1FnZS00ZHFVMnFwb045dDZhQXY4MktKY2FEXzZRQzJMNkthWlNkeGlzc2paMUdQdlQ0NVJteWZvTnJxWDF2YW9uSDd3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "53f4d9372e",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-10-24",
+   "title": "Not All Open Model Tokens Are the Same | YC Paper Club｜Y Combinator Startup Podcast",
+   "sum": "A Y Combinator Startup Podcast discussion covers token variations and characteristics across different open-source models.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpZGJkalF5TE9BOUIzdkRGem9SZnRqVTI1ZlRrbGg2M0tqc090bURPbWZXN2xWdUNORHRVTXQ2eHBObVlPaG9vYXdmZmEwUFdmZk43ZlpmRlF4WWlDUzc4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "b0af889ad0",
    "t": "impl",
@@ -336,6 +375,19 @@
    "sum": "Startup Fortune examines why startup founders frequently encounter failure when attempting to build custom LLM inference engines.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWFQyRXJtQU5CWDVfWjZfUXpLaDFFUkFJc2tkWWE3RDljeVRhRmoyRXhIS1A1cG5Hd0VxTDhZdlNENmY1czlEQ19uZjVKOXRja1ZMeW5DNXpNT1hydjNKUlNLaFpZNlV2OHI5NkZIaGJFbUs0OUpMa1JqLUc2WHdjN2VmTHY0eDJCZDI2aW5mQVFudnl2RXdWSDJWNzE?oc=5",
    "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7b618ab7ec",
+   "t": "gemini",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-23",
+   "title": "Gemini 3.6 Flash in Antigravity: 17% Fewer Tokens [2026] - https://tech-insider.org/",
+   "sum": "Gemini 3.6 Flash reportedly operates with 17% fewer tokens within the Antigravity environment.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDRKaGhMN3B6QlVWcDJJNWZIUzA2bVZHdTBxRjZRdmlVUTh3aWdnVjZqa0hHWDRZUE0wUnB4emJyalVwTVRaMzdaQk1jNWNXS0ZUMTFpRlJEZzlITXJCemFhMThQQzdDZWsweE0tOTNIOUUxc1E5VE1kOGVLN0lpd29EcWJ6TVhKZEtrVTlqQzlCdzdD?oc=5",
+   "wp": true,
    "mp": false,
    "ai": true
   },
@@ -5169,10 +5221,11 @@
    "src": "BigGo Finance",
    "d": "2026-10-19",
    "title": "MiniMax Confirms Space Bunny Identity, M3.1 Flash Set for Official Launch",
-   "sum": "From BigGo Finance.",
+   "sum": "MiniMax confirmed its Space Bunny identity and announced the upcoming official launch of M3.1 Flash.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40eEQwOWVOSm1qVXl3dXVpSnFlLWdjS0d4ZWNJU2ctZUtCdVJvVFBIeU8wZFRaV242ZTdyODhnMUxBTUwtRll6LW1ELS0tQ2F0a0taYm1ja2gxaG5RVWtpZy1GYnloQ0lPWmI0MGIwWWlaUVdkcEE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bba3cbb89b",
@@ -5181,10 +5234,11 @@
    "src": "finance.biggo.com",
    "d": "2026-10-19",
    "title": "The Model Swap Workshop: GPT-5.5 vs Kimi vs DeepSeek vs Mistral｜AI Engineer",
-   "sum": "From finance.biggo.com.",
+   "sum": "An AI Engineer workshop examines swapping models across GPT-5.5, Kimi, DeepSeek, and Mistral.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbXA0VzlSbEV5RzRJS2tqQ0VsSTlIUU53ZGhyM2NENmItcGJLdFU2TFhNNXhyZm51OEtsNTVpWldTeEpaRndpU2hEOTVMbXo1ZmVOVW5ZVFNYWUdNS2w0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "952f1718ea",
@@ -5193,10 +5247,11 @@
    "src": "Artificial Intelligence News &…",
    "d": "2026-10-19",
    "title": "Decoding LLM Model Names: What Do GGUF, Q4_K_M, and A3B Actually Mean?",
-   "sum": "From Artificial Intelligence News &….",
+   "sum": "A technical guide explains the meaning of common LLM quantization and model naming terms such as GGUF, Q4_K_M, and A3B.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZXc4N0VPV05uT2xkelktOXdyNDFaWnBxWEx5OGwzRHF0QzRTcEEwMFFhNGRUSGduQ01uZjdlUWJFWVB6d3hlUVRmZDJwYkdMR3FiSTZJaHkwbDhwRzh6aHVVVVNwSnhoTGVvRXhCdU1GMERVb2xjQ0dXbFhwN2NZMzV1TTFLN2F2VUk3MlZINl85RXpLUGJMNXlSMFlIcWkxellzYXVTSlNyV0FIdTlNdDlZSS13dmNqRl8zYkVR0gG-AUFVX3lxTE9ldzg3RU9XTm5PbGR6WS05d3I0MVpacHFYTHk4bDNEcXRDNFNwQTAwUWE0ZFRIZ25DTW5mN2VRYkVZUHp3eGVRVGZkMnBiR0xHcWJJNkloeTBsOHBHOHpodVVVU3BKeGhMZW9FeEJ1TUYwRFVvbGNDR1dsWHA3Y1kzNXVNMUs3YXZVSTcyVkg2XzlFektQYkw1eVIwWUhxaTF6WXNhdVNKU3JXQUh1OU10OVlJLXd2Y2pGXzNiRVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a6ce9bd08f",
@@ -5283,10 +5338,11 @@
    "src": "HF Papers",
    "d": "2026-10-18",
    "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
-   "sum": "Spatial intelligence requires agents to actively acquire visual evidence and integrate observations into a coherent representation of the three-dimensional world. Yet spatial question…",
+   "sum": "Researchers introduce SpatialScout to evaluate whether vision-language model agents can actively explore and map 3D scenes.",
    "url": "https://huggingface.co/papers/2610.26659",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "dde0db5232",
@@ -5451,10 +5507,11 @@
    "src": "HF Papers",
    "d": "2026-10-18",
    "title": "Frechet Forcing: Training Long-Horizon Streaming World Models from Short Clips",
-   "sum": "Streaming video world models generate the future chunk by chunk, conditioned on their own past and a stream of actions. Trained on short clips, they drift once a rollout exceeds the…",
+   "sum": "Frechet Forcing introduces a training technique to help streaming video world models maintain consistency over long horizons using short clips.",
    "url": "https://huggingface.co/papers/2610.25666",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "d24b690659",
@@ -5463,10 +5520,11 @@
    "src": "Anthropic",
    "d": "2026-10-18",
    "title": "Investing in the public benefit",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic released a post detailing its investments and initiatives directed toward the public benefit.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "12c42c1c87",
@@ -35139,54 +35197,6 @@
    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
    "sum": "From Hugging Face.",
    "url": "https://huggingface.co/blog/gradio-workflow-1111",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "d95ed66aa2",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-09",
-   "title": "The information geometry of large language models is shared, learned, and controllable",
-   "sum": "Large language models learn similar behaviours, yet it remains unclear what structure they share or how to change one behaviour without disturbing others. The Fisher-Rao geometry of…",
-   "url": "https://huggingface.co/papers/2609.11063",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "21197f2a64",
-   "t": "impl",
-   "c": "mit",
-   "src": "MIT News",
-   "d": "2026-09-09",
-   "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
-   "sum": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
-   "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "294aaeb876",
-   "t": "anthropic",
-   "c": "ieee",
-   "src": "IEEE Spectrum",
-   "d": "2026-09-09",
-   "title": "AI Models Are Watermarking Text—Will You Notice?",
-   "sum": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google…",
-   "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "d1c66e6e7b",
-   "t": "industry",
-   "c": "ieee",
-   "src": "IEEE Spectrum",
-   "d": "2026-09-09",
-   "title": "China’s Regulators Take Aim at “AI Boyfriends”",
-   "sum": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted…",
-   "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
    "wp": false,
    "mp": false
   }
