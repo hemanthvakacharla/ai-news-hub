@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-25T14:06:56Z",
+ "updated": "2026-10-25T21:24:43Z",
  "items": [
+  {
+   "id": "71334093a4",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-25",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "sum": "An Apollo economist reported that AI investments have yielded zero financial payoff for corporate America outside of the technology sector.",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4262d71f08",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-25",
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "sum": "TechCrunch compiled a list of current AI wearables, featuring devices such as Muse Charm, Bee, Friend, and Plaud.",
+   "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "5150e39082",
    "t": "anthropic",
@@ -8,10 +34,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-10-25",
    "title": "Anthropic Held Back Mythos: 10,000+ Flaws Found [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "Anthropic reportedly delayed the release of its Mythos model after identifying more than 10,000 flaws.",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HNXE0MTR6OGRhbnE3US1oX0owWU9BQ1BsaEhZZjhzdHZNSW0zZDNTVGRsZXNWVlVsZmY4Yms4a1VhQjRad2VWRl8zYTJ2NzdrNXhvN1ZIMlVmZkxxd3hZWERLbW1Sa09pUnUtTWtFRklDTW9XUHQzZVVPNlA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6faa205325",
@@ -20,10 +47,11 @@
    "src": "shattered.io",
    "d": "2026-10-25",
    "title": "DeepSeek vs Claude: $0.30 vs $2 Input Tokens [2026]",
-   "sum": "From shattered.io.",
+   "sum": "A cost comparison shows DeepSeek charging $0.30 per input token compared to $2 for Claude.",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZUpIRi1oRmV0Q2lLRUZGdU9ab2ZyUGhZVTVDVDh2VnVSOG5nZVFBQ3gxd3VUeUs5QUw0emMtRVJpWHVtV2MxNzUwc0dVSF8tRWluWTFqcjhiY2J5RzNCMHdwV3A3R0JtVlNsVmtvRUtUX29SZ29CQTU1dV9ZYWVmT1AtdnpYOFZSSHc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ddc0af047f",
@@ -32,10 +60,11 @@
    "src": "TOKENPOST",
    "d": "2026-10-25",
    "title": "Claude Code Desktop Creator Anthony Morris Leaves Anthropic",
-   "sum": "From TOKENPOST.",
+   "sum": "Anthony Morris, the creator of Claude Code Desktop, has departed from Anthropic.",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84T3NhSmhVRFEwQUtxNXRXMTdKUkhnNkJGSmxOOHNOVExURDdVQWg0N0I3VGRaS00zdlV1WHM3UTQ3NFZZc2dyQTU2ekp4M1g2Ui1YaGJn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f9c3d82456",
@@ -44,10 +73,11 @@
    "src": "Fortune",
    "d": "2026-10-25",
    "title": "Palantir CEO Alex Karp says neurodivergent workers will thrive in the AI era. An autistic psychologist says he has a point",
-   "sum": "From Fortune.",
+   "sum": "Palantir CEO Alex Karp and an autistic psychologist discussed how neurodivergent employees may thrive in an AI-driven workforce.",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGh4dWNuVmhsbktPYmFHODBDVUVEMGxmTTNIblVUSWJZLUJ1ZFZHZVVqMTd1RVljcUR0T2J2UllrT3Q2QVhCVVIweldCZ3FrZXZ3eExuZ0JqdzIzS0o2czl2Y294NE5sMjlpVnY0TlVLcGJDUTVqVHU0ekdtV1A3Yk9WRi0yYzQ2TGs5VDRsd2tqQVFDcUxBWnlZUmcteG0zRWxwaw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "cc8f3a3b73",
@@ -56,10 +86,11 @@
    "src": "CTech",
    "d": "2026-10-25",
    "title": "Palantir CEO says Israel is the \"minor exception\" in AI race dominated by U.S. and China",
-   "sum": "From CTech.",
+   "sum": "Palantir CEO Alex Karp described Israel as a minor exception in an AI landscape dominated by the United States and China.",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80N0NhY2p0SDVNdXg3LXVSMVhheTI2Sm9QQ2VnYTg2UzR4VlJXWV9HNmtWUzBJZ0U0Ql9OcE5MWjdiUlhNQjcydjBCcEdXSzgwVGlpMzVFVXlaYnVxVVh3aGRlQUhLeFh5?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c61e9001db",
@@ -68,10 +99,11 @@
    "src": "The Motley Fool",
    "d": "2026-10-25",
    "title": "The Next Palantir? Why This Under-the-Radar Software Stock Could Be the Biggest Surprise of 2027",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool highlighted an under-the-radar software stock as a potential rival to Palantir by 2027.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkJLNzdZcDF4S0lvWVljSF9NMjlDOFJNNmFkZ2N1VG95U0RPZXNEU1M4YVIzRXVfSGVqUXZTcHA0Mkk1eDJwd3RaWnZFWlh6VFhjQThzTW1xNGd6NEpCRDZsYjVoM09ySkdSSERRMXE3bVR3NV92VkMzbm5OdmhNTzZGRjdSdHJQWF83cGtwVkRKM2IwdFZ2Zg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f6821e187d",
@@ -80,10 +112,11 @@
    "src": "AOL.com",
    "d": "2026-10-25",
    "title": "Here's What a $10,000 Investment in Palantir Could Be Worth in 10 Years",
-   "sum": "From AOL.com.",
+   "sum": "AOL published a projection examining the potential value of a $10,000 investment in Palantir over ten years.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXZWYjFULUlRbmhibDROSmJMcXFMc0l4aS15OFNJeWJBVTZqRElFZVozd0VJMF9GNmw5RUNyNTQ0cTVGaVNqTWU1WVNrNzBQM0llb2RjN0pwZkNGVkdCUmEwaTFiakwzdHl4T3czRk1JZ3htSnNraC0wNm5CdHdSYVZR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3aab35d01d",
@@ -92,10 +125,11 @@
    "src": "The News International",
    "d": "2026-10-25",
    "title": "Palantir CEO says neurodivergence could be an advantage in AI era",
-   "sum": "From The News International.",
+   "sum": "Palantir's CEO stated that neurodivergence could serve as a competitive workplace advantage in the AI era.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTURiNVVVMGo5ZkhpRzdsMkg2Z0ZpajB2WGhCLU5JNUttNHBEWUZZY0NuWEtlS2duNWdlaFpCWWNmMzlqLVhMRlVyQUhTdnlxOE9pWmlwUmg1eXVWR1ZUOTBTVlBJWnptaEVKSzNiaDhMMkhkVGhJTmNZaDVpZE95cDJVamoxdzVVc3kxVmEtNHBNZjRpVTlTU3VXQlRhNUxVOXlpaXpzTXN4SFXSAacBQVVfeXFMT0NkZEtVRnlVZkxrdGNMdXdFQS1JNE45dldtcGk1d3MxbVhMdFcyOEthRXVKWHlHTUhNNl9sZk9SLV9fcWg5Zkl2Qzk3ZHRwUS1fb25LM0hiem9NYS02eUpzcWFLYjhaOW1WeTIyUkZreDBLRkRlUWlNQjJvbHptV2Z1U3BwcW9OSkJCZUJvWExibTNMX0VKak16cGhyai1odTd6X0RTTTg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5ad462b203",
@@ -104,10 +138,11 @@
    "src": "tech-insider.org",
    "d": "2026-10-25",
    "title": "Alex Karp on Neurodivergent Workers: 5 AI Takeaways [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "Tech Insider published five takeaways summarizing Alex Karp's remarks on neurodivergent workers and AI.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80RVg4ZTNJWDQ4Yk8zRW5YMFFfcmNtV0g0Y1RrR0ZoSVUtVXRpTW1nUURBQk1xNlByaXlTV3dCelUyTkQ3WEJ3eC01T3NGZFI3N1pGNzJzTWo1U3hjSkFuMmszQTE5dzNPOVV6WE81RWxQNExIRmZOSnV6eVl6SWc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a61569e12f",
@@ -116,10 +151,11 @@
    "src": "shattered.io",
    "d": "2026-10-25",
    "title": "Alex Karp Neurodivergent Workers: 2 AI-Era Paths [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Shattered.io outlined two AI-era career paths for neurodivergent employees based on comments from Alex Karp.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODJlWkFYWWd2YnBKQUNYSW4xbXRwUm9CM2RaTS1SNWN1bGF3LS1CaEVac3BiMFdGY2NpUGJTN05vUzZ0TXh0dE5SVUxRNklXU2oyUWJNeDhNWVJPOHdTWTlQeGNfUW9QQVdQQWpTMlF1TVhva2dyNXZEckZXLTNUZko3R0dkd0U?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8d934ea20b",
@@ -128,10 +164,11 @@
    "src": "Startup Fortune",
    "d": "2026-10-25",
    "title": "Open-weight DeepSeek beats Google's gated Gemini model at finding bugs",
-   "sum": "From Startup Fortune.",
+   "sum": "DeepSeek's open-weight model reportedly outperformed Google's gated Gemini model at identifying software bugs.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXVGbzcwMzBBRHRVNVp0aGJzTU1ia1M3eGI2N0tubGs3VzNyeDdJdE8xZGh5Qm80S3REUHlwTDRXSjl1VlJXSUk2OXZUZnZYNFMzeFI5UGtoWDNrUGg1SUwzY0h4RV9EWkcteGZHb1BmdFdNMERJZ0xrM2Z5bEpwZUFXaUFzY3VOQzl5R3ZJOERNSjdqZWtBUlFNMGltQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "a238bc4b62",
@@ -140,10 +177,11 @@
    "src": "TradingView",
    "d": "2026-10-25",
    "title": "Peter Schiff Says Google Gemini Challenged Government’s Case Against His Bank: ‘Did Nothing Wrong’",
-   "sum": "From TradingView.",
+   "sum": "Peter Schiff claimed Google Gemini evaluated the government's legal case against his bank and found no wrongdoing.",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYjFkWFp1OUFDTVh2anlfSnZFaVUycm5zM3h4bUN4ek5JR0E2TDdvbXRBd3BieHRKZXpiQWNCNXJwR0ltUzB4V19qZEJIUkRZQVJrZHRoREN3emxZdEgzMFhvYjR6RmQ5ekZBZVhkWWc2RWJNV24zZ3p5VmxhTVdKVUZ4Ml90bUJlYU9IMnZXMEFiU2wta0VvYy0tY2hvYms0VVF5blB6RDRmVlIwQ2pkTF9kblVjNVVFRDZubTFwYVFmTDc5azl2c3d4RGN6Rlh1WXRLSVR2a1RxRy1UVkRCUXh0X18zT2l6MVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "02d325b700",
@@ -152,10 +190,11 @@
    "src": "Android Authority",
    "d": "2026-10-25",
    "title": "I canceled Google AI Plus after the downgrade, but I’m still using Gemini",
-   "sum": "From Android Authority.",
+   "sum": "An Android Authority writer canceled a Google AI Plus subscription after a service downgrade while continuing to use Gemini.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVdFY0psal9NeTNHTFpkbHlDLUlhLVRlVFlKbjYxOWxtbjhfNXUxSkxWSnhkMjFBSlU4Y3BQQkUyODRNZUtxN0VVQmk2UF9pQi1jVmRsaGh5em8xaFo2d1B2RWVyZk9UcHp2bVZMakJZdnV2U2FMNUx1Q3llUWZzOVI3ZjB5elJxckVKZ1UzcTl0RGs3SEhKQ2l3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4e9edb1d39",
@@ -164,10 +203,11 @@
    "src": "Geeky Gadgets",
    "d": "2026-10-25",
    "title": "Google Gemini 4 Argon Costs 33% Less to Run vs ChatGPT 6.1",
-   "sum": "From Geeky Gadgets.",
+   "sum": "Google Gemini 4 Argon reportedly costs 33 percent less to run than ChatGPT 6.1.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XOHBsNTNZQTNWREJWOEhlcDBTT1BDWTdLSzlyZEJPVDZfQVMwUWhuSGdpUk1aTHJ5RjBtV2RCVUNvNmxRalhicndVVjdGS3YyeDlDSHotT09KdFBjcnF4bThB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "216a86d8d4",
@@ -176,10 +216,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-10-25",
    "title": "LLM as a Judge: Calibrate in 13 Steps, 60 Min [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "Tech Insider published a 13-step, 60-minute guide on calibrating an LLM-as-a-judge system.",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5faGFvMVJONVZiallKV3A5VFBPLXpEa3d2YXRDb3h2c1FEc0hHVWhINHVXS0tfZFBCWXV2dXRDNGhTdEtuTkJsUU9DZ0lDUng5QU1TUnJaQVZRYVBxVm5hRmRkWDZKbDRSaTdHTkw1Y1pZUHBhWjNOSVpn?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fa2dd767c4",
@@ -188,10 +229,11 @@
    "src": "Startup Fortune",
    "d": "2026-10-25",
    "title": "DeepSeek's cheap new model is making GPU scarcity worse, not better",
-   "sum": "From Startup Fortune.",
+   "sum": "DeepSeek's low-cost model is reportedly intensifying GPU hardware shortages rather than alleviating them.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0dNeXFpZ01nYl9ieUYybXNGVXkwd3Y1WDdOWG5keFJKdk12LTV3OXRhR0FMT3M3czdhQVpDdmxUaXR3RjFLVmdnWEZDLVZSWlEtZG1fUGV4enozNXhGUGluenFxOGRFM19WX0IzLWhYUklBd3NsOG5RajB5QS13aUYzMEdWRmxLT3RLNElLd3ZPdEgwMGgzTQ?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e7b9b9fa21",
@@ -200,10 +242,11 @@
    "src": "shattered.io",
    "d": "2026-10-25",
    "title": "Fine-Tune an LLM With QLoRA: 12 Steps, 90 Min [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Shattered.io released a 12-step, 90-minute tutorial detailing how to fine-tune large language models using QLoRA.",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIYkRDQ1FlalExTUg3akdXQWdKaENhLUZHSXh3Nm5nWjE5SUlrV3g1X1hJNDBvUHUzeXNKbEtvVFRUeHE4YlpaVW5NSWlWcGxDY2RVQmRJb2xWT1JzWnNrUndoaVF0UQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7826fbf334",
@@ -212,10 +255,11 @@
    "src": "tech-insider.org",
    "d": "2026-10-25",
    "title": "RTX 3090 GPU Unlock: BF16 Hits 129.6 TFLOPS [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "A reported modification allows Nvidia RTX 3090 GPUs to achieve 129.6 TFLOPS of BF16 compute performance.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3BsNTd4c0Fkc1d1REV6N3FZUFFSMXlsM2dQMExNT1hqYjVhbmk3YTk1LVBYZDBJM01oUFM3WXpINE5XMlhDZVdRR0RTODk4NVd0RWhVTlZkM2VZT0JlalpsbVNTRFFKbXc3Rkk3Y1hPZVpvNzE3T0FOQ05DS2doZw?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b30efedf8f",
@@ -224,10 +268,11 @@
    "src": "Mashable",
    "d": "2026-10-24",
    "title": "Anthropic launches Claude Haiku 4.5: Faster, cheaper, and smarter than ever",
-   "sum": "From Mashable.",
+   "sum": "Anthropic has launched Claude Haiku 4.5, advertising it as faster, cheaper, and more intelligent than earlier versions.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNExGTXpjRFpVVktmQjJSVXlRT3ZHZmRONzZWV0xCbHdlZm5pNEVad3k1VnpEYVBWOU5XZndjLUhjM3JTRlpMMFRiNV9EUUppMUQ2eUkzSkt1WnRJdXBZNnlpeWt0a1VyTUF6eDNGaUplR0syZlJPRWoxeVVURjJiUg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "a9a188130c",
