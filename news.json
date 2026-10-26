@@ -1,6 +1,174 @@
 {
- "updated": "2026-10-26T16:27:16Z",
+ "updated": "2026-10-26T23:03:20Z",
  "items": [
+  {
+   "id": "0c7a0e5840",
+   "t": "anthropic",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-26",
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "sum": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making…",
+   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "4a24365e96",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-26",
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "sum": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "f3b6de314f",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-10-26",
+   "title": "At New York Climate Week 2026, MIT connects with a global network",
+   "sum": "A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.",
+   "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "d57e9a8a9f",
+   "t": "industry",
+   "c": "ieee",
+   "src": "IEEE Spectrum",
+   "d": "2026-10-26",
+   "title": "IEEE Xplore Digital Library Adds AI Assistant",
+   "sum": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers…",
+   "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "f2239162bd",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Washington Post",
+   "d": "2026-10-26",
+   "title": "How an AI start-up founded by ex-DOGE staffers broke into Anthropic",
+   "sum": "From The Washington Post.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGRfa29NR1l4a19INEZWSXZWakhia2ZKTnRpQTVYeFNTUXRhdURvSTltbV9RRVJkbzVndVhsMUg0Y3N1MkZVNm11QVB5ZWtFVlhGY2NSSkp1MU84Qm0taWMtcURQcm9EbjZFTjV4Sk9NMTFwLV9Xc1BqM3RqWFhlLWpQZl8tOHJwdktBT2kxTUV6d2ZnWXg1cWwyVWtNSVl2UVA2LU1mWkNlcFZKd1BhNlpRbXZMeGZ0SEdR?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "5b881d7948",
+   "t": "anthropic",
+   "c": "",
+   "src": "CNN",
+   "d": "2026-10-26",
+   "title": "I asked Claude to explain Anthropic’s IPO",
+   "sum": "From CNN.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBza2QxNFoyWmFrS01XUFNGR2E0NVVYOGhTSTdzYkxVaXM0cUdWc1BCaEVjWFdLNUw0eDJENzRwVnBmUkMxUEh3Y0ZkQktzeEJrWUs4QUVXTmhFRWp0a1ktTExrZXZrNGZlQmZCTWR1M2hOSGZBT0JN?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "0cb7a170e6",
+   "t": "anthropic",
+   "c": "",
+   "src": "Forbes",
+   "d": "2026-10-26",
+   "title": "10 Surprises Revealed In Anthropic’s IPO Filing—CEO’s Personal Security Costs, Firms Spending $10 Million On Claude And More",
+   "sum": "From Forbes.",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSWhJLVI4ejM4anktZnBXeTlJWjV3ZnpaZmRiX0pDX0xWN3FVRnpKd015UXNnMDVvOElpWTVBdklfdzI0TUxLUDVncFJmeTgweVAtRlBPRXRHU0NnOGcwa1kyWVRWR0RCeW5MQ0c0U3Zjbkt2bXNRSUJocGVCR25EZTV6X0hqNlhwRDlGNThxdmJFaWFTa2pGa1RnR1MwTmd2VW5xRncwOWlkbjFGQ0JhUGFibVd3anQyZWFPZDgtbkFxWVpvMVdRei13NzUwNjVqYV9WaENYWnQ1cFdmMnA1TVZldlpwOWprR3RzbHhYME1ZdHkxdjl4aGpiaFctMktpZ2pz?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "ddda142c62",
+   "t": "anthropic",
+   "c": "",
+   "src": "The New York Times",
+   "d": "2026-10-26",
+   "title": "7 Numbers That Explain Anthropic’s Business",
+   "sum": "From The New York Times.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0gwS2ZOLWduOWZzM1FvdFNodDZnTU91SWR0U1dCY2VxOGxQcXY0THNnanJjWFhYb054WXotQWlvNTYwa2g3aTVEXzllX1pfTHcyTGhZVG1NT25MSmwzd0xUQ1c3VGdJbGJ1OHZPSm53d05zc3g2cGV2X3JlaTRGY3c3U045cUdO?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b64c61ba57",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-10-26",
+   "title": "Burke Wealth Initiates a New Position in Palantir (PLTR) as AI Software Growth Accelerates",
+   "sum": "From Yahoo Finance.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG9vVEZVRHk3clpvUTZUejZfRVpVTkJ0cjZjUjI5VUdQajFGOUhyYXlndnc3YkFoS3RoSURiTVp0TFpiZy14Z0V0cF9GekxhelZuVnFCdlBFalFzcl90OWlZc29yM1RwSkE4N25Qdzl6WnVCYzB6X2R6THFTTFhxZ2RoVmRSZ3BRUG5kdTlMQzJwSlZiRmUzVngwTUFPcGFJQl9pR1JEaw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "77b9c22176",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-26",
+   "title": "Will Palantir Technologies Stock Hit $300 Before the End of 2026?",
+   "sum": "From The Motley Fool.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmttbXVGdXJhSFR2VjlSUExiYkh0OHk3ODFIWHl1QmNOa2lkRnRPQTV3dlJXTFZuUXlVR1E3UE5zNnV5ajZQMlU5RWJNRnc4ajZUTVU2MDVmVjJPbTRjOGxuX3ZYRHNidGhvQlhBeW96S0ZNT1VyUVIzalZWYW1JUjlxUDZKQ0VOOG5WMmhOUUZMTmxfd1R4bGtjWEJsZDJuaVFrakc3eWdpQQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "fa0aee42fe",
+   "t": "palantir",
+   "c": "",
+   "src": "Военное дело",
+   "d": "2026-10-26",
+   "title": "L3Harris and Palantir Explore AI for Vampire Systems",
+   "sum": "From Военное дело.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDVTeDRENXFoaWdLMWMwYjlWOGswWEFuall2N0xXRnNIYUlLeGpqd1NIeTQ3QkIza1ZMYVN4UFNveFBRM1ZDZklRWmY4amE5S3VSYnVmSDExM1VMdjJudEVCVXJoSm9yZUxoZDFPVExGalY3eS15YzJyU211MTlaMk1rZTBpemp0Y2dOSkI4el8xYkhScHRXcQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "62a9d2f2d6",
+   "t": "gemini",
+   "c": "",
+   "src": "9to5Google",
+   "d": "2026-10-26",
+   "title": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
+   "sum": "From 9to5Google.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16QW5PSFRuZllfaWVqVmRrWXM4Vk01LTc0VjZlalphQi1Ld2RodkN4cVpMZHB5dXRCME0wU2h1ckJmYnUxajVTcFk5MjlGWVVTSnBQNVZDbEdrTnY3Vmx2Y3RzeFcwa2VwazN1Y1NsbUUwM2FVT1pzcDR1Zno?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "616a6f3e91",
+   "t": "models",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-10-26",
+   "title": "iPad mini OLED: Price, Release Date, and the 512GB AI Catch",
+   "sum": "From Fello AI.",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sdkZ5M1lHbmZaQ2ZRRTZCRl91WUx1VmIyaVROdVN3bjE3MEllUU5yUjdUbWlGT1pvZkR6ZkMzMXV0RDQ1OG1nMG1pRQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8bb933d106",
+   "t": "models",
+   "c": "",
+   "src": "IBM Research",
+   "d": "2026-10-26",
+   "title": "PyTorch opens the AI ecosystem to a new class of accelerators",
+   "sum": "From IBM Research.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzhQcFhSeFBVRXY1X2dSYTRlTnEydEFaQ0YyTGIzT19Sb19Sb3A1QWhsTWdOMFFwYVhnWWYxRHRFSXFoNFdqSW1pVG0wWXVRNUxLbk1ha1cxdS0xOTZEV0R3SFpGWnNIZWZYQWFHSGZEd09VbmtNWnotaC1Mb2hQVmdnOWhpUENZYWc?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "2c43c28405",
    "t": "anthropic",
@@ -764,6 +932,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "770c71828f",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-24",
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "sum": "The moment you realize the internet is \"held together by glue and dreams.\"",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "b180f31726",
@@ -2797,6 +2977,30 @@
    "ai": true
   },
   {
+   "id": "3b3543f550",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
+   "sum": "Recent methods for injecting graph structure into LLM prompts include graph soft prompting, in which a graph neural network (GNN) learns graph-specific tokens that capture relational…",
+   "url": "https://huggingface.co/papers/2610.31572",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "af500f36fb",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "FLORA: An Open Model Suite for Scaling Robotics Data Engines",
+   "sum": "The life-cycle of robotics foundation models crucially depends on data labels. Outcome reward labels are needed for monitoring real-world deployments. Process reward labels are needed…",
+   "url": "https://huggingface.co/papers/2610.31779",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "71593c5015",
    "t": "papers",
    "c": "",
@@ -3857,6 +4061,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "1670479ed5",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-20",
+   "title": "LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification",
+   "sum": "Lyapunov functions and barrier certificates give state-space guarantees of stability and safety, but synthesizing and verifying them---especially for nonlinear, high-dimensional…",
+   "url": "https://huggingface.co/papers/2610.30524",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "b3577a0ad3",
@@ -5068,6 +5284,18 @@
    "ai": true
   },
   {
+   "id": "95e48a798d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-19",
+   "title": "Judging the Justification: Decision Certificate Supervision for Generative Reward Models",
+   "sum": "Generative reward models (GenRMs) generate natural language rationales to justify preference judgments, yet a correct verdict does not guarantee a sound justification. Existing approaches…",
+   "url": "https://huggingface.co/papers/2610.27528",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "43c9fa0aa6",
    "t": "papers",
    "c": "",
@@ -6237,6 +6465,18 @@
    "ai": true
   },
   {
+   "id": "a55f0dce56",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-18",
+   "title": "Predictive Closure: A Set-Level Characterization of JEPA's Feature Selection",
+   "sum": "In joint-embedding predictive architectures (JEPA), an encoder and a predictor are trained together to produce a representation that minimizes the error in predicting the representation of…",
+   "url": "https://huggingface.co/papers/2610.27364",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "51e9e54f5a",
    "t": "papers",
    "c": "",
@@ -6806,6 +7046,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "99cc36a2dd",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-17",
+   "title": "How Much Feedback Is Needed to Break Template Protection? The Geometric Vulnerability of Biometric Authentication",
+   "sum": "Biometric authentication systems increasingly use privacy-preserving mechanisms to protect sensitive templates. However, the authentication interface itself may still leak information that…",
+   "url": "https://huggingface.co/papers/2610.25118",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "29275bef9a",
@@ -9352,6 +9604,18 @@
    "ai": true
   },
   {
+   "id": "7e136729dd",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-14",
+   "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
+   "sum": "When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing…",
+   "url": "https://huggingface.co/papers/2610.21109",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "9b9bfbf4db",
    "t": "papers",
    "c": "",
@@ -10565,6 +10829,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "1c1f06949f",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-13",
+   "title": "KANLab: TensorFlow Playground for Kolmogorov-Arnold Networks",
+   "sum": "KANLab is a browser-based visualization tool designed to interactively teach the core concepts of Kolmogorov-Arnold Networks (KAN), forked from the widely successful TensorFlow Playground.…",
+   "url": "https://huggingface.co/papers/2610.20117",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "ae9446ca71",
