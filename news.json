@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-26T23:03:20Z",
+ "updated": "2026-10-27T02:59:46Z",
  "items": [
+  {
+   "id": "858bf7d244",
+   "t": "impl",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-27",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "sum": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "wp": true,
+   "mp": true
+  },
+  {
+   "id": "543832a6d8",
+   "t": "models",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-27",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "sum": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the…",
+   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "80cdfeae43",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-10-27",
+   "title": "Not Palantir. Not Snowflake. This AI Software Stock Could Be the Next Multibagger.",
+   "sum": "From The Motley Fool.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVdJQy11WXhrXzkwNWgxbWJnVHc3Q3dQOE1XckxqcEVJZDRZTjNPc1ZqS3Ayc29wdnAtbDBpZllUU0dZYy1JZkVhcXA2MTh5OC1RMnNLUXBMZ09XRkxUYjc5d242SWdwMXo4T2UwZldfNmk1ZmxILWt2NXk1OWw3Ukt4TTZtVmxuY0lLazV4eW85VFNVaWc?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "3b508d4071",
+   "t": "eff",
+   "c": "",
+   "src": "Bioengineer.org",
+   "d": "2026-10-27",
+   "title": "AI Scheduler Learns Offline to Meet Conflicting LLM Latency Goals",
+   "sum": "From Bioengineer.org.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDRVQnM2UVZ6aTBDcHphRmtlZzlRejBHQ05NNF92M09lcUFyTmFjUXNCN20xSzhCZ0dCa1NCeHh0ajZfdGxEbXZvMWc1VWhsZldjakNaaThHSmdOZXU2YV9NM3VpTmpzMzl6MEpIZ1FOczl0cFlKV1F3cHdvLWxxb3Q4NEtDRXowNWJNcFRQTGVGUjhW?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "493989573d",
+   "t": "anthropic",
+   "c": "",
+   "src": "The San Francisco Standard",
+   "d": "2026-10-26",
+   "title": "What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings",
+   "sum": "From The San Francisco Standard.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vcWpUa29zVzhWVXpaWDgwRHRtZ2otQ0dzRTg4UTdxV2JLU0U3cHQxY1JlM0FxZ0pKT2xsdHlxaXRWOEFVRzFMamZoUGtkLWVRdmQ0eU5YM2ZmbHQxQjBzQU5RdzJHWGk2YjVzLXFn?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "6657cc1219",
+   "t": "gemini",
+   "c": "",
+   "src": "OrcaRouter",
+   "d": "2026-10-26",
+   "title": "GPT-6.1 Sol vs Gemini 4 Pro: Google Never Shipped That Name, and the Price Match Ends December 1",
+   "sum": "From OrcaRouter.",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCRUdGNkpXY2E1RzA3cmZ2Rzhza3haRDVQYWJBdVdKTm4yeW9NQS03RDJWd1A4NnVQMDllaDExcEh2U29MejhBclpjZXJmU3RqbnlXanM3cjIzblVuX3B4TVFmMjVWOGVWMEE?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "22c514f642",
+   "t": "eff",
+   "c": "",
+   "src": "NeoTeo",
+   "d": "2026-10-26",
+   "title": "CUDA on RISC-V: reported host requirements and the BigSky demo",
+   "sum": "From NeoTeo.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDhIQjkxX0RSbkMwSXVLQ0tRUEFSeWFDbXhlMUZic2ZXNXRRb1phQ2g3WVRONmZNLV9fNDFadnM4V0NFZFlHMEZSNWxCc1VtWW9RVnVwaVFwckVhaFFETHA2WGo4d29tczY4QnIwOW5tVk5tYTRfbTNTYTVYMldoaTN6SHFLQTBxcGdaWFV6X0g?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "0c7a0e5840",
    "t": "anthropic",
@@ -494,6 +578,18 @@
    "mp": false
   },
   {
+   "id": "f98823f247",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-25",
+   "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+   "sum": "Vision-language models are shifting from offline passive understanding toward online proactive interaction. However, prevailing methods largely rely on explicit requests while miss the…",
+   "url": "https://huggingface.co/papers/2610.34662",
+   "wp": true,
+   "mp": false
+  },
+  {
    "id": "2ee31f3d9c",
    "t": "industry",
    "c": "ieee",
@@ -934,6 +1030,30 @@
    "ai": true
   },
   {
+   "id": "7f4d292535",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-24",
+   "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+   "sum": "People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs),…",
+   "url": "https://huggingface.co/papers/2610.33966",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "ddc14b27d2",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-24",
+   "title": "Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents",
+   "sum": "Continual learning is the ability of LLM agents to improve over time by acquiring, refining, and applying knowledge from experience while retaining useful prior knowledge. It is essential…",
+   "url": "https://huggingface.co/papers/2610.33956",
+   "wp": false,
+   "mp": false
+  },
+  {
    "id": "770c71828f",
    "t": "industry",
    "c": "tc",
@@ -1358,6 +1478,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "d5c7832cdd",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-23",
+   "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+   "sum": "Successful tool-use trajectories are not necessarily useful supervision. Even successful interactions may underrepresent multi-step dependencies or contain actions that are unjustified by…",
+   "url": "https://huggingface.co/papers/2610.33568",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "eeb85039ea",
@@ -2054,6 +2186,42 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "1f0dadcdd7",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-22",
+   "title": "Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery",
+   "sum": "Scientific discovery requires identifying the scientific principles underlying observed phenomena to guide further investigation. As these empirical principles are often unknown in complex…",
+   "url": "https://huggingface.co/papers/2610.32195",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "a44fc5b5ba",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-22",
+   "title": "World-in-Context: Interactive Video World Modeling with In-Context Conditioning",
+   "sum": "Interactive video world models require coordinated control over viewing perspectives, character actions, and camera motion. Existing methods typically leave view modes implicit in text…",
+   "url": "https://huggingface.co/papers/2610.33169",
+   "wp": false,
+   "mp": false
+  },
+  {
+   "id": "845ad916ca",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-22",
+   "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+   "sum": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most…",
+   "url": "https://huggingface.co/papers/2610.32285",
+   "wp": false,
+   "mp": false
   },
   {
    "id": "f1d5d60e40",
@@ -36358,43 +36526,6 @@
    "wp": true,
    "mp": false,
    "ai": true
-  },
-  {
-   "id": "3f4af103bf",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-11",
-   "title": "Realtime-Venus: A full-duplex interaction system with asynchronous delegation",
-   "sum": "Natural interaction in digital and physical environments requires continuous perception and timely responses. Spoken dialogue relies on acoustic and linguistic cues, while video…",
-   "url": "https://huggingface.co/papers/2609.13814",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "2e0abd50b1",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-11",
-   "title": "SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops",
-   "sum": "Researchers introduced SiliconBench to evaluate inference speed, memory headroom, and output fidelity for local LLM serving on unified-memory desktops.",
-   "url": "https://huggingface.co/papers/2609.19169",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "75ddcd67e5",
-   "t": "industry",
-   "c": "mit",
-   "src": "MIT News",
-   "d": "2026-09-11",
-   "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
-   "sum": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
-   "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-   "wp": false,
-   "mp": false
   }
  ]
 }
