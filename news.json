@@ -1,6 +1,110 @@
 {
- "updated": "2026-10-29T23:08:44Z",
+ "updated": "2026-10-30T03:28:43Z",
  "items": [
+  {
+   "id": "3e1cebb1f9",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-30",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "sum": "A University of Kentucky administrator received a religious exemption allowing him to opt out of using AI tools at work.",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "05367ef1f3",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-29",
+   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "sum": "Amazon CEO Andy Jassy stated AWS aims to become a trillion-dollar business while continuing heavy capital expenditures on AI infrastructure.",
+   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5f39cc88b0",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-29",
+   "title": "Softmax Routing Dynamics in Mixture-of-Experts Models: Collapse and Recovery",
+   "sum": "Researchers analyze the dynamics of softmax routing in mixture-of-experts models, identifying causes of expert collapse and methods for recovery.",
+   "url": "https://arxiv.org/abs/2610.39442v1",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "598c75f703",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-29",
+   "title": "LinQuant: Functional Invariances for Low-Precision Linear Recurrences",
+   "sum": "LinQuant introduces functional invariances that allow low-precision quantization in linear recurrence architectures used in language models.",
+   "url": "https://arxiv.org/abs/2610.39418v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d815bd06e1",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-29",
+   "title": "Unlocking Any-Order Generation in Pretrained Autoregressive Image Models",
+   "sum": "A new method enables pretrained autoregressive image models to generate visual tokens in arbitrary order rather than fixed raster-scan order.",
+   "url": "https://arxiv.org/abs/2610.39293v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9d57f81175",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-29",
+   "title": "From Local Recovery to Unified Generation: Discovering Triple Set in Knowledge Graphs via Observation-Anchored Latent Diffusion",
+   "sum": "Researchers apply observation-anchored latent diffusion to discover and recover sets of relational triples in knowledge graphs.",
+   "url": "https://arxiv.org/abs/2610.39114v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ff3d3b393d",
+   "t": "anthropic",
+   "c": "",
+   "src": "ETF Database",
+   "d": "2026-10-29",
+   "title": "Anthropic Plans IPO: Direxion Single-Stock ETF to Follow",
+   "sum": "Direxion plans to launch a single-stock ETF tracking Anthropic following reports that the AI startup plans an IPO.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNElOSkQwYXNnTWtaTlpBODQ0akZYUlE0bjhDbW14cXNodHV4aTM3Vk5nRncxZE5ZMzRzbWtqSEFEWFh2TU51TzN3Z0NuMXF1V1puUmphaUZyUm12bTFBclk1TnJnUTBHVm1vZS1PSURCZW9uLWN5djU5cW13R0VnZzVBZlgzSGtrZVZHOENiZXdfUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0f0d4bb430",
+   "t": "gemini",
+   "c": "",
+   "src": "Palo Alto Networks",
+   "d": "2026-10-29",
+   "title": "Bringing Model Security Directly into Google Gemini Enterprise",
+   "sum": "Palo Alto Networks integrated its model security capabilities directly into Google Gemini Enterprise.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmZodnplQ1VIemJYbDZEUG5wcmZDTFR6VkJaNHhBODBtaFZySDduZjVmLUEwRUJxekRXOW1OZkVzdV9LWktxR1NpT3FrbHJfQ3RPWWdnUkFUNTVwaGN3aWtzTHVCSEtMSnZmd2hTMDZwSk44SjJERXJPUk40Rm54cmxjYmtHT0ZYVVhYU1hzSlhISEhSMXJQQk15b2xNZmNnbU82ZGQ4NHdGb250SERSUTZ2MA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "6224c596d3",
    "t": "industry",
@@ -8,10 +112,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-   "sum": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+   "sum": "Reddit is shifting toward a logged-in user experience to protect its content and audience from AI-driven search disruption.",
    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "24f3c9778b",
@@ -20,10 +125,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "Rivian expands joint venture with VW to include AI assistant",
-   "sum": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+   "sum": "Rivian expanded its $5.8 billion joint venture with Volkswagen to develop an in-vehicle AI assistant.",
    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "56fa7327f2",
@@ -32,10 +138,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "sum": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "sum": "OpenAI-backed Thrive Holdings agreed to acquire home security provider ADT for $15.3 billion to integrate AI into its services.",
    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "31a141606e",
@@ -44,10 +151,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "sum": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images…",
+   "sum": "Meta released Style Sketch, an AI-powered fashion app that uses Instagram photos to create a virtual closet.",
    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a39d2cb266",
@@ -56,10 +164,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "Granola crunches up a dictation feature to compete with Wispr",
-   "sum": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "sum": "Meeting notetaking startup Granola added AI-powered voice dictation to compete directly with rival app Wispr.",
    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bcae5e5bff",
@@ -68,10 +177,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "sum": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "sum": "Mistral released the open weights for a trillion-parameter AI model designed for enterprise cybersecurity applications.",
    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "7610575f95",
@@ -80,10 +190,11 @@
    "src": "TechCrunch",
    "d": "2026-10-29",
    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-   "sum": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+   "sum": "US authorities investigated an alleged Chinese intelligence plot targeting Nvidia CEO Jensen Huang involving an executive from a Singapore AI firm.",
    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9172711be2",
@@ -92,10 +203,11 @@
    "src": "Forbes",
    "d": "2026-10-29",
    "title": "Anthropic Bought A One-Person Biotech That Ran A Drug Program With Claude",
-   "sum": "From Forbes.",
+   "sum": "Anthropic acquired a one-person biotechnology startup that utilized Claude to manage a drug discovery program.",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3VESlFQVVMycTBtRnFKSUdzTjlaWndGaS15VTdjWVlQSUpwenZBQjBiN19KU2VVeFNISlE3MmFvYUllM2JDS3B5dFA0V204RVZNZkFkZmtyd0xTYmZ6MUo3Nko5RzBhR28ybzhVZGUtTE9sd1dfM3R4WTl5ejhPQkdtWW1LdzFPRy1SOUJSMnRWWC1kR1FtWHJKZy1RUURFTEsyeFVxanZ3bE8yYU53cE9wMHNlM2dHS0dVaDU1amtiWDQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "883edec002",
@@ -104,10 +216,11 @@
    "src": "Reuters",
    "d": "2026-10-29",
    "title": "Breakingviews - COMMENTARY: Anthropic’s spending is worryingly anthropocentric",
-   "sum": "From Reuters.",
+   "sum": "A Reuters commentary examines the financial risks associated with Anthropic's heavy capital expenditures and spending strategy.",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXZ0WnE1dG9wZHdDR21Bd1poZjFncms2Y2lCVTFORzRuWFV3bk81OXZGbV94dHdwai1nZ3NZQXgyc0UwOE1XTjNWVkVVVTl6YW90U24zY2JORDRCa2ZwdDFfM1lnYnVwYTNKSmxmZzlVcWZpMjA0MVIydmp3dG80a3RVZ0phMFhZaXF2d2k0c2tfUlRRSnp4UnhydFYxeHlaTnFINDByODRkc0oyVU5N?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f5f11d6375",
@@ -600,6 +713,84 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ncEg3SU1pb2Y5bVNpVUhDZDktdks5VFd2UWMzaUJQc25DNi1xRHhWenp4RjhrMExydDBMbFhlaHpkczFkV0JTbWExbTR4a29ic05DSTZyV1dmN0FGeGVHS0tTbmJ4N29zLUZMWlpR?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "39dff44d8d",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-28",
+   "title": "EditAgent: Rethinking Agentic Image Editing",
+   "sum": "Researchers introduce EditAgent to address failure recovery and tool usage limitations in step-by-step agentic image editing.",
+   "url": "https://huggingface.co/papers/2610.39664",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d91100f3c0",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-28",
+   "title": "Why Speculative Decoding Works Better Than Predicted on Sparse MoE Models",
+   "sum": "A study investigates the architectural mechanisms explaining why speculative decoding achieves higher speedups on sparse mixture-of-experts models than predicted.",
+   "url": "https://arxiv.org/abs/2610.38981v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "19c2e63d67",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-28",
+   "title": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
+   "sum": "Researchers present an on-policy self-distillation technique that intentionally weakens models to improve reasoning without relying on external teachers.",
+   "url": "https://arxiv.org/abs/2610.38681v1",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6a0cd83701",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-28",
+   "title": "REVBRAIN: Real-time Probabilistic EEG Forecasting Using Residual Vector Quantization",
+   "sum": "REVBRAIN uses residual vector quantization to forecast resting-state EEG signals in real time for closed-loop neural stimulation.",
+   "url": "https://arxiv.org/abs/2610.38558v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "57d9a5490b",
+   "t": "papers",
+   "c": "",
+   "src": "arXiv",
+   "d": "2026-10-28",
+   "title": "CSO: Refining Robotic Policies via Skill Distribution Alignment and Skill-Grained Optimization",
+   "sum": "CSO improves robotic manipulation policies by aligning continuous skill distributions and refining discrete skills to reduce quantization errors.",
+   "url": "https://arxiv.org/abs/2610.38357v1",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1ee79686ca",
+   "t": "anthropic",
+   "c": "",
+   "src": "Anthropic",
+   "d": "2026-10-28",
+   "title": "AI for Science expands to foundations and research institutions",
+   "sum": "Anthropic expanded its AI for Science initiative to support philanthropic foundations and research institutions.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4f5b42733e",
@@ -1452,6 +1643,32 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkkzRVhWTXotV0wwRWt6VnFrMmhvOHZYTS1zblhGRGcxWk92VG5LQzNsN05kNHBfb3lKcm01a2p4aDM5aUlsVmMyNFFPQWJJX1h0dTNtNV9Nb2h2ZnpWTVRRc3JPZUotVWNrYW9Qc0tTZUlPVG05eDNVNDlvRUdvRmRNeFN6bFFqekdoMVMwTVQ?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "561eab6b0b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-27",
+   "title": "WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video",
+   "sum": "WeVisCut introduces a unified agent workflow to generate coherent, long-form edited video from narration inputs.",
+   "url": "https://huggingface.co/papers/2610.38352",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "db9db60ca7",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-27",
+   "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation",
+   "sum": "IntReal provides a benchmark and dataset based on real-world content to evaluate interleaved text-and-image generation models.",
+   "url": "https://huggingface.co/papers/2610.38425",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "acb08e6b13",
@@ -2352,6 +2569,32 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDRVQnM2UVZ6aTBDcHphRmtlZzlRejBHQ05NNF92M09lcUFyTmFjUXNCN20xSzhCZ0dCa1NCeHh0ajZfdGxEbXZvMWc1VWhsZldjakNaaThHSmdOZXU2YV9NM3VpTmpzMzl6MEpIZ1FOczl0cFlKV1F3cHdvLWxxb3Q4NEtDRXowNWJNcFRQTGVGUjhW?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "36007dee70",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-26",
+   "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+   "sum": "WebAnything converts wild web pages into executable, reproducible environments to train and evaluate web agents at scale.",
+   "url": "https://huggingface.co/papers/2610.37786",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "76575a4bc3",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-26",
+   "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+   "sum": "WorkFactory transforms complex professional intents into executable tasks to generate expert demonstrations for training workplace agents.",
+   "url": "https://huggingface.co/papers/2610.37161",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "de8ffa56ac",
@@ -4243,6 +4486,32 @@
    "ai": true
   },
   {
+   "id": "ac89aed896",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-23",
+   "title": "After One-Click Video: The Inflow of Service-Type Content, the Failure of the Recommendation Pool Mechanism, and the BoLe System",
+   "sum": "The authors analyze how model-generated explainer videos disrupt recommendation mechanisms and propose the BoLe retrieval system.",
+   "url": "https://huggingface.co/papers/2610.37695",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "558d99af7e",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-23",
+   "title": "PreView: Enhancing GUI Grounding with Preprocessed Views and Cues",
+   "sum": "PreView enhances GUI grounding for vision-language models by using cropped and enlarged views to identify small interface controls.",
+   "url": "https://huggingface.co/papers/2610.33645",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "12516ce9cd",
    "t": "papers",
    "c": "",
@@ -6017,6 +6286,19 @@
    "title": "Open Weights Met Reality This Week. The Verification Layer Is Still Missing.",
    "sum": "An analysis discusses the challenges facing open-weight AI models, arguing that practical verification layers remain missing.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1F4TmJTaHhENlc5Q1Z2ckx1NDYxejdjdXFvNmFBdS1SYlBjRUpXSXBIVVRnWF9idy1PZEgxX0E5SnlyUDZuZDh6MGgzLTVGaUhITDREMkJ1MWNsOUM4ZllBOXBBUDdhcGRxUlJKakR0bktZd085YUtKVVZHVXhqbHp0OXdqR2o4ajlfMGp4cVNjWkVSMXdGNjJBTV8?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6d7f09c32b",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-21",
+   "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team",
+   "sum": "VibeGame uses an AI engine and adversarial agent teams to build video games end-to-end from natural language prompts.",
+   "url": "https://huggingface.co/papers/2610.33106",
    "wp": false,
    "mp": false,
    "ai": true
@@ -39393,172 +39675,6 @@
    "sum": "Hugging Face examines the consistency and repeatability of AI agent performance across tasks.",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
    "wp": true,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "a407c1852e",
-   "t": "engines",
-   "c": "",
-   "src": "vLLM Blog",
-   "d": "2026-09-14",
-   "title": "vime × RL-Kernel × AMD: Bitwise Train–Rollout Consistency on ROCm",
-   "sum": "vime and RL-Kernel align selected-token logprobs bit for bit across Megatron training and vLLM rollout on AMD Instinct MI300X, with zero mismatches across 200 GRPO steps.",
-   "url": "https://vllm.ai/blog/2026-09-14-rl-kernel-v0-1-0-train-rollout-bitwise-consistency",
-   "wp": true,
-   "mp": false
-  },
-  {
-   "id": "e8ca78fa84",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-14",
-   "title": "Embedding Physics Priors in Robot Learning: A Survey",
-   "sum": "The rapid progress of artificial intelligence is reshaping robotics and accelerating the adoption of learning-based approaches. While purely data-driven methods have achieved remarkable…",
-   "url": "https://huggingface.co/papers/2609.22319",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "0e2ab8bbf5",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-14",
-   "title": "TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision",
-   "sum": "We present TAPe+ML v3, a compact computer vision system based on TAPe (Theory of Active Perception), a structured representation that encodes relations among perceptual elements before…",
-   "url": "https://huggingface.co/papers/2609.20869",
-   "wp": false,
-   "mp": false
-  },
-  {
-   "id": "1b7fca8fc4",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-14",
-   "title": "Verifiable Social Reasoning for LLM Assistants",
-   "sum": "A research paper evaluates methods for verifying social reasoning in LLM assistants used for daily personal advice.",
-   "url": "https://huggingface.co/papers/2609.17496",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "9e82c021a2",
-   "t": "papers",
-   "c": "",
-   "src": "HF Papers",
-   "d": "2026-09-14",
-   "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
-   "sum": "A paper presents a training-free skill evolution method allowing GUI agents to dynamically adapt to interface changes.",
-   "url": "https://huggingface.co/papers/2609.17653",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "1ccfa6a4e9",
-   "t": "industry",
-   "c": "mit",
-   "src": "MIT News",
-   "d": "2026-09-14",
-   "title": "New method enables AI for safety-critical situations",
-   "sum": "MIT researchers created HardFlow, an algorithm that enforces strict constraint adherence in generative AI for safety-critical applications.",
-   "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
-   "wp": true,
-   "mp": true,
-   "ai": true
-  },
-  {
-   "id": "66754acdaa",
-   "t": "industry",
-   "c": "mit",
-   "src": "MIT News",
-   "d": "2026-09-14",
-   "title": "MIT spinout turns plastic waste into resilient building materials",
-   "sum": "MIT spinout Atlas Building Composites is commercializing technology that converts plastic waste into structural building materials.",
-   "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "9fe82e237d",
-   "t": "industry",
-   "c": "ieee",
-   "src": "IEEE Spectrum",
-   "d": "2026-09-14",
-   "title": "Responsible AI for Higher Education",
-   "sum": "An IBM interactive webinar covers responsible AI approaches and guidance for higher education students.",
-   "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "64adcb8eec",
-   "t": "eff",
-   "c": "ieee",
-   "src": "IEEE Spectrum",
-   "d": "2026-09-14",
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "sum": "OpenAI unveiled Jalapeño, an in-house AI accelerator delivering up to 13.4 petaflops designed using its own LLMs.",
-   "url": "https://spectrum.ieee.org/llms-for-chip-design",
-   "wp": true,
-   "mp": true,
-   "ai": true
-  },
-  {
-   "id": "a603eee034",
-   "t": "industry",
-   "c": "ieee",
-   "src": "IEEE Spectrum",
-   "d": "2026-09-14",
-   "title": "Adversarial Fashion Confronts Surveillance Norms",
-   "sum": "Adversarial fashion designs are being developed to counter widespread AI surveillance and facial recognition cameras.",
-   "url": "https://spectrum.ieee.org/adversarial-fashion",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "7f64bc0aab",
-   "t": "impl",
-   "c": "ieee",
-   "src": "IEEE Spectrum",
-   "d": "2026-09-14",
-   "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
-   "sum": "Andon Labs is deploying autonomous AI agents to manage physical businesses and retail operations.",
-   "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
-   "wp": true,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "b49b47db0b",
-   "t": "gemini",
-   "c": "",
-   "src": "Google AI Blog",
-   "d": "2026-09-14",
-   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-   "sum": "Astronaut Christina Koch and Google's James Manyika discussed space exploration, technology, and discovery.",
-   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-   "wp": false,
-   "mp": false,
-   "ai": true
-  },
-  {
-   "id": "bf70dc826a",
-   "t": "gemini",
-   "c": "",
-   "src": "Google AI Blog",
-   "d": "2026-09-14",
-   "title": "DevFest is back",
-   "sum": "Google Developer Groups announced the return of the DevFest developer event series.",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-   "wp": false,
    "mp": false,
    "ai": true
   }
