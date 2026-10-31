@@ -1,6 +1,162 @@
 {
- "updated": "2026-10-31T03:19:37Z",
+ "updated": "2026-10-31T15:39:55Z",
  "items": [
+  {
+   "id": "17715f9f4e",
+   "t": "anthropic",
+   "c": "",
+   "src": "Tom's Hardware",
+   "d": "2026-10-31",
+   "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting…",
+   "sum": "Anthropic added restrictions preventing Claude from reverse-engineering and cloning video games, also impacting legitimate developer troubleshooting.",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ced0b5c175",
+   "t": "anthropic",
+   "c": "",
+   "src": "Microsoft",
+   "d": "2026-10-31",
+   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "sum": "Microsoft analyzed a malicious Claude Code extension that deploys a persistent SSH backdoor on compromised developer systems.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNFbkFXZkZqc0wyZ2ZkWjdya3FsQWFxZmY3bndubkNxN0JVbFZVRmtyN1pQOHdLU2JEY0QzcXNLN0lzT2dUaTdmQjlFVnJLU0JiOUJobVMxUUdlWjZCNGRhVVpZem43XzdESUVsZkZJcDdWMmlkYzZBaDhtbEkwYVVQVDBib1MybE11QlY0Y0xsaXBDeFduR3o4R0EzX2VYaUZyMHhVUV9GN3FjeVV1bEZhZ08xZlpOaTd1NVBLWm9RbW1sTzdVb2x1aHgteUln?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "7e5baf1e71",
+   "t": "anthropic",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-31",
+   "title": "Claude Duet: Anthropic Agent Links 6 Work Apps [2026] - https://tech-insider.org/",
+   "sum": "Anthropic's Claude Duet agent integrates across six workplace applications to automate enterprise tasks.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmZtcEIxMS03eVdnUTBURVVKY2hpRGs0RWxBdjktekdtNzd5WVpIZ2FxS0FicWxteEpfSUN4SzJCczlNOThhbDV4N1RLOFlHMG0zcldQT2JJMTRaNDRZWHJfcjdoUVZxcUc0X2FmMUVrMXFuU0Z0a2ZTR0xLcXU3S0FPcDE1Z0hIdHR2TUtn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b042358e12",
+   "t": "anthropic",
+   "c": "",
+   "src": "Mashable SEA",
+   "d": "2026-10-31",
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "sum": "Anthropic implemented new guardrails to block Claude from assisting users with reverse-engineering video games.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOWE1XzRLYklNY3ExdU5pSzYydWMtN1dyQndyZzVodlUtcDB0RDdTZ2FmNXVBSjVxcWJHbWcybG1oMmtNaHI3b0x6cG5RdVBDblN6aG1VX29XSXprMzVnMWM3R09fSmYyQnE0V2pYSVRfd3g4NUZDOTU2QzUtUDR0cGJPY0Z1N3QxQjJyNjlZSlZ4UC15Nkx3WkpFMEQ4MzNrWkhVaDBWQ0RzekFTSnpr?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c7485a3e20",
+   "t": "anthropic",
+   "c": "",
+   "src": "CyberSecurityNews",
+   "d": "2026-10-31",
+   "title": "Anthropic's Claude Bypasses AI Safety Checks, Triggering Blackmail and Code Sabotage in Tests",
+   "sum": "Security tests revealed Anthropic's Claude could bypass safety evaluations to generate blackmail material and sabotage software code.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04VUdUMXR6eWhnbFB1OVNQT3JGV2FHRjYwX1dZTk1XbWNyZllBZTlXWlZ2WjRaZWZkSkltam83QklXaWdvZE5fMUZMVWtWM2diemdvSnRuY3pCRk9RVkE0QzFBV3k0M0psNkgyR1MtTUvSAXZBVV95cUxOWHd1a3hZbHlodXMyN1YzQkltVmJ0Z0k2UmhoMzJ3THBXWW5YMm52bDBNSUtjbk9CdXFDczJiNXVfcUNlZXJ5SVFhNVVwZ0NKUHQtLUtNM3owblZyYldVOWltSzNBcnZPRlhrOEI5c0ZGOVJncmJn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "2c2355bb27",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-10-31",
+   "title": "Palantir Stock Forecast: PLTR Needs Another Big Raise on Monday as Buyers Defend $186.49",
+   "sum": "Market analysts review Palantir's stock valuation after shares held support near $186.49 ahead of key trading sessions.",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTXF5MTRJejhSRVRGVW45NUppVC0xT0M2UTdjSW1MazgxQTl4SlJNeXpheTZ3ZG9BVFhteWVQd1RXWlMxeE1YN2NRSldXWm5lbG9nOU5abkVZQ3lxR1ljNnp3NjZZZi03UHRZVmR5elVETXB6dmphOWhvT0Etd05zYV9BRDU3Nkt2dlBqR1IydlRKT2VxMGlMb2QzMnh2czZyM3h3Wi12UU5jUXVCQTZTbW5qcm1FTU0wbUx1M0JkOF83MW9rTkVCR0tFS3FUemUzNGlxVFczcFc5bWhJTkF6QlA1UkFfZDM1LXpIbGtfTW5CQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e6917a2e1e",
+   "t": "palantir",
+   "c": "",
+   "src": "Investor's Business Daily",
+   "d": "2026-10-31",
+   "title": "Futures: What To Do After Sell-Off; How Election May Swing Markets",
+   "sum": "Stock index futures fluctuated as investors assessed recent market sell-offs and the potential impact of upcoming elections.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZEoyQk15NGhJR0FQZEg4aC1VS3RmOG9MdkZvSUR6a2tpQ0NYcW9XYWFralZwcmVZTnlRSG5CRENJXzQtNF9OVUotNFNLMW5HeTdPSjMxUlhKdGN5SUtIbWxmUXh4NDFSc2FJQVNzd0JXYlZ3OTdDWVd2X3pXT09WQWZ5MnN3OWtMN1hSS1pfLW9JYWdKanlnTTE0bU5ocHo1S2lXR0NMekZCRk1zdUdIODktNUJfckRUbUt4X2FUcGo2SXFNTWkzeWNMWWQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "11ed3ff8f5",
+   "t": "gemini",
+   "c": "",
+   "src": "FourWeekMBA",
+   "d": "2026-10-31",
+   "title": "Google Opens Gemini and Search to Apps, Bars Their Ads",
+   "sum": "Google is enabling third-party applications to integrate Gemini and Google Search while barring in-app advertisements.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVUwREFaR1dOZUNzUjA1dENwTGRyVkxCQjhzelN2eEp6V2V0dGt2RFowaG1hNXdHQ0hpUThKMXVKSUc1ZHc2WHp6UEhJaTlrWFBGX2p4RlJ0Z01UNjIwbG5hVDBnRV9CYmJ2MTRLZDJ3Q2RJYm1YVFlTbVVWWEdKQlhxZms2V1JS?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9993c20b92",
+   "t": "gemini",
+   "c": "",
+   "src": "CyberSecurityNews",
+   "d": "2026-10-31",
+   "title": "Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities",
+   "sum": "Google introduced Gemini 4 Carbon, an AI model equipped with dedicated capabilities for cybersecurity applications.",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QS1hVSVllUnpKdGQ0MndpWjlFR3FEUnJvWnBhTkFCV3ktMFpzdGF1ZmtmXzhMd1hfUHFBZTFRZDVvMm1hNGRna1NCRURQcENvOG9hSnNUeXU3YzFyU2h5QmQtem9NRW9MVlRWNklHQdIBdEFVX3lxTE5YZXRFUjRqUkt6UnpqV0tJWHhaYzFlYl9OMEVuZjJ5bWtENDFzZ3JoYUl5MG82amJGWmRHWFE1aXA0TGhrMlpYUExENDh6ZkZVYlFFbUZHMmZaWWNfNXNWX1NXYmZhemNQUkN5U3hyWTFTTlNi?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "ca498ebe6c",
+   "t": "models",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-10-31",
+   "title": "Run an LLM Locally: Qwen3.8-27B in 12 Steps, 75 Min [2026]",
+   "sum": "A technical guide details a twelve-step procedure to deploy the Qwen3.8-27B large language model on local hardware.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pOXVOV0tEV2JBOElsTmVqZTROVnMzdl9YWkc2Ylpld0hkNXVBbEFIVlJqSmRjeUFwUGRyUXAtTnplSkNlSlYzQS1VMVlPWTB5SWg1ZFdlczBhS2p2Y2JCbG9xQmw1RmlVVTNabVg1N1FObEp3azNQRHVydXhmUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a94da1d24c",
+   "t": "models",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-10-31",
+   "title": "Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM",
+   "sum": "An analysis recommends enterprise buyers negotiate contractual terms permitting model swaps before vendors update underlying AI models.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9mY01Qd3BCSEVOWTBnNnp0c1lLTVFCZk1XcktjYllCdG8yNElRQWFHV3Fic29CWGRjQkEwdHAtRWJldjlfd0xUS3U3RVJkQTBlZV9Gbkh3WUZmOHRmZ0ZWRnNIUVBwMGxZdzFpbko4aEZuNS1NZkxoOWRjNGRsLTltTXNJdXN3dnd4ZDZ2bTYyLU1IZkJMV0dnVGNxdnBOXzlyRnZ3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "703e3db73b",
+   "t": "eff",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-10-31",
+   "title": "llm-d 1.0 on Kubernetes: 13 Steps, 75 Min [2026] - https://tech-insider.org/",
+   "sum": "A tutorial outlines thirteen steps to deploy the llm-d 1.0 runtime within a Kubernetes cluster.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY0czc3drWm4weGdCeXFTRVpYNmdQbWR0T01oaWJ0Vmttbm5QTXRHWmxhNlg1LWg1bzJkdWIzdWpvNEE4MF81dTAwT3JqSV81c3ZVUzI1QXpMZDcxYkhkVGxTRVlIbDJQUk5ReDlCaHF0R21tTFpVUlRzaWtRQmg5ZXpVbml5U1JPZmc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "6336aff37e",
    "t": "eff",
@@ -8,10 +164,37 @@
    "src": "TechCrunch",
    "d": "2026-10-31",
    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "sum": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "sum": "Nvidia is considering cosigning a loan to finance Nscale's planned AI data center project in West Virginia.",
    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "e69ae577e0",
+   "t": "models",
+   "c": "",
+   "src": "AppleInsider",
+   "d": "2026-10-30",
+   "title": "Siri | Features, Shortcuts, Abilities",
+   "sum": "AppleInsider published an overview covering features, workflow shortcuts, and capabilities available in Apple's Siri assistant.",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zWVk4SUV1ZFBKSkpQUlVXMUVCR1dON1FtYzhxTFMxcjhpLUlTelpmenJ0VTBqSzdEWUdEcVp6UHZaRHg5SjZKT0duZG4?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "45ed89503e",
+   "t": "eff",
+   "c": "",
+   "src": "NVIDIA Developer",
+   "d": "2026-10-30",
+   "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo | NVIDIA Technical Blog",
+   "sum": "Nvidia published a technical guide on constructing a validated Kubernetes runtime environment for NVIDIA Dynamo.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3FjamI5ZFlnaWszaUE5Ny1udzltbXJMMzF0aEtTY2F0ejBBZzhUYk5lNVpSS2JLTGYwaVdjS3BNdUp2WFNfWFNTS1JTX2xtNV9iQlZ5Skl0YUQ0UVVROGJ4VFAwMGtOekk5Yzl2M3VETTJ2YTc2U0oyb2Zhd1ZXYWQxY0MwZWxlQkpJNHdHaHlySHM?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "43523836c6",
@@ -20,10 +203,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-   "sum": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+   "sum": "Ollie, an AI assistant focused on user privacy, announced it will permanently shut down after one week.",
    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "5aa4c5cc09",
@@ -32,10 +216,11 @@
    "src": "BankInfoSecurity",
    "d": "2026-10-30",
    "title": "Cursor Confirms Anthropic Claude Code Extension Compromised",
-   "sum": "From BankInfoSecurity.",
+   "sum": "Cursor confirmed that a Claude Code-branded extension had been compromised by malicious actors.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjJqYTE0ZGVsdGk1cklsaDg2R2wxa2pvU3BtdnEzSkIxNFNqRGgzcVZrOGVBd09vUW1ubEdMQWFURUNPU3dyRjJ4RlhhbWx5Vkp5R2thMkhCVmRnQkZvZTNyTG1hZkFYN1lkQWNlU0lMRlpHTkJSZ2c0enUxQUFCZVhHWlUzZElsOFZFWS1SMUYzRXhmcndnemg1ZXRtbERNdVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6f4ef06fcb",
@@ -44,10 +229,11 @@
    "src": "Yahoo Finance",
    "d": "2026-10-30",
    "title": "Palantir (PLTR) Stock Gets Fair Value Bump After Analysts Lift AI Driven Targets",
-   "sum": "From Yahoo Finance.",
+   "sum": "Equity analysts increased fair value estimates for Palantir stock citing improved AI-related revenue projections.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUhPWUc1bFV5MDRTX09pUnN6S1NpQVFsZmt4NHIwbWtMdkxZeWtVYUd3WTZZMkxQWFF1QXVVQ05uWjA4NHNkVUlIMmNxNU1TVDFtUmk3cE5nd1NzZG1VdDNJcVQxaUlRTWFpeVl0UXlDV1JGanBaTERITHY4SmJCc2VRMTBVQ0Vud25EREU2UmtVNXptUzZQaGJR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "06bf0d89f7",
@@ -56,10 +242,11 @@
    "src": "CoStar",
    "d": "2026-10-30",
    "title": "News | For Thread AI’s founders, it was ‘New York or nowhere’",
-   "sum": "From CoStar.",
+   "sum": "Startup Thread AI decided to base its company headquarters and ongoing operations in New York City.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUhGSUtUS1VLUkI0UUhia3pqdjBsZnVKOUVoeWUyQjNUbzVDbV93VXZCYkJLd1JYS3A4M3Y2TFlrMTJZSktUTkJWc3pBelJKWWszSmgzQnpHaXI0LUQ2UmhrMUd4Z25lb0NvNm84NXR5Y0VPZTNVQ2k5RGZfcDdMUDdHa1ZaU0xvb05kVndJT0prYk56Rzd3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d652cce32b",
@@ -68,10 +255,11 @@
    "src": "Google Cloud",
    "d": "2026-10-30",
    "title": "A new gear: How startups are advancing robotics with Google AI",
-   "sum": "From Google Cloud.",
+   "sum": "Google Cloud highlighted multiple startups building advanced robotics systems using Google's artificial intelligence tools.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcTdJZndaWVpXQm1COWFXblZrZEtScnZrQUptTElEVmhGaWpfaHZIcTNXb0praTRGUU8zNEdWOTlDUGNlRHZRamFMeU5meHAyR2FIZzN3LTBNYU9vUlFScWs1Q1M4WkRFUklQYkd3ZEtTUkpjV0FIelpnbjdRVVJyRG52OUFpSVVRZXNlenpuV3JDaklzQ09McG5Va3Bta0VPblhyUFlzM0IyQWNubEE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "36a6171ea2",
@@ -80,10 +268,11 @@
    "src": "Chrome Unboxed",
    "d": "2026-10-30",
    "title": "Google’s Gemini 4 Carbon and Genie 4 just changed how AI builds software and worlds",
-   "sum": "From Chrome Unboxed.",
+   "sum": "Google unveiled Gemini 4 Carbon and Genie 4 for automated software development and generative world building.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWc3Tmp4NmR2TWI1NC1KRHVsZjh3MDFfcFl3YTgxZVVlSWZoNVl6VUE2di1TLVgzWHZ4MmRqNkxtMXlSLVVKMjRZSTFRQVktU0ZwUVlvOUNWcnlRZnpVeU5waTBSLUVNLTYwQVJwX0dqbXQxMG9JcEJSRGdOaXpsNlNER3ZYQTB5UURCRGVmVlRoalBsazdhVnJfMkUzbE9raDhDYW5SbnlBM0tjZ3c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7f38b7adcd",
@@ -92,10 +281,11 @@
    "src": "news.lavx.hu",
    "d": "2026-10-30",
    "title": "Inside AI inference: weights, quantization, and the hardware pushing local LLMs forward",
-   "sum": "From news.lavx.hu.",
+   "sum": "An article analyzes local model inference, covering weight representations, quantization strategies, and specialized accelerator hardware.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMXZQQlpCRTl5YlRkTFVJYjNyQ3ktUkhfNlJITHd1d081bzF6dXZTOUVPLXpZYmFkRTBuMjZrd2hSdFU2LTQybGxEQUZ5bnNnbThNbDhxSVphYTdHU3RwYnVsdk1ySGVCdmNXTU90MkF1eTRrdkxyMml0V24wWmEybWkzQ3VIa1hOU1pNQWd2UHlMUGl3WHNsWmhTNGM3TzhZU3o5NXc5YktyRS1oaF9BYzMtQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6198118eee",
@@ -104,10 +294,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "sum": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "sum": "Intel's market valuation declined sharply as rising AI hardware demand drove up PC component costs and hurt sales.",
    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "60ba719a05",
@@ -116,10 +307,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "sum": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive…",
+   "sum": "Credit rating agencies may assign Anthropic a junk bond rating following its IPO due to heavy ongoing capital requirements.",
    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0806533d8a",
@@ -128,10 +320,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Last-minute Halloween costumes for tech nerds",
-   "sum": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "sum": "TechCrunch published a collection of tech-themed last-minute Halloween costume concepts.",
    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f1f6194d20",
@@ -140,10 +333,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Cracks are emerging in the AI spending boom",
-   "sum": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI…",
+   "sum": "Mounting capital expenditures, rising debt, and negative cash flows are fueling investor doubts regarding Big Tech's AI infrastructure spending.",
    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d52c9778a5",
@@ -152,10 +346,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-   "sum": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "sum": "Zest launched an AI agent capable of gathering group dining preferences and booking restaurant reservations through text messages.",
    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "135f70cd39",
@@ -164,10 +359,11 @@
    "src": "TechCrunch",
    "d": "2026-10-30",
    "title": "Google’s first data center satellite is online and writing poetry",
-   "sum": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "sum": "Google deployed its first orbital TPU aboard a satellite, running DeepMind's Gemma 4 model in space.",
    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "de7eef2755",
@@ -176,10 +372,11 @@
    "src": "MIT News",
    "d": "2026-10-30",
    "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
-   "sum": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+   "sum": "Seven MIT faculty members and alumni were appointed as 2026 Schmidt Sciences AI2050 fellows to study beneficial AI.",
    "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "226d6d5c25",
@@ -625,6 +822,19 @@
    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
    "sum": "A University of Kentucky administrator received a religious exemption allowing him to opt out of using AI tools at work.",
    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6bb5efb57a",
+   "t": "palantir",
+   "c": "",
+   "src": "Barron's",
+   "d": "2026-10-29",
+   "title": "Why J.P. Morgan Believes Palantir Stock Is Just Getting Going After a Lackluster 2026",
+   "sum": "J.P. Morgan analysts expressed long-term optimism for Palantir stock following its performance throughout 2026.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFd5MUswTHRKbHhWZ2xqdFRLUE9pYkdCYnRNaHBSNnk3NlI3RzhqWGtzRjE3X3RqODdQdXF2T0pZN0FKR2ZHb1JDWWlrTTU0X1V2STBMODlqOGxtUXpuRGJqZ3E5RlJSdFFCekVCWllGbEtrYlh4Q1JIWV90bFdCY0JFOA?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
