@@ -1,6 +1,188 @@
 {
- "updated": "2026-10-31T15:39:55Z",
+ "updated": "2026-10-31T22:03:26Z",
  "items": [
+  {
+   "id": "89c6cb6d29",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-31",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "sum": "Apple's CEO defended the company's AI market position, stating Apple does not want to ship AI just for the sake of it.",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cefcb0bd24",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-31",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "sum": "The TechCrunch Founder Summit takes place November 4 in Boston, offering networking and scaling advice for startup founders.",
+   "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bc398a80a0",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-31",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "sum": "A judge allowed an NAACP lawsuit alleging xAI's data center violates the Clean Air Act to move forward.",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "344dcf7974",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-10-31",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "sum": "OpenAI has reportedly lowered the target funding amount for its latest capital raise.",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9dee3fa62c",
+   "t": "anthropic",
+   "c": "",
+   "src": "Engadget",
+   "d": "2026-10-31",
+   "title": "How To Use Claude Duet When It Rolls Out To You",
+   "sum": "Engadget published a guide explaining how to use Claude Duet as the feature rolls out to users.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84cHZlMURNNDdZcjg1STBlNU1WMHA4YmlWMFM4RzExMGx6aDYxeHR1T252MG1OVmdySXdGMERHTTAwejBrMzIycFJ4MzR2UGFFVTlRX2w3eFRBVWZNdE5BZVI0d1YxTWM?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bbfa5e2255",
+   "t": "anthropic",
+   "c": "",
+   "src": "TweakTown",
+   "d": "2026-10-31",
+   "title": "Anthropic is going after the rise of vibe-coded game ports with new Claude Code restrictions",
+   "sum": "Anthropic introduced new restrictions to Claude Code targeting the rise of vibe-coded video game ports.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDUxaGRnQTd0RDIzSlVoNUJsRnpWMmJpUjAzdWhBbVliVXZNNUd2azZLZGRIRHYzclcxUTZqanZqdFIyenpZZFNQa010TmVUeTFGQkU3dXE1X05mTFlXb3VyU1cyMl8wWkFFUDlPUUtCajRzTXpXN19IM182WkJfRmJLSkRQUmtHaHZOcnE2bWpTZkVrRGlMWlUySXkySG9zck5DWldWX2l6cXNreXZhR0c0bHAxQkRxWFBuTHFhaFdOZFh0elVmd3pQVE02VXNQdHZVNFQtMFc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b0ea1cf1f2",
+   "t": "anthropic",
+   "c": "",
+   "src": "the-decoder.com",
+   "d": "2026-10-31",
+   "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models - the-decoder.com",
+   "sum": "Anthropic's newly deployed watermark system leaves a loophole on two older Claude models.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWRRVDc2NW4xb3Vod21YR3hORTRGNjlONHFUc3ozSWx0SGZ2ZnpGd1NoUnRXSFlXcUoxOUZEcXJHVkhQVHc1ei01VHpaMWJXZUJZVEFjTXpoVm5oMnlaOW9KZ3BPQXBBMzVRaEVva3p3eFMteHFjdnltQmozZnZqNXFDTVVRME9ONXZ5YXdCRDV5U2FiTzFmRmtKa2c3ams?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a708a5d819",
+   "t": "palantir",
+   "c": "",
+   "src": "BigGo Finance",
+   "d": "2026-10-31",
+   "title": "AI Worries Meet Midterms: Wall Street Braces for Election, Jobs Report and Big Tech Earnings",
+   "sum": "Financial markets are monitoring upcoming elections, employment figures, and Big Tech earnings amid broader AI concerns.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQlIxanJaeDY4V3pxVEVPR1JwZl85VUM2MXBMenBYcXZTZTh6eVFhWHlQLXdhYUpHTzJUU2dVNE5QTTJfczVjMXhOSW9lcTNEdUs1UDhpNVVvX3NjeUl6cUZldFY3N09BejU4aDZqdnk1cWtpMFE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b87d79849e",
+   "t": "gemini",
+   "c": "",
+   "src": "Mashable",
+   "d": "2026-10-31",
+   "title": "Google Gemini upgrades are rolling out to all supported Android devices",
+   "sum": "Google has started rolling out Gemini upgrades to all supported Android devices.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aZmpsX1l3LWo0WW96eWRjTktJeWVlZkVGbjQtXzc4UFJSZlhnQnJ4VEhaeU1scWszbnQyZldoaEkwNmZ5T2xtR3FqcVFKRGxRWEZBX05EWmJmTHNfQ3hQM2s3bkFRMDZBa0tuOXdTSzYyU1JMdmc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "dd574bd3a6",
+   "t": "gemini",
+   "c": "",
+   "src": "MakeUseOf",
+   "d": "2026-10-31",
+   "title": "Google says Gemini 4 Argon is the best coder alive, so I put it up against Claude Opus 5.5",
+   "sum": "MakeUseOf tested Google's Gemini 4 Argon against Claude Opus 5.5 to compare coding capabilities.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanZvU21ubnJYUEtpR1JYZjVyclM1SmNGU3p6cnVyMjlJaHgwWEFiWWNET1BLdHJGREVXenR3dGxkbG9wS1h6THhwQ0MwaV9UcDNTMTZIUV85dEdENjlTdVJWa0R1YVB2bE5oNndzdDBUaVJJaDZDR2lVd2JwaHhCNnYxckhKMHFQSHZB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "787b9e8cb2",
+   "t": "gemini",
+   "c": "",
+   "src": "Thurrott.com",
+   "d": "2026-10-31",
+   "title": "Google Gemini Now Lets Users Edit AI-Generated Files Right From the Chat Window",
+   "sum": "Google Gemini now allows users to edit AI-generated files directly inside the chat interface.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNTJjMm02UTZPNk8xUlozUkVrdFNHTlliUlhfWE90UEd5YTc5TFFVUzQxZkNlZjktRmhmTlo5Zi1KMVJXOW9TRWNhOUE0U3hSQzA3LWN6QzdjalJVcDI5R3lIemxiUFJvVGpOYmEyUmkzTld4MjFXQVhvOGZUelRQQVgyQ0dkV0FWeG9teWFGV3FITEZTTDRRWUJ1OHZraFJ2VlE5QzhObXB1d0k4d0dhX18xQUh0UQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cf5e5efabf",
+   "t": "gemini",
+   "c": "",
+   "src": "Substack",
+   "d": "2026-10-31",
+   "title": "AI Week in Review 26.10.31",
+   "sum": "A Substack post summarizes weekly developments across the artificial intelligence sector.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGbjFEcWFkdk85YXY3Rng4RGpiMDJkQjY4MUN2MW15cHFodTZlNEFYT1BJb0FEekFfY2pva2o0RHpnS1JrRFFMU0ZqN1hxZEVuZTh2Y1d6d0FDMkZtLXF3WnZjSUNnaFhRZDctUXN3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "50afb333b2",
+   "t": "gemini",
+   "c": "",
+   "src": "gHacks",
+   "d": "2026-10-31",
+   "title": "Google Launches Gemini 4 Carbon for Cyber Defenders First, With API Pricing From $2 per Million Tokens",
+   "sum": "Google released Gemini 4 Carbon for cyber defense, offering API pricing starting at $2 per million tokens.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXl3OUhZU1hBZTRJa2E5MmtLalhDcEtUSW1DY2R4NVpHRTJNeWdSWkFLcHplRFpZVFJSU09xdTgtWXZGa2Z4SExTTmd6MlZXMkNsTW50d3FlQ1NhdmxiaTBXNG9oZGFRUlVJUFZ4TFdONTJ1YmFOR2F1RlFFRTl1MTlxVlhsZV84T2xfY0IzMjNSOXBoMXZmNE14OTJxWFpHbUNLWFFKWUNmTTROUGhOQWVENHJQbVFqOXVHazdyMVJmSDFpOVNiN1JOYmQ0VVhX?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "a2cc7ca344",
+   "t": "models",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-10-31",
+   "title": "Unsloth shrinks a 748 billion parameter coding model to fit a workstation",
+   "sum": "Unsloth compressed a 748-billion-parameter coding model to run locally on a single workstation.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0IteUx6UTRQTS1OMGIzcmZNNEFCN0dNRWpSd0l1NTIySTl6OUdzMmtYZnZJWFNXamFJWTc5WFZld3R0TVB6VWJEbXJIQi0zREhkdkZ0R1MxbUp1REF5bDg0aTI5aWk4RU1YQVhNazZlZ1ptRFpQRG1CemRMdGVmblV2b012TTRMRG9vYmFnaGdqbnhLWTVXN0E1VEFTc3dQTFNn?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
   {
    "id": "17715f9f4e",
    "t": "anthropic",
@@ -168,6 +350,19 @@
    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
    "wp": true,
    "mp": true,
+   "ai": true
+  },
+  {
+   "id": "a91261024f",
+   "t": "eff",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-10-30",
+   "title": "DoorDash Cuts Grocery Reorder Latency to 2 Seconds Using AI Agents",
+   "sum": "DoorDash reduced grocery reorder latency to two seconds by implementing AI agents.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzVXaUpLMlptdkIydk1sU1JUOU9MTjVoM2JObnZGaXhrNmc4alBtWDJkNDk5aHpBOHNaLUlFZGI3Qng5cTdobDRGOHJIbmZQc2tlc1VVdk9heVByN3Z5cE83SHJ0Y295OTRIUzFpalplQmxwUmN0TEFoQTRHMERxbEd4Z09EeXZLNkVnMGt6eUN1WWdaWE9NQ0VtRQ?oc=5",
+   "wp": false,
+   "mp": false,
    "ai": true
   },
   {
@@ -385,10 +580,11 @@
    "src": "MIT News",
    "d": "2026-10-30",
    "title": "Q&A: Hey AI, who should I vote for this year?",
-   "sum": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
+   "sum": "MIT researchers launched a project tracking how AI chatbots answer voter queries about the 2026 U.S. midterm elections.",
    "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b2263e9f84",
@@ -397,10 +593,11 @@
    "src": "Hugging Face",
    "d": "2026-10-30",
    "title": "nemotron-halloween",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face published a new repository entry titled nemotron-halloween.",
    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3a9a06a313",
@@ -409,10 +606,11 @@
    "src": "WIRED",
    "d": "2026-10-30",
    "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-   "sum": "From WIRED.",
+   "sum": "A software supply chain attack distributed malicious Anthropic Claude extensions to thousands of devices.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ25XT1VwZ0xkZDJHT014UWlQbFAwaXFrUGxSaG9EY3BidHd2b3VsN2lzTm1jSjd0VGR5dmFqNnhHR2ZxMDR4RFd1QjVUVE80eFpUX2NqeGVaZGxmdXZ4RGdnNUIwU1JSUmpWdGFaY3ZXaXR2VmRUaFN5QnJKT0wzakdtTWY2b0kwZGlKLVpiU25NSkRwT1JXbDFwbV95NVhW?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "b57cab4f6d",
@@ -421,10 +619,11 @@
    "src": "The New Stack",
    "d": "2026-10-30",
    "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
-   "sum": "From The New Stack.",
+   "sum": "Anthropic removed a major usage limit on Claude for a subset of its users.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2WWg2bVhLZjRZVDBxMExxSjVlY1U4ZGJyVFlxT0xNTXhxd1prSlZYV2JsQlM5NzBnLWVPcjExQlVjRV9lY3Q1VUJGVEJKX0lMZ000RUJlR25QZllZeGNr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "62c2eea9ff",
@@ -433,10 +632,11 @@
    "src": "Game Developer",
    "d": "2026-10-30",
    "title": "Anthropic orders AI tool Claude to stop remaking video games",
-   "sum": "From Game Developer.",
+   "sum": "Anthropic implemented rules directing its Claude AI tool to stop remaking video games.",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e120c9a627",
@@ -445,10 +645,11 @@
    "src": "DoublePulsar",
    "d": "2026-10-30",
    "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide",
-   "sum": "From DoublePulsar.",
+   "sum": "A report states attackers compromised Anthropic systems to distribute remote access trojans to developer laptops.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlhhemJJUy1zRzV1V3BYQnZVOEsxR3JDbzF5eUVTNzg3Q180OWxaTFV5alZVNUpHWGdvVWVabEE5OTVmV1dyTjJSTnI1cGctc2VCcldCYzRaMFhfMlpWSE1fTzN5WXh6STNaNDl0TXV1RS1KaW9LTDJaenNfSHo1WG1TLUY4WEJDUmhMRE5OTUR6Z2QwTmMtZTBvYkJHZkpkakRHQThIamxlcDRWQ0U1R3l3TnNvYlJlaktTeWRHVXYwUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b676f18f69",
@@ -457,10 +658,11 @@
    "src": "The Register",
    "d": "2026-10-30",
    "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
-   "sum": "From The Register.",
+   "sum": "Anthropic contested claims that it was responsible for a compromised Claude Code extension.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2FaNjdkR0JjU3Itc3RRakQ1UkdSLXdnZG1KVUhhSFdZRERLU2QwVFliWmNMXzdhMHJBMGZKWHlURWJNZ0MwTnA3YnI3VjV2UWNwYmJJYTdCMUIwYUhrbWdwaDMxNDlaMms3eVNfYWJVb3dJbzAtLWFRaE5GQ2JqQ0JxLWJzcEd2Z3FMdklvWWg3aXhka2V5U01ZeEE0MEhTVFRsRkphOFV5VjdGdnNFenR2OEpLMnlMcEROVA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "731e60d030",
@@ -469,10 +671,11 @@
    "src": "Investor's Business Daily",
    "d": "2026-10-30",
    "title": "Palantir Stock Tests Key Level As Earnings Loom",
-   "sum": "From Investor's Business Daily.",
+   "sum": "Palantir stock is testing a key technical price level ahead of its upcoming earnings report.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZWGpUQ2Q5NlIwZ29wcWMwMG1uVV8xcGxqUDQzbmE4M2tNTmRDSDVMc0ZEUUFnLWlJUFBmZW1RSURoc1Ywd0ZRRG1PNGc1WnJJTmVIZGE5M3RmY3BrMS1MbU55VWlpWnVsWVp3SzF3bFY0c1pz?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "51676946bc",
@@ -481,10 +684,11 @@
    "src": "TradingView",
    "d": "2026-10-30",
    "title": "Will Top-Line Improvement Benefit Palantir in Q3 Earnings?",
-   "sum": "From TradingView.",
+   "sum": "TradingView analyzed whether top-line improvements will benefit Palantir in its third-quarter financial results.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFViOFhQNG5EOEFtVVp0eHp0MFlfLXRzM25hYW8zQWRmQUJJSG1SdXdJR0s1dWF4TUR5dXdwQjRtWHVaZXJROGd1NlMxLXRXSkYybnp6S0xnam1Ea2RoTTJLUURQbk1BMllKazFaczNyMC0yVFRkbXN1VjNyczFKY0tBU1lkUl9fLUhZWExkRlJETXhLbXd1RHpGTmk0b2hYdEZQckFwQWxFT3RBQ2MwNkw4RQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "05b4e9139e",
@@ -493,10 +697,11 @@
    "src": "Reuters",
    "d": "2026-10-30",
    "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning",
-   "sum": "From Reuters.",
+   "sum": "A Reuters commentary examines the current and future integration of AI technologies in U.S. military warfare.",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "228289e9cd",
@@ -505,10 +710,11 @@
    "src": "Android Police",
    "d": "2026-10-30",
    "title": "Google's cheapest Gemini plan is losing a major perk; now I can't recommend it to anyone",
-   "sum": "From Android Police.",
+   "sum": "Google is removing a key feature perk from its lowest-cost Gemini subscription tier.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXl3RXVBcVh5dkZmNkdRdXQyaE41ZW1ISkpEVDE1WmxqbHpYZkNnSTlobkxtbXI5aXhpT0lGeTZ4R0txN3Y4ZWNhSC1QdTNETlpfQ0w1Zk5yVFZBS3BucWdDYU40ZjljN18zbFdSN3FSZUVTLTZUYmFYUl9vYktVdl9zMlJWcHRuU2hxTkplWXoyc01qQ01B?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b73ea1242e",
@@ -517,10 +723,11 @@
    "src": "Google Cloud",
    "d": "2026-10-30",
    "title": "What’s new in AI infrastructure and orchestration in October",
-   "sum": "From Google Cloud.",
+   "sum": "Google Cloud outlined its October updates covering AI infrastructure and orchestration tools.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEJLWXRCYmZVWWdnRnoyMUh4dWktaWJEV1NJenBuRTNfMWQyd1RXTkx0V0wycnJFbmxxNHFnZFBsWFZKdl9SN1dXUjFTbVJ4Q1VYbjZCM0ZPMWNDcmRoM3R3ZmZNTUt4TE9vdHpEQTZFSF9oUXg5aXVZWEZhTGVJeURWOXBJaHF4MzE0N21TMW0tZmNTTUtXT19MUl8?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1f06f05410",
@@ -529,10 +736,11 @@
    "src": "AI Business",
    "d": "2026-10-30",
    "title": "Gemini Carbon aims to boost AI cyber defense, but is limited to a few",
-   "sum": "From AI Business.",
+   "sum": "Google's Gemini Carbon aims to support cyber defense workflows, though access is currently restricted to select users.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkh0SzlRYk0zVEg3My1LbG9qWnBBZVJvLXlsSlp0Q2lNaDUxZVE4RzBqOEJPWE9scXJ4MTEwYm1NTEQ3Rk4yWURzSXdqNFQyYk1uY3VJQmRMUGJmZ1EtZXI3NC1uNGtxYUs5NVlOSll4QzF1c2t4QzVuZXQ4T21FbHFKcElYcFJyeDNVd0ZOaTUwRThFNHBfdzRJaU5NaklX?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8cb2db80dc",
@@ -736,10 +944,11 @@
    "src": "Seeking Alpha",
    "d": "2026-10-30",
    "title": "Palantir heads into Q3 earnings with strong demand signals, but valuation concerns persist (PLTR:NASDAQ)",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha noted strong demand signals alongside persistent valuation concerns for Palantir ahead of Q3 earnings.",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3lRYjZxbDJhSjhuSTFPM3VuTS11cnZad29nUGpUZnBVQm5LcmxycFNPTS0yOFVaV1ZIWjFqQnNPWllidkpfbUVzQUxBSzZMTm9DZUJfNnc4YU9VSmZYWkdkR1lXZ3R1NVdHVkN4RHFuMkhtblpuUC14VXN6SVRYWmpoWTRMODEzcFV0dk50MlV6amlteGNVNGFRRy1CNld6ai1SY1BUdUJhU19kcU00X3FlM0R2al9GNnNEWnFJRkI4dTRqdHc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8addf1a42f",
@@ -748,10 +957,11 @@
    "src": "AOL.com",
    "d": "2026-10-30",
    "title": "Should You Buy Palantir Stock Before Nov. 2?",
-   "sum": "From AOL.com.",
+   "sum": "An AOL article evaluates whether investors should buy Palantir stock ahead of November 2.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XTHBXVTFyRmgzTUF2Z3dZX0NObUR1QWoza0tjZUJoX0FLUS0xTmJIQ2J4Q0hKaS1pQVZURFN4cjQxQUZQMWtBWmw1NFZfSHA1eEpzeWNSbENmTXd4NEZFSi1YUUxpdTAzb25BTVhNZWc5R2x2MDdB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ef2105c3db",
