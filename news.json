@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-06T17:06:26Z",
+ "updated": "2026-11-06T23:36:15Z",
  "items": [
+  {
+   "id": "314bd08978",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-06",
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "sum": "OpenAI has reportedly raised an additional $11 billion in an unclosed funding round valuing the company at $1.25 trillion.",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "4758b3e084",
+   "t": "papers",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-06",
+   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+   "sum": "Security researchers identified hundreds of internet-exposed servers hosting the Artex AI penetration testing tool, granting open access.",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "46e88a02e0",
+   "t": "impl",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-06",
+   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "sum": "Meta introduced Spaces as a new interface for users to collaborate with its Muse AI agents.",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8604446381",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-06",
+   "title": "How a Blue Wave midterm might reshape the AI industry",
+   "sum": "TechCrunch analyzes how Democratic midterm election victories and local ballot measures could influence data center development and AI policy.",
+   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ead671d258",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-06",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "sum": "TechCrunch examines the potential policy, regulatory, and infrastructure challenges facing the AI industry following recent U.S. midterm elections.",
+   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ba5f1cdb14",
+   "t": "industry",
+   "c": "mit",
+   "src": "MIT News",
+   "d": "2026-11-06",
+   "title": "How to predict the behavior of molecules from scant data",
+   "sum": "MIT researchers developed CheMeleon, a machine learning method to predict molecular properties for drug discovery using limited experimental data.",
+   "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1894b8f52b",
+   "t": "anthropic",
+   "c": "",
+   "src": "Anthropic",
+   "d": "2026-11-06",
+   "title": "Project EVE: Claude plays MMORPGs",
+   "sum": "Anthropic introduced Project EVE, an initiative investigating Claude's ability to play massively multiplayer online role-playing games.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "21fb01314a",
+   "t": "anthropic",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-11-06",
+   "title": "Anthropic’s Claude Can Now Read Your Bank Accounts",
+   "sum": "Anthropic updated Claude with the capability to access and read users' personal bank account data.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgyS0t1LW4xMndzblFOYmpYb2tmM0l3SUpfV1poZWV5VF9DQU5hcHk0NmpCWk5MdEZqWDFSVnlQMk1WcExKWWR2M05sa3lnYmMyWUVtLUJjcHR5TFdBampXTHEtU29OSWhVZklOblpqR3l5dHhJRzNITlUyeEVlZkh3anV4TGtsWTFzc1U2Q3hLY3ZqaU9WdUNn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4fb993952c",
+   "t": "anthropic",
+   "c": "",
+   "src": "PYMNTS.com",
+   "d": "2026-11-06",
+   "title": "Anthropic Launches Claude Personal Finance Ahead of Nasdaq Listing",
+   "sum": "Anthropic launched Claude Personal Finance as the company prepares for an anticipated Nasdaq listing.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGVPOGo1UDd1TUxtU3AybjA3MXhXeWJmU0lkNndvc29oeTBpTWFJTnJJR3ZWSXlPak9rQUVSM2ZsbEFVUGlEdjMxMm5VbEtSdWprb3liSkp3dFFSdnJXMVBoM1dyQTJZNDZMMTc3UmgxVTFiUHpEcEJubVNUYTZlOGVFMkRNdGh1b3VuX3F5ekJwSGdFV21GNWFHVFRlZDIzdkRUZnhfdVhRa25ZZXRPWG02S0FXSURhbjBYMUZTekRVZw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "effceee662",
+   "t": "anthropic",
+   "c": "",
+   "src": "Rowan Today",
+   "d": "2026-11-06",
+   "title": "CEO of South Jersey’s largest data center and Anthropic’s Claude to headline Rowan’s artificial intelligence conference, Nov. 10",
+   "sum": "Rowan University scheduled an AI conference featuring the CEO of South Jersey's largest data center alongside Anthropic's Claude.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjJYdWZDWUJvTG5aZElOMS1yU25aZW56Tll5cFk2ZUJBZTJpeFVYbUYtd0JXSHROek5MUTh4eTFCRTNWd3g0MmJXbVA0LTNEbGpmQlY3Vktmc2FaZzRIQjdUelh5MlNXeVk5Vm91bEV2QjhRcmlWQW84VGU4cWFwdXg4T0ZjNlJoQ0JkcmRWLS1Xa2dTc0JReTJnUEVnUzFackE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "abdf877d52",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Jerusalem Post",
+   "d": "2026-11-06",
+   "title": "Anthropic IPO faces valuation cut after $2.5 trillion rout",
+   "sum": "Anthropic faces potential valuation cuts ahead of its IPO following a broader two-point-five trillion dollar tech market decline.",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NS1ZKZWVnV2xSUUVac1lMOTFXM0FGV3Italp4c2FPM0tLYkNsRUNFSm1KelE5REljckhRVTlHbjVQOVBOWS1Wa2U5dHppTkJ2NEt2cmx3OHZkSTN0ZGZUbzNJZElkYXB0SG03YQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6df25cd73c",
+   "t": "anthropic",
+   "c": "",
+   "src": "CyberSecurityNews",
+   "d": "2026-11-06",
+   "title": "Anthropic's Claude Code Reportedly Leaks User Email Addresses Through HTTP User-Agent Headers",
+   "sum": "Anthropic's Claude Code reportedly exposes user email addresses by transmitting them through HTTP User-Agent headers.",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCSU9YMTU4eXZjZ2lISEd1OXNMSXVOb0JESS1WZE5VaWlBUV9hUzA2RmtrX1BjSG9KemFhLXkwUEhQdVAwQUtRdmxhVnh1aUhUNkltM3Q1U196WTZIVGd5X2w0Q2UxNWlWN25V0gFwQVVfeXFMUEVId1RlTy1yTTdyT0VPVUhhVkMyQ0V2UWZ4TjFKMXB3SDdDNXNjeGhRNjFoODl1M3B4TEQ2dVVFV244TzF6d3pYdjJPTjlWcFZWSE80eC0xUU5nMFZrUjgtZ0E0ZnRaaWdLT293RlJaZA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "42afb8e963",
+   "t": "palantir",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-11-06",
+   "title": "Palantir Technologies Inc. (PLTR) Delivered Explosive AI Growth: Is the Stock Still Worth Watching?",
+   "sum": "Yahoo Finance assesses Palantir Technologies' market prospects following strong quarterly revenue growth driven by artificial intelligence.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVdiUmo2b3hQdGxRSC1FbGtINFc1N0phRjRnRzdUTU9PUEs4ZzhISVVGT3NkU2NqVXB2clUyaFNYR1V3bGlCTFFSTTVvcHpHY2dFZDJZY2MtODRoYWxWVUtkTS1TNG1taUxmNTUzYU5odlowRzNWdXZxcWJnTmRGZ192RVlvY1JtVmtqZUpUREZ1SDhBdDQ0OHp5aUd6d3VnUEN4OWxIX2k?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "48d9a96a08",
+   "t": "palantir",
+   "c": "",
+   "src": "Beinsure",
+   "d": "2026-11-06",
+   "title": "Palantir Technologies Q3 revenue surges 96% to $2.31 bn as US commercial grows",
+   "sum": "Palantir Technologies reported a 96 percent increase in third-quarter revenue to $2.31 billion, led by U.S. commercial expansion.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GaFlIMlhSSmM4V3oxdE5OZ1RTWkxuX05vSmZTVFphcUxxUVVKeFZUN2lqRy11engzSGFyRjBkZllfb2FhLWo3bTc2akRHTXk0b2NfTWtGVzRaZmdIQTFNczduZmR6WU95RnBQb1RBQ0Vjd0ZZR0pTRnlhUWlrUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e269233778",
+   "t": "palantir",
+   "c": "",
+   "src": "The Globe and Mail",
+   "d": "2026-11-06",
+   "title": "The Biggest Takeaway From Palantir Technologies’ Latest Quarterly Report Is a Potential Warning Sign Investors Shouldn’t Miss",
+   "sum": "The Globe and Mail highlights key investor risks following Palantir Technologies' latest quarterly financial results.",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRENxcjFQNFBJMVpZY0J3eFFHb1NKSGxJU080Q3IzRkstU05KTnhUSXphVjBYd1B4b05uT3YwdkNaeU8yT0p6Z2pkeUtOTWpmdkpTOTN0NzJORjBCdFVlMkNVS0hxX3pUQ2tyYkU0ZXBfUG95RFloQnlmU0lCTGNJM1BCMy1pUVVNaEw2bDZab204TmVEMWV6UEY0b3JJT2tvTi1yT0lnT2pGNHZ1Z25vb2RwT1NUUkJYZVpPMmw1azdrWC14SFBUSW1mN09jNnJVOHNUY3U4ZG1JQnd0RFJZcks2a3ItYjNkR2RORE9DRm1YN0tvcnh4MmJLM20wemtMTm41cDhxRVZIalNGaHFFNFBsUlhXZ2tnUGFNdEQwQWwzQVdrNUM4dG5IdVFjVW10N0E?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "5934ae540f",
+   "t": "models",
+   "c": "",
+   "src": "EurekAlert!",
+   "d": "2026-11-06",
+   "title": "Can LLMs help judge how intelligently autonomous vehicles behave in traffic?",
+   "sum": "A study investigates whether large language models can reliably evaluate the traffic behavior and decision-making of autonomous vehicles.",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LVl9ud1NBNnRkR0RBVU5uZkpYTnFRZ21fNXJDYWQzRVV1Yi13RWVWdXRZNHMxbFVCNU5mWFp0endIMVFPM3VJcUVkbExuTl9UV0VvMUt3NWpQNmEy?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "d275be2a12",
    "t": "anthropic",
@@ -8,10 +216,11 @@
    "src": "TechCrunch",
    "d": "2026-11-06",
    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "sum": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+   "sum": "Ramp data indicates enterprise spending on AI has plateaued amid price cuts and tighter cost management despite rising usage.",
    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "ab4846bbc5",
@@ -20,10 +229,11 @@
    "src": "TechCrunch",
    "d": "2026-11-06",
    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-   "sum": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+   "sum": "Amazon is launching a feature enabling millions of users to text Alexa for shopping assistance.",
    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fbf575ba8c",
@@ -32,10 +242,11 @@
    "src": "TechCrunch",
    "d": "2026-11-06",
    "title": "Underdog shows off a 32MB speech model in new demo",
-   "sum": "Despite its small size, Underdog's new model can generate both speech and music.",
+   "sum": "Underdog demonstrated a compact 32-megabyte model capable of generating both speech audio and music.",
    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f3bfec2868",
@@ -44,10 +255,11 @@
    "src": "TechCrunch",
    "d": "2026-11-06",
    "title": "Physicl raises $10M to make the digital world real enough for robots",
-   "sum": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+   "sum": "Robotics startup Physicl raised $10 million to address the sim-to-real gap using an e-commerce digital pipeline.",
    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9889510bec",
@@ -56,10 +268,11 @@
    "src": "TechCrunch",
    "d": "2026-11-06",
    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-   "sum": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "sum": "Palo Alto Networks is reportedly in discussions to acquire AI agent security startup Clutch for $500 million.",
    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c60e39ad41",
@@ -68,10 +281,11 @@
    "src": "vLLM Blog",
    "d": "2026-11-06",
    "title": "Zero Mismatch, Simple Async RL: REINFORCE Zero, DeepSeek-V4.1 and Kimi K3.1",
-   "sum": "Asynchronous RL trains on stale weights. Align rollout and training kernels bit for bit, and unclipped importance sampling corrects that lag. Plus zero-mismatch RL for DeepSeek-V4.1-Flash,…",
+   "sum": "vLLM introduced REINFORCE Zero, an asynchronous reinforcement learning approach that eliminates kernel mismatches and training lag.",
    "url": "https://vllm.ai/blog/2026-11-06-zero-mismatch-async-rl",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "be1ba71e55",
@@ -80,10 +294,11 @@
    "src": "Hugging Face",
    "d": "2026-11-06",
    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face introduced ToyBlocks, a controlled simulation environment for training and evaluating robot learning systems.",
    "url": "https://huggingface.co/blog/allenai/toyblocks",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "82196d4ece",
@@ -92,10 +307,11 @@
    "src": "Hugging Face",
    "d": "2026-11-06",
    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face added Egyptian and Nigerian English evaluation benchmarks to its Open ASR Leaderboard.",
    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0a3e389a2f",
@@ -104,10 +320,11 @@
    "src": "Bloomberg.com",
    "d": "2026-11-06",
    "title": "Strategist Who Warned Before Rout Sees Anthropic as Bigger Risk",
-   "sum": "From Bloomberg.com.",
+   "sum": "A market strategist warned that Anthropic's valuation represents a major market risk following recent tech selloffs.",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHIycEZRSkJsN281eURCTG5nSGdPaXAzZzhfWHNLRU5pb2Z5MzZBRlNtMFVyRkVJa0RuMk9SeExIdndfZkxuQ1BSbG01UnlGbDdpVjdiVmJEM3U1cHJ2V285dkhHanNEczJ4QVJqUk1sVXdXZXJObFFSMjNxYXNySWpYZVNNQXU4dmhzNXk1dW5FaHU2WXJyak82emlxdWh3RTd6UlU2NDhhclJEMkpINk5UWmg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f6c57ac802",
@@ -300,6 +517,19 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZW1fTy1pSHRRR1BhSzdRMnNMeG1wVlJkQTJzeUlJcXVxd1dCQm5lTkRmZWhGUl9sTDgxd2JjX2FYYUJseEdOTUVLTTRkUEk2UGc1N3lMVW9MQ0ZUR3pQd2Z6YWhnM2I1SGU0cHUtRnd1VnV6LUxzcjFxaUxTVktwMg?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "82187dd683",
+   "t": "eff",
+   "c": "",
+   "src": "Pasquale Pillitteri",
+   "d": "2026-11-05",
+   "title": "Bleeding Llama: Malicious GGUF Drains Your Local LLM Memory",
+   "sum": "Security research details Bleeding Llama, a vulnerability where malicious GGUF files drain local large language model memory.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXA5UlZncHR5U1NDUTBHRmlDbVJ5eTNOMmhKblkyYm5zQVBDUVRIaUF4NzhLRlg5OWduVHVQVXpyQ1dPX0ZEOXdrTlUwQVZKQkxUQUdSME1wWGFrUG1zbEtiRlpudTFTMDl3NG02R0NiZ0RVa3ZtWHNHam1WNjN5TWhjb21oRmc4ZVZlSE9zMHF4SzdTcl9rcnJn?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6d0b2e187b",
@@ -1189,6 +1419,32 @@
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMm5UaTVQd0ozVEljZk1QOG1abUNzWXZHSFh6emVJcTRRUWEzWS12dWFIaXU1cTBtU21PNnhLSHNXZEZrdnlmTllaNTlWNF8wMHdYUk92TGFUbm0xc2hRaWpSeUJtUFRfQ0ZqcV83VFpFWVJsYUNMSmxxRkYzdFNGdVhOM1cwNHM5VVVwOUZUMnJ2Y05uZi1xYnc3UzNBOVE4aTJaeUY1TUZKaTE4dVlUaWZxUmliR0p3V2Q2M1dZQWR4d1h3d0p5UjZqZ3pDd19sN2hfdm1TOUxCU3hFLUhUUWJubm1mTUtfZG4tc2lrSURmWS05Y3RxVm13TWNDVE9rRlhESFVn?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "f58ad39bd6",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-11-04",
+   "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+   "sum": "Researchers analyze security vulnerabilities between signed text and precomputed embedding vectors in offline retrieval-augmented generation on edge devices.",
+   "url": "https://huggingface.co/papers/2611.06498",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ba9e58c719",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-11-04",
+   "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+   "sum": "SwarmEvolve employs latent agent swarms within evolutionary search to iteratively discover and optimize algorithmic programs for computational problems.",
+   "url": "https://huggingface.co/papers/2611.08483",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7b53ba42da",
@@ -2837,6 +3093,19 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ld1RmX2w2cjBGS2JFUF9oQU01dmR0ckszLXVZT2xES2lGVURNOTQ3Q3dUM2l6VVcyUVVDQ3AtZ2libEtkd25Hb2pYZ2RHQ0pLTjJUT1NxM0ZtSzZWTzZFR0p3aVRZOVZOMVlwV0JXdGFfdw?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "1b4fd614e6",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-11-02",
+   "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+   "sum": "StepX-OPD introduces multi-teacher on-policy distillation to compress capable text-to-image diffusion models into few-step samplers.",
+   "url": "https://huggingface.co/papers/2611.04386",
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fce606d1c0",
@@ -8745,6 +9014,19 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDRVQnM2UVZ6aTBDcHphRmtlZzlRejBHQ05NNF92M09lcUFyTmFjUXNCN20xSzhCZ0dCa1NCeHh0ajZfdGxEbXZvMWc1VWhsZldjakNaaThHSmdOZXU2YV9NM3VpTmpzMzl6MEpIZ1FOczl0cFlKV1F3cHdvLWxxb3Q4NEtDRXowNWJNcFRQTGVGUjhW?oc=5",
    "wp": true,
    "mp": false
+  },
+  {
+   "id": "b7d2996dc9",
+   "t": "papers",
+   "c": "",
+   "src": "HF Papers",
+   "d": "2026-10-26",
+   "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+   "sum": "OpenFrontiers provides a benchmark and collection of open research problems to evaluate large language models on scientific rediscovery.",
+   "url": "https://huggingface.co/papers/2610.37739",
+   "wp": false,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0fa4d4e05b",
