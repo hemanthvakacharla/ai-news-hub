@@ -1,6 +1,123 @@
 {
- "updated": "2026-11-07T03:45:40Z",
+ "updated": "2026-11-07T15:58:53Z",
  "items": [
+  {
+   "id": "0c49172734",
+   "t": "anthropic",
+   "c": "",
+   "src": "Yahoo Finance",
+   "d": "2026-11-07",
+   "title": "Anthropic's Claude Can Now Link Bank Accounts and Analyze Transactions But Won't Offer Investment Advice",
+   "sum": "Anthropic enabled Claude to link bank accounts and analyze financial transactions, though it does not provide investment advice.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWtHTk1YYll3THp6bDdfZHRickJwTWtPcGpmZ0I2c3hhZ0g3MVFMbGxCaUxIYlp2Y2FMN0FfNWI0bXRPelZmX2l4dWUxRUR5cmV6eU44SWVuTG5xRlVlc2ZkbmNDRHU2VVhWNnhLRWZlQWJ4WUYwc0ttYmxmU2NwSjZFZ01rcVViak9iQXNWLTd3ZGlxZndiNEFrZGhvc25j?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "091c8877e4",
+   "t": "anthropic",
+   "c": "",
+   "src": "Courthouse News",
+   "d": "2026-11-07",
+   "title": "Anthropic must face claims its Claude Max pitch misled users",
+   "sum": "Anthropic must face legal claims alleging its Claude Max pitch misled consumers.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVRmUWVLWlVpRHdBa0xvdndPZ3EtZjRKd0RCUmREd1BqcTFmcS1NdDZPQzFWR29oQnJiOUtYXy1NSFZiaUs2em1qS0d0b0lCYnlWMmMzT2xCUThCNGJNeG5zdl9FZU5vNFdPYnZvZExObmhRN19vUlU4ZlU5Y1BPaW5BWVRWN0RqVGplSTJiZjJFMEdyT2c?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "caf615d2c5",
+   "t": "anthropic",
+   "c": "",
+   "src": "ABC News - Breaking News, Latest News…",
+   "d": "2026-11-07",
+   "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News",
+   "sum": "Anthropic's chief executive called for stronger government regulation of artificial intelligence.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "86c8ed73f2",
+   "t": "anthropic",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-11-07",
+   "title": "Claude Duet: What Anthropic’s Proactive Agent Does, Who Can Get It, and What It Costs",
+   "sum": "An overview details the features, pricing, and availability of Claude Duet, Anthropic's proactive agent.",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZXlKaDNYallidHAwMWlrcVBLVV9vLUlBV3dHTDhFWUNPOVU4WVV4bl9CNmFCeFA5WktDRTN4aGRpeklUWC0w?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1a1e82258c",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Next Web",
+   "d": "2026-11-07",
+   "title": "Anthropic must face Claude Max ad claims, report says",
+   "sum": "A report indicates Anthropic must face legal challenges concerning advertising claims made for Claude Max.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2JjVUszSWJzbm1NMS1jSHh0SXNCZW81bGFfVE8xajJzcnl4MWFyd2k3SXRhTk8tM01yY2dSVlJLQXNYSU43a29FRUdnM3hYY0EyLXJVenNsNVZJdm5IZjdKRkJMaHh5dnZXVjNjdzlkQW5LWTVyQ0hUWVg1eUhpaDJ3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0720a007e5",
+   "t": "palantir",
+   "c": "",
+   "src": "Seeking Alpha",
+   "d": "2026-11-07",
+   "title": "Palantir Stock: Great Business, Wrong Time (Rating Downgrade) (NASDAQ:PLTR)",
+   "sum": "An investment report downgraded Palantir's stock rating, citing timing concerns despite strong fundamentals.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYWg1SHNURF9JdnpZcDUwZzVhT0VSZ2FmU2MtWEZ3ZWZURUVxZldabHpTakVobTVkZEthZndCVWdacmdxNllDTmlYa1FERlRJa3BWNDVEYjV6VlI3OVhRZnZUaGh1M1ZXLVdMU1VlY1BRVEhrZXU4M2JSZDNKX3M5NDlYVnNpX0NDOUY0VkdZZ1pkVjVLUVB3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "aa97193b4e",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-11-07",
+   "title": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst (Hint: The Stock Could Soar)",
+   "sum": "A Wall Street analyst issued a bullish forecast projecting significant share price gains for Palantir.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVl6eHhRaExiZHJZTHZUR0NjbVdJcDQzd0hmXzd0SUpsOFhTUDM5bzZGZjlSc2x5UUhOcnZBMFV1UVRZb2p6YjBodE90WVh4OG1TWTJqTmE1SzFkbDc4LVoyZE1mYXFYRkowOVlrNlhLQXZlbjRpZnVMNWdKa2hVRU9GOC1tZVpvcGRYdlV0YW9jcW9PN0xTdk5GcnQxR0EzaFM0?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e00a93f754",
+   "t": "gemini",
+   "c": "",
+   "src": "How-To Geek",
+   "d": "2026-11-07",
+   "title": "Out of all Google's Gemini models, this is the one I can't stop reaching for - How-To Geek",
+   "sum": "A tech review details a user's preferred model within Google's Gemini family.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOXl6Tl9IM0RqMlIyRkFoNTZ4Mmxud1RqY0FVd25RZFRXV0doUFZzRWZmRFA4c3p0RlBBUl9qZGxZNHB1VzAxdFZLdzFwVzBJdTZ3ampHQzl5QWFLX3JUeExWUzlPT25ydkRqUy12X1B6ZWs4ZnBNV0NYcE5jMmhLVW9zMmo1bWk0RGN6NERhYWo0dDM2WWJrdE10bzRDal9Ca0E?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "61eaba286c",
+   "t": "gemini",
+   "c": "",
+   "src": "Kingy AI",
+   "d": "2026-11-07",
+   "title": "How to Use Gemini: Plans, Limits, Features and Fixes",
+   "sum": "A guide outlines plans, usage limits, features, and troubleshooting tips for Google Gemini.",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBleUhqSFp2LXlncmNIVzBWSWh3bzVxM3Y4MU1vSEN4Tm1aZGQ0N21nalJIZllEQlYyQkRDbHQyRWI5V3Awa1lWM1lsRlZneFF6UlE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "36231604b2",
    "t": "industry",
@@ -36,6 +153,19 @@
    "title": "Gemini 4 Hydrogen Flash Rumor: What Is Confirmed [2026]",
    "sum": "Online reports and leaks discuss rumored specifications and release expectations for Google's unannounced Gemini 4 Hydrogen Flash model.",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd19uYmNxVm1idjBqc2l1R0M3ejdyblh0MHI1a0VZTGpmV3dTbmV2MS1qdjZwem85Tk5QU1loN2JDeGRKcXp3enlFc21ad0JwUU9WMVEzWV9rYWpab2VvUXo3eEFiNlZrNjh0LXd6cnNTWFJTQ1ViMUFZT3NPQzJkZGRGY2NuY3hD?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "9388dd3aea",
+   "t": "models",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-11-06",
+   "title": "How Netflix Evaluates AI When There's No Right Answer - Cameron Wolfe, Netflix｜AI Engineer",
+   "sum": "A Netflix engineer outlines how the company evaluates AI systems when outputs have no single correct answer.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GdlVRRnVVQVY4Q0ZzSVBoSmxxZ2pkYU1RTS04T1dLMUFpS0NlQWlNcnJfcDRTeHVnTzJ5SEFPMURPTENMNlVqd0llZUtyX2lyR0k4Y0Zkc0dFOGhBOTdV?oc=5",
    "wp": false,
    "mp": false,
    "ai": true
@@ -1048,10 +1178,11 @@
    "src": "The Decoder",
    "d": "2026-11-05",
    "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-   "sum": "From The Decoder.",
+   "sum": "Google released Gemini Omni 1.2 Flash, extending video generation to 15 seconds and reducing pricing by 30 percent.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTGdycWROdW9kWlpFRWtJc0wzeVMtVTgxTENtWm1DbDJlREJxWkZKYWJLZWpQMEs0NTBHVW9BekxiZ3hJd1JfVnEzN3hwMm5fYThpMGZuQ0wxMnk4UUlHNG1kN0pZTTlqYXZEWG1Jd19Ld0pEVnZJR1dSVXhQLUMwZGtiWlcxM1V3VzFXWjRva3FzTGhudkIzaURaX1lTOXltVmdkaHduYk1JQnEyMDROSkFuTXhtME1BWncxTTdSc3MyQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "fed1240aad",
@@ -1060,10 +1191,11 @@
    "src": "Unite.AI",
    "d": "2026-11-05",
    "title": "Google’s Gemini Omni 1.2 Flash Reaches General Availability",
-   "sum": "From Unite.AI.",
+   "sum": "Google announced the general availability of its Gemini Omni 1.2 Flash model.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHlCR1RzOXVSdXlUSlNELWlDWWt0Y1l0WTZxel9wa3ZEZk5EZzZvRTE1dVAyTE5sbHgyYndSeTk3MU5SV0xLSkVTWG1BRlBESFI4UzNmNXE3cWNNWjFYRUhWYVRrMWhycnc0ZERDMW5kZjAwV2VaT19kWUxpLWQzcHVuOVI0XzQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "60b7fd848d",
@@ -1072,10 +1204,11 @@
    "src": "shattered.io",
    "d": "2026-11-05",
    "title": "Gemini Omni 1.2 Flash GA: $0.07/Sec, 15s Video [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Gemini Omni 1.2 Flash reached general availability, generating 15-second video clips at seven cents per second.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVpwRUdmeWl1dHhpelIzSGcxMUwxNldpLW8xdWpnaE5NcE1sdmVENm9jb0tvZVJCcEF2dHFFZFpTN05UU3lMYndlcWpfQnRsbm55VUI5MkxNUG1oX21QOUUxM2ZNbGxhUFlER2FHSUxMSmEzZG90Y051TEJRdXBwUW9DVzh6OFpNZ284?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0c317d2a02",
@@ -1084,10 +1217,11 @@
    "src": "Android Authority",
    "d": "2026-11-05",
    "title": "Google announces Gemini Omni 1.2 Flash with the ability to make 50% longer video clips",
-   "sum": "From Android Authority.",
+   "sum": "Google launched Gemini Omni 1.2 Flash with support for 50 percent longer AI video generation.",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTllakFkQXJ0R3lYWGFnMjlJN3hGaE5pdVE1QXNoR1RWSmZOdEF0cDFtaUhKMTVCU1JGbzB0X194eC10U2xFUjloY0RKbXU3c3NyM2dlSWVlTEdZU3BscjdOZzJQSEg5cWRPOTdxN2lGa19seGRKQVd1aEMxbjNYTENwMms3Nnc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e81735f213",
@@ -1096,10 +1230,11 @@
    "src": "remio",
    "d": "2026-11-05",
    "title": "datasette-llm 0.1a10 Fixes a Bug That Restored Excluded Models",
-   "sum": "From remio.",
+   "sum": "Release 0.1a10 of datasette-llm fixed a bug that inadvertently restored excluded models.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1RhMFVYNWtwUl9JUERPZDExQXVOZUtXdDNDenRENmpiX09TSWFzTW45eFAxM0dyN1RCeXh4Nm83M2V3X21OUUJmQnZRZWtHRFhUSmd2WnpyMzVJTFBwaDJURG5sQ1o2ajdaZDY0SENDQVloTmR4OFhIc1VEazh5ZUI1NWJET2hWeVZzSF94cGI5UQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2a4a97f918",
@@ -1108,10 +1243,11 @@
    "src": "SemiAnalysis",
    "d": "2026-11-05",
    "title": "The Iron(wood) Throne: Google's TPU Stakes Its Claim on Inference",
-   "sum": "From SemiAnalysis.",
+   "sum": "An analysis evaluates the competitiveness of Google's TPU architecture for running AI inference workloads.",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZUJJbFBfdUN4UmdwcVdha3lGekpCUldmTnFMTlRnZ2tkUFdEeFVrdmV1dXllc2JqMTEtWFZFQlB1REdDSFJBdnBkZHdBTk5TRllkNVdJMmV1dmRZUzNsR0M4VVJBRlY5Y1E?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c2788911aa",
@@ -1120,10 +1256,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "sum": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+   "sum": "Axiom Math used AI agents to formally verify the Stacks Project, a massive mathematics library.",
    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "6dad7a604d",
@@ -1132,10 +1269,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "sum": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+   "sum": "Dropbox acquired Tigris Data for $350 million to develop storage infrastructure for AI models and agents.",
    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0f2052ea73",
@@ -1144,10 +1282,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "sum": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+   "sum": "Aina introduced a smart ring with a screen, joystick, and microphone designed to interact with AI agents.",
    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d51f62aa0d",
@@ -1156,10 +1295,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "sum": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+   "sum": "Box integrated Nvidia's Nemotron model to build an agent-driven retrieval system with lower error rates and token usage.",
    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b06af2d45c",
@@ -1168,10 +1308,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-   "sum": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+   "sum": "Startup Discovered Materials is offering $1 million across five open materials science problems for AI solutions.",
    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "956cb223c5",
@@ -1180,10 +1321,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-   "sum": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+   "sum": "Agility debuted on the Nasdaq as the first publicly traded pure-play humanoid robotics company.",
    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1c7da4acfc",
@@ -1192,10 +1334,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "Apple is reportedly cutting budgets for its internal AI usage",
-   "sum": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
+   "sum": "Apple is reportedly cutting internal budgets for AI usage to curtail spending on model tokens.",
    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2c368bf7ce",
@@ -1204,10 +1347,11 @@
    "src": "TechCrunch",
    "d": "2026-11-05",
    "title": "After the midterms, a bigger clash over data centers could be coming",
-   "sum": "Data center opposition crossed party lines in Tuesday’s midterms.",
+   "sum": "Recent midterm elections signal growing bipartisan pushback against expanding data centers.",
    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "16de4ca3c2",
@@ -1216,10 +1360,11 @@
    "src": "MIT News",
    "d": "2026-11-05",
    "title": "Clearing up a robot’s fuzzy memory",
-   "sum": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+   "sum": "MIT researchers developed a system to identify and correct inaccurate object descriptions stored in a robot's memory.",
    "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "513dfed9de",
@@ -1228,10 +1373,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-11-05",
    "title": "AI Text Watermarking May Not Be Able to Meet the EU’s New Rules",
-   "sum": "The European Union now requires AI-generated text to be watermarked so that it can be identified as such. But tests on OpenAI’s new textGrain watermark, released in October and developed…",
+   "sum": "Evaluations of OpenAI's textGrain suggest AI text watermarking methods may fail to satisfy incoming EU requirements.",
    "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "63c3d56bc7",
@@ -1240,10 +1386,11 @@
    "src": "Google AI Blog",
    "d": "2026-11-05",
    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "sum": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+   "sum": "Google announced Gemini Omni 1.2 Flash, emphasizing improved generation speeds, lower costs, and longer video outputs.",
    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "89209ab642",
@@ -1252,10 +1399,11 @@
    "src": "Hugging Face",
    "d": "2026-11-05",
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face highlighted Phonon TTS, a new on-device speech synthesis model designed for high-quality audio benchmarks.",
    "url": "https://huggingface.co/blog/phonon-tts",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4fc4625abc",
@@ -1264,10 +1412,11 @@
    "src": "Anthropic",
    "d": "2026-11-05",
    "title": "AI for scientific discovery How researchers use Claude",
-   "sum": "From Anthropic.",
+   "sum": "Anthropic published an overview detailing how academic researchers use Claude to assist scientific discovery.",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wMDFpTC1odkNLZ3AxZk5sMUplMXhyU2MtSll2Z3J6a20tN3p5UjJuTF83T2xaNzlTbDJGQ1J6ckk2TUcyTWVRSUNETjZQbjhBa2R3cHcyQi1CRVJSQ3BmTHBYb1gtT2JNemw3bmt3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0b77aa3745",
@@ -1276,10 +1425,11 @@
    "src": "Tom's Hardware",
    "d": "2026-11-05",
    "title": "Anthropic loosens Claude's game cloning ban — AI will now offer to build original games in the requested genre",
-   "sum": "From Tom's Hardware.",
+   "sum": "Anthropic relaxed Claude's game cloning policy, allowing the assistant to generate original games within requested genres.",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRjZtdTRhY2hIeDlfYkV1ZEFWQThWNUZBczNJYUdTd0xHSUM1aU5CZ2VkNGpfWU9Lb1hsOV9hM2VjNEtYdGZUZklkYWJZZkNsZmNWQUtsTnhzTERKTktMR1RfZzQ2RjJEVnl6ZFJObzVQVzNnRzVsM0w2N1Q2MEloM0xzTnJWcTRZc1BHRmpoZ0RIY2k4OWJOdlV2Zll3bm5oaXNtTUdpTExLWjcxSkpaTUNvYjNNRHJKQ000RzBfRk96bzJTZjROb1ZfcldCYjNoUk1GeGltVXFWdi0tbkVhd0pzcGRPUU1fUTFKYW1TMzJOQ2V4WmVjQ1RnSUVUMUtRNjNrLUtrZmZYZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "055a733ff9",
