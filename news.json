@@ -1,6 +1,84 @@
 {
- "updated": "2026-11-07T15:58:53Z",
+ "updated": "2026-11-07T22:29:23Z",
  "items": [
+  {
+   "id": "ed263cbbe1",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-07",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "sum": "TechCrunch analyzes how recent midterm election results may affect data center policies and Elon Musk's technology ventures.",
+   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "69c75581d5",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-07",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "sum": "A US intelligence memo alleges China's Ministry of State Security recruited a Megaspeed executive to spy on Nvidia's CEO.",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "1c0b0e1eff",
+   "t": "anthropic",
+   "c": "",
+   "src": "Seeking Alpha",
+   "d": "2026-11-07",
+   "title": "Anthropic IPO to move forward despite tech selloff: FT",
+   "sum": "Anthropic plans to proceed with its initial public offering despite a broader market selloff in technology stocks.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG44NXNtN3I0alUwQkRkVnRiTW1kYVVsOVh6NlJTTkVuUFROWV92c250eW44NnpyYjgydmVpS2pOOGtKVy1rVnRPazA1RVRBWEtwODhVWHQ0NWVOeEU3eXdEamFyYzFqR3VSUzdOcXc1WlJMeUZXbU1xSnpPUzJNcGNaUU02Y2c?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bf40cc6c46",
+   "t": "anthropic",
+   "c": "",
+   "src": "TradingView",
+   "d": "2026-11-07",
+   "title": "Key facts: Anthropic Files S-1, $16.3B Revenue; Claude 354 Binders",
+   "sum": "TradingView reports that Anthropic has filed an S-1 registration statement disclosing $16.3 billion in revenue.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2tqczJEa2xmTjlZODRrQ18wbzFxM0JuQzFFajA5d25qTGhBSGtiU1BGSngxMTIxNlhGYUV6NE54UnllVDU3d3pQNzRpRDA3YUhtdlRLdmJfZnlNM2RLeTB5UGpRQlh2eFNiSk5TLTRNNzc3RUo2MUl3d0htdDJhbnZuWmVaX21rWW5WaW9tMHdlWVVWbEE0aVJ3MTl5N1VOOE0wclRsa2g4REFZenNXVUpNVE13aFhOTkxGYk1vVkRadw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "7682ddf99d",
+   "t": "palantir",
+   "c": "",
+   "src": "Unite.AI",
+   "d": "2026-11-07",
+   "title": "Book Review: Forward Deployed: Inside the Palantir Framework That Solved Enterprise AI by Riste Gramatikov",
+   "sum": "Unite.AI reviewed Riste Gramatikov's book detailing Palantir's software framework for deploying enterprise artificial intelligence.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wMll3OFY4TGtRNUpEMml2amxmVE40TXhvNEJ1eHBfX0JfVm1DUEktYWw4MlVicm1jS3ROa21OREg1S1otVkxXYXRkTzFvSF9UcURWbnAxcXRIRS1TQ3ZkQ2NwMmEwbHNFQ3d0VzAwcktNekRGWXc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "4916c20b5d",
+   "t": "gemini",
+   "c": "",
+   "src": "Trend Hunter",
+   "d": "2026-11-07",
+   "title": "Conversational Enterprise Video Models: Google Adds Prompt-Based Revisions to Gemini Omni…",
+   "sum": "Google introduced prompt-based revisions to its Gemini Omni conversational video model for enterprise applications.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNEdETXBFTW4xYmN5a1BRRVlDcWlsMnowTTlJUWE3RG9fUFcwNElFQV96bG5OTVRqNElEVnBJcFlaMDJRSExxcFNyMVBGXzFGSThxNE9XS3ZFUS1MTGYxTXlGakNJRjF4QmJRVGxnOWthN2o2VEZBX05odDdBQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "0c49172734",
    "t": "anthropic",
@@ -1438,10 +1516,11 @@
    "src": "The Register",
    "d": "2026-11-05",
    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-   "sum": "From The Register.",
+   "sum": "Anthropic declined to patch a Claude Dispatch vulnerability that could allow attackers to execute remote commands across corporate networks.",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWmNYRUNBVGRtakc4aTBFX3c2VXpUQzVuUGJtdjNzNHp0a3VVNG0xMXpUUVBzb053T19yeThmeXl0U1lYeGd4LWY4aF9jMmdHR3lERmN6MVBWai1ZTks5SW5CTEE3NnRSYVljWmpSVGRUMzJ3TnpRS2FEYXQtUnpUeC01eVNBdUM5WmJZakxGUzZvVXJocVBwUWhLWHJudDRIa05rT25udmFMWnhVX201MUJ2NjdWSFJVeVJvSjVDR2k3VE5KNm9iVVJwZnhDMzV3QmVzLUZxZ3ZIQkF2YzdDOGIzNW9UVFU1WDFHcmIzbFFkYm5QMjVXZXFHVGx1cDlkX0JQQw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "61010165cd",
@@ -1450,10 +1529,11 @@
    "src": "The Decoder",
    "d": "2026-11-05",
    "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
-   "sum": "From The Decoder.",
+   "sum": "Anthropic product lead Catherine Wu, who guided Claude Code, has departed the company to join rival OpenAI.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkxfUXV5QlJwOWNFTmRTdW9peVZWeFg5SzBIUGd0SUMzSGdSTVpCTlp2amcyVG1RQ1IxX1oyMzVVNGRKRGdiRGlvUE8xMkxHTE5xRlJwLVFsdk1LVGM5M0QtYjhYRkl5Y3lOVkt2MjdrMGhFc3VfZ3pDbmJzeC1GcUY2UG5SZkViZjgzSUVNN0kzNGRrVEtlbE1iRQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4db192e7a6",
@@ -1462,10 +1542,11 @@
    "src": "Business Insider",
    "d": "2026-11-05",
    "title": "A top Anthropic product leader has been poached by OpenAI",
-   "sum": "From Business Insider.",
+   "sum": "OpenAI hired away a key Anthropic product executive to join its team.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmtsUnhTLUhSSnp4Q09CcWhMcS1lSGhSOUZKdUtWYUJxeW9YdHBRUTV6WW9LNUZ2RlRVWl9tUG02dkRMSzdtMk5NbENYVVhfczJMQ1lkV012RnFiTXRNUFhGdktjakpRcGlKWDRvQzFsNEZ1cnJDcTg2UlZpQWZ4WGpHVWdPejdlQ0E2QjZtNXRVLWRqdXBB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "244ef946a8",
@@ -1474,10 +1555,11 @@
    "src": "Yahoo Finance",
    "d": "2026-11-05",
    "title": "McGraw Hill Integrates Trusted K-12 Curriculum into Anthropic’s Claude for Teachers",
-   "sum": "From Yahoo Finance.",
+   "sum": "McGraw Hill is integrating its K-12 educational curriculum into Anthropic's Claude to aid teachers.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjRaVG0tWlFNa3UzekNOMDBORVNtXzBCRGx4Rk1fSklSTGkzSm80TG9QSkhmeF9qeUNuTVplSTh2QWNTVEJxZzYyUkhGZlpNMlk5S09NdDIyYVJiZUpsMDNpQ1JTV3FLUUx0Q1BhREpvWTlkT25xOERUbEtfSDAyNXVqbXF3YklaTVdvYXdzMFNZQ3RaZUVSWDkxdGc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3a9607df50",
@@ -1486,10 +1568,11 @@
    "src": "The Business Journals",
    "d": "2026-11-05",
    "title": "Addgene partners with Anthropic to integrate plasmid catalog into Claude",
-   "sum": "From The Business Journals.",
+   "sum": "Addgene partnered with Anthropic to integrate its molecular biology plasmid repository into Claude.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUYtTno4SXVsVUZhWDFNOFBIOTh0N054TjhDbzRlM0pnSVE5dnF2SFJsQXc0NGw4aTIzaGNXZjdTX29IUGJEM0RlakxHLVBkUTItbHI0UEhGWDFYTUliMHN4Mm5YX2NNTXhORHNnS3doVm53a1NVOU53ZnBKbW1XS01QMFo?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b8186cca19",
@@ -1498,10 +1581,11 @@
    "src": "The Times of India",
    "d": "2026-11-05",
    "title": "Anthropic allows managers to monitor employees’ Claude usage; company says: It will report on ...",
-   "sum": "From The Times of India.",
+   "sum": "Anthropic launched management controls allowing corporate supervisors to monitor employee usage of Claude.",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQzZnTnhoaVhvaXhSbmxYcFFQN0hLdDduWmJMNjhzUEhCRV9CcVBhOVJyQnc1LTI0X2JqSTRpSkdvbmdwSTJHT0hNLUlOcGpSckU3TTVOYmE4WHNQbnR2RFNmU29GWjVrUlRkSzlnTDhROVNSVEllUUVfY1ctSTdydTdXLWVCdUFRSUpGU3VkRERzRjl5Ri1sYzNoOV95TVBMMUFHVGJLWGFCcllwMzI5b3pBaUdEM3pHQ0pkb0FSMy1lbU9DMkp0TExHbEJSZDFodFhQRHB6aU9hdGFPODN3dzE4QWZmNUYtRk1WWDVPTlMzcUdkLXpBbmJuekV5c2FBNTAtVdIBigJBVV95cUxONDVXRGl4WDBTMWtTb1pTTzBWcnZxX1B1MGNkVFRhS1k5SWtlV2RDMnQza3FNNU1kU2VVVll2bXM5WmExN0FvNmlNX3FheHd1MVMxR09ucG5QMi01VkstZk4zR25jQko4WEtITVFyX2dvdFVOTmhnN3M3eDVzUDFwVHhKV2ZSb1F6WDBiODFNaUY3SmxCUHRLbVJUOW52eDQwMTJSQkhhNDFUM1Jqa3k3WnlNc1NpU1JfWV84ekxQVFo0eUFMTWE4R21HTGVxN0FJb25wUnlPNW15MmJVTEc3anJlUmlwVGNfa2ZiMTZLdW1zLWZ2d183ZXJ1Z1JvWk82YnRpUDktWUozQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9ec51805fb",
@@ -1510,10 +1594,11 @@
    "src": "Seeking Alpha",
    "d": "2026-11-05",
    "title": "Palantir Looks Like Apple In 2007, Only For Enterprise AI (NASDAQ:PLTR)",
-   "sum": "From Seeking Alpha.",
+   "sum": "Seeking Alpha published commentary comparing Palantir's enterprise AI position to Apple's market standing in 2007.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU19WekRHUE9BOEV1SFNDdElvV09hdHpiUnBlTUw5dG82ZjdIZWZPQmRzR01BM19mUVRhWndfSFd1ejhNaHNYRDBLMk5RdjRtdzNzeFk5dlYtWnY0Tlk2RUNwTmkwV0RXVHYyTWZQYUxMTFlocVlTaTZpbjZLLWRhNm5YMHZfYTFXWjdLRFlNSll4a3ZtSi1CYjJMSVBVZw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "af4982b12d",
@@ -1522,10 +1607,11 @@
    "src": "Al Jazeera",
    "d": "2026-11-05",
    "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
-   "sum": "From Al Jazeera.",
+   "sum": "Al Jazeera reported on Palantir's deployment and collection of operational battlefield data in Ukraine.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTExPQndoc1QyZTBad1lLWnhqbnNpTTNEdlZDb2FtSEdhbW9oNEJVWFdEdUliS21zN0s5emZreldRRkhHVXNzcGZ6RG0yZzNRSndMTk9OdDJhd1Nqa0JfWW9mczFneWxnTnZJdFJOZXVtYTF1T2tsTlljbkxiTVZtYmVnNkI4TG5HelB6YzNpY0h4NFJjQUtYSXEtUjNxNHkyVGppWDR2aWJ6MnRTdGhlTFlvd9IBuAFBVV95cUxNSkdJSE5nOFFMeEpvb1FTTjhpWG1FT3JlRVBScGxXR0w4WnJzUTFEaW5rQ1VwUl9xSkd0Zk9yNU9qTVZTSG9KWUVmckhJRE1SdDZJeWc3Vlp6NWpab19CdThyV1cyNUVRSHh4bGVRaVVfX2NxTmRWNzdtZ3hvRnYyTjIxTFpSWC1zMGxudmotUXBMZmphVXRIZDJpVVFsVUt0MVZjRTdzVW5DajNlQkdPX0lyaE12dUo2?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "534cda8d2e",
@@ -1534,10 +1620,11 @@
    "src": "Yahoo Finance",
    "d": "2026-11-05",
    "title": "Palantir’s CEO Just Said What Wall Street Doesn’t Want to Hear About AI",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir's chief executive delivered remarks cautioning Wall Street about current enterprise AI adoption trends.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUU04N0tQa01pZFcycEdha1dpd21BVHlYMGNJeEJCdzhBOXBWQ3pGci05RWpOcFNncjRTMzRkdk1sek9yRjN5c3NjVVhkekFJV3NUNDlpNVQzOEpLQmVFY1EzT1FDenVLOXlGWFc2YnY5NXVidzV0OU1fTGVnTDB0YTJ2b05DUFRtWlBYWVlGZF9HMUFKZGc?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d8636d8583",
@@ -1546,10 +1633,11 @@
    "src": "InsuranceNewsNet",
    "d": "2026-11-05",
    "title": "AmeriLife partners with Palantir on AI rollout across insurance distribution",
-   "sum": "From InsuranceNewsNet.",
+   "sum": "AmeriLife announced a partnership with Palantir to deploy artificial intelligence tools across its insurance distribution system.",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcERqblUyS3hob2ZJdlhibGZ1OEo1cEduN19CYlRnY2hqRGlsM0cybTRlWlVCeDJvb3hqTkJpaHZqamZTS2czRXRmVDh6dzlSc2pyM0QwYXZpbzFoOE5pdXh5SFY5VlJpVGx2elBGU01BbUZaeHRwTmlqcGpQVzk5NzB1U0szVGozSUNSNjBpR2VyZUJHUkxwcmFEc1FhUW8tRzNPTFRfVWpMejdvRnJFRzNGU0pwYmc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bb48b132cf",
@@ -1558,10 +1646,11 @@
    "src": "The Motley Fool",
    "d": "2026-11-05",
    "title": "Palantir Just Delivered a Monster Quarter, but the Stock Is Plummeting. The Reason Why Is Obvious.",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool assessed Palantir's quarterly revenue growth alongside the subsequent drop in its stock price.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODA3SHVyWWFVVzM5WHRKNHZkUW1jWVFBdWw4YUFla3lyVVVnNk1uOV9DaDZ3OEhVZU81YWZtcGhKQzlRMWYyZm9PeUhSbjNqWlVITkl0VnhuN2NxSmlUbzJRMDlVWlk0LTQxUVZReGgtUjZEbDJ1R3k0alg0Y3J1ejFHUmZCYUMwa182QjNLWnlZa19yRzBz?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7a30a61cf2",
@@ -1570,10 +1659,11 @@
    "src": "The Futurum Group",
    "d": "2026-11-05",
    "title": "Palantir Q3 FY 2026 Earnings: US Commercial Revenue Overtakes US Government",
-   "sum": "From The Futurum Group.",
+   "sum": "Palantir reported that its US commercial revenue surpassed its US government revenue in Q3 FY 2026.",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlNDdHEzWmRfQ3VOa1lUN2ZwMW1hdXlRam8yMkYtRnByWFhmc3BzRktSZGluOGx3ZDAzVUZKS0tUQzdIUjlLaWxVbFdBZ19NMlhZa0h0cDgzZTg4Z1h2WjdDc214cXg3M1poN05TMHpycXNCT3d3SkpKMkxhQ2R1WER0WmZqUWJjdzMyWDhLZlVFVGJRLU5TTXVsbDVwYlRqM2dRTkwtdXQ1bXY1R2c?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a54316cb47",
@@ -1582,10 +1672,11 @@
    "src": "AI Insider",
    "d": "2026-11-05",
    "title": "Palantir Tops $2B in Quarterly Revenue as Enterprise AI Demand Pushes Commercial Sales Past Government",
-   "sum": "From AI Insider.",
+   "sum": "Palantir surpassed $2 billion in quarterly revenue as commercial AI demand outpaced government contracting sales.",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa1hiYlZuSm9GMm5ocjRoSEdFMHJZeVFNaTFBOXU0M0hHeWRqOWFFeTZZaHVzNkRZLWRoWlhMMnlDVmgxWU9aZHd0aEJVeFowWm5US25CQzBWYlJvR3lDWU80MzhuckJXTm11TWhkUTh2S2VfcjFTOUhtMUpvRUJPTDV4d1pvYTI4TDZ3TzVtSHBQSzBDcU5Nakx4YkwydlZPV1ZLOVR3MGVoa1hLRVoyVVlNS3hIS3lmeXBzNjlIZ3VjY1lfVEdQbkI0VzlURDQwblA0ZEVB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "178d47c040",
@@ -1594,10 +1685,11 @@
    "src": "The Tech Buzz",
    "d": "2026-11-05",
    "title": "Google Slashes Gemini Video Prices 30% as AI Race Heats Up",
-   "sum": "From The Tech Buzz.",
+   "sum": "Google cut API prices for Gemini video models by 30 percent amid heightened market competition.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORVJLbkNwdHNLVy1mNDhoV3Fvb3RWdUVaeVpaRzlHZjFEZy1rWjNWc1pMaTRtQ2NBTnB0aVpRYi1qMm9TTm1LS2lzYVBkazBJNFVFMm5KUGhSTVhfUU4ybURDN055cXlMcmtiRlRjWjZZWTJPamJRUVZlRXBYcVBHUjFHVEVEYk1jMk53MWxVbGZ3b05P?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e5200fcb7e",
@@ -1606,10 +1698,11 @@
    "src": "Seeking Alpha",
    "d": "2026-11-05",
    "title": "Google unveils new Gemini Omni 1.2 Flash AI video model (GOOG:NASDAQ)",
-   "sum": "From Seeking Alpha.",
+   "sum": "Google introduced Gemini Omni 1.2 Flash, a new lightweight AI model focused on video processing.",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3JNaXNCa1FWYzctck1VUTg3aUNMMDlfcDZBU0EyV2l3TUk2RmRHUnFTMlNfODhuU3lKTUNBSlBNQkFlVUU2cjJWckZURjJHRmVDcVhEem5tVDJPNTduTlhkeDRfU0hnX3VzV2YwT1JXVENlUmFtOVJkeUFmSWJ3eWxDVEtPTmNuMG9rakN1TFRvQ2xrSXROZA?oc=5",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": true,
+   "ai": true
   },
   {
    "id": "7a9618aa01",
@@ -1618,10 +1711,11 @@
    "src": "FourWeekMBA",
    "d": "2026-11-05",
    "title": "Google Cuts Gemini Omni Video Price 30% to $0.07 a Second",
-   "sum": "From FourWeekMBA.",
+   "sum": "Google reduced Gemini Omni video processing pricing by 30 percent down to $0.07 per second.",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVpIeVZqMUQ2WlplTEZGQU5nRHhxbGFQQ3BZMlNQSjNJMXZKN1REVzZ2M3VjTDRqME1LWmZJWUU4SVFlUTNYUnd0LUdJd01FTldhV1A3T3lpOTlpeXZIZ1JILV9PTjFoLVoxdFd0Z3FLaDZpUmNINVIzRkM3dGJHblFGMmlyTzJzXzJZ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0a576a372b",
@@ -1630,10 +1724,11 @@
    "src": "Bloomberg.com",
    "d": "2026-11-05",
    "title": "Google AI in School Triggered Teen’s Mental Health Crisis, Lawsuit Says",
-   "sum": "From Bloomberg.com.",
+   "sum": "A lawsuit alleges that Google AI software deployed in a school contributed to a student's mental health crisis.",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDJSNmxEaUpEVjlUZ3dsbnBSNGdUd1VIc0VPajhDTFlFTFlsMkVxZzdFVXdTU0x0WEEtVnpsUWxFam5veVdYbld1MGRHWkp4MWxhXzMwbEFTS2E4UDBnNGFvZUZ2dkhIMXdzWHZ3bDNXbURaSXNSMEh4TGZxcUZqWWt0RXlxWENCbUg3S2twam5SdjEtWXVMT3lwYjFtSjZrTDI2UDNoVXV1V3VPcjg0azAtZFFaXzZFVnhVbG9B?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "114b3d1978",
@@ -1642,10 +1737,11 @@
    "src": "OrcaRouter",
    "d": "2026-11-05",
    "title": "Gemini Omni Flash 1.2 Leak: What Google Hasn't Said",
-   "sum": "From OrcaRouter.",
+   "sum": "OrcaRouter published unverified leaked specifications detailing Google's upcoming Gemini Omni Flash 1.2 model.",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5NWYxZlFCTC0tNDNNdlJXODlzb0xTVFV0RmJQeEw4RWJlY2NOVHJ1OXdWZElOdEJ2NW4tSDhGeTBYOG1TNy1RR3l5bnpXRWhRNmRuRzJEaU9URS1tVWVfUUtBLXpIdnlm?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "528b64be47",
@@ -1654,10 +1750,11 @@
    "src": "tech-insider.org",
    "d": "2026-11-05",
    "title": "Validate LLM Output With Pydantic: 13 Steps, 90 Min [2026] - tech-insider.org",
-   "sum": "From tech-insider.org.",
+   "sum": "Tech-insider.org published a step-by-step tutorial on validating large language model outputs using Pydantic.",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTA2MGotcEZ3ZDlQckFkLWE4ZHVfV25DYTZ4X2NJMGVaUjE2VUM2TW13elZCRXV1WWREVjB1NHpocDd4cHJXWXJRb01rNnE0Rk94LW12OHNudXdIOUhkUHktUUF0SUtzeWY2c3pMdHNvOHllMlZKUF9nejNsaEtUbA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0e450b2d22",
@@ -1666,10 +1763,11 @@
    "src": "shattered.io",
    "d": "2026-11-05",
    "title": "Open WebUI vs LibreChat vs AnythingLLM: 3 Picks [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Shattered.io compared Open WebUI, LibreChat, and AnythingLLM as local front-end interfaces for language models.",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHdqOVRLWkg1YVVJMmxEZmJNVHhVaExMQ3MzT1pJUkpNRV9lLWMwWmpmNlJtZGdVSXpRTWstZnBLNkVfa00yQWlQRzNUdFRuTzJXamlLME9xYmlRQVB5X2p4TWVaandXNXZ4UGRkYXZrc3d5MTdVeXRtd2s1Ull3VjJXMEg5RmFoQnF3dGRveDBvajFR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "cf15c971eb",
@@ -1678,10 +1776,11 @@
    "src": "Fello AI",
    "d": "2026-11-05",
    "title": "DeepSeek V5 Release Date: What We Know So Far",
-   "sum": "From Fello AI.",
+   "sum": "Fello AI outlined available industry rumors and expected timing regarding the release of DeepSeek V5.",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZDQ0aF91RzQ2OV8zOWlpcWt5QzItZXgxeGpRTk8wWGZNZmRJX29DUE5nT0VaNEI5cXFkM2ZfSHcyNElHNEhB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "65da06ba68",
@@ -1690,10 +1789,11 @@
    "src": "TradingView",
    "d": "2026-11-05",
    "title": "Supermicro Launches KV Cache Solution with IBM and NVIDIA Demonstrating Significant Inference Performance Benefits",
-   "sum": "From TradingView.",
+   "sum": "Supermicro launched a key-value cache solution with IBM and Nvidia aimed at improving AI inference throughput.",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOMm5UaTVQd0ozVEljZk1QOG1abUNzWXZHSFh6emVJcTRRUWEzWS12dWFIaXU1cTBtU21PNnhLSHNXZEZrdnlmTllaNTlWNF8wMHdYUk92TGFUbm0xc2hRaWpSeUJtUFRfQ0ZqcV83VFpFWVJsYUNMSmxxRkYzdFNGdVhOM1cwNHM5VVVwOUZUMnJ2Y05uZi1xYnc3UzNBOVE4aTJaeUY1TUZKaTE4dVlUaWZxUmliR0p3V2Q2M1dZQWR4d1h3d0p5UjZqZ3pDd19sN2hfdm1TOUxCU3hFLUhUUWJubm1mTUtfZG4tc2lrSURmWS05Y3RxVm13TWNDVE9rRlhESFVn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f58ad39bd6",
@@ -1728,10 +1828,11 @@
    "src": "HF Papers",
    "d": "2026-11-04",
    "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
-   "sum": "When firms respond to new market opportunities, their capacity choices alter the future discounted free cash flows available to both competitors and investors. In competitive markets,…",
+   "sum": "A research paper analyzes how enterprise capacity decisions and strategic repositioning unfold across language-model representation spaces.",
    "url": "https://huggingface.co/papers/2609.37820",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "9e8d76be99",
@@ -1740,10 +1841,11 @@
    "src": "HF Papers",
    "d": "2026-11-04",
    "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
-   "sum": "Embedding models compress variable-length text into fixed-size vector representations, but this compression can entangle semantic content with residual token-level information, such as…",
+   "sum": "Researchers introduced trainable prefix tokens to decrease representational interference between semantic text and token noise in retrieval embeddings.",
    "url": "https://huggingface.co/papers/2611.07298",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fd76263fb2",
