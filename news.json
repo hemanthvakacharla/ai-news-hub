@@ -1,6 +1,149 @@
 {
- "updated": "2026-11-08T16:32:46Z",
+ "updated": "2026-11-08T22:42:13Z",
  "items": [
+  {
+   "id": "bc55171edc",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-08",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "sum": "Nvidia will investigate CEO Jensen Huang following his internal memo admitting to an affair with a possible Chinese spy.",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "86654c371c",
+   "t": "anthropic",
+   "c": "",
+   "src": "MIXED News",
+   "d": "2026-11-08",
+   "title": "Claude can now read your bank transactions, but disconnecting the account leaves a trail",
+   "sum": "Claude now supports reading bank transactions, though disconnecting the linked account reportedly leaves persistent data traces.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVpvRndaYkhCVGtzMHlmUUs3WUlaWGFWdHFaOE5hWlRiM0N6Q3hPZzV2RU5DUmdUc3AzbzVuZWIzaV9jeDZzWE9UMTFwczAwa0pnM2cwVmNEeWUxeWthY1owMzhEMXJGY1R6dWktUW40Zm8xUktPTVA2YmpkN3dWYWVpYUVPQmlW?oc=5",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "84cd545594",
+   "t": "palantir",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-11-08",
+   "title": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027?",
+   "sum": "The Motley Fool compares Adobe and Palantir Technologies stocks as investment prospects heading into 2027.",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamQ0bFA5TENZSWVjUk1XZUNzYk5ULVJyd3FQS29BT3gyUkU0NmFNeXNPaExuaEZOZTA1dW42c09MbG03UE1YanR6bXFSZGk2Zkg1a0RtWXFacDMwczRBOTVUMklmRDNSRkVnN0NhUW41SHE1NDgxRF9NQTB2UjlWTGFvYUhPNTA0d0xRNHBWblRUSFh1MzFFT3dvM2Jsck9DWUFLRk10UzZGYlZSSk1WZFJzSU5ZaS12TUx1SWxQSmRDblA3RXpYb3REUVR1QzF2cnpUWA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "314ce39d79",
+   "t": "palantir",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-11-08",
+   "title": "Palantir AMD Earnings: $2.31B, $13.38B Beats [2026] - https://tech-insider.org/",
+   "sum": "Reports highlight earnings beats for Palantir at $2.31 billion and AMD at $13.38 billion.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFc4YlNHWDJVX0NXREl5cS1ScEJCQ2lnN2N6cVVCR3V4RGlsLVgzRWxhS3hPWG44c2pkRW8temJvbHlmR3BoVUt1THlKMzA2WHFKV3FiRC1rMEc2blI3eThtN0FScVVhZEV0ZzNhazlURUVOUDJTMmZIcXVjeFlPRE01ZktDLWd5WVZhc1BVVQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bb2c852124",
+   "t": "palantir",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-11-08",
+   "title": "Nvidia, AMD, Palantir, Apple: 4 AI Earnings to Watch [2026]",
+   "sum": "An analysis examines key AI-driven earnings reports to monitor from Nvidia, AMD, Palantir, and Apple.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRlZiNzhpWlE3N01LeExkWjlDX2xJQUhJbE9OTDRPYzZXYVVzeHpjbVZncVd1T01LTnFCLXQwV1pSWFZqczJxVXU3YjM0SVhiMDlUY3ctRjVjMHcyd016RThsLXk2UFBNYWtzeDdKTjA2TGQ5ZkYwT3FoU1NrQVhCeTZ4SQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "af14395b54",
+   "t": "palantir",
+   "c": "",
+   "src": "24/7 Wall St.",
+   "d": "2026-11-08",
+   "title": "Wall Street Is Dumping AI Stocks Even as Business Booms. Something Doesn’t Add Up.",
+   "sum": "Wall Street investors are selling off AI stocks despite sustained business growth across the sector.",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVVyWndabHJGSXlSSkZlWE5LM29FaGFjX1N1RlNaQXhoOXg4WkJPUXh5X2dMQ2dWcGJjSlN2b01SUFlBb3Nwclp2eFJZM1AxQmtGNEdoR1lnT3BMVlB4ckNjaG9uOWFtbDY3a2ZJcExSTlN2RXh5dDQ5RHdXNzlnaUEyV1RIaWRQT1AtbWVQY1F3dkx1OWhHYjBZRmJ3SUYwc0VxUzRFc2VWREhHblZBaEpQZ1hMektkLURBUGVfXzQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "b7d73c66e0",
+   "t": "gemini",
+   "c": "",
+   "src": "BigGo Finance",
+   "d": "2026-11-08",
+   "title": "Google's Gemini product chief Tulsee Doshi says model behavior is UX, and gives the 60/20/20 rule for building ahead of AI",
+   "sum": "Google Gemini product chief Tulsee Doshi highlighted model behavior as UX and shared a 60/20/20 rule for developing AI applications.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CSmpQbDRLTjB5MjROeGc3OWRxb0xUU1RPeHBmYUk5Qm55V1MzNHNhQmxCVkpRNjliTldfOHdsdnJ2UDdXSGVRd0c1T2pBclNwLW1XZFRnZklnRXc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "08bfe520df",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-11-08",
+   "title": "Apple-Gemini Distillation: 0 Specs Confirmed [2026]",
+   "sum": "No official specifications have been confirmed regarding a reported Apple and Google Gemini model distillation initiative.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDNJVmVJeUZsOUZrR2c4VVVPOFI0X1NOUW9XaUNobmlSQ3FNcGppR0pKTW5yT0RUZHR1dm83bWo0aUxpOVE2eVVXNXNPSjR2am5VM3RtUnk2c2pRa1VTNTZrVXh0R29fNVlfNUlDUHZEQmR1cHloQXpnM3dxNi1jSVpiRVU4dmZtWnc3TVhSYmpieV9mZTA2Uw?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "c509b9b03b",
+   "t": "gemini",
+   "c": "",
+   "src": "https://tech-insider.org/",
+   "d": "2026-11-08",
+   "title": "Gemini vs ChatGPT: $19.99 vs $20, Plan by Plan [2026] - https://tech-insider.org/",
+   "sum": "A comparison breaks down subscription plans and pricing between Google Gemini at $19.99 and ChatGPT at $20.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWpuT3RUZHJNZGJja2dIaHZUZVh4azdMUzdHSzFoejB1MmVfY0VGcnllS1hZY3h5d0oyRGZ0a0YyZF8zVjg4NnFMaHhXX0pyZEJ5U3E4YkRNbFRzMkRCc1MwdkVXNWk4ZHQ4SFBqZldoMGExN3JvS1hWUzdDX3ZmTnlDUmM3d1h0THoySnVJbVRxdlp1MkE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "0ccefd775d",
+   "t": "gemini",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-11-08",
+   "title": "How to Use NotebookLM (Gemini Notebook): 2026 Guide",
+   "sum": "A guide explains how to use Google NotebookLM, also known as Gemini Notebook, for research and productivity.",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6S3FhUVplUjFOYTNsUlJEZDdsRnZnalFZaWRhQ3c2SEpRck1fRDJBcm93LS1rZ3c4RDNSS21iZC1wVzV2eExFS3FfazhfaHRGRDR0bQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "8ca5aa43be",
+   "t": "models",
+   "c": "",
+   "src": "Desde Linux",
+   "d": "2026-11-08",
+   "title": "GPT4All: IAG app to download and run LLM locally",
+   "sum": "GPT4All provides an open-source application to download and run large language models locally on consumer hardware.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WZmpXV2NWcFhkNjlYU0NCTEJ0eGlfaWRzWE02RnNkSlI5RENBTFhSWHY0X0UxREMtV3NVenNoX1U0QTVpWEVhQkVDV2NjdlRHSG0td25rY0J0RVBZb21PLU1n?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "c40e022b20",
    "t": "anthropic",
@@ -8,10 +151,11 @@
    "src": "Reuters",
    "d": "2026-11-08",
    "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
-   "sum": "From Reuters.",
+   "sum": "Anthropic has secured a $3.4 billion generator deal to supply power for its AI data centers, according to the Financial Times.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "76389eb426",
@@ -20,10 +164,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-11-08",
    "title": "Anthropic IPO: ANT Ticker, $16.3B Revenue, Control [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "Reports detail Anthropic's planned IPO under the ticker ANT, referencing $16.3 billion in revenue and governance controls.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjU1VC1wRkJ4eDNDVmpFV1NfekRMVHdKV2RuSTdOc25LdWpaaks2TWJINkh3M3pLaklkZ2FHOVlGYnBjWEpRcWpPb1N2MmZ6MExDME9VM0pRTXJYM3JrbEl6UnF6VGhYMHdJNkdzMnV1Q255MjZIZ0I3SUp5RGFSaGdEUWJlODZPTTlwTkdFY1dDQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "2fbff68335",
@@ -32,10 +177,11 @@
    "src": "FourWeekMBA",
    "d": "2026-11-08",
    "title": "Anthropic: CLAUDE.md Rules Are Requests; Hooks Are Enforced",
-   "sum": "From FourWeekMBA.",
+   "sum": "An analysis of Anthropic's developer environment distinguishes CLAUDE.md guidelines as flexible requests while system hooks remain strictly enforced.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGh3bGExVzQ0NDE2eG11QXBNT3E4ZjI0NEVWd1RWVWdUbnZwM3hQeG1meWJJeENJYkpzbEx5N2NObmF2dnlIUnRlMmh0OTNDOEpkNF96X3FnTmF5TlpPbXRZclRJckdfRDhXVndtTi1CTWZkZXZFai1jWjZtN1lQY1ZMekhHMkFWRWx0OTJB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "bdadf88d22",
@@ -44,10 +190,11 @@
    "src": "Seeking Alpha",
    "d": "2026-11-08",
    "title": "Anthropic strikes $3.4B generator deal to secure data center power: FT (ANT:Pending)",
-   "sum": "From Seeking Alpha.",
+   "sum": "Anthropic reached a $3.4 billion generator agreement to secure dedicated electricity for its AI data centers.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1hyX1Y2cFM5Mi1oNjRnVUR4QzcwUThFeGJIUUwzZnVkOGpqNmJvZEQ3cWpIWlNLNjBka2tia0tyN1VMRFNEdlN2UDlWTFAzS2FBQ0xxQU50dTE5VjBETDNvblVIbzdBNzFLZTdSSUNqRFRjcnpKT1FUUUZodnFybGVvMjV6SldXcnEwWEdwUktId2w2dHhvUGtVbEJoRm1GSzNnM3FUdkRfUQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "fbaf5ca0ad",
@@ -56,10 +203,11 @@
    "src": "shattered.io",
    "d": "2026-11-08",
    "title": "Anthropic S-1: Loss Narrows to $1.3B From $5.2B [2026]",
-   "sum": "From shattered.io.",
+   "sum": "Anthropic's S-1 filing indicates its annual net loss narrowed to $1.3 billion from $5.2 billion.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1p5cnJDbnhoTElxN3ZodFpWRE52RmNSS01fNE90WTNYbHF2X3B5bDJET0RTTWRWRndUTEM0TkRBclhJVnVSVXM1ZG1yMXNaMmFGRmJhSmpLVGw1RXRpd2Vva2gyOU1rOEt6eE5zRVhaVmFZVFdrNGJ4MXcyRFZkQ09XRVE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f035badf68",
@@ -68,10 +216,11 @@
    "src": "Yahoo Finance",
    "d": "2026-11-08",
    "title": "Palantir Technologies (PLTR) Lands Enterprise AI Partnership For Insurance And Retirement Rollout",
-   "sum": "From Yahoo Finance.",
+   "sum": "Palantir Technologies secured an enterprise AI partnership focused on deployments across insurance and retirement services.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJzOFczTDcxT1BjVGZuYmNkajRGV2lSMDZ0TGlYMGJSMXpVTm81emk0bU50X3g2M3o5SDFkdXRoOUhHc0FNNUVTbVk1cGY0QXV3cDJzSW5YMjBUZ1c3dTdRSVRXWkd2dVNNcnQ4WUMwalgySHNueDN6ZXM3dGQyOHk1QUhYRjhicDhMWlBzTE9jVFR3b1pNMUFmT0JyV0l5YnpTS2RqVExBZTA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e3b114deb6",
@@ -80,10 +229,11 @@
    "src": "Benzinga",
    "d": "2026-11-08",
    "title": "Apple, Palantir, AMD and Nvidia Put AI and Earnings in the Spotlight and More: This Week In Tech",
-   "sum": "From Benzinga.",
+   "sum": "Benzinga previews tech earnings, spotlighting the impact of AI developments on Apple, Palantir, AMD, and Nvidia.",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTB0TXA5VFJuOGtXek5qUWV2cVFXNjdMT2J1Y29rNjh4MXZaWHRuNFZ4M2hvdU1VQ0NzTi1sN013dGZnNXlLVnF6RmhYb0Y4RmZTb1kxWjIyc25WSWVVdWlzRFE0S0M2VV9ZTWlCd0VERWdDdExmWEdFMmVZc2JoWllzajZETFhRaUdLMzVNQkM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b30a2afb61",
@@ -92,10 +242,11 @@
    "src": "TheStreet",
    "d": "2026-11-08",
    "title": "Palantir’s business beyond government just got a lot bigger",
-   "sum": "From TheStreet.",
+   "sum": "Palantir continues expanding its commercial AI footprint outside of its traditional government contracting base.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkxiWGxOTHBmdHhLTU9XWkxHbktzdkFWVVRfV1hZQUUwYm05d1lCR3RqVEtXMzdSaE0zNFczODFXRXF5Vm5Hb2ExdFdSQ0VQX0Q1M3RxNjF0TnhQVURVRFJZV0RveFV3VXh3UGN1NURGZ1NaTEE3UnZwT2dVNFFYaFVBZG4zTk9TWG83VkZJQVNGbWF5eEJUTTRGcHRBNnBnQmNr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "41dbbf2882",
@@ -104,10 +255,11 @@
    "src": "Investing.com UK",
    "d": "2026-11-08",
    "title": "DA Davidson raises Palantir stock price target on AI sovereignty push",
-   "sum": "From Investing.com UK.",
+   "sum": "DA Davidson raised its price target for Palantir stock, citing the company's momentum in sovereign AI infrastructure.",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWFLLW5YWENnZzBqM0JVeFA0ZWt5WXU3d0tDYlBMRHYycThCOVpVTjRLc2tpMHZGYW5RcWtxYlhaWWJQUkh6X1JneENFRVBoakxQcUdxOWJtUXRHcWtianRmaUVCVXBaZXNQOUZ1N1prNW5DN2RzaEgwb3ZKcDZrV3dJSXEtUFRYclBHOEtENFU2cmZRWF9lTVptRHRPOWFMTnJXV3pWMU1uLVQ5U1I0MWVaS2NTVmNteERicXYxU29IcnNicEJsY1Rn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1877a73e6c",
@@ -116,10 +268,11 @@
    "src": "KuCoin",
    "d": "2026-11-08",
    "title": "Palantir Q3 2026 Earnings Beat Estimates: Revenue Jumps 96% on AI Demand",
-   "sum": "From KuCoin.",
+   "sum": "Palantir reported an earnings beat, with revenue surging 96% driven by customer demand for enterprise AI.",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQamZpTW5HUFFNRmJ6bjI4dkl1SnI2b0J1SG53aWZuajNKWHRYeHZwSjJhUUpTSS1zSjdHTDJXZXBWLWp6VVoteUM1WDlGdkgzMjZXNDhLRk0yRnBEWW1Db0NwRERiY1BTNDlUMUZaNDlhOEI1M2xnUnprMGpsRnczWTAtYkZUU1gya1ZnSFI4bjA1ME9oOVgxVmJRYmJvUFE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d275ec2782",
@@ -128,10 +281,11 @@
    "src": "FourWeekMBA",
    "d": "2026-11-08",
    "title": "Google’s Gemini Menu Lists a Next-Gen Agent for Enterprise",
-   "sum": "From FourWeekMBA.",
+   "sum": "Google's Gemini product offerings now include a next-generation agent tailored for enterprise workflow automation.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRGRteEl5d3ptdVN2V2d2TGhyVFVLZ0Q3VWhHWFJrcm53eHA1OUltZUQwVlJuaXowYnROYlY3Rng2RW5heEFXM2hId0h5cTN2eVJvSVlkZVd0d0hZY3JxeXozbm1talpTaWwtRDZqYm83VnVSWENKQnhiMGkxVkF1VDRsN0xpZXZBT2JMSUlB?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "415d8f801c",
@@ -140,10 +294,11 @@
    "src": "finance.biggo.com",
    "d": "2026-11-08",
    "title": "Why Google wants to win the frontier conversation | Tulsee Doshi (Head of Product for Gemini)｜Lenny's Podcast",
-   "sum": "From finance.biggo.com.",
+   "sum": "Gemini product head Tulsee Doshi discussed Google's strategy to lead frontier AI model development on Lenny's Podcast.",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aLUFvZldjd3cwUjMwb3pVT1Y3eU9PRzAwNjFBX0MzWUlaLTZDV1NWSVhFbHBtUzlxLXczVTNacnlIUG5BaUJZSi1taGVnZnlHc19LMkhrRVRMNk0yRlNv?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "62cd60e03e",
@@ -152,10 +307,11 @@
    "src": "Geeky Gadgets",
    "d": "2026-11-08",
    "title": "Gemini Just Became Free: You Don’t Need a Google AI Subscription",
-   "sum": "From Geeky Gadgets.",
+   "sum": "Google has made Gemini accessible without requiring a paid Google AI subscription.",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40N0ZvT3JBZjZjRFpjcExEZ3lZRm1jazVDV0ltTkFmajJ0X1IyS2JaczBLY2xERUlZVENWSzJDVzZ1TkNWR2huYXotS1Q3QVVpa0xFNg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8a4925e727",
@@ -164,10 +320,11 @@
    "src": "Fello AI",
    "d": "2026-11-08",
    "title": "Mistral Large 4 (Le Chonk): Open Weights, License, Price and Benchmarks",
-   "sum": "From Fello AI.",
+   "sum": "Mistral has released Mistral Large 4, outlining its open weights, licensing terms, benchmark scores, and pricing.",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96LTczOTQ4ZExvRC0zR2hUNlpFbXBiMVJGWlRrUl9mWnQ0ZW5CUjlhR1lhZmkzX0xYa2ZUeUZhcnp3cDNsY1ZlOWJGZnM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "3b94f1a7d4",
@@ -176,10 +333,11 @@
    "src": "https://tech-insider.org/",
    "d": "2026-11-08",
    "title": "LLM Inference Monitoring: vLLM, 13 Steps, 60 Min [2026] - https://tech-insider.org/",
-   "sum": "From https://tech-insider.org/.",
+   "sum": "A technical tutorial outlines a 13-step, 60-minute procedure for monitoring large language model inference using vLLM.",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkxZZXgxb3RaaXdqa2ctcnpubXF5eXk5bjc5RVJJeEZrYUhEMFdPbU1RamxlR0xnX3Z2cWFPTURDZkxPRkc2UVVaaV9QR1BHRnpjYWZyaGhfaHBlZ1doYjJqa3ltR2NsaU40RmJKNWl3eC03NkpjX0tDXzdjSUg4VzBQbWtJRWdhUkc0QVBWS2ExQQ?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3fba357c5f",
@@ -188,10 +346,11 @@
    "src": "KuCoin",
    "d": "2026-11-08",
    "title": "Cysic Shifts GPU Network Focus from Blockchain Proofs to AI Inference amid Rising Layer 2 Fees",
-   "sum": "From KuCoin.",
+   "sum": "Cysic is pivoting its distributed GPU network from generating blockchain zero-knowledge proofs toward serving AI inference workloads.",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0T2pieHhhSjBUTGxQNllQaGZyY1YxYjdxRVQzQ1AyNjFQOFEwQjlHN2ZXd3FSblQ5SFp1LWlLb1FQZW04QUhiNm1rT1pPRVBseHB1SHFVRkZCMy1fYjNnWVJac1pJVkFjUDhGdFF4V0RqZ2lLMDZ3?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "f53283bb08",
@@ -200,10 +359,11 @@
    "src": "shattered.io",
    "d": "2026-11-08",
    "title": "GPU Taskman: Per-Process VRAM Tool, v0.3.3 [2026]",
-   "sum": "From shattered.io.",
+   "sum": "GPU Taskman released version 0.3.3, offering granular per-process VRAM monitoring and management.",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZG0xWGZhNXB0U1dzc2U4YlZCUFN0ektmT1EtUzM1Ynl3aVhZYU91cEo0c05IdHYteTFrZ2I3ZmpvTE5Oamt3UVoya2w2NWl1Vk5DRVZZME0xYjltTVp1dWx4QngxOTZvMi1ISUd6aUo3QXllUTNNMzNmZC14VENwYjBSMTM?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a84078a2a5",
@@ -225,10 +385,11 @@
    "src": "MarkTechPost",
    "d": "2026-11-07",
    "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-   "sum": "From MarkTechPost.",
+   "sum": "Buoyant released Kinference, an open-source inference control plane integrating Kubernetes with vLLM for model serving.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZllRcm5IQ212SU1zT1pfLU05VDR0TjZkaUx4WERLVlJMemItckpfT2ZVcFctYlNjRDlDSjN2VjI2QnAwbEFlVUZyMEtVaXVyUU5udzBRRFZMYkFPZWtXVmVkS1hiNTZKMmJTeklRakxxcjl6dm9KdVJQRHppWmNGSnkwTnI3TXJEaFJBQnlvZjU2VjdETl9lMHhDSlFQM0hlQmlKQ3Jmd1NhclRPaW9uWdIBsAFBVV95cUxOZllRcm5IQ212SU1zT1pfLU05VDR0TjZkaUx4WERLVlJMemItckpfT2ZVcFctYlNjRDlDSjN2VjI2QnAwbEFlVUZyMEtVaXVyUU5udzBRRFZMYkFPZWtXVmVkS1hiNTZKMmJTeklRakxxcjl6dm9KdVJQRHppWmNGSnkwTnI3TXJEaFJBQnlvZjU2VjdETl9lMHhDSlFQM0hlQmlKQ3Jmd1NhclRPaW9uWQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "321962b77c",
@@ -510,10 +671,11 @@
    "src": "GameDev.net",
    "d": "2026-11-06",
    "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
-   "sum": "From GameDev.net.",
+   "sum": "A technical guide demonstrates accelerating image generation using FLUX 3 Image Klein optimized for Nvidia Blackwell GPUs.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGRWRF9aaTRLMkxwcEEtQW9OeVhQTXd5aDdtNmhfOVRVQ0Nud1J6YzZaTnFQNDVhekV3SWdZWWxxZlZMdXF5eFZSdGhLNHVqM283ZDZ6VERZT2pjQVp2VVdUVHkzNGZkSjA0Y29qaXFmYW9UYnppZjFZQVo2Z3RVZEI4YmN3QmI2RHFzVlJTVndHeXZyMU9PNGZmMjZ0eU9zOGI3R2psVVM?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "502e734cf3",
