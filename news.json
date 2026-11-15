@@ -1,6 +1,162 @@
 {
- "updated": "2026-11-15T16:47:35Z",
+ "updated": "2026-11-15T23:20:12Z",
  "items": [
+  {
+   "id": "9e3d554c6c",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-15",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "sum": "TechCrunch examines how potential challenges for Nvidia and CEO Jensen Huang could broadly impact the AI industry.",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d9bb72c7b4",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-15",
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "sum": "Saturday Night Live satirized multiple prominent tech executives in a comedy sketch about dating and espionage.",
+   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "61d44005f2",
+   "t": "anthropic",
+   "c": "",
+   "src": "CNN",
+   "d": "2026-11-15",
+   "title": "Meet the miso-making engineer behind Anthropic’s biggest hit",
+   "sum": "CNN profiles Boris Cherny, an Anthropic engineer and miso maker who developed one of the company's major products.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SkJ3Z1pfMDlSUnV6aDRLdjh6T0xwZ0pTb2I4MzNrTzF0ZUpnZmw2SUFhMGctYUlkMWxDMUVtR1FEOHdUTTZCUU44NFJXd2NYajVkUEowbHdXNV9lOTB6bHM4bVVBRzQ5WU5fR2dRaWlVNkcxckJUTkRB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "6e11b5a22f",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Decoder",
+   "d": "2026-11-15",
+   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+   "sum": "Anthropic has introduced Claude Fable 5.2, an AI model designed to paint images rather than conventionally generate them.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFlfNU82UGVDdk9qRlBDUDRhaFJBVlF3RmhOU2labVZFcFJaMHRySHVuSmY5cjdJbmQ3SjJBR1Z1UEc4WG1pWXVJTi1ER21YQ3JaaUZpVDhVVk1iOS1EVFR2bWE3djE5S25TZmZseVhQV21BaWJtU1czbzFMR0IwUU5adG9FVGhYdktMaVp4WkRBeTN5?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "27e710d84b",
+   "t": "anthropic",
+   "c": "",
+   "src": "Medium",
+   "d": "2026-11-15",
+   "title": "You Can Buy Anthropic Stock. You Still Won’t Control Claude. | by Kumar Ankit | Nov, 2026",
+   "sum": "An analysis examines investor dynamics and corporate governance surrounding Anthropic's stock and Claude models.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem1OXzdnRlNXeE5Xb0FQaWs1RWExRFV3dVQwamxSZ01DU0ctYnBUTmI2cGh3WWd5OUdBRTE5bl9UdVRTVll6enNPUlZnVUtwaDhaNmU4ZF9FbVBIRXJxUW5VbGNucExKQnpINkZLRWQtV25XcC1sUjQ4UU9vdE1DNnZVV0FDTTZvWU9KVWZTM3JVekU1Yk1VLWFuSEFOQkpvUVE?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "342bf0b933",
+   "t": "anthropic",
+   "c": "",
+   "src": "Mezha.net",
+   "d": "2026-11-15",
+   "title": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist",
+   "sum": "Mezha profiles engineer and miso hobbyist Boris Cherny, the developer behind Anthropic's Claude Code tool.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjUtckI5X3hMbE1kcDJzN19LWWRFa1YtNDJEeTFuVldxc1Q3UVBILTBwX1FQSFdwTXdiSUY2eG5aY0VnVkZTRGZjby1vZFF4UnVSZjZPYlF3ZW1VMEFnNk1RbXBXaDRQWUNHekNBV2NXdFpJNjdXQ1FBd1VPc1lCN0J3?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d195bfd9ba",
+   "t": "palantir",
+   "c": "",
+   "src": "The National Law Review",
+   "d": "2026-11-15",
+   "title": "Palantir Customers Set New Standard for AI at AIPCon 11",
+   "sum": "Palantir showcased enterprise AI adoption and operational standards with clients at its AIPCon 11 conference.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGFfMG5VdWI4N1BEbElrck9Mc3pQazZQSkwwVE1laW5fVEJWZThJTVNnNU90OTNVN2Z1MUVHRzNsaVhHTGw1Sk5iRmw4UkdQODJHVTlJdGRvc09EZURtdHdXVGZSSGozNkJZazRHYWpxMjBmZWd0R2hzTklxZGtkbUQxdWUwRENWSm9DVU1RWHl0QQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "bd08e05f89",
+   "t": "palantir",
+   "c": "",
+   "src": "The Times",
+   "d": "2026-11-15",
+   "title": "‘AI can’t replace visible policing but it can do the work of 30 officers’",
+   "sum": "The Times reports on AI systems assisting law enforcement by handling administrative work equivalent to dozens of officers.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Y5ZXlSM0ZTeHRmalYzTUR6a0R2TXR5eGI3MGlrWVgxZDJ1cmZuQkVHTzNGNVBnSm9NVjRMZGN4WWlMMGtTSXFsQXVpamw3cFJjejJjdVF0TlJ3bTktVXdGUnNfblFfSWVzU0xnUkhIdHRLY0FTaHJOREk1WDdMdVNHcU0zN0pLWmhB?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "cc40c9fafd",
+   "t": "gemini",
+   "c": "",
+   "src": "Small Business Trends",
+   "d": "2026-11-15",
+   "title": "Google Gemini Launches Orchestrator to Enhance Multi-Model Workflows",
+   "sum": "Google Gemini has released Orchestrator to streamline and improve workflows across multiple AI models.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCcHFObXZ3MEhCLThPalhQdGJsYzMxemN2XzlhRGJOUk9Bc2wwYlRhZExJVm82QXg1NW9DMDBsWWwxSThodi1yQVhMUXNaUQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "dc28baba48",
+   "t": "gemini",
+   "c": "",
+   "src": "Robotics & Automation News",
+   "d": "2026-11-15",
+   "title": "Google DeepMind launches Gemini Robotics 2.5 with improved dexterity and industrial capabilities",
+   "sum": "Google DeepMind launched Gemini Robotics 2.5, featuring enhanced dexterity and industrial capabilities including deployments at Mercedes.",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcEFaUHVBNmxBYUNlSDZYOTlfTlhHN2xKSmdJT0ExNXNNVlo5YlRJNnpoWjF5LUJkZEhoS3lTcUktRkRPLXEtMGV1ZWt5N3VPbklPbEFqUzFibGVEYUp5enNBWS1rOXZkTGNVY2pHSEtSNVU0LV9Pc3VBSkl0Mk9XZzZpY3pIaUdYa0Z3cXdZVDZDMEdURloyMWVIbnEwLURqWDJvTTdhN3lTVHd0Y1Zjc0kwX21heldUQ2xBLTVPQmpEcGFZVExGaXlpVGt2cF9DOW9tblBZMVlhaFBLNW1GYkNLWlEyVjNr?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "0e2ea8574f",
+   "t": "gemini",
+   "c": "",
+   "src": "Pasquale Pillitteri",
+   "d": "2026-11-15",
+   "title": "Google unveils Gemini Robotics 2.5, the humanoid working at Mercedes",
+   "sum": "Google unveiled Gemini Robotics 2.5, an industrial humanoid AI system deployed for work at Mercedes-Benz.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlgtM09jVXUzZDNCU0hsSTFsTEd3S3RlQ0hCWXdRRjNmaUtUWVh6aXdYWjFUbzZCNXdOa2dfS2RsOHVaZXhzNmhtZ0pDdDhxMHBXcFBiQ0VCRmMtU2ZLV1d1MnRfZ3gzZ2hWVnROekEtVnF3MXJGbWtrak5sSWlOdFc5VGtEQW9vX2pBbVhETG5DMTJmelp2aThKTjE0QQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "587d2e504d",
+   "t": "eff",
+   "c": "",
+   "src": "finance.biggo.com",
+   "d": "2026-11-15",
+   "title": "Fractile CEO on the Future of Chips | What Everyone Gets Wrong About CapEx Spend | Walter Goodwin｜20VC",
+   "sum": "Fractile's CEO discussed chip design, AI hardware architecture, and capital expenditure on the 20VC podcast.",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nekVHeXBhQW5NUXRBbWhPQjN4UmtQWmhHMjBLbWhTclBYMXJCMWJyVDZYODc3Q2lCZWpQQ2duMmkxbEpKQTlJUnA2RmJrZ2g2MWpHanJEd1pudEdwWWVn?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "51c1ec8e49",
    "t": "anthropic",
@@ -8,10 +164,11 @@
    "src": "WSJ",
    "d": "2026-11-15",
    "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
-   "sum": "From WSJ.",
+   "sum": "The Wall Street Journal reports individual investors are pursuing Anthropic's IPO despite skepticism about broader AI hype.",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8b8eb5160b",
@@ -20,10 +177,11 @@
    "src": "ZDNET",
    "d": "2026-11-15",
    "title": "4 ways Anthropic’s new Claude Sheets beat using a Google Sheets connector in my tests",
-   "sum": "From ZDNET.",
+   "sum": "ZDNET evaluated Anthropic's Claude Sheets against a Google Sheets connector across four productivity use cases.",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54MXBVUFZsLWJsQVpNTUtwZGxaZ09WTXRvMERYZVhLLXVsVzAyRE43OGZqNEtiQ0dVd3JGX3IyWTVCd3RGdDJjaklhNExSdU1Sbk9tVndvZXo3MThXRTdlSHQtdDd1RUIwODN2Y2tMM2pnUGZianM2RXRCRmxyVzQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "6b9f6d47ef",
@@ -32,10 +190,11 @@
    "src": "The Motley Fool",
    "d": "2026-11-15",
    "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
-   "sum": "From The Motley Fool.",
+   "sum": "The Motley Fool analyzes how recent Anthropic developments affect competitive prospects for AMD and Nvidia.",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXFLdmRZbnlVUFpPYVduNHEzNm1oRlM5ZWZPSVFhUTJsdUZvdWtyd292Snd6TGJablgxSmRNRldtbUFuNDVXc2VKSGswT3VKUGZmZzBSRklEdUN2Z2FudWwxdlVzZTdRc1hWNG5RN21IemU1WkhYSFVaVTB4OUhIOXVIOFRfa2FYdWxfd3cwWkluOFphOUF0OFZVdGVIRmxiVmlFNHZya2RjUzZEQ3hGb1hEV0ZEcjB6bGlKQw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c0202ff277",
@@ -44,10 +203,11 @@
    "src": "The Hacker News",
    "d": "2026-11-15",
    "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-   "sum": "From The Hacker News.",
+   "sum": "Cursor revealed an attacker used a stolen Fireworks AI API key to deploy a trojanized Claude Code extension.",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4c815a1830",
@@ -56,10 +216,11 @@
    "src": "Small Business Trends",
    "d": "2026-11-15",
    "title": "Google Gemini Launches Artificial Analysis for Model Evaluation and Benchmarking",
-   "sum": "From Small Business Trends.",
+   "sum": "Google Gemini has launched Artificial Analysis to provide benchmarking and evaluation tools for AI models.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEhiakFQTE9BTUVNTWZTc3AwUWJ6Zmx3S2hzWUt2NzBqSmg4VFVMUWx2MTloTEdiYmJyNDd4eVJHOEVseGhTeHJxMWIzZE1PVkd3V01jdFdPdGk1dXVseGxXN3A4X0Nvd1VkcXp0S2ZxZkpmQjVuMzFiN1RJSzhXRXZDZnViWUYwcFZFeExOMF94cXU3dnhHZWhXTHBKdWxCSlNsX0pFS0dQYkhr?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "1f67ee1abf",
@@ -68,10 +229,11 @@
    "src": "Tom's Guide",
    "d": "2026-11-15",
    "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it",
-   "sum": "From Tom's Guide.",
+   "sum": "Tom's Guide highlighted five notable capabilities of Google's freely accessible Gemini 4 Hydrogen model.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3N4YlROTEk1cmQyWDlqLTdIcHhNdXZ2bjkzTTBhYUo5RDZJeFJxVUJxM01lejduTW5MVUJadG1IWGdzVm0xc2hzZHEtY1d3SWFtemhkbGpzU24xaEFWSDZYWjlvSlQ5ZXhRUDZUdlgxUVQ3NDhqTzEzbDR0ZlVlV19UeUg1bUFRSWhaUk1pekxkRGVfOFMwaEZ3VWJBOG9nM1RRZmo3dzc4VVlybGQ4a2FrYmlpMThkaElaR0pSU1FSQQ?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "4d75ba9f01",
@@ -80,10 +242,11 @@
    "src": "shattered.io",
    "d": "2026-11-15",
    "title": "Antigravity /teamwork Puts 3 Gemini 4 Models on Science",
-   "sum": "From shattered.io.",
+   "sum": "Shattered.io discusses using three Gemini 4 AI models collaboratively within an Antigravity framework for scientific research.",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGNzeTNKaGVxdEdkU0tabTdqTTV3d1F3QWxCZWVZanFpSDJkVi11LWZ4dmFIZHF5WGdLX2YzODFZUS1pbmwxUldHRzUzSV9TaWtiMER1N1ZHNkt2WnFrZ1NpbjdvU1VFam1XLW1KZHU5SGtkRmFXa09mand0azE0TGx5M1hRUHJURlBTVEhXVDdmWFE1ZDRFbVZoZVJ5SVlyNmc?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "acaf00569e",
@@ -131,10 +294,11 @@
    "src": "TradingKey",
    "d": "2026-11-14",
    "title": "Palantir Stock Tests $161 Support as Nvidia Partnership Strengthens Sovereign AI Story",
-   "sum": "From TradingKey.",
+   "sum": "Palantir's stock tested support at $161 amid its expanding sovereign AI partnership with Nvidia.",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXdZeFFZSU15TlYxUzdNc0IybUg4NnJtb3E4TG13QXBfQ1diY0dJOTk0WkFZMmJQWVl4Nk5JY3ZtcEFZdlI3V0Vqd3BET2liYno0SENESWtUSC1ZN0xaYVdZM2Y5YXpUQ2tFY3h4M2cwWFQ2N2JjOWFTZnlRQVBvajNtNTBxdjVidTNJZGJxM1RZbnpRcGVodDZXdV9FOXFEdUZJN0RoRTh5bkR2bmJIUndmTDZlSjVPUjRmaHk5aFQydlE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "33ffa4df50",
@@ -481,10 +645,11 @@
    "src": "The GitHub Blog",
    "d": "2026-11-13",
    "title": "Gemini 4 Hydrogen in GitHub Copilot",
-   "sum": "From The GitHub Blog.",
+   "sum": "GitHub has integrated Google's Gemini 4 Hydrogen model into the GitHub Copilot developer environment.",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUI2N2tMVm9aU2d4SWNfV1RPbEN1R21pOVI5Vnh6UmlETjUwT3ZLTUY5amxTTW5sNXpKTjd5ZE9mcU5BdVllUDVXN1pMZk5QN0l3MVRTUFcwYWlURlJkZ1Q1UW9wVWNoNEtLQ2ptRXMxWTJmaFVsYjFTV3VLZjRFMUNMNA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d6cecee14f",
@@ -506,10 +671,11 @@
    "src": "Thurrott.com",
    "d": "2026-11-13",
    "title": "Google’s New Gemini 4 Hydrogen Model is Rolling Out to All Users",
-   "sum": "From Thurrott.com.",
+   "sum": "Google has begun rolling out its new Gemini 4 Hydrogen model to all users.",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWJOUGFEM0VYTDRjaXFWMU5BcGM3WEJ3bWliMlVTWXR0VjgtMTdXRGlORC1pbExmblM3Y2xhTV9nMkZvWGVxOWRtcFJ0UlB0dThCdDc0a2FwUEd1U3hwMGhnSjFob19BVFpwM0M2ZW05NnpPYkxOSzIycWhIbDlCcnpZV3lHa0xTcEx2ellsYnlZU0o5OWRoNW9tNzBRNGNW?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "8ae434301a",
@@ -518,10 +684,11 @@
    "src": "Fortune",
    "d": "2026-11-13",
    "title": "Meta Platforms (META) Q1 2026 Earnings Call Transcript",
-   "sum": "From Fortune.",
+   "sum": "Fortune published the transcript of Meta Platforms' first-quarter 2026 earnings conference call.",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfdWNPWHdMQnVxRGcwLVBnNVhkU3drbi1nZE5sOFA4aU9ENFEyNVFBNGJXM2VPVFB3NVdMZVh2UDVMX01iV3YxNEdyaGgtVUNzMVk4c29NUnJZRkVsejF1MDlJYlk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "e4019251f8",
@@ -530,10 +697,11 @@
    "src": "Amazon Web Services (AWS)",
    "d": "2026-11-13",
    "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
-   "sum": "From Amazon Web Services (AWS).",
+   "sum": "AWS detailed methods to reduce AssemblyAI speech-to-text inference costs using Amazon EC2 Spot instances.",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTFVDNTBscXhwY09tR1M3bzlSc1FwOTYzWjNQbDQwQmRUMG5NS2YyRGFvYjhLOTg0REc2SS1KbEFmdW1uT19fY0s4a3BMclpzb3NzTnJBVzZfc25zODd4RzZaYXZPT2hoQWlGbWk5YXY3aUJodHM0NTh1R3V4akRKSW1Da1UwZzc3VHNvLUhndXZDd3pVOTlQaUkxNUxKQXo1RlFhS2l4VEZTVjdqaTF3d1kwUURhX0FNSEJFOVBJVkllbkM4?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "00c325ac01",
@@ -542,10 +710,11 @@
    "src": "InfotechLead",
    "d": "2026-11-13",
    "title": "Top 10 Private AI Deployment Platforms for Enterprises in 2027: NVIDIA, Dell, HPE, Red Hat, IBM and Nutanix Compared",
-   "sum": "From InfotechLead.",
+   "sum": "InfotechLead compared top enterprise private AI deployment platforms across major infrastructure vendors including Nvidia, Dell, and IBM.",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUDByWE81VUpyYUhGbXY3elltNXpzTWFlR2ZqeHF6ZTlPZ2gzLUZlLVJkbnZ4NUphdUw3SWZnbS1NV0x6Q180b2Ftb3ZwaGFLUFlOTW4xcXJETExuaUdDYncxcXF0U2FJVnhURVpLdjJHOHVuT3lqbHBIWmozU21jaURBckhpVnBabE16RDhBamxnUl9RZy1OdGJ0M1FycWJjT1ZDaW9xeE01RmVxbVlzSGlUd3RIbDJhSkN1RTRxSkRFVWZaTXdkMFZGdUJIUW9XdDRGVnd5a1UtU0k0OVI1cnlrSWdJQXl6V21YRGlvbG1idDdsRUdWRXFIRmd1VEktU1HSAYICQVVfeXFMT1AwclhPNVVKcmFIRm12N3pZbTV6c01hZUdmanhxemU5T2doMy1GZS1SZG52eDVKYXVMN0lmZ20tTVdMekNfNG9hbW92cGhhS1BZTk1uMXFyRExMbmlHQ2J3MXFxdFNhSVZ4VEVaS3YyRzh1bk95amxwSFpqM1NtY2lEQXJIaVZwWmxNekQ4QWpsZ1JfUWctTnRidDNRcnFiY09WQ2lvcXhNNUZlcW1Zc0hpVHd0SGwyYUpDdUU0cUpERVVmWk13ZDBWRnVCSFFvV3Q0RlZ3eWtVLVNJNDlSNXJ5a0lnSUF5eldtWERpb2xtYnQ3bEVHVkVxSEZndVRJLVNR?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a8605aea9b",
@@ -554,10 +723,11 @@
    "src": "Tech Times",
    "d": "2026-11-13",
    "title": "Intel GPU D-Series Claims 5.9x Over Nvidia RTX PRO 6000 in Double-Precision Math on Less Bandwidth",
-   "sum": "From Tech Times.",
+   "sum": "Intel claims its D-Series GPU delivers 5.9 times higher double-precision performance than Nvidia's RTX PRO 6000 with less bandwidth.",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzNtNi1kLXBsemRkNmRvVGU1dVhVOXZQd0ZWdnhrSHdkcHVaeGl4akl2bnBFUk5VVTRtcmxQQUpHWEVybmdPWndVTTBGNHBTWWhSWExMSFgzUFpFNC0xcF9SYlRuWkN0bXJVWlJpZW9sTUtSaG1kLUxfREg3T3V6U2JqUDVwMHpQTGFPTGVuNWRWRkRiSWp1em40UGpFUU4zMFlPRjBCV0o2dHNiQ0lCQzJKVmo4N0wwNFdfRllHdGY5dHNQNXBKSW1uc1lRTldINkluVG1iX0IxV0piQ0Vj?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "ec577d4c46",
@@ -566,10 +736,11 @@
    "src": "TechCrunch",
    "d": "2026-11-13",
    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "sum": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "sum": "Founders and venture capitalists report Jensen Huang's departure from Nvidia creates a significant funding void for AI startups.",
    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "645e798427",
@@ -578,10 +749,11 @@
    "src": "TechCrunch",
    "d": "2026-11-13",
    "title": "AI agent startup LangChain hits $3B valuation",
-   "sum": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "sum": "LangChain reached a $3 billion valuation with 7,000 customers using its LangSmith agent management platform.",
    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3dc626ea28",
@@ -590,10 +762,11 @@
    "src": "TechCrunch",
    "d": "2026-11-13",
    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "sum": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+   "sum": "Research revealed leading Chinese AI models were trained using export-restricted Nvidia semiconductors.",
    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "wp": false,
-   "mp": false
+   "wp": true,
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0d9fae548b",
@@ -602,10 +775,11 @@
    "src": "IEEE Spectrum",
    "d": "2026-11-13",
    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-   "sum": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI…",
+   "sum": "IEEE Spectrum explores how microcredentials assist engineering teams in navigating AI compliance and trustworthy development.",
    "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "2427bacb74",
