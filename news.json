@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-15T03:45:49Z",
+ "updated": "2026-11-15T16:47:35Z",
  "items": [
+  {
+   "id": "51c1ec8e49",
+   "t": "anthropic",
+   "c": "",
+   "src": "WSJ",
+   "d": "2026-11-15",
+   "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+   "sum": "From WSJ.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "8b8eb5160b",
+   "t": "anthropic",
+   "c": "",
+   "src": "ZDNET",
+   "d": "2026-11-15",
+   "title": "4 ways Anthropic’s new Claude Sheets beat using a Google Sheets connector in my tests",
+   "sum": "From ZDNET.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54MXBVUFZsLWJsQVpNTUtwZGxaZ09WTXRvMERYZVhLLXVsVzAyRE43OGZqNEtiQ0dVd3JGX3IyWTVCd3RGdDJjaklhNExSdU1Sbk9tVndvZXo3MThXRTdlSHQtdDd1RUIwODN2Y2tMM2pnUGZianM2RXRCRmxyVzQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "6b9f6d47ef",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Motley Fool",
+   "d": "2026-11-15",
+   "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+   "sum": "From The Motley Fool.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXFLdmRZbnlVUFpPYVduNHEzNm1oRlM5ZWZPSVFhUTJsdUZvdWtyd292Snd6TGJablgxSmRNRldtbUFuNDVXc2VKSGswT3VKUGZmZzBSRklEdUN2Z2FudWwxdlVzZTdRc1hWNG5RN21IemU1WkhYSFVaVTB4OUhIOXVIOFRfa2FYdWxfd3cwWkluOFphOUF0OFZVdGVIRmxiVmlFNHZya2RjUzZEQ3hGb1hEV0ZEcjB6bGlKQw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "c0202ff277",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Hacker News",
+   "d": "2026-11-15",
+   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+   "sum": "From The Hacker News.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4c815a1830",
+   "t": "gemini",
+   "c": "",
+   "src": "Small Business Trends",
+   "d": "2026-11-15",
+   "title": "Google Gemini Launches Artificial Analysis for Model Evaluation and Benchmarking",
+   "sum": "From Small Business Trends.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEhiakFQTE9BTUVNTWZTc3AwUWJ6Zmx3S2hzWUt2NzBqSmg4VFVMUWx2MTloTEdiYmJyNDd4eVJHOEVseGhTeHJxMWIzZE1PVkd3V01jdFdPdGk1dXVseGxXN3A4X0Nvd1VkcXp0S2ZxZkpmQjVuMzFiN1RJSzhXRXZDZnViWUYwcFZFeExOMF94cXU3dnhHZWhXTHBKdWxCSlNsX0pFS0dQYkhr?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "1f67ee1abf",
+   "t": "gemini",
+   "c": "",
+   "src": "Tom's Guide",
+   "d": "2026-11-15",
+   "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it",
+   "sum": "From Tom's Guide.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3N4YlROTEk1cmQyWDlqLTdIcHhNdXZ2bjkzTTBhYUo5RDZJeFJxVUJxM01lejduTW5MVUJadG1IWGdzVm0xc2hzZHEtY1d3SWFtemhkbGpzU24xaEFWSDZYWjlvSlQ5ZXhRUDZUdlgxUVQ3NDhqTzEzbDR0ZlVlV19UeUg1bUFRSWhaUk1pekxkRGVfOFMwaEZ3VWJBOG9nM1RRZmo3dzc4VVlybGQ4a2FrYmlpMThkaElaR0pSU1FSQQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "4d75ba9f01",
+   "t": "gemini",
+   "c": "",
+   "src": "shattered.io",
+   "d": "2026-11-15",
+   "title": "Antigravity /teamwork Puts 3 Gemini 4 Models on Science",
+   "sum": "From shattered.io.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGNzeTNKaGVxdEdkU0tabTdqTTV3d1F3QWxCZWVZanFpSDJkVi11LWZ4dmFIZHF5WGdLX2YzODFZUS1pbmwxUldHRzUzSV9TaWtiMER1N1ZHNkt2WnFrZ1NpbjdvU1VFam1XLW1KZHU5SGtkRmFXa09mand0azE0TGx5M1hRUHJURlBTVEhXVDdmWFE1ZDRFbVZoZVJ5SVlyNmc?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "acaf00569e",
    "t": "eff",
@@ -39,6 +123,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "c1ec08130b",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-11-14",
+   "title": "Palantir Stock Tests $161 Support as Nvidia Partnership Strengthens Sovereign AI Story",
+   "sum": "From TradingKey.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXdZeFFZSU15TlYxUzdNc0IybUg4NnJtb3E4TG13QXBfQ1diY0dJOTk0WkFZMmJQWVl4Nk5JY3ZtcEFZdlI3V0Vqd3BET2liYno0SENESWtUSC1ZN0xaYVdZM2Y5YXpUQ2tFY3h4M2cwWFQ2N2JjOWFTZnlRQVBvajNtNTBxdjVidTNJZGJxM1RZbnpRcGVodDZXdV9FOXFEdUZJN0RoRTh5bkR2bmJIUndmTDZlSjVPUjRmaHk5aFQydlE?oc=5",
+   "wp": true,
+   "mp": false
   },
   {
    "id": "33ffa4df50",
@@ -377,6 +473,18 @@
    "wp": true,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "9166a9e622",
+   "t": "gemini",
+   "c": "",
+   "src": "The GitHub Blog",
+   "d": "2026-11-13",
+   "title": "Gemini 4 Hydrogen in GitHub Copilot",
+   "sum": "From The GitHub Blog.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOUI2N2tMVm9aU2d4SWNfV1RPbEN1R21pOVI5Vnh6UmlETjUwT3ZLTUY5amxTTW5sNXpKTjd5ZE9mcU5BdVllUDVXN1pMZk5QN0l3MVRTUFcwYWlURlJkZ1Q1UW9wVWNoNEtLQ2ptRXMxWTJmaFVsYjFTV3VLZjRFMUNMNA?oc=5",
+   "wp": true,
+   "mp": false
   },
   {
    "id": "d6cecee14f",
