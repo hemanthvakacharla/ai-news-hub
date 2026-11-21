@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-21T17:07:25Z",
+ "updated": "2026-11-21T23:38:29Z",
  "items": [
+  {
+   "id": "8d54d4add3",
+   "t": "industry",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-21",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "sum": "Signal is limiting screenshot capabilities in its Android and iOS mobile apps to counter AI surveillance risks.",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "wp": true,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "127326b87b",
+   "t": "eff",
+   "c": "tc",
+   "src": "TechCrunch",
+   "d": "2026-11-21",
+   "title": "A tale of two Nvidias",
+   "sum": "Contrasting views of Nvidia have emerged between its recent earnings report and tech executives calling for Jensen Huang's return.",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "d4a025fe3f",
+   "t": "anthropic",
+   "c": "",
+   "src": "CTech",
+   "d": "2026-11-21",
+   "title": "Anthropic mathematician says Claude helped solve a 165-year-old mathematical mystery",
+   "sum": "An Anthropic mathematician claims that the AI model Claude helped solve a 165-year-old mathematical mystery.",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNYVJCOWRkZnRsenJPQmJPQTlnNVNWQ0N5NG9hdzN6NWMyalJmUHVGVzcxajZPWU9McjJ3enVIbjhFTGQ0OFpZY3VBUHlIckIyQnFLWEJzZ2hxT1VHWmotamtoZG1CVDg?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "eb30319e78",
+   "t": "anthropic",
+   "c": "",
+   "src": "Engadget",
+   "d": "2026-11-21",
+   "title": "Anthropic Employee Claims To Have Proven The Most Famous Math Problem Using Claude",
+   "sum": "An Anthropic employee claims to have proven mathematics' most famous problem using the AI assistant Claude.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXFLcEJlYk15RHFGY1dhY041ZlBCdU5nRGhDVzNGdXdRYXQ5amFRa3FBYVNxZ25ETi10MkRWZGFaTVNvaWJuSDluTE14SzhRUUxFZHhjSVliRDdzdTBLWkxzUkRaRkVoVG5HTGZLdVhLYkhpb2ZBUG01Z1J1TnJvc1FEN2tFYzA4WjBOeW1jbjJvT29uTFJhVUsxUTkxVl9kT3pEUDdZYXo1VHE1VFNKQnpzXzdWWEU?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "036c3debea",
+   "t": "anthropic",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-11-21",
+   "title": "Lean groups certify Claude-assisted Riemann hypothesis proof from Anthropic",
+   "sum": "Lean groups have reportedly certified an Anthropic proof of the Riemann hypothesis assisted by Claude.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONlA3YmE1SENKMHdqY2MwSEVFRFQ3eW9URjRhTW83QjNCN0U3SUhweC1vTGhfYml6SG9Sc19wVHVhY1VobG9NLVM4V29Ca2QzMnByUjh0clFFOGhFSE9XcVVfNUxlVTdnRTE3ak5oYzd0alQ4QkV3NUYydFIxYXBOWEhtblhQM25NRDY4czBDMHE5VUQxc1B6N3Q3eXNoazk0TE9PbG13?oc=5",
+   "wp": true,
+   "mp": true,
+   "ai": true
+  },
+  {
+   "id": "4e841e72d7",
+   "t": "gemini",
+   "c": "",
+   "src": "Digg",
+   "d": "2026-11-21",
+   "title": "Gemini 4 Neon pricing reportedly surfaces. Hold the launch party.",
+   "sum": "Reported pricing details have surfaced for Google's upcoming Gemini 4 Neon AI model.",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92MFVMLTdjcVgxUTV6MGZRaVBUZTFuMDVBcHhCR2VvMUNYSUVJSFhTZndVRnN1UnVNZzlwdS1VaXprQQ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "860f7a991f",
+   "t": "models",
+   "c": "",
+   "src": "Startup Fortune",
+   "d": "2026-11-21",
+   "title": "How to Build a Golden Dataset for AI Agent Evaluation From Your Logs",
+   "sum": "Startup Fortune outlines how engineering teams can construct golden evaluation datasets for AI agents from logs.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEg2dnRtcUszcmZiVWc0RXZZb1VlcGtzODNoRVM2VW0yVnV5M0FoclBFWHB0aVVfZHc4YkFEcVBjMnJJQXkyTmVFdWxXaW9teFFtQUdVTWdvX0pjd2czVTI3SXRIZnZSMjEzbjlNeGJSd2hZdU5ESlY0d1hLWkVKRWlTNjhjY2YtbUxzb2RxVWlpSGZvZmJTQ21LMFc?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
   {
    "id": "89298d3b7f",
    "t": "industry",
@@ -8,10 +99,11 @@
    "src": "TechCrunch",
    "d": "2026-11-21",
    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "sum": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "sum": "An actor licensed his face to a microdrama startup, raising questions about AI likeness adoption in Hollywood.",
    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "wp": true,
-   "mp": true
+   "mp": true,
+   "ai": true
   },
   {
    "id": "a5ca4fa090",
@@ -20,10 +112,11 @@
    "src": "Yahoo Finance",
    "d": "2026-11-21",
    "title": "Anthropic engineer's warning about Claude Code explains why tech outages could get much worse",
-   "sum": "From Yahoo Finance.",
+   "sum": "An Anthropic engineer warned that Claude Code could increase the severity of future technical outages.",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZHJCVThaVWVtUkpteGlHSWR3MDRPd0lsVjJ6dTlEaGhVX1hsWVFhRW45WEdDTlNTS05iUGs3TzVrTTY4QTI3aVBrVG5CbU40Yi1sWFNYN0JPUXY0RE1TUGJ1WndpanJVbUZiOVNiV2JXbUhicno2eGludENWRmFlU3RVR0hLemhoYkVLd05PMDZzSGc1dVhHNEJYWUpvMmdyTmh0TXUzWW1icGhDRGhRZTBkN2ctSlA3ei1nMEJxRnRSYlhSRlpnMC10Zm8tODhIQjkzdjl3VEZNODNVaHJCR2plZ3drajg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "3534d2195e",
@@ -32,10 +125,11 @@
    "src": "The Guardian",
    "d": "2026-11-21",
    "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-   "sum": "From The Guardian.",
+   "sum": "An Anthropic mathematician claims to have used Claude to formulate a proof for the Riemann hypothesis.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "16998a4ff4",
@@ -44,10 +138,11 @@
    "src": "Broadband Breakfast",
    "d": "2026-11-21",
    "title": "Anthropic Worker Claims to Have Solved Riemann Hypothesis With Help From Claude",
-   "sum": "From Broadband Breakfast.",
+   "sum": "An Anthropic employee claimed to solve the 19th-century Riemann hypothesis using the Claude AI system.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGIwdS1yaXpvQVR5Uk9kbXRRLWZYdFJrM21pTTk3NEk1cnl6cnp3cTl3Yl9yTGloVmdNbU1KcHFvdzlQdUhMWmtZcFpmZW1vRXhSdl9ZOFhLX1Z6ZXVwZ2FINktGcG1kYWNrZlJoXzZkT0dNOG5OOVF3YzhHME5rb2RVTHA5dWx4bU1KaTczd2VtT1R5RVdUb245ZlhrR2llcjNBX3BIMTNqT3ptNDBCZA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "859bea40f2",
@@ -56,10 +151,11 @@
    "src": "CNBC",
    "d": "2026-11-21",
    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-   "sum": "From CNBC.",
+   "sum": "Anthropic's record initial public offering took place during Wall Street's worst weekly tech performance since 2020.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a18b4c817f",
@@ -68,10 +164,11 @@
    "src": "The Decoder",
    "d": "2026-11-21",
    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-   "sum": "From The Decoder.",
+   "sum": "Stanford researchers released a human-authored draft hours after Anthropic claimed a Claude-assisted Riemann hypothesis proof.",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGJqSjZWaXNISk8tTE9CM0d4czdubmlPOW4zQjNBTG51X0drbzlBSGl2Mkx4NHdCS0RtWmhNSERHdm4yMkk1bGJZZnhlMzZRMVMzaGZMZTlMekJaVFNQdkpDUDMyUERoQWhhWW9QSVJIQk53eFVUa1EwdUpQUFZTSFVuemIwcWFmWlRyRl8xdm5KUDd6V2Qza3ZPM1IzbHVTRl91TFNDNDNxUnhzdXZXWk1teGcyN2RORU5xTTdHYzJZUkZLaE1ySEpraWljMFlJQV9ZR2JXcDU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "eecfb9eefc",
@@ -80,10 +177,11 @@
    "src": "Foreign Policy Journal",
    "d": "2026-11-21",
    "title": "Nvidia's Endorsement Reframes Palantir Technologies (NASDAQ: PLTR) As Core AI Infrastructure, Not Just A Government App",
-   "sum": "From Foreign Policy Journal.",
+   "sum": "Nvidia's endorsement frames Palantir Technologies as foundational AI infrastructure rather than merely a government software vendor.",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXBWNkNUTGNpUFNfaEk5M2w5bFVHV3FQQU5RSC1neHlkalhnckxiSVg4aW9FNTF4aVV1U29sM3R6LXhZVmUzTmJtRnNVWFVQX2NPZmlqblVmeWQ4aS1YUUNQcUx5QUtROHpHMXFXTk1YbnRSaWtkNWF4enc2b21oanpLZHBvajByU050Q0hBREZ2d3BZenBZYTV0UVZUYm4tLWpjZkV4ZFdmZ2xucUVPcFgxUWJwWHRhLWxfcHo2WHRSVmxwWHJCbnh3UHJQR215ZGlrcFI0UEt1cVVsNU44T21fR2FMaEZaOVA1RFJOZGo1ZklleFE?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c404b8180f",
@@ -92,10 +190,11 @@
    "src": "capradio.org",
    "d": "2026-11-21",
    "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-   "sum": "From capradio.org.",
+   "sum": "CapRadio examines whether Anthropic's initial public offering will affect its commitment to prioritizing humanity.",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81cDR4a1FkSmg2LV9tSWFiMGx3aVZkWUtkVTlXbkpqQTRjd1BQMTB2dEhxX1VCU2p6UV9uQkFlMlBvVTgwUTRiaHdmUm5DWFd0N0k4NEk0RmtYRzQxZUN5cW1PbjIzY28zcFRGYWdn?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "7a171499bc",
@@ -104,10 +203,11 @@
    "src": "OrcaRouter",
    "d": "2026-11-21",
    "title": "Gemini 4 Release Date: Neon vs Carbon, and Argon Is Not Retired",
-   "sum": "From OrcaRouter.",
+   "sum": "OrcaRouter reports on Gemini 4 Neon and Carbon release timelines while noting Argon remains active.",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TQkM4aGt5cldEWEQxZ2RiU0J2NDJLZjJISzFnQlZvdWVXMDBoUFlFbDA3SVFLRXlHNHo5cTU4SmpTcEY4R2tXeGtORUlRMmlrN2pOWENxMjBBUzhDemVQR01R?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "8ab3fbeef8",
@@ -116,10 +216,11 @@
    "src": "Startup Fortune",
    "d": "2026-11-21",
    "title": "Build an LLM model deprecation migration plan before the cutoff week",
-   "sum": "From Startup Fortune.",
+   "sum": "Startup Fortune advises engineering teams to prepare LLM model deprecation and migration plans well before cutoffs.",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON2ZWOWhlMmpnQTRlOGhfdS1HVGVzdVM5ZFktaTJVcTNGdGtWZ1hHcVQyY0llT0RDWU04bVN0VWZQUlBJVF9GZll2bU01Y0hWMDVIcWpUWXFSVEZDNkxuRVQtWS1rSUFuRm5feWdwcEN6ZTRrRkhXU3NQQlF0TVdfLUdKY3VBcGdJZmpRcHpoMHhWSjNpcVdXVnFsaDk?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "922e349432",
@@ -128,10 +229,11 @@
    "src": "The Chenab Times",
    "d": "2026-11-21",
    "title": "AWS Cuts LLM Costs with Distributed KV Caching Skill",
-   "sum": "From The Chenab Times.",
+   "sum": "AWS launched a distributed key-value caching skill to lower large language model operational costs.",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWURBTE9scm41Uk1KVVlDSGRsTGFwRllkVkpUaHE1WlozLXdqMldMUmNaVWdDanZ3cmlSMXFFZThHVlVjNDhzUWJiSHpqbS0tT3BPZl9Tb3lxNkh6MTRTZEtGcHdvRVFSY3RoVVRLcm9Qd29tZnNMZlo1bFVJZ0pQUnd1c1o4VDFoMVNycXVBY1NDX1h2N2JvM1NJRklCZkQ3SU9ZcjRwTzhxZHo5NkNBOEdqaWU?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "b3dd926340",
@@ -140,10 +242,11 @@
    "src": "explainx.ai",
    "d": "2026-11-21",
    "title": "AWS KV Caching Skill: 40% LLM Cost Cut (Nov 2026)",
-   "sum": "From explainx.ai.",
+   "sum": "AWS introduced a KV caching skill aimed at cutting LLM inference costs by 40 percent.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXA0RFE4Sjh2OTM4a1ZWYVUydGlHeG5MMEJ2b0FwOFMwU0daX21xQ2IwdkJ2UERFa3V4YkY0dk8xVnZIRFptT1hwQm9LRlJKdE1MeEhDa2Rya1U2eW5mUzh2d0p2UGV6em1qNVFmVE9sb0tXTFBQdHFiRG5pVTRoOC1SN2taSTh2V253MXQtRGR4Yjg?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "d35871327d",
@@ -159,16 +262,69 @@
    "ai": true
   },
   {
+   "id": "789055807a",
+   "t": "palantir",
+   "c": "",
+   "src": "Coinpedia",
+   "d": "2026-11-20",
+   "title": "Palantir Stock News: Spy Case, Trump Trades And AI Rout Put Shares Under Pressure",
+   "sum": "Palantir shares face downward pressure amid an AI market downturn, a spy case, and political trading trends.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm84Xy1SRGRzeXRROUJhVHJNTnFrell0YlpORnBXM005Z2s1YUliVUhoSy10OElubHhCZTVyX1ktYThWQ1Y2WkZxUTlwdjB0MWQ0RnJ0cXBCZnY2ZnJwLW1OV2lOLVNfVEdvbHFiem1LQUlrZVd4c3RPMFpCLWpHdk9yaHowbkh5NzRSemF2NFRmVjZILTdSMFdXOUc5UFJGY0pBY3hHYmd2Ymd0VkZtYTFwYl9DM19yWXpV0gHAAUFVX3lxTFA4WVdvTVlIMVA5czZMdUotanNpOEJYTjFCZXkwYkFSVFM3amItMklpTjh4OW14TGpWeUZBLWhLcEpfYjNsQTBSYk1mZzZkNEphS3Z6cTNkaklXWUJkaURxdTYwNVRySUZSRVZkRGpTcUxITnVJTHliWUUwMlZxVU93a2NPcEFOTG13SW1CSER2UzVRMWMwcEV6RTRKbVBQYUZqN3lkQXYyTHU2VVRvVm5oakhSOTBfTG9BX3ZkempWcA?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "ada550dbb8",
+   "t": "gemini",
+   "c": "",
+   "src": "Fello AI",
+   "d": "2026-11-20",
+   "title": "Gemini 4 Models Compared: Which One Do You Get?",
+   "sum": "Fello AI published a comparison of different models within the Gemini 4 family.",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pRU9OQXBqbnlKQUFZRGt1cW1Jb1hTT1pHOGZJLXVGWnZsbTlZYmRNYkVCUlFqU0x4bmpUeVJ1U0FfR1VZY0ctWUNCT3pBaWpFVmtwY1dHUWY?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e5d57ddb27",
+   "t": "gemini",
+   "c": "",
+   "src": "Crypto Briefing",
+   "d": "2026-11-20",
+   "title": "Google's Gemini 4 Neon ranks as top Google model on Vals RSI Index, surpassing Argon by 3.8 points",
+   "sum": "Gemini 4 Neon ranked as the top Google model on the Vals RSI Index, outperforming Argon by 3.8 points.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aWTY3U2lmcVgzNGVBT3hmZG5kMlJLcHFWSWpQc3BYR2dvYmhVTjBMaUZqRGFyb3ZvME5nM2hSYnhVSmx2YmFOYUthY0d3NnFfU1h2dVVYQmcxbWRmMURPREotUmtERU5RNG9FTUI2Mm9TaldhdjJJ?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
+   "id": "e21702b410",
+   "t": "gemini",
+   "c": "",
+   "src": "Investor's Business Daily",
+   "d": "2026-11-20",
+   "title": "Google's Gemini Tasks Seen As Challenger To Meta's Muse In AI Battle",
+   "sum": "Google's Gemini Tasks is seen as a new competitor to Meta's Muse platform in enterprise AI.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGUwdGtxRDI0Vm1seTU5Ul9EMjF1cGxjTEp0b25xajBHZ1M2amdXMkEtX2xJc2lTdUJ4ZU9jRnhldjJ6VnJJLWZMdnY0aXVRTnBvWEVkVmpqQUZSZ2Q0WFcxd1RoRFVhcEQ0VnZxY3VlMEZSbTVmR0NKa09pR0RDU2R0Wk1ZWDBkYVZfRjM1aFZ2d2ZWWDJILVZaSHI2dWp5R2lj?oc=5",
+   "wp": false,
+   "mp": false,
+   "ai": true
+  },
+  {
    "id": "24b7a7779a",
    "t": "gemini",
    "c": "",
    "src": "Google Research",
    "d": "2026-11-20",
    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-   "sum": "From Google Research.",
+   "sum": "Google Research detailed how Duplex technology was integrated into Gemini to place automated phone calls to businesses.",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlRVWE01Qm4tMzF5bnZxeFJXajNPR05fMTNxd184akFELTB1aF84OEZWUjRsUkRRMG4zYVlhRmI2T0lKZHV2MWVGbDdqNkdnWWNSenJkWWhtMkFzczFhMGEyLW0xM1B1Yy1lMGg5NUNLMkJ1TjhGZlBQeVZoUjRYZjVfcmtPNjlrQzVLNTYwRzFOSzY3WnJ6Z0NDd2Vvdw?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "c704511044",
@@ -177,10 +333,11 @@
    "src": "OpenAI",
    "d": "2026-11-20",
    "title": "Can public chat data predict real-world AI misalignments?",
-   "sum": "From OpenAI.",
+   "sum": "OpenAI published research examining whether public chat data can help predict real-world AI misalignments.",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fSEhpRDktNGlCN3dZQVY2U3lQVkF1azQ1N0E2U1pvT1ZyVjE0WVlFcWJxQkoxZ0dQbWM1a2poTnI5bXd1djlRNmh2YVYzNHA0b1JtWnp1amFtdEVLYm53MG45U2RoMTlhUl96OA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": true,
+   "ai": true
   },
   {
    "id": "f913ab3278",
@@ -189,10 +346,11 @@
    "src": "ActuIA",
    "d": "2026-11-20",
    "title": "Mistral AI makes Singapore its Asia-Pacific HQ and research hub",
-   "sum": "From ActuIA.",
+   "sum": "Mistral AI established its Asia-Pacific headquarters and regional research center in Singapore.",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMlRTdGF5aWIzTVNkbVlZTC1mTnFGaHhEbVcwcl9ndUVva3ljTnh0bDZ1S2F2akVrRUxBNXJtS3B5Qk94aXNYdFlTWndKOTk4bGZ2MEF5MWJQb21wS3BKcFl4U3M4Z2JfbS1xUWZsS1h2dUlQRnhaV3JtTVl1LXh4RXlhYURzby0yRTE3cHV3akhGN2RsQmI2OWVIOA?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "a26bb27a4d",
@@ -201,10 +359,11 @@
    "src": "Hostinger",
    "d": "2026-11-20",
    "title": "How we found the right models for every task in our AI website builder for WordPress",
-   "sum": "From Hostinger.",
+   "sum": "Hostinger shared its methodology for matching specific AI models to tasks in its WordPress site builder.",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40bDlZaFdtU0N6RmxoY0o5MlBZeUhkS1F5bHNqRFczN1pGMnBDTUhsNVZTNUlUcGF1VkFwNVc0QUQxeWtWVWNFLWJxSzNOS085eU02ZFJxZ3lrMzNXdVdhS1pqc2lXWVpzWTY0?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "579883af89",
@@ -213,10 +372,11 @@
    "src": "explainx.ai",
    "d": "2026-11-20",
    "title": "HyperPod Global Inference Gateway: AWS Cross-Region Routing",
-   "sum": "From explainx.ai.",
+   "sum": "AWS introduced the HyperPod Global Inference Gateway to enable cross-region routing for AI workloads.",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1V4NUI5dGV4LVZJWlBHaWxrUWIxLTFxdXJQeHR6TFdjQ0d3QUI3R19pcFhVcU9pbENseTZUTFlRTW1JUFNBZjdhTmpFckEwa0VQU2J3YjBtalZZRzdZZng2M3NuNzUxcE9uM1M2bEpaRERjUkhYYW9QSmhtRUxmWW85eVdpdmZtWEF1alM2NU9UUlU?oc=5",
    "wp": false,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "340614cb1d",
@@ -446,10 +606,11 @@
    "src": "Hugging Face",
    "d": "2026-11-20",
    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "sum": "From Hugging Face.",
+   "sum": "Hugging Face launched harness adapters to connect models to evaluation harnesses for improved performance and cost.",
    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "67f568da30",
@@ -458,10 +619,11 @@
    "src": "Scientific American",
    "d": "2026-11-20",
    "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
-   "sum": "From Scientific American.",
+   "sum": "An Anthropic mathematician claims to have proved the Riemann hypothesis, widely considered math's most famous problem.",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcl9DRERIZlViX1BNaFBRYU1WbjI4ejNhb2x6b2d1aXJRenVWQ3NtUUttb1VvTnRYUWNvUE5pQy1vbkpvcEpXeHU4bldwVXpfM3pwdzVtMjJyT3BvcTdyU0lZQUdtdzJEN2xoa1AtR1prQkd3Q1FDakxiZi1XRWVnSmt5aHNYTzlvRDhWcXl3emNNd2NNTTNESWF5bnFiWk5kYWZVQkdiSHFtX2RVYjlrNElMOV9lQ1c5R0dLQnN5RlRqemlIR0huTGhzMjZMb1ZRNU5r?oc=5",
    "wp": true,
-   "mp": false
+   "mp": false,
+   "ai": true
   },
   {
    "id": "0f6163ec47",
