@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-22T04:07:12Z",
+ "updated": "2026-11-22T17:37:23Z",
  "items": [
+  {
+   "id": "ef1673da9d",
+   "t": "anthropic",
+   "c": "",
+   "src": "Seeking Alpha",
+   "d": "2026-11-22",
+   "title": "Did Claude just prove the Riemann Hypothesis?",
+   "sum": "From Seeking Alpha.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTVtdVVVMkZfNXUzcHJKUGxnMUk5OGp6dHZ6RTd2emlsMV9SS0stVWZKV3BTODZobkJqQ2laZW9XNHVrekVKYThWU3JJT0hKNGl5eDlUU21hdkprU2V4UmVLZnh2OE1XTG9fZlJRTHFINF85Tk8zTHBrSS1BMl9rdzZHOGhFZG1NaHc?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "17806cd6f3",
+   "t": "anthropic",
+   "c": "",
+   "src": "The Independent",
+   "d": "2026-11-22",
+   "title": "Anthropic mathematician claims to have proved Riemann hypothesis with help of Claude",
+   "sum": "From The Independent.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnliTkVvRWFBQ3NScjZ6bUlDT1plNFM3d3hDcWFsLVF2dnhnQW05QWZEc2tuaU5Ha2Y1b3g1bFdlSUd1eXF2b2VvT3hrNHN2dTJrRmZhN2QyWkhtY053UTlZN3dfQlpkMVBEclkxU0ZnMDFZanI4YTRWQ1F2YXhBd2Z3RVR5MXptR0poX3hYN0lMUQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "728ee61b0a",
+   "t": "palantir",
+   "c": "",
+   "src": "TradingKey",
+   "d": "2026-11-22",
+   "title": "Palantir Stock Surges 7.7% as TITAN and PwC AI Deals Put $188 in Focus",
+   "sum": "From TradingKey.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0NiSldjU2N0MWFtUXJBa2RHSFhEZlJLM2YzNVpILUxnMzdEenR5WmN4WEpIdE9BVVJ3MWE0Qkpja1lDVFVHbTNYczRjcGozVHFZUXg3MXNQM2wxTDh0dlpnTjloV19XOElHR1NkWExTenFGUXZSRjhIcklWdlItdzJIY3RJUHY0cUhyRXJRdzBXN2x6Rlg2Zm56c2xXajdRdUxNYXdvUmM5OGp3ajZGQ2RKRUN5VjJnczVJ?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "a93373509d",
+   "t": "palantir",
+   "c": "",
+   "src": "Kalkine Media",
+   "d": "2026-11-22",
+   "title": "Can Palantir (NASDAQ:PLTR) Build On Its Latest Update?",
+   "sum": "From Kalkine Media.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnVudVBhOFYyWkxrOWNRd3NrcEd4RXFwRHVqOVNkeURWY0RIQU9oY3dBYzN1aks1WkRvd2lTZUlLSnlWUjFXVVNsSEFXWlBzWDVzSlhNc3NWSTE3RzRGNUxBQVNDUHZzYnVldUtNcnd1YzNualFEeWM0LWlMaWZZSjVOVjlXODVidGtMcG1SMUx2MXpmR1BkVHBUTFlCWlRfWEkyUTBuS0J0d2ZZR2c?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "cbae4e220d",
+   "t": "gemini",
+   "c": "",
+   "src": "Yahoo Tech",
+   "d": "2026-11-22",
+   "title": "Google releases Gemini 4 Neon AI model, rivals Claude Opus 5.5 and GPT-6.2 Sol",
+   "sum": "From Yahoo Tech.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWVfSWVYY1k5TWw3TWJ5WGYyWExnNDM2Wmp4eWs1LXk4S2IwYkt2NVBYeXpRZEM3Q2NERHd0RllEcU0wV2t2M3BPNG5Xbm9xbU5MMEtIVnFEZFA2ZWtiQjg3VFFMRmc5OXZiRnUzYVkzUkhidmFRM24wZ01INno2ek9TTEZOT25QQ2x4azZodw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "b34a7c11c9",
+   "t": "gemini",
+   "c": "",
+   "src": "MarkTechPost",
+   "d": "2026-11-22",
+   "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+   "sum": "From MarkTechPost.",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wbGxndzBzX1lKdm02MXdndVVUY3BMM3M1SVJndzNtWjNMRGVTc2xTSU1XWlpRQ2pVa1FlRlhlZWlKalI3alFIYnREdmt1MW9pV08weVg2RFdOQXVDVmM1VC05OW84TElzeENHRGY0RDFHTnZSbHV3REhVMW9Rd9IBfkFVX3lxTE8wbGxndzBzX1lKdm02MXdndVVUY3BMM3M1SVJndzNtWjNMRGVTc2xTSU1XWlpRQ2pVa1FlRlhlZWlKalI3alFIYnREdmt1MW9pV08weVg2RFdOQXVDVmM1VC05OW84TElzeENHRGY0RDFHTnZSbHV3REhVMW9Rdw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "32b4b34849",
+   "t": "gemini",
+   "c": "",
+   "src": "TechGig",
+   "d": "2026-11-22",
+   "title": "Google Antigravity: Choosing the right AI model for coding tasks",
+   "sum": "From TechGig.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0FNQzRwZnVvMm83WHRkcFRwUHFsaGh2RFQwNWJSLXZycXRBMmJGS2o3MWladnJ0ZkczbHpkcW5oTGtvWkRKTWMxMzdad2VZMEpJeE96N3VmajFMc3hYYm9CNk9fWTNlZC1iWFpic1BlNTdsNGNDMkJVd1NXSHJsM3lQWUZaWmc2YURIUlNQcTVxWjhtZ1ltNDNrYjVfeXBMQmk4?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "31994a7c66",
+   "t": "models",
+   "c": "",
+   "src": "Medium",
+   "d": "2026-11-22",
+   "title": "Why 2028 Might Be the Last “Normal” Year in Tech | by Rohit Kumar Thakur | Nov, 2026",
+   "sum": "From Medium.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnVUelRJaFdjendWTWNTem84V2lYdm83b2xrdUJsQ2ZPcUZ4UEEzbFpoMExOTFFZbDRRT3V3bnBWMkpJa29VWnR2Yy1RV2FxWHNIZlVydGlzZDExdW5TYXdkSUJ2S3VMWm1YbE8wNVBzdWJWdW5zQ00ySFk5VmtVQ3plaXh1dC1pUkFHakp5Yw?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "77151c50a8",
+   "t": "eff",
+   "c": "",
+   "src": "news.lavx.hu",
+   "d": "2026-11-22",
+   "title": "AWS Lambda Adds GPU Inference to Managed Instances",
+   "sum": "From news.lavx.hu.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUM5MldwVUxRX2piLXBBWVMwamxUcVVsclY4Q01xRTBJbk8tTDFLUmUxOWxJQ2dFTEVWUkhSSlhzUWNlMFNxMzdGTXhGa2QxNlRtckZQdkcwQzlGb1VlM0QycnEydXZTYVpPR3FyVGdpY3BvRzFxOUU4VjlTUFlnZVN5MlduQQ?oc=5",
+   "wp": true,
+   "mp": false
+  },
   {
    "id": "eace45f752",
    "t": "gemini",
@@ -22,6 +130,18 @@
    "title": "Inference Optimisation Skill: Claude Code LLM Tuning",
    "sum": "From explainx.ai.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejJmakJOUXNoWV9XYUtYdUZra0V0S21Uc2c4MnhPb3o4WEhEbXcxRi1OLW01cnNVLVVCVGtOZkQ3NU10eURGQy1PNldWSkNuaVNjdmNVVEd0czY3czNIdzlSbkE3eVJtNDhsdGZPYUlYSklyUG10Ny03QlYyV3pNMEJGV0NKSnY3WFZrUUxpcC14NjNwSThrVXp3?oc=5",
+   "wp": true,
+   "mp": false
+  },
+  {
+   "id": "75169ade08",
+   "t": "gemini",
+   "c": "",
+   "src": "GitHub",
+   "d": "2026-11-21",
+   "title": "Genie 4 API: Pricing, Limits and How to Build a Live World",
+   "sum": "From GitHub.",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EeU9ELWNCU1Q1bkdyOVhGLUM5dXpoVVRCSFY3WDhLYjFoWTk4bmljYkRqV2hWanJnTVBOMUw0XzZCVFE0Vk1JZlc4OTJzS0xkUVFSY2dWRWJBVmcxU1NreGR3?oc=5",
    "wp": true,
    "mp": false
   },
@@ -320,6 +440,18 @@
    "wp": false,
    "mp": false,
    "ai": true
+  },
+  {
+   "id": "29ab881a0e",
+   "t": "palantir",
+   "c": "",
+   "src": "StockInvest.us",
+   "d": "2026-11-20",
+   "title": "Palantir Stock Price Forecast. Should You Buy PLTR?",
+   "sum": "From StockInvest.us.",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51b2lveGFzMDJzZG9BdmVzMVQ3cEZaTFRhd3d5YzlpVWViUHo4V3hOb3poTGJhVE5iYmxFbmJGcmlabm1ybGVUVw?oc=5",
+   "wp": true,
+   "mp": false
   },
   {
    "id": "96be037010",
